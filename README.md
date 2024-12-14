@@ -15,7 +15,7 @@ Node.JSで作成しており、公式サイトのCMSからトークンを取得�
 |シリーズ名|URL|
 |---|---|
 |すべて|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/all.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/all.xml)|
-|アイドルマスター|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/imas.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/imas.xml)|
+|アイドルマスター|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/allstars.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/allstars.xml)|
 |シンデレラガールズ|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/cinderellagirls.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/cinderellagirls.xml)|
 |ミリオンライブ！|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/millionlive.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/millionlive.xml)|
 |SideM|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/sidem.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/sidem.xml)|
