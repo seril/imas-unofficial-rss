@@ -25,6 +25,9 @@ jobs:
             - name: Run npm start
               run: npm install && npm start
 
+            - name: Clean untracked files
+              run: git clean -fd
+
             # 生成されたXMLファイルを`rss`ブランチにコミット
             - name: Commit XML files to rss branch
               run: |
