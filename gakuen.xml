@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Dec 2024 05:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 09:49:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Dec 2024 05:25:21 GMT</pubDate>
+        <pubDate>Mon, 16 Dec 2024 09:49:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】 「学園アイドルマスター」ラバーマスコットがガシャポンに登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_13628.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13628.html</guid>
+            <pubDate>Mon, 16 Dec 2024 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/ShapSMOm40ncn2vLyHdyKPwjTolD4jdL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY2お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
+            <description><![CDATA[#アイマスEXPO_ライブ_DAY2 #アイマスEXPO_サブステ_DAY2 #アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13848.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13848.html</guid>
+            <pubDate>Sun, 15 Dec 2024 11:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/ZbLiEZClNCAYFyafrm2uonZk59Cz62w3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY1お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
+            <description><![CDATA[#アイマスEXPO_ライブ_DAY1 #アイマスEXPO_サブステ_DAY1 #アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13798.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13798.html</guid>
+            <pubDate>Sat, 14 Dec 2024 12:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/TfOqEFXPewTLpGPaBKx1lBSjcRr2DYEY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】TRAVAS TOKYOコラボTシャツ、2024年12月14日(土)10:00より受注開始！]]></title>
             <description><![CDATA[#学マス ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13509.html</guid>
             <pubDate>Fri, 22 Nov 2024 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/6ZNe1KLz9i3Gtk51705OsOebCMhG1BiE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「カードホルダー」など学園アイドルマスターのグッズが11月25日より店頭販売開始‼]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13523.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13523.html</guid>
-            <pubDate>Fri, 22 Nov 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2024/11/gg6andYk2MgnHcwhCjzEztD8ydy6e4fC.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】紫雲清夏誕生日記念セット受注受付中♪（11/24(日)まで）]]></title>
-            <description><![CDATA[#学マス #紫雲清夏]]></description>
-            <link>https://idolmaster-official.jp/news/01_13507.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13507.html</guid>
-            <pubDate>Thu, 21 Nov 2024 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2024/11/l3RvPVJKEQCZgj2nsKfIo8U1wxVdzXOP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※12月5日更新※【アイマス20周年イヤー】ファッション誌『NYLON JAPAN』×『アイドルマスター』シリーズ　特別記念号刊行！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13458.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13458.html</guid>
-            <pubDate>Wed, 20 Nov 2024 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/11/dVeGtFoLgBGZ6YZhEzMSn5om54ZPlJdN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

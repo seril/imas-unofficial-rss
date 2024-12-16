@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Dec 2024 05:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 09:49:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Dec 2024 05:25:21 GMT</pubDate>
+        <pubDate>Mon, 16 Dec 2024 09:49:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA MASTER Passion jewelries! 004」の発売が決定！！]]></title>
+            <description><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA MASTER Passion jewelries! 004」の発売が決定！！]]></description>
+            <link>https://idolmaster-official.jp/news/01_13842.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13842.html</guid>
+            <pubDate>Mon, 16 Dec 2024 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/P64MJbvuf4jLGy3DXgrNqhlSSI6A7fE9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY2お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
+            <description><![CDATA[#アイマスEXPO_ライブ_DAY2 #アイマスEXPO_サブステ_DAY2 #アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13848.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13848.html</guid>
+            <pubDate>Sun, 15 Dec 2024 11:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/ZbLiEZClNCAYFyafrm2uonZk59Cz62w3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】本日12/15(日)まで！！デレステ10thツアー大阪/東京公演公式グッズ受注中！190名グッズも展開中の超絶ラインナップをぜひお見逃しなく♪]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_13839.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13839.html</guid>
+            <pubDate>Sun, 15 Dec 2024 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2024/11/6muQA2iGhcLScUj1ax9dmKtZezOKA2Gp.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY1お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
+            <description><![CDATA[#アイマスEXPO_ライブ_DAY1 #アイマスEXPO_サブステ_DAY1 #アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13798.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13798.html</guid>
+            <pubDate>Sat, 14 Dec 2024 12:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/TfOqEFXPewTLpGPaBKx1lBSjcRr2DYEY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】✩明日12月15日(日)まで✩「セレクトショップ プリヴェ」×PRアイドルグッズ第1弾 受注中！]]></title>
             <description><![CDATA[#stairs_to_10th]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13480.html</guid>
             <pubDate>Tue, 26 Nov 2024 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/11/bJKlLOFkqLYTtkVxXFdNttCAzlgmrSLC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ】アイドルの魅力が詰まった名台詞募集キャンペーン実施決定！]]></title>
-            <description><![CDATA[#stairs_to_10th #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13579.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13579.html</guid>
-            <pubDate>Tue, 26 Nov 2024 11:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/11/R3qaOp4iyl3SeGgiDH6u5VqcMnXACZpk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】1/7スケールフィギュア「［Pretty Liar］高垣楓＋」がご予約受付中！]]></title>
-            <description><![CDATA[【シンデレラ】1/7スケールフィギュア「［Pretty Liar］高垣楓＋」がご予約受付中！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13511.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13511.html</guid>
-            <pubDate>Mon, 25 Nov 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/ycKXrJlJpQ67NDrxLRxSzjLhqTT3kLhr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】11月29日（金）よりTSUTAYAコラボPOP UP SHOP「AFTERSCHOOL STYLEJAM」に第2弾商品が登場！＆事前整理券のご案内]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13520.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13520.html</guid>
-            <pubDate>Fri, 22 Nov 2024 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/11/8Bj94LGS2FyFpX0IOMNGToIwSsAFCfek.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画が始動！「星座」にフィーチャーしたコレクション、初回は「いて座」のアイドル！ 受注は12月22日(日)まで♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13485.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13485.html</guid>
-            <pubDate>Fri, 22 Nov 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/11/s0Q3j1Ip8BDFh9MPzAEGUBogEFpEZSOz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

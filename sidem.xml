@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Dec 2024 05:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 09:49:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Dec 2024 05:25:21 GMT</pubDate>
+        <pubDate>Mon, 16 Dec 2024 09:49:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【SideM】THE IDOLM@STER SideM 10th ANNIVERSARY MEETING ～P@SSION SPARKS!!!～ 終了後感想会【アイドルマスター】]]></title>
+            <description><![CDATA[#アイマスch #SideM ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13784.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13784.html</guid>
+            <pubDate>Mon, 16 Dec 2024 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/m9q2c2dHdWMwzGjHFKDWMujcXXL666Aj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】熊本県の遊園地 グリーンランド とのコラボ「THE IDOLM@STER SideM in グリーンランド」が12月20日（金）より開始！]]></title>
+            <description><![CDATA[#SideM #グリーンランドSideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_13836.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13836.html</guid>
+            <pubDate>Mon, 16 Dec 2024 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/tPmd6BkhL89YRXJaKod3Ex3RVByyR9YZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】10周年を記念したコトブキヤ限定商品「ヴォート」シリーズの商品化が決定！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_13826.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13826.html</guid>
+            <pubDate>Mon, 16 Dec 2024 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/MkYjHiAyaMMbBIMYs1hZmJTpiPArH60Q.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY2お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
+            <description><![CDATA[#アイマスEXPO_ライブ_DAY2 #アイマスEXPO_サブステ_DAY2 #アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13848.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13848.html</guid>
+            <pubDate>Sun, 15 Dec 2024 11:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/ZbLiEZClNCAYFyafrm2uonZk59Cz62w3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY1お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
+            <description><![CDATA[#アイマスEXPO_ライブ_DAY1 #アイマスEXPO_サブステ_DAY1 #アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13798.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13798.html</guid>
+            <pubDate>Sat, 14 Dec 2024 12:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/TfOqEFXPewTLpGPaBKx1lBSjcRr2DYEY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】【明日まで！】3月にお誕生日を迎えるアイドルたちのバースデー記念グッズ販売は12月15日(日)まで！]]></title>
             <description><![CDATA[#SideM #アソビストア]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13444.html</guid>
             <pubDate>Mon, 18 Nov 2024 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/O2KmSh8TQp6PGRrUd6QR8zp8wJ7bTTKL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】ガシャポン　バンダイナムコアミューズメント限定 『アイドルマスター』シリーズ カプセルラバーマスコット アンサンブルスパークルver.が ガシャポンに新登場！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】ガシャポン　バンダイナムコアミューズメント限定 『アイドルマスター』シリーズ カプセルラバーマスコット アンサンブルスパークルver.が ガシャポンに新登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13484.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13484.html</guid>
-            <pubDate>Mon, 18 Nov 2024 03:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/L9VKunnQbYUQ11ge9qqWg4N69kfwpZXl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』のカード付スナック菓子がクレーンゲームに登場！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』のカード付スナック菓子がクレーンゲームに登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13455.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13455.html</guid>
-            <pubDate>Mon, 18 Nov 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/mPQZ66hVmn3S9fGC0vZAIzI2acHkU0QY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】全国の「ナムコ」のお店で、12月20日(金)より「アンサンブルスパークルキャンペーン」が開催決定！新規衣装の限定景品やグッズなどが登場！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13433.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13433.html</guid>
-            <pubDate>Mon, 18 Nov 2024 02:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/h0jYKnO3MNgVINV4caVmkOAf8OYTzxug.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】【明日まで！】2月にお誕生日を迎えるアイドルたちのバースデー記念グッズ販売は11月17日(日)まで！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_13165.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13165.html</guid>
-            <pubDate>Sat, 16 Nov 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1025/SIDEM/2024/11/dZdmAjAunHYwl3eDCOlpTrWtistCgTbx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』2025年春 全国のゲームセンターで稼働決定！アップデートで『学園アイドルマスター』が登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13473.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13473.html</guid>
-            <pubDate>Sat, 16 Nov 2024 06:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/DQJ6rgadd38KYv1mmJ8Y4jolgssEQ6AT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
