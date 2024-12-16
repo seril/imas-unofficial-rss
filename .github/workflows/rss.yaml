@@ -40,6 +40,8 @@ jobs:
         steps:
             - name: Checkout repository
               uses: actions/checkout@v3
+              with:
+                ref: rss
 
             - name: Download generated XML files
               uses: actions/download-artifact@v3
@@ -51,10 +53,6 @@ jobs:
                   # 設定: GitHubユーザー情報
                   git config --global user.name "github-actions[bot]"
                   git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-                  # rssブランチを取得・切り替え
-                  git fetch origin rss
-                  git checkout rss || git checkout --orphan rss
 
                   # 生成されたXMLファイルをコミット
                   git add *.xml
