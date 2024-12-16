@@ -33,13 +33,10 @@ jobs:
                   git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
                   # rssブランチを取得・切り替え
-                  if git ls-remote --heads origin rss; then
-                    git fetch origin rss
-                    git checkout rss
-                  else
-                    git checkout -b rss
-                    git push --set-upstream origin rss
-                  fi
+                  git fetch origin rss
+                  git stash
+                  git checkout rss
+                  git stash pop
 
                   # ファイルを追加してコミット
                   git add *.xml
