@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Dec 2024 09:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 11:13:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Dec 2024 09:49:52 GMT</pubDate>
+        <pubDate>Mon, 16 Dec 2024 11:13:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【アイマスエキスポ】お疲れさまでした！2日間を振り返ろう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
+            <link>https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</guid>
+            <pubDate>Mon, 16 Dec 2024 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/t52e8AXeerb1D8tJWTYS476Vcb9qdofl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】初の有観客ワンマンLIVE「1stLIVE -HERE WE ARE !!!-」早期限定グッズ&お見送り付現地チケットの抽選お申込みは※本日12/16締切※！ #アイマスEXPO に合わせてLIVEグッズの事前販売も実施中！]]></title>
             <description><![CDATA[【 #ヴイアラ 】初の有観客ワンマンLIVE「1stLIVE -HERE WE ARE !!!-」早期限定グッズ&お見送り付現地チケットの抽選お申込みは※本日12/16締切※！ #アイマスEXPO に合わせてLIVEグッズの事前販売も実施中！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12823.html</guid>
             <pubDate>Wed, 25 Sep 2024 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/09/LzQNoUfU0rBm8Zr4FPhYwQsUsSc5varq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 熱田』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス熱田]]></description>
-            <link>https://idolmaster-official.jp/news/01_12733.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12733.html</guid>
-            <pubDate>Mon, 23 Sep 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/09/MpW6Ig68G1adscAxEUn1b5znWzeH1h3o.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Dec 2024 09:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 11:13:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Dec 2024 09:49:52 GMT</pubDate>
+        <pubDate>Mon, 16 Dec 2024 11:13:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【アイマスエキスポ】お疲れさまでした！2日間を振り返ろう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
+            <link>https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</guid>
+            <pubDate>Mon, 16 Dec 2024 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/t52e8AXeerb1D8tJWTYS476Vcb9qdofl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アソビコレクション」にアソビメイド衣装の百合子＆杏奈が登場！]]></title>
+            <description><![CDATA[#ミリオンライブ #アソビストアでLOVEしたい #ASOBISTORE]]></description>
+            <link>https://idolmaster-official.jp/news/01_13821.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13821.html</guid>
+            <pubDate>Mon, 16 Dec 2024 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/sjjDIFNH4uDgGGFvcSHsuwjcdHTDp2nq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【本日12/16(月)から！】ラウンドワンコラボ後半スタート！アイドルヒーローズとデストルドーの描き下ろしイラストを使用したグッズやコラボパックなどを販売！公式ノベルティ「THE IDOLM@STER PICTURE COLLECTION」も配布中！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13435.html</guid>
             <pubDate>Sun, 17 Nov 2024 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/11/bTzxJuP2RBx3M9QM8fDu0Ut5SMr4iXP2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【数量限定販売中！！！】 【 #アイラブ歌合戦 】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayの数量限定販売中！]]></title>
-            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
-            <link>https://idolmaster-official.jp/news/01_13430.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13430.html</guid>
-            <pubDate>Sun, 17 Nov 2024 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』2025年春 全国のゲームセンターで稼働決定！アップデートで『学園アイドルマスター』が登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13473.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13473.html</guid>
-            <pubDate>Sat, 16 Nov 2024 06:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/DQJ6rgadd38KYv1mmJ8Y4jolgssEQ6AT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

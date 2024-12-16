@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Dec 2024 09:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 11:13:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Dec 2024 09:49:52 GMT</pubDate>
+        <pubDate>Mon, 16 Dec 2024 11:13:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【アイマスエキスポ】お疲れさまでした！2日間を振り返ろう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
+            <link>https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</guid>
+            <pubDate>Mon, 16 Dec 2024 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/t52e8AXeerb1D8tJWTYS476Vcb9qdofl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニアニ2nd】🔔早期予約特典は 本日23:59 まで！🔔アソビストア特装版Blu-ray BOXの描き下ろしジャケットを公開！！【Blu-ray予約受付中！】]]></title>
             <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13563.html</guid>
             <pubDate>Fri, 29 Nov 2024 16:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/11/kmFZXnIwLXemEPnWO1d74ck65cMs7LFQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】Blu-ray最新情報一挙公開！！#シャニアニ生配信 告知まとめ【このあと25:23～ 第9話「うちとあたしのひとつの結論」放送！】]]></title>
-            <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13421.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13421.html</guid>
-            <pubDate>Fri, 29 Nov 2024 14:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/11/1iQ9bKzxNU8gx6oEYWJioKek6dOpyGuB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
