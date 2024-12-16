@@ -47,7 +47,7 @@ jobs:
                   # ファイルを追加してコミット
                   git add *.xml
                   git update-index -q --refresh
-                  if git diff-index --quiet HEAD; then
+                  if git diff --exit-code --quiet; then
                     echo "No changes to commit"
                   else
                     git commit -m "Update RSS files: $(date -u)"
