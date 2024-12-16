@@ -46,6 +46,7 @@ jobs:
 
                   # ファイルを追加してコミット
                   git add *.xml
+                  git update-index -q --refresh
                   if git diff-index --quiet HEAD; then
                     echo "No changes to commit"
                   else
