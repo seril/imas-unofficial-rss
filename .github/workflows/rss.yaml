@@ -19,14 +19,11 @@ jobs:
             - name: Setup Node.js
               uses: actions/setup-node@v3
               with:
-                  node-version: "23" # 必要なNode.jsのバージョンを指定
+                  node-version: "23.4.0" # 必要なNode.jsのバージョンを指定
 
             # npm startの実行
             - name: Run npm start
               run: npm install && npm start
-
-            - name: Clean untracked files
-              run: git clean -fd
 
             # 生成されたXMLファイルを`rss`ブランチにコミット
             - name: Commit XML files to rss branch
