@@ -21,11 +21,13 @@ jobs:
               with:
                   node-version: "23.4.0" # 必要なNode.jsのバージョンを指定
 
-            # npm startの実行
-            - name: Run npm start
-              run: npm install && npm start
+            # npm install と npm start の実行
+            - name: Install dependencies and run npm start
+              run: |
+                npm install
+                npm start
 
-            # 生成されたXMLファイルを`rss`ブランチにコミット
+            # rssブランチにXMLファイルをコミット
             - name: Commit XML files to rss branch
               run: |
                   # 設定: GitHubユーザー情報
@@ -34,11 +36,9 @@ jobs:
 
                   # rssブランチを取得・切り替え
                   git fetch origin rss
-                  git stash
-                  git checkout rss
-                  git stash pop
+                  git checkout rss || git checkout --orphan rss
 
-                  # ファイルを追加してコミット
+                  # 変更があればコミット
                   git add *.xml
                   git update-index -q --refresh
                   if git diff --exit-code --quiet; then
