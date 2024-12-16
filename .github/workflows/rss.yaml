@@ -7,28 +7,46 @@ on:
     workflow_dispatch: # 手動実行用のトリガー
 
 jobs:
-    rss_update:
+    # Run: 生成処理を行うジョブ
+    run_process:
         runs-on: ubuntu-latest
 
         steps:
-            # リポジトリのチェックアウト
             - name: Checkout repository
               uses: actions/checkout@v3
 
-            # Node.js環境をセットアップ
             - name: Setup Node.js
               uses: actions/setup-node@v3
               with:
                   node-version: "23.4.0" # 必要なNode.jsのバージョンを指定
 
-            # npm install と npm start の実行
             - name: Install dependencies and run npm start
               run: |
                 npm install
                 npm start
 
-            # rssブランチにXMLファイルをコミット
-            - name: Commit XML files to rss branch
+            # 生成されたXMLファイルをアーティファクトとして保存
+            - name: Save generated XML files as artifacts
+              uses: actions/upload-artifact@v3
+              with:
+                name: generated-files
+                path: ./*.xml # 実際のXMLファイルのパスを指定
+
+    # Commit: 生成されたファイルをコミットするジョブ
+    commit_files:
+        needs: run_process  # run_processジョブが完了してから実行
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+
+            - name: Download generated XML files
+              uses: actions/download-artifact@v3
+              with:
+                name: generated-files
+
+            - name: Commit and push generated files to rss branch
               run: |
                   # 設定: GitHubユーザー情報
                   git config --global user.name "github-actions[bot]"
@@ -38,12 +56,7 @@ jobs:
                   git fetch origin rss
                   git checkout rss || git checkout --orphan rss
 
-                  # 変更があればコミット
+                  # 生成されたXMLファイルをコミット
                   git add *.xml
-                  git update-index -q --refresh
-                  if git diff --exit-code --quiet; then
-                    echo "No changes to commit"
-                  else
-                    git commit -m "Update RSS files: $(date -u)"
-                    git push origin rss
-                  fi
+                  git commit -m "Add generated RSS files"
+                  git push origin rss
