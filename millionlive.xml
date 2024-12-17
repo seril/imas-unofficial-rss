@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Dec 2024 03:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 06:22:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Dec 2024 03:30:50 GMT</pubDate>
+        <pubDate>Tue, 17 Dec 2024 06:22:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント STARDOM ROAD THEATER「プラチナスターティアラ～All Alone～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13879.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13879.html</guid>
+            <pubDate>Tue, 17 Dec 2024 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/YTpGWpRAXOW9bkIEo2ct0CJtc8sLs9qG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【アイマスエキスポ】お疲れさまでした！2日間を振り返ろう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13433.html</guid>
             <pubDate>Mon, 18 Nov 2024 02:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/h0jYKnO3MNgVINV4caVmkOAf8OYTzxug.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターツアービンゴ～Stellar Light～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13435.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13435.html</guid>
-            <pubDate>Sun, 17 Nov 2024 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/11/bTzxJuP2RBx3M9QM8fDu0Ut5SMr4iXP2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

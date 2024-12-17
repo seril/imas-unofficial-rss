@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Dec 2024 03:30:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 06:22:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Dec 2024 03:30:50 GMT</pubDate>
+        <pubDate>Tue, 17 Dec 2024 06:22:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズ×雀魂　コラボグッズ　発売決定＆受注開始！]]></title>
+            <description><![CDATA[#シャニマス #シャニマス雀魂コラボ #雀魂]]></description>
+            <link>https://idolmaster-official.jp/news/01_13775.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13775.html</guid>
+            <pubDate>Tue, 17 Dec 2024 06:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/6npLjvp18q4qVk3DE9IrfkSRDpSbuK7H.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】「THE IDOLM@STER SHINY COLORS Song for Prism Shower of light / 快盗Vを見逃すな」ジャケット・INDEX・特典内容解禁！]]></title>
             <description><![CDATA[#シャニソン #シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12693.html</guid>
             <pubDate>Mon, 02 Dec 2024 11:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/4W5zLsAUvd36HaiofylLir9BHZbxioaI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS ECHOES 08」CD発売記念グッズの通販実施決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13504.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13504.html</guid>
-            <pubDate>Mon, 02 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/zDftGxxNc8UyHCinmnGBnPyYFUSRAboN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
