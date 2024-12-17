@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Dec 2024 11:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 14:14:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Dec 2024 11:12:58 GMT</pubDate>
+        <pubDate>Tue, 17 Dec 2024 14:14:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【クリスマスパーティー】【忘年会】今年もプロデュース活動お疲れ様でした！2024年の思い出を語り合おう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #APラウンジ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13740.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13740.html</guid>
+            <pubDate>Tue, 17 Dec 2024 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/WUGPRjJDqnyAAyWTwsTKcIetbC9Xdwt8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【アイマスエキスポ】お疲れさまでした！2日間を振り返ろう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/live_BQNgg0.html</guid>
             <pubDate>Mon, 21 Oct 2024 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/VvqooYtIzf1P1yfMolHA23TUtc0pcxOa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】配信視聴チケットの販売が本日よりスタート！EXPO AREA「エキスポステージ」「企業ブース」の詳細も公開！現地チケットASOBI STORE一般会員先行も受付中♪]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13127.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13127.html</guid>
-            <pubDate>Fri, 18 Oct 2024 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/10/zDaD7JHYtdDBmwLJ1U3fFWftvCY2Hbiq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
