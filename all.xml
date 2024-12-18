@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Dec 2024 11:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 14:14:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Dec 2024 11:12:39 GMT</pubDate>
+        <pubDate>Wed, 18 Dec 2024 14:14:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」開催が決定！！]]></title>
+            <description><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」開催が決定！！]]></description>
+            <link>https://idolmaster-official.jp/news/01_13851.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13851.html</guid>
+            <pubDate>Wed, 18 Dec 2024 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/1Rz8Dub3IPm6TV434WKhnCvUPMKUl8f1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
+            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
+            <link>https://idolmaster-official.jp/news/01_13803.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13803.html</guid>
+            <pubDate>Wed, 18 Dec 2024 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/12/MgGyTY0xa06YG2US0KR2bdAgruzJOb1C.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】明日12/19 (木) 19:00～ 生配信スタート！【生配信】アイマス検定予備校自習室！源Pと一緒に勉強配信｜Study with me【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13837.html</guid>
             <pubDate>Fri, 13 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/eHUPqfkYGYkakW7BkIblkn2abWTTICNp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】✨本日 12月13日(金) 25:53～✨ 第11話「私にできること」が放送！アニメ放送前の20:00からはニコニコ生放送にて、1話～10話振り返り上映会が実施！ 【毎週金曜 25:23～放送中】]]></title>
-            <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13809.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13809.html</guid>
-            <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/17f5ECzq2wXaUDi0iO1Rh0BIp9haDJ9Q.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【学マス】『学園アイドルマスターPOP UP STORE アベノラクバス& AKIBA FAN CUBE』が開催中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13780.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13780.html</guid>
-            <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/RD5LJgN3ntcIZH3XAUMVY7UN7frIRsnW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
