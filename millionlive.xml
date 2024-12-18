@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Dec 2024 03:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 06:21:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Dec 2024 03:26:32 GMT</pubDate>
+        <pubDate>Wed, 18 Dec 2024 06:21:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】チャンス！3回目 開発公式パンフレットプレゼントキャンペーン開催！]]></title>
+            <description><![CDATA[#ミリシタ  #唸れミリオンアーマー生配信]]></description>
+            <link>https://idolmaster-official.jp/news/iQgabKIY3qIdHMmL.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/iQgabKIY3qIdHMmL.html</guid>
+            <pubDate>Wed, 18 Dec 2024 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/pnOG2DKkXV56zF3BkoiLiYzvlAv3sFOV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】12月20日(金)より『アンサンブルスパークル』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13868.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13868.html</guid>
+            <pubDate>Wed, 18 Dec 2024 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/fgM4sPpHclcFJZKaNWuP7Yrh0C7BJk9y.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【クリスマスパーティー】【忘年会】今年もプロデュース活動お疲れ様でした！2024年の思い出を語り合おう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #APラウンジ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13499.html</guid>
             <pubDate>Mon, 18 Nov 2024 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】ガシャポン　バンダイナムコアミューズメント限定 『アイドルマスター』シリーズ カプセルラバーマスコット アンサンブルスパークルver.が ガシャポンに新登場！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】ガシャポン　バンダイナムコアミューズメント限定 『アイドルマスター』シリーズ カプセルラバーマスコット アンサンブルスパークルver.が ガシャポンに新登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13484.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13484.html</guid>
-            <pubDate>Mon, 18 Nov 2024 03:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/L9VKunnQbYUQ11ge9qqWg4N69kfwpZXl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』のカード付スナック菓子がクレーンゲームに登場！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』のカード付スナック菓子がクレーンゲームに登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13455.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13455.html</guid>
-            <pubDate>Mon, 18 Nov 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/mPQZ66hVmn3S9fGC0vZAIzI2acHkU0QY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

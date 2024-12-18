@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Dec 2024 03:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 06:21:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Dec 2024 03:26:32 GMT</pubDate>
+        <pubDate>Wed, 18 Dec 2024 06:21:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】チャンス！3回目 開発公式パンフレットプレゼントキャンペーン開催！]]></title>
+            <description><![CDATA[#ミリシタ  #唸れミリオンアーマー生配信]]></description>
+            <link>https://idolmaster-official.jp/news/iQgabKIY3qIdHMmL.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/iQgabKIY3qIdHMmL.html</guid>
+            <pubDate>Wed, 18 Dec 2024 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/pnOG2DKkXV56zF3BkoiLiYzvlAv3sFOV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】12月20日(金)より『アンサンブルスパークル』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13868.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13868.html</guid>
+            <pubDate>Wed, 18 Dec 2024 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/fgM4sPpHclcFJZKaNWuP7Yrh0C7BJk9y.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】Yahoo!カーナビ「推しドラ」に島村卯月・渋谷凛・本田未央の3人が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス #stairs_to_10th #おでかけデレマス]]></description>
@@ -361,20 +377,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/eHUPqfkYGYkakW7BkIblkn2abWTTICNp.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ 【学マス】『学園アイドルマスターPOP UP STORE アベノラクバス& AKIBA FAN CUBE』が開催中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13780.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13780.html</guid>
-            <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/RD5LJgN3ntcIZH3XAUMVY7UN7frIRsnW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シャニアニ2nd】✨本日 12月13日(金) 25:53～✨ 第11話「私にできること」が放送！アニメ放送前の20:00からはニコニコ生放送にて、1話～10話振り返り上映会が実施！ 【毎週金曜 25:23～放送中】]]></title>
             <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
             <link>https://idolmaster-official.jp/news/01_13809.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13809.html</guid>
             <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/17f5ECzq2wXaUDi0iO1Rh0BIp9haDJ9Q.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【学マス】『学園アイドルマスターPOP UP STORE アベノラクバス& AKIBA FAN CUBE』が開催中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_13780.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13780.html</guid>
+            <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/RD5LJgN3ntcIZH3XAUMVY7UN7frIRsnW.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star 2025年5月24日(土)・25日(日)、5月31日(土)・6月1日(日)にて開催決定！アソビストアプレミアム会員先行(抽選)・公式グッズ事前販売 第1弾も開始！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13766.html</guid>
             <pubDate>Thu, 12 Dec 2024 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/66S7r17ln5URfQtnlFqj83taFrAX1iYK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学マスカンファレンス」配信記念！出演キャストのサイン色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター  #学マスカンファレンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13660.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13660.html</guid>
-            <pubDate>Thu, 12 Dec 2024 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/0sgfo5lSS6bMVFUzY6M969Y02sED96Pt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ハーフアニバーサリーグッズ各種、受注〆切間近！]]></title>
-            <description><![CDATA[#学マス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13832.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13832.html</guid>
-            <pubDate>Thu, 12 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2024/12/KBvfF8wyYFXeSfqHmYvHGp8UGmiwYzXf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
