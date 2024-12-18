@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Dec 2024 06:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 11:12:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Dec 2024 06:21:23 GMT</pubDate>
+        <pubDate>Wed, 18 Dec 2024 11:12:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】明日12/19 (木) 19:00～ 生配信スタート！【生配信】アイマス検定予備校自習室！源Pと一緒に勉強配信｜Study with me【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定]]></description>
+            <link>https://idolmaster-official.jp/news/01_13627.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13627.html</guid>
+            <pubDate>Wed, 18 Dec 2024 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/DYMWVJ1HPjHW96j3f2MXd3yAQW7PboWB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】SHIBUYA109渋谷店にて「♯Midnight Runway」が2025年1月31日(金)から開催決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_13846.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13846.html</guid>
+            <pubDate>Wed, 18 Dec 2024 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/12/KjJzS8MjfS7Yb8H7msVRtGqglLOHLfMT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】12月20日(金)より『アンサンブルスパークル』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13576.html</guid>
             <pubDate>Wed, 27 Nov 2024 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/11/xk7LQKTex3aHIptAJ3NWvkhOAa3877jv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】コンプリートブック「All for YOU!!! THE IDOLM@STER CINDERELLA GIRLS Recollections」が受注開始!!]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13494.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13494.html</guid>
-            <pubDate>Tue, 26 Nov 2024 13:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/11/WgiLEbNz5F66Zcma30O9N1xpK6FKeRGJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】祝シンデレラガールズ13周年！！デレステ10周年イヤーに向けて盛り上がろう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_13482.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13482.html</guid>
-            <pubDate>Tue, 26 Nov 2024 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/9WnTc8WM6D8R3dUYADK870x4aHpXm6Qc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

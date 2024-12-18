@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Dec 2024 06:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 11:12:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Dec 2024 06:21:23 GMT</pubDate>
+        <pubDate>Wed, 18 Dec 2024 11:12:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】明日12/19 (木) 19:00～ 生配信スタート！【生配信】アイマス検定予備校自習室！源Pと一緒に勉強配信｜Study with me【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定]]></description>
+            <link>https://idolmaster-official.jp/news/01_13627.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13627.html</guid>
+            <pubDate>Wed, 18 Dec 2024 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/DYMWVJ1HPjHW96j3f2MXd3yAQW7PboWB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】SHIBUYA109渋谷店にて「♯Midnight Runway」が2025年1月31日(金)から開催決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_13846.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13846.html</guid>
+            <pubDate>Wed, 18 Dec 2024 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/12/KjJzS8MjfS7Yb8H7msVRtGqglLOHLfMT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】チャンス！3回目 開発公式パンフレットプレゼントキャンペーン開催！]]></title>
             <description><![CDATA[#ミリシタ  #唸れミリオンアーマー生配信]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13780.html</guid>
             <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/RD5LJgN3ntcIZH3XAUMVY7UN7frIRsnW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star 2025年5月24日(土)・25日(日)、5月31日(土)・6月1日(日)にて開催決定！アソビストアプレミアム会員先行(抽選)・公式グッズ事前販売 第1弾も開始！]]></title>
-            <description><![CDATA[#学マス  #学マス1st]]></description>
-            <link>https://idolmaster-official.jp/news/01_13819.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13819.html</guid>
-            <pubDate>Thu, 12 Dec 2024 14:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/12/HWVO25SyhNv16hqHhFvOSj8dRmti5ng9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】12/12(木)学マス生配信「学マスカンファレンス」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター #学マスカンファレンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13766.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13766.html</guid>
-            <pubDate>Thu, 12 Dec 2024 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/66S7r17ln5URfQtnlFqj83taFrAX1iYK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
