@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Dec 2024 11:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 14:14:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Dec 2024 11:12:42 GMT</pubDate>
+        <pubDate>Thu, 19 Dec 2024 14:14:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】アイマス検定応募申し込みは本日23:59まで！「予備校自習室！源Pと一緒に勉強配信」お知らせまとめ＆ 公式グッズ超直前販売スタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー  #アイマス検定]]></description>
+            <link>https://idolmaster-official.jp/news/01_13933.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13933.html</guid>
+            <pubDate>Thu, 19 Dec 2024 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/uUZ1ZqnFQ2xuxRxgFdTpu4dsA8rzz4Bu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】12月21日(土)に「LIVE SHOWCASE」シンデレラDAY1・シャニマスDAY1公演の「キャストコメント欄参加アーカイブ同時視聴会」の実施が決定！他公演も同時視聴会を開催予定♪]]></title>
             <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13825.html</guid>
             <pubDate>Fri, 13 Dec 2024 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/ZNUEnbMPv3r9jJOXgjISyiugl4OCFTGn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール広島府中」開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス広島府中]]></description>
-            <link>https://idolmaster-official.jp/news/01_13658.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13658.html</guid>
-            <pubDate>Fri, 13 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
