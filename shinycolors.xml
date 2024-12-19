@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Dec 2024 14:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 02:21:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Dec 2024 14:14:30 GMT</pubDate>
+        <pubDate>Thu, 19 Dec 2024 02:21:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】[バグ・ル]のイラストをもとに、樋口円香が12月17日(火)よりプライズフィギュアに登場中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13909.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13909.html</guid>
+            <pubDate>Thu, 19 Dec 2024 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/1TGbNbGaASibtirX62V1kSunqRFUXRcd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】明日12/19 (木) 19:00～ 生配信スタート！【生配信】アイマス検定予備校自習室！源Pと一緒に勉強配信｜Study with me【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13738.html</guid>
             <pubDate>Fri, 06 Dec 2024 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/x0chBQwoZoka8q40OOgSSET2uIBMxO7Y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】✨本日 12月6日(金) 25:23～✨ 第10話「それが私の夢だって」が放送！【毎週金曜 25:23～放送中】]]></title>
-            <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13762.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13762.html</guid>
-            <pubDate>Fri, 06 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/OijwrTTzuGFDjlF9zj3lYPYzeRTOib6V.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
