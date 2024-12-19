@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Dec 2024 06:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 11:12:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Dec 2024 06:21:46 GMT</pubDate>
+        <pubDate>Thu, 19 Dec 2024 11:12:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】12月21日(土)に「LIVE SHOWCASE」シンデレラDAY1・シャニマスDAY1公演の「キャストコメント欄参加アーカイブ同時視聴会」の実施が決定！他公演も同時視聴会を開催予定♪]]></title>
+            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13920.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13920.html</guid>
+            <pubDate>Thu, 19 Dec 2024 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/8Bq6XsfVmPHcTV1A3HyPIsVjvfelZzqI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ネタバレ】アイマスエキスポ『奥空心白と行く！エキスポプロデュースチャレンジ』解答・解説]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #心白と謎解き #スタマス #アイマスエキスポ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13916.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13916.html</guid>
+            <pubDate>Thu, 19 Dec 2024 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/NhmsheVUAUba7iZGBtAf4TTOcGSaFWML.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】明日12/19 (木) 19:00～ 生配信スタート！【生配信】アイマス検定予備校自習室！源Pと一緒に勉強配信｜Study with me【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12833.html</guid>
             <pubDate>Wed, 02 Oct 2024 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/10/nCkj8ncBAEJuY63BeQUIHZiKc81YvRox.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#ヴイアラ】PRODUCER MEETING -FROM NOW ON!!!- 本日のセットリスト＆告知内容まとめ！1stLIVEの開催決定に  #アイカツアカデミー！さんとのコラボ配信も決定！]]></title>
-            <description><![CDATA[#ヴイアラプロミ2024]]></description>
-            <link>https://idolmaster-official.jp/news/01_12831.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12831.html</guid>
-            <pubDate>Sat, 28 Sep 2024 11:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/71OnmCZkFm1hXqlWP2mbqOxK5aT9jr74.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】いよいよ今週末9月28日開催 #ヴイアラプロミ2024 ＜ご来場に際してのご注意事項＞についてお知らせ]]></title>
-            <description><![CDATA[【 #ヴイアラ 】いよいよ今週末9月28日開催 #ヴイアラプロミ2024 ＜ご来場に際してのご注意事項＞についてお知らせ]]></description>
-            <link>https://idolmaster-official.jp/news/01_12852.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12852.html</guid>
-            <pubDate>Wed, 25 Sep 2024 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/09/QgdS2FVjDoG15cvwMWrFIwBK7DPrTe89.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

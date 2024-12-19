@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Dec 2024 06:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Dec 2024 11:12:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Dec 2024 06:21:46 GMT</pubDate>
+        <pubDate>Thu, 19 Dec 2024 11:12:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】12月21日(土)に「LIVE SHOWCASE」シンデレラDAY1・シャニマスDAY1公演の「キャストコメント欄参加アーカイブ同時視聴会」の実施が決定！他公演も同時視聴会を開催予定♪]]></title>
+            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13920.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13920.html</guid>
+            <pubDate>Thu, 19 Dec 2024 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/8Bq6XsfVmPHcTV1A3HyPIsVjvfelZzqI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ネタバレ】アイマスエキスポ『奥空心白と行く！エキスポプロデュースチャレンジ』解答・解説]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #心白と謎解き #スタマス #アイマスエキスポ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13916.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13916.html</guid>
+            <pubDate>Thu, 19 Dec 2024 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/NhmsheVUAUba7iZGBtAf4TTOcGSaFWML.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第３弾「シャイニーカラーズ in 名古屋」詳細情報解禁！]]></title>
+            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13927.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13927.html</guid>
+            <pubDate>Thu, 19 Dec 2024 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/LfSpCVmnLQHRD04M2IxlUP983qCsAqT3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】明日12/19 (木) 19:00～ 生配信スタート！【生配信】アイマス検定予備校自習室！源Pと一緒に勉強配信｜Study with me【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13569.html</guid>
             <pubDate>Fri, 22 Nov 2024 09:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/qx3WfmsnectDGUutqGBXmharU4nFkcxG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【アイマス】【3Dプリント】アソビコレクション製造現場に潜入！！！ プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #アソビコレクション #アソコレ #ミリアニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13293.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13293.html</guid>
-            <pubDate>Fri, 22 Nov 2024 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/lsVPHTJPebWgAWgIkmL940q1s5xURnoS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※12月5日更新※【アイマス20周年イヤー】ファッション誌『NYLON JAPAN』×『アイドルマスター』シリーズ　特別記念号刊行！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13458.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13458.html</guid>
-            <pubDate>Wed, 20 Nov 2024 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/11/dVeGtFoLgBGZ6YZhEzMSn5om54ZPlJdN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン11th】WEB物販開始！受注期間は11/19(火)～12/3(火)23:59まで！！]]></title>
-            <description><![CDATA[#ミリオン11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_13510.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13510.html</guid>
-            <pubDate>Tue, 19 Nov 2024 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/1RJ7CsGOsnJwPET9NtoQEuvP7I90Akmg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
