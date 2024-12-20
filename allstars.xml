@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Dec 2024 11:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 14:13:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Dec 2024 11:11:55 GMT</pubDate>
+        <pubDate>Fri, 20 Dec 2024 14:13:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】「アイドルマスター×成田ゆめ牧場  みんなとすごす成田ゆめ牧場 ～穴掘りの頂点を目指しますぅ！～」グッズ&メニュー発表！🐮✨ Xキャンペーンも実施いたしますぅ！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスゆめ牧場]]></description>
+            <link>https://idolmaster-official.jp/news/01_13928.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13928.html</guid>
+            <pubDate>Fri, 20 Dec 2024 12:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/FcpaTdm6vUNl4druJpw5CiTXOnByJqyg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ツアマス】2025年春 稼働決定！キャストが語るツアマスの魅力！ 動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #ツアマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13174.html</guid>
             <pubDate>Fri, 01 Nov 2024 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/OiZvelqeZK0jf0cJdIZk9Zwnv74uoS3x.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【公式】「秋に聴きたいアイマス楽曲プレイリスト」プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_13272.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13272.html</guid>
-            <pubDate>Thu, 31 Oct 2024 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/5BvpKKlvt5jFXUihD7czeZAeVlw3O5YM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
