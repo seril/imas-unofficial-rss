@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Dec 2024 03:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 06:20:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Dec 2024 03:19:52 GMT</pubDate>
+        <pubDate>Fri, 20 Dec 2024 06:20:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】★3 市川 雛菜が手に入るガシャ開催中！ さらに、和泉 愛依のソロ楽曲『Going my way』が追加！]]></title>
+            <description><![CDATA[#シャニソン  ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13890.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13890.html</guid>
+            <pubDate>Fri, 20 Dec 2024 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/rJBISDJf2pZWE3RVdsDTeN3KsrJp1ute.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SHINY COLORS】偶像大师闪耀色彩 283事务所MR企划LIVE 首次海外呈现！]]></title>
+            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
+            <link>https://idolmaster-official.jp/news/01_13926.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13926.html</guid>
+            <pubDate>Fri, 20 Dec 2024 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/fOL549h1DkQ5Kc8Mvg4YtpBInsvlviYM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ】ブシロード トレーディングカード コレクションクリア アニメ「アイドルマスター シャイニーカラーズ  2nd season」本日より順次発売！]]></title>
+            <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_13864.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13864.html</guid>
+            <pubDate>Fri, 20 Dec 2024 05:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/10/jM0gJ9nT9vB7VBAYgW6eGYMEDKBaAzKL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7th】≪福岡・横浜公演≫のゲーム先行のお申込み受付が本日12月20日(金)よりスタート！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマス7thUNITTOUR]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13787.html</guid>
             <pubDate>Mon, 09 Dec 2024 12:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/ZRZj6oUM37Ke3VB14kvJfK4iRIv8h8Jr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】『シャニマス＆シャニソン 運営レター生配信』今後のアップデート＆最新情報まとめ　～シャニソンゲーム情報～]]></title>
-            <description><![CDATA[#シャニマス #シャニソン #シャニマス運営レター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13382.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13382.html</guid>
-            <pubDate>Mon, 09 Dec 2024 11:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/d3XAy51cKi6Ie1J7CJW3e2oZqk4eEK8E.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SHHis_CoMETIK_lme】283 Production LIVE Performance [liminal;marginal;eternal]の冒頭無料生配信が決定！]]></title>
-            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
-            <link>https://idolmaster-official.jp/news/01_13789.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13789.html</guid>
-            <pubDate>Mon, 09 Dec 2024 10:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/12/cIKVFgbksSXV2rT9oKV2zOsdFlJWdwEX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SHHis_CoMETIK_lme】アソビストア一般発売（先着）・xRライブストリーミングチケット・リセール「283 Production LIVE Performance [liminal;marginal;eternal]」のお申込みは12月21日(土)12:00から！]]></title>
-            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
-            <link>https://idolmaster-official.jp/news/01_13716.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13716.html</guid>
-            <pubDate>Mon, 09 Dec 2024 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/12/cviZ19TAAngj8F44l2c5C3O5dWwWsjz7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
