@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Dec 2024 14:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 02:12:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Dec 2024 14:13:18 GMT</pubDate>
+        <pubDate>Sat, 21 Dec 2024 02:12:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニアニ】アニメ『アイドルマスター シャイニーカラーズ 2nd season』主題歌アルバム「Over the prism」 INDEX・試聴動画・特典内容解禁！]]></title>
+            <description><![CDATA[#シャニアニ #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_13936.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13936.html</guid>
+            <pubDate>Fri, 20 Dec 2024 17:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/EkVahzbEwfIekvAP0oa6pacw0JdPbfh7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ2nd】#シャニアニ2nd最終回直前 生配信！告知まとめはこちら！【このあと25:33～ 最終回 第12話「今、この時だけの輝き」放送！】]]></title>
+            <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_13866.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13866.html</guid>
+            <pubDate>Fri, 20 Dec 2024 14:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/kYiQtHTDwnBTdn6ex7tw5Hc7JWhHi30L.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニアニ2nd】『#シャニアニ2nd最終回直前 生配信！』配信記念！プレゼントキャンペーン開催中！【アニメ第12話はこのあと 12月20日(金) 25:33～放送開始！】]]></title>
             <description><![CDATA[#シャニアニ2nd最終回直前 #シャニアニ2nd #シャニアニ #シャニマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13786.html</guid>
             <pubDate>Tue, 10 Dec 2024 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/kpz2hV0v3mN3V1ybOIEyliX45cD3HjDF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスエキスポ】「PROJECT IM@S 3.0 VISION」最新技術を活用したライブデモを体験しよう！]]></title>
-            <description><![CDATA[#アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13712.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13712.html</guid>
-            <pubDate>Tue, 10 Dec 2024 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/12/mAmYjJmv3Cmfrx1RVx5Qpoa8egt8hpho.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】SHHis POP UP SHOP『武闘遊戯』　イベント詳細公開！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #武闘遊戯]]></description>
-            <link>https://idolmaster-official.jp/news/01_13771.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13771.html</guid>
-            <pubDate>Tue, 10 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/hzXI2Oi6vwoa9NTZL2d195a5BUlhhTck.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

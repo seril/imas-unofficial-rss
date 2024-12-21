@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Dec 2024 14:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 02:12:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Dec 2024 14:13:18 GMT</pubDate>
+        <pubDate>Sat, 21 Dec 2024 02:12:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと1日！】Act-3開催記念グッズのリバイバル販売が実施中！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_13955.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13955.html</guid>
+            <pubDate>Sat, 21 Dec 2024 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/aVNa48LGQJpA4ZROjoyUGTyEGT6f7yff.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】『ミリシタ7.5周年 唸れ！ミリオンアーマー！生配信!!!!!!!!!!!!!!!』お知らせまとめ]]></title>
             <description><![CDATA[#ミリシタ #ミリオンライブ #唸れミリオンアーマー #アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13605.html</guid>
             <pubDate>Sat, 30 Nov 2024 06:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2024/11/6FjgVMCgY7vAV8S7fOJYvSNB5PP7jKVL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターチューン～ギブミーメタファー～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13622.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13622.html</guid>
-            <pubDate>Sat, 30 Nov 2024 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/11/MaGyLOeLpC4ECrbY1CgNsGyDeBxFrXxv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
