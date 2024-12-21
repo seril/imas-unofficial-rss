@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Dec 2024 02:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Dec 2024 03:17:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Dec 2024 02:12:33 GMT</pubDate>
+        <pubDate>Sat, 21 Dec 2024 03:17:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SHHis_CoMETIK_lme】アソビストア一般発売（先着）・xRライブストリーミングチケット「283 Production LIVE Performance [liminal;marginal;eternal]」のお申込みが本日12:00より開始！]]></title>
+            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
+            <link>https://idolmaster-official.jp/news/01_13947.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13947.html</guid>
+            <pubDate>Sat, 21 Dec 2024 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/12/iLOjtWxR42KjfzoDjmGWyBgZcO0VzCQR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニアニ】アニメ『アイドルマスター シャイニーカラーズ 2nd season』主題歌アルバム「Over the prism」 INDEX・試聴動画・特典内容解禁！]]></title>
             <description><![CDATA[#シャニアニ #シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13805.html</guid>
             <pubDate>Tue, 10 Dec 2024 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/r9oixQrtXyl1WuzOAKPnKIOlixVxNniQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「【APラウンジ】【アイマスエキスポ】いよいよ今週末！！ブース＆ステージ情報最終チェック！！！」お知らせまとめ]]></title>
-            <description><![CDATA[#アイマスch #アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13786.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13786.html</guid>
-            <pubDate>Tue, 10 Dec 2024 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/kpz2hV0v3mN3V1ybOIEyliX45cD3HjDF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
