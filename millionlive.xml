@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Dec 2024 14:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 02:20:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Dec 2024 14:11:53 GMT</pubDate>
+        <pubDate>Sun, 22 Dec 2024 02:20:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【本日まで！】Act-3開催記念グッズのリバイバル販売が実施中！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_13957.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13957.html</guid>
+            <pubDate>Sun, 22 Dec 2024 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/aVNa48LGQJpA4ZROjoyUGTyEGT6f7yff.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【アイマスエキスポ】閉会式のその後を撮影しました。【タイムラプス】動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスエキスポ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13713.html</guid>
             <pubDate>Mon, 02 Dec 2024 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/VSKB8itvG19ifhRFN3LdYM7TjAVapyVk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、2月分予約開始！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13572.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13572.html</guid>
-            <pubDate>Sun, 01 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/zqvhZlICQP2rxayjUmWYSqciTUXdkLPw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
