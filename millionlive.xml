@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Dec 2024 06:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2024 11:10:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Dec 2024 06:18:53 GMT</pubDate>
+        <pubDate>Sun, 22 Dec 2024 11:10:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと4時間!!!!】Act-3開催記念グッズのリバイバル販売は本日まで！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_13958.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13958.html</guid>
+            <pubDate>Sun, 22 Dec 2024 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/aVNa48LGQJpA4ZROjoyUGTyEGT6f7yff.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで！】Act-3開催記念グッズのリバイバル販売が実施中！]]></title>
             <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12693.html</guid>
             <pubDate>Mon, 02 Dec 2024 11:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/4W5zLsAUvd36HaiofylLir9BHZbxioaI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリアニ】シネマ太陽函館にて第3幕リバイバル上映実施決定！]]></title>
-            <description><![CDATA[#ミリアニ #ミリオンライブ！ #もうひとつの函館]]></description>
-            <link>https://idolmaster-official.jp/news/01_13713.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13713.html</guid>
-            <pubDate>Mon, 02 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/VSKB8itvG19ifhRFN3LdYM7TjAVapyVk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
