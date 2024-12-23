@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Dec 2024 03:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 06:21:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Dec 2024 03:20:41 GMT</pubDate>
+        <pubDate>Mon, 23 Dec 2024 06:21:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
+            <description><![CDATA[#オールアイマス大感謝祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_13559.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
+            <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー大阪/東京公演の公式グッズ事前2次販売＆協賛社グッズ販売が開始！！190名グッズと出演アイドルグッズの両方チェック♪]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13927.html</guid>
             <pubDate>Thu, 19 Dec 2024 09:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/LfSpCVmnLQHRD04M2IxlUP983qCsAqT3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「リスアニ！アイドルマスター SideM 音楽大全 ~Special Edition~」発売決定！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_13896.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13896.html</guid>
-            <pubDate>Thu, 19 Dec 2024 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/LNKJEg38PwkOWNQuCS4aWp8zLsTrN7Qd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

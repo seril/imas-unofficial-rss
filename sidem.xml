@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Dec 2024 03:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 06:21:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Dec 2024 03:20:41 GMT</pubDate>
+        <pubDate>Mon, 23 Dec 2024 06:21:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
+            <description><![CDATA[#オールアイマス大感謝祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_13559.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
+            <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】横浜・八景島シーパラダイス×アイドルマスター SideM　コラボイベント第2弾「315 WINTER PASSION Second!!」の開催が決定！]]></title>
             <description><![CDATA[【SideM】横浜・八景島シーパラダイス×アイドルマスター SideM　コラボイベント第2弾「315 WINTER PASSION Second!!」の開催が決定！]]></description>
@@ -383,14 +391,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13555.html</guid>
             <pubDate>Fri, 06 Dec 2024 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/0KGMh2LRbxEdpQzbw3UVTHTgJWh2zBhk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
-            <description><![CDATA[#オールアイマス大感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_13559.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
-            <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】1月10日(金)より「初詣」をテーマにしたコトブキヤフェアが開催決定！]]></title>
