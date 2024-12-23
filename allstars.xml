@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Dec 2024 14:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 02:16:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Dec 2024 14:12:32 GMT</pubDate>
+        <pubDate>Mon, 23 Dec 2024 02:16:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』本日発売＆グッズ発売決定！ 合わせてオリジナルポスターのプレゼントキャンペーン開催！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13937.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13937.html</guid>
+            <pubDate>Mon, 23 Dec 2024 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/11/dVeGtFoLgBGZ6YZhEzMSn5om54ZPlJdN.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【アイマスエキスポ】閉会式のその後を撮影しました。【タイムラプス】動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスエキスポ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13368.html</guid>
             <pubDate>Fri, 08 Nov 2024 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/pkmRqkVGmSNhcv8ffP2IkGZObEsAoRVT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】アイマスエキスポ内「アイマスch」ブース詳細＆プロデューサー参加企画募集のお知らせ！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13352.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13352.html</guid>
-            <pubDate>Tue, 05 Nov 2024 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/Ud3Jz2rZSFse1kNcOL3eWWvHGFRz11Sw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
