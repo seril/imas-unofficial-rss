@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Dec 2024 06:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 11:11:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Dec 2024 06:21:20 GMT</pubDate>
+        <pubDate>Mon, 23 Dec 2024 11:11:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,38 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】【12/24(水)より】「アイドルマスター×成田ゆめ牧場  みんなとすごす成田ゆめ牧場 ～穴掘りの頂点を目指しますぅ！～」いよいよ明日から開催🐮🥛✨]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスゆめ牧場]]></description>
+            <link>https://idolmaster-official.jp/news/01_13980.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13980.html</guid>
+            <pubDate>Mon, 23 Dec 2024 10:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/e0q0mRoQw4TNJQE54ZPgmnfvar6DZSU8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ熊本公演 視聴コメント付きアーカイブ配信開始！同時視聴上映会も実施予定！アンケートも実施中！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ熊本]]></description>
+            <link>https://idolmaster-official.jp/news/01_13737.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13737.html</guid>
+            <pubDate>Mon, 23 Dec 2024 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/3pjwRy5RfyqDlgiTylzsUusw0EIApqzp.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張公演 プロデューサー参加型企画！プロデューサー業務報告書 募集開始！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_13977.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13977.html</guid>
+            <pubDate>Mon, 23 Dec 2024 08:12:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/v4dQJdybPTiu2dpoOrx01G55dg8EYalg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【 #ヴイアラ 】本日よりヴイアライヴとゲーム「サバイバルクイズシティ」とのコラボ開催！ゲーム内ではオリジナルアイテムやクイズも実装！コラボを記念し声優桃井はるこさんとのコラボ配信も実施中！ ]]></title>
+            <description><![CDATA[ 【 #ヴイアラ 】本日よりヴイアライヴとゲーム「サバイバルクイズシティ」とのコラボ開催！ゲーム内ではオリジナルアイテムやクイズも実装！コラボを記念し声優桃井はるこさんとのコラボ配信も実施中！ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13978.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13978.html</guid>
+            <pubDate>Sun, 22 Dec 2024 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/fiHBeuxVNEqx2tHzC2pw1XIZN2VyNTG6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー大阪/東京公演の公式グッズ事前2次販売＆協賛社グッズ販売が開始！！190名グッズと出演アイドルグッズの両方チェック♪]]></title>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13908.html</guid>
             <pubDate>Fri, 20 Dec 2024 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/K4xEC9nXhXycblqNafO6KzrKbgFwupJ8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】アイマス検定応募申し込みは本日23:59まで！「予備校自習室！源Pと一緒に勉強配信」お知らせまとめ＆ 公式グッズ超直前販売スタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー  #アイマス検定]]></description>
-            <link>https://idolmaster-official.jp/news/01_13933.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13933.html</guid>
-            <pubDate>Thu, 19 Dec 2024 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/uUZ1ZqnFQ2xuxRxgFdTpu4dsA8rzz4Bu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】12月21日(土)に「LIVE SHOWCASE」シンデレラDAY1・シャニマスDAY1公演の「キャストコメント欄参加アーカイブ同時視聴会」の実施が決定！他公演も同時視聴会を開催予定♪]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13920.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13920.html</guid>
-            <pubDate>Thu, 19 Dec 2024 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/8Bq6XsfVmPHcTV1A3HyPIsVjvfelZzqI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ネタバレ】アイマスエキスポ『奥空心白と行く！エキスポプロデュースチャレンジ』解答・解説]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #心白と謎解き #スタマス #アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13916.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13916.html</guid>
-            <pubDate>Thu, 19 Dec 2024 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/NhmsheVUAUba7iZGBtAf4TTOcGSaFWML.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第３弾「シャイニーカラーズ in 名古屋」詳細情報解禁！]]></title>
-            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13927.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13927.html</guid>
-            <pubDate>Thu, 19 Dec 2024 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/LfSpCVmnLQHRD04M2IxlUP983qCsAqT3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
