@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Dec 2024 02:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Dec 2024 03:20:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Dec 2024 02:16:44 GMT</pubDate>
+        <pubDate>Mon, 23 Dec 2024 03:20:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー大阪/東京公演の公式グッズ事前2次販売＆協賛社グッズ販売が開始！！190名グッズと出演アイドルグッズの両方チェック♪]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_13923.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13923.html</guid>
+            <pubDate>Mon, 23 Dec 2024 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2024/12/bOCOHmLDAQt7ZhhNYjLRrcuraPoDmv4v.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』本日発売＆グッズ発売決定！ 合わせてオリジナルポスターのプレゼントキャンペーン開催！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13739.html</guid>
             <pubDate>Tue, 03 Dec 2024 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2024/12/qwqYENG5VfFW9N12q8nnYhG4gMN6O0fO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスエキスポ】【765】【シンデレラ】『THE IDOLM@STER M@STER EXPO』会場オリジナルCDの発売が決定！]]></title>
-            <description><![CDATA[【アイマスエキスポ】【765】【シンデレラ】『THE IDOLM@STER M@STER EXPO』会場オリジナルCDの発売が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13681.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13681.html</guid>
-            <pubDate>Tue, 03 Dec 2024 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/ltK5sDRlJUUKGv1WiZxLhYoiR0Z1PAXE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
