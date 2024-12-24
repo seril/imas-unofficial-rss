@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Dec 2024 02:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 03:19:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Dec 2024 02:14:48 GMT</pubDate>
+        <pubDate>Tue, 24 Dec 2024 03:19:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター × TOWER RECORDS コラボグッズの発売が決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_13917.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13917.html</guid>
+            <pubDate>Tue, 24 Dec 2024 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/7Kg8vgJMfwopP4KIfKDIFDpLAuOuslDR.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』本日発売＆グッズ発売決定！ 合わせてオリジナルポスターのプレゼントキャンペーン開催！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12865.html</guid>
             <pubDate>Fri, 29 Nov 2024 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2024/10/YPZQWRUHdrvcIvkcyMU5biO79QyDNFch.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】グッドスマイルカンパニーより「学園アイドルマスター」のグッズが発売！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13631.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13631.html</guid>
-            <pubDate>Fri, 29 Nov 2024 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/qwbsQoP6ydIk9tT2Zh5Hf6VR8ghTL0IR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
