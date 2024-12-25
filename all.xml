@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Dec 2024 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 11:11:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Dec 2024 06:20:38 GMT</pubDate>
+        <pubDate>Wed, 25 Dec 2024 11:11:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,38 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】「LIVE SHOWCASE」全公演の「キャストコメント欄参加アーカイブ同時視聴会」の日程・キャストを発表！配信チケット販売中！]]></title>
+            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14005.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14005.html</guid>
+            <pubDate>Wed, 25 Dec 2024 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/g17OGYooRmKLAhn1ZRZY8oTeBcEL0OSx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM9th】LIVE Blu-ray ジャケット＆店舗特典デザイン公開！！各店舗にてご予約受付中！]]></title>
+            <description><![CDATA[#SideM #SideM9th]]></description>
+            <link>https://idolmaster-official.jp/news/01_13995.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13995.html</guid>
+            <pubDate>Wed, 25 Dec 2024 08:32:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/V7N5krBcBwma53A1RF8DlXuK0sbp8rw3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「Mフェス2025」イベント詳細情報を公開！]]></title>
+            <description><![CDATA[#SideM #Mフェス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_13946.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13946.html</guid>
+            <pubDate>Wed, 25 Dec 2024 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/Cvm6OmIIx56VvlsF281apvN904wOJb7T.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ローソンの@ Loppi・HMV限定グッズの予約受付中！2025年1月14日まで！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_13874.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13874.html</guid>
+            <pubDate>Wed, 25 Dec 2024 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/JUJRCYAbugNqKqWfNVdGe8nHivf7EM1v.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリシタ】SSR出現率2倍！「ミリオンリンケージ　ミリオンアーマーAce編」開催中！]]></title>
@@ -105,7 +137,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/12/FFEwLtS3ERV46Wgj87qnj2DKIuTyA3Tk.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニアニ2nd】全12話総集編が12月27日（金）25:23より放送！Blu-ray予約受付中！]]></title>
+            <title><![CDATA[※12/25追記※【シャニアニ2nd】全12話総集編が12月27日（金）25:23より放送！Blu-ray予約受付中！]]></title>
             <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
             <link>https://idolmaster-official.jp/news/01_13976.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13976.html</guid>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13954.html</guid>
             <pubDate>Fri, 20 Dec 2024 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/X3CPoFyEb00t6wts1isIngT6kCZMeBAb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】アンティーカ 田中摩美々/白瀬咲耶 がプラモデルになって12月21日(土)に登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13924.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13924.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/m94uxH1SF58uQtWpr7W2bnN7qIS5vO3P.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】12/21(土) 17:00～ 学マス年末ゆるっと特番～冬コミブース大解剖&W佐藤の物販部屋～]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13948.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13948.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/12/F4KY9DweiM4G4DXda6sdWyQU31YQ0Lhz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SHHis_CoMETIK_lme】アソビストア一般発売（先着）・xRライブストリーミングチケット・リセール「283 Production LIVE Performance [liminal;marginal;eternal]」のお申込みは明日12月21日(土)12:00から！]]></title>
-            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
-            <link>https://idolmaster-official.jp/news/01_13956.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13956.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/12/Z0eQRPLiCkYx709RWzJLUdbw0cHrPk8D.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】虹色ドリーマーがCLIP STUDIO PAINTの魅力を紹介！WEBCM公開スタート！！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13893.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13893.html</guid>
-            <pubDate>Fri, 20 Dec 2024 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/12/27flFjOLE6yyv7aeaxHtU0tKefN7RYAu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Dec 2024 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 11:11:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Dec 2024 06:20:38 GMT</pubDate>
+        <pubDate>Wed, 25 Dec 2024 11:11:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】「LIVE SHOWCASE」全公演の「キャストコメント欄参加アーカイブ同時視聴会」の日程・キャストを発表！配信チケット販売中！]]></title>
+            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14005.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14005.html</guid>
+            <pubDate>Wed, 25 Dec 2024 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/g17OGYooRmKLAhn1ZRZY8oTeBcEL0OSx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ローソンの@ Loppi・HMV限定グッズの予約受付中！2025年1月14日まで！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_13874.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13874.html</guid>
+            <pubDate>Wed, 25 Dec 2024 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/JUJRCYAbugNqKqWfNVdGe8nHivf7EM1v.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】学園アイドルマスター × TOWER RECORDS コラボグッズの発売が決定！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13688.html</guid>
             <pubDate>Fri, 29 Nov 2024 10:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/11/KNs3VNSpbVFDDFlfYAZSCmSLo0wKYJXt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスターと「カラオケの鉄人」のコラボが開催決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13585.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13585.html</guid>
-            <pubDate>Fri, 29 Nov 2024 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/CYH6Ciqlp4B1vbK1ZfboPysqQUmQo88x.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ローソンキャンペーン開催決定！描き下ろしイラストが登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_12865.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12865.html</guid>
-            <pubDate>Fri, 29 Nov 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2024/10/YPZQWRUHdrvcIvkcyMU5biO79QyDNFch.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
