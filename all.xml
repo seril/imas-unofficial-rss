@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Dec 2024 03:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 06:20:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Dec 2024 03:18:04 GMT</pubDate>
+        <pubDate>Wed, 25 Dec 2024 06:20:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,30 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】SSR出現率2倍！「ミリオンリンケージ　ミリオンアーマーAce編」開催中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリリン]]></description>
+            <link>https://idolmaster-official.jp/news/01_13932.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13932.html</guid>
+            <pubDate>Wed, 25 Dec 2024 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/uYU4AEcxaQBxKQOHG5qbDs5QKarHAsqt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】CONNECT WITH OTHERS! アイマス20周年記念 公式グッズが登場！！本日より受注開始！！]]></title>
+            <description><![CDATA[#SideM #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_13993.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13993.html</guid>
+            <pubDate>Wed, 25 Dec 2024 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/z5zkinjqjhYAvr2JhExwVUw6mU8Z9mPP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】『「期間中 今なら最大190連ガシャ無料!!」開催記念 えらべるPayプレゼントキャンペーン』開催中！]]></title>
+            <description><![CDATA[#ミリシタ #えらべるPay #ミリリン]]></description>
+            <link>https://idolmaster-official.jp/news/01_13889.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13889.html</guid>
+            <pubDate>Wed, 25 Dec 2024 05:59:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/IeFaYaK7ejZMOdUhm2LJTn9bZI5Lz2DN.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「望月聖」が登場！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13893.html</guid>
             <pubDate>Fri, 20 Dec 2024 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/12/27flFjOLE6yyv7aeaxHtU0tKefN7RYAu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】期間中合計で総額100万円分のえらべるPayが抽選で1000名様に当たる！『「#学マス今なら最大100連無料」えらべるPayプレゼントキャンペーン』開催中！]]></title>
-            <description><![CDATA[#学マス #えらべるPay #学マス今なら最大100連無料]]></description>
-            <link>https://idolmaster-official.jp/news/01_13694.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13694.html</guid>
-            <pubDate>Fri, 20 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/ETXDz0I7MZBUpg91BOjRggzMJXdq2s5M.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション、第2弾「やぎ座」のアイドル15名が登場！受注は 1/19(日)まで♪「いて座」の受注は12/22(日)まで！]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13929.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13929.html</guid>
-            <pubDate>Fri, 20 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/0aVbI77b6r7LgFVlnm3Jk2dvRPLN7mpD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと2日！】Act-3開催記念グッズのリバイバル販売が実施中！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_13952.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13952.html</guid>
-            <pubDate>Fri, 20 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/aVNa48LGQJpA4ZROjoyUGTyEGT6f7yff.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
