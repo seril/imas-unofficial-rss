@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Dec 2024 06:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 11:11:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Dec 2024 06:20:50 GMT</pubDate>
+        <pubDate>Thu, 26 Dec 2024 11:11:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【ライブダイジェスト】みんなで選んだ、もう一度観たい！2020→2024アイマスライブ名場面セレクション プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_13904.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13904.html</guid>
+            <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/D3PTlhS8YARvILSYy2MYxjJlkGwH6KB5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」追加情報のお知らせ]]></title>
+            <description><![CDATA[ 【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」追加情報のお知らせ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14023.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14023.html</guid>
+            <pubDate>Thu, 26 Dec 2024 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/1Rz8Dub3IPm6TV434WKhnCvUPMKUl8f1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ×RAKU CAFE池袋」のコラボカフェが決定！]]></title>
@@ -390,22 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_13722.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13722.html</guid>
             <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「モラトリアム」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ YAMAGATA & IWATE & OSAKA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
-            <description><![CDATA[【シンデレラ】「モラトリアム」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ YAMAGATA & IWATE & OSAKA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13777.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13777.html</guid>
-            <pubDate>Mon, 09 Dec 2024 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/py7ZV2K6HgX6LWYiGEwD9q63T32AatcE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【開催から1年！】 【 #アイラブ歌合戦 】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayの数量限定販売中！]]></title>
-            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
-            <link>https://idolmaster-official.jp/news/01_13721.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13721.html</guid>
-            <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>

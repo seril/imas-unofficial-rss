@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Dec 2024 06:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 11:11:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Dec 2024 06:20:50 GMT</pubDate>
+        <pubDate>Thu, 26 Dec 2024 11:11:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【ライブダイジェスト】みんなで選んだ、もう一度観たい！2020→2024アイマスライブ名場面セレクション プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_13904.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13904.html</guid>
+            <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/D3PTlhS8YARvILSYy2MYxjJlkGwH6KB5.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】2月14日（金）から没入型音声体験「ボイスフレンド」とのコラボ、「理由（ワケ）あって書店員！Beit in 書泉ブックタワー」を開催！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13805.html</guid>
             <pubDate>Tue, 10 Dec 2024 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/r9oixQrtXyl1WuzOAKPnKIOlixVxNniQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「【APラウンジ】【アイマスエキスポ】いよいよ今週末！！ブース＆ステージ情報最終チェック！！！」お知らせまとめ]]></title>
-            <description><![CDATA[#アイマスch #アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13786.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13786.html</guid>
-            <pubDate>Tue, 10 Dec 2024 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/kpz2hV0v3mN3V1ybOIEyliX45cD3HjDF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

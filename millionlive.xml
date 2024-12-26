@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Dec 2024 06:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 11:11:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Dec 2024 06:20:50 GMT</pubDate>
+        <pubDate>Thu, 26 Dec 2024 11:11:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》3月に向けて我那覇 響・七尾百合子が登場！「ホワイトデー」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14018.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14018.html</guid>
+            <pubDate>Thu, 26 Dec 2024 10:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2024/12/faT9cjvIZgAyacItIMxLIdvC7bP0oMQx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【ライブダイジェスト】みんなで選んだ、もう一度観たい！2020→2024アイマスライブ名場面セレクション プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_13904.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13904.html</guid>
+            <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/D3PTlhS8YARvILSYy2MYxjJlkGwH6KB5.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】「LIVE SHOWCASE」全公演の「キャストコメント欄参加アーカイブ同時視聴会」の日程・キャストを発表！配信チケット販売中！]]></title>
@@ -113,20 +129,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/q2nzZOUtnGqfzNbcSAPSwFF8hxeVXK9R.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリシタ】2024年12月31日(火)23:30頃～ 「ミリシタカウントダウン！2024-2025」配信予定！]]></title>
-            <description><![CDATA[#アイマス #ミリシタ #ミリオンライブ #ミリシタカウントダウン]]></description>
-            <link>https://idolmaster-official.jp/news/01_13903.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13903.html</guid>
-            <pubDate>Fri, 20 Dec 2024 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/qeWXLncN8V9CClExVhQe6laKA8svYB3k.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリシタ】『ミリシタ7.5周年 唸れ！ミリオンアーマー！生配信!!!!!!!!!!!!!!!』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
             <description><![CDATA[#ミリシタ  #唸れミリオンアーマー生配信]]></description>
             <link>https://idolmaster-official.jp/news/01_13475.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13475.html</guid>
             <pubDate>Fri, 20 Dec 2024 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2024/12/s3PJnv99wzPPEuJOlFu2GggnDkvSVc3A.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[≪2024.12.26(木)18:00更新≫【ミリシタ】2024年12月31日(火)23:30頃～ 「ミリシタカウントダウン！2024-2025」配信予定！]]></title>
+            <description><![CDATA[#アイマス #ミリシタ #ミリオンライブ #ミリシタカウントダウン]]></description>
+            <link>https://idolmaster-official.jp/news/01_13903.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13903.html</guid>
+            <pubDate>Fri, 20 Dec 2024 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/qeWXLncN8V9CClExVhQe6laKA8svYB3k.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【ツアマス】2025年春 稼働決定！キャストが語るツアマスの魅力！ 動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13551.html</guid>
             <pubDate>Fri, 06 Dec 2024 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/qKakXnez7Tj27H1VVbrlUnTmWYpHnOFa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】会議件名：【秋月律子】MASTER EXPO直前オンライン読み合わせMTG実施のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13555.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13555.html</guid>
-            <pubDate>Fri, 06 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/0KGMh2LRbxEdpQzbw3UVTHTgJWh2zBhk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【本日15:00から！】「アイドルマスター ミリオンライブ！」×「駅メモ！」シリーズコラボキャンペーン開催🚃！]]></title>
-            <description><![CDATA[#ミリオンライブ #駅メモ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13764.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13764.html</guid>
-            <pubDate>Fri, 06 Dec 2024 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/10/o8GtATdqU5JrLolbfxmvYx1hEqSQzzm9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

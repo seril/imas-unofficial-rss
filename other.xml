@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Dec 2024 06:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 11:11:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Dec 2024 06:20:50 GMT</pubDate>
+        <pubDate>Thu, 26 Dec 2024 11:11:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】 #アイマスEXPO SPソロステージでのライバーアイドル2nd single曲パフォーマンス映像を特別公開！EXPOステージ配信アーカイブチケットの販売は12月30日まで！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】 #アイマスEXPO SPソロステージでのライバーアイドル2nd single曲パフォーマンス映像を特別公開！EXPOステージ配信アーカイブチケットの販売は12月30日まで！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14029.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14029.html</guid>
+            <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/p54X2TlrOdL7UZNhFBOZ9MWSMC8pspsb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】「LIVE SHOWCASE」全公演の「キャストコメント欄参加アーカイブ同時視聴会」の日程・キャストを発表！配信チケット販売中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13031.html</guid>
             <pubDate>Thu, 10 Oct 2024 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/10/pMw3E9Kmbf18MTkfihDRrZ5n29ulMP5R.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【スタマス】始めるなら今がチャンス！？スターリットシーズン深掘り配信！　配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #スタマス3周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_12855.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12855.html</guid>
-            <pubDate>Mon, 07 Oct 2024 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/KPWfMnxSn95JJTIuxqgDNJ4lgRTgaN9l.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

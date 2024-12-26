@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Dec 2024 06:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 11:11:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Dec 2024 06:20:50 GMT</pubDate>
+        <pubDate>Thu, 26 Dec 2024 11:11:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,30 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】篠澤広誕生日記念セット受注受付中♪（1/13(月・祝)まで）]]></title>
+            <description><![CDATA[#学マス #篠澤広 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13979.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13979.html</guid>
+            <pubDate>Thu, 26 Dec 2024 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2024/12/xRvNMBuTcKNY7sXvUUGzN2YhXovXXqKi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスターと「カラオケの鉄人」コラボが2025年1月15日より開催！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_13969.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13969.html</guid>
+            <pubDate>Thu, 26 Dec 2024 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/3tQPh38drqi6iIRJjJDvuV11A5pOftOS.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】3日連続、毎日参加できる！『「#学マス初のフェスガシャ開催中」えらべるPayプレゼントキャンペーン』！期間中合計で総額100万円分のえらべるPayが抽選で1000名様に当たる！]]></title>
+            <description><![CDATA[#学マス #えらべるPay #学マス初のフェスガシャ開催中]]></description>
+            <link>https://idolmaster-official.jp/news/01_13981.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13981.html</guid>
+            <pubDate>Thu, 26 Dec 2024 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/XcmOO6EDXqeGV2CZqZf2TZHPc6bHQTd6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】「LIVE SHOWCASE」全公演の「キャストコメント欄参加アーカイブ同時視聴会」の日程・キャストを発表！配信チケット販売中！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13621.html</guid>
             <pubDate>Mon, 02 Dec 2024 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/otJhCWQbWi3FENkuNEsKmMny5eldBDyo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ベルハウスより「学園アイドルマスター」のグッズが登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13558.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13558.html</guid>
-            <pubDate>Mon, 02 Dec 2024 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/KDMT2Up3hVUNrQjihFXDYig3SKWOTrkd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】期間中合計で総額100万円分のえらべるPayが抽選で1000名様に当たる！『「#学マス最大100連ガシャ無料」えらべるPayプレゼントキャンペーン』開催中！]]></title>
-            <description><![CDATA[#学マス #えらべるPay #学マス最大100連ガシャ無料]]></description>
-            <link>https://idolmaster-official.jp/news/01_13635.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13635.html</guid>
-            <pubDate>Mon, 02 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/11/4bRzspjQLAwjCLv3ndWz2A7YzP2rP8Jc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】いよいよ今週末！学園アイドルマスター DEBUT LIVE 初 TOUR -初心公演- in梅田クラブクアトロは12月1日(日)開催！ 配信視聴チケット販売中！]]></title>
-            <description><![CDATA[#学マスデビュー初心_梅田 #学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13688.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13688.html</guid>
-            <pubDate>Fri, 29 Nov 2024 10:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/11/KNs3VNSpbVFDDFlfYAZSCmSLo0wKYJXt.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
