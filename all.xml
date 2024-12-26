@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Dec 2024 03:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 06:20:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Dec 2024 03:19:09 GMT</pubDate>
+        <pubDate>Thu, 26 Dec 2024 06:20:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ2ndLIVE】イベント公式グッズ事前販売ファイナルがスタート！協賛社グッズの受注も開始♪]]></title>
+            <description><![CDATA[#シャニアニ2ndLIVE #シャニアニ2nd #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14020.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14020.html</guid>
+            <pubDate>Thu, 26 Dec 2024 06:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/aaXJgqZvmBEes7O65xE8kejVvOhhrNOa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】2月14日（金）から没入型音声体験「ボイスフレンド」とのコラボ、「理由（ワケ）あって書店員！Beit in 書泉ブックタワー」を開催！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13903.html</guid>
             <pubDate>Fri, 20 Dec 2024 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/qeWXLncN8V9CClExVhQe6laKA8svYB3k.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】『ミリシタ7.5周年 唸れ！ミリオンアーマー！生配信!!!!!!!!!!!!!!!』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
-            <description><![CDATA[#ミリシタ  #唸れミリオンアーマー生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_13475.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13475.html</guid>
-            <pubDate>Fri, 20 Dec 2024 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2024/12/s3PJnv99wzPPEuJOlFu2GggnDkvSVc3A.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
