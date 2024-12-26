@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Dec 2024 02:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 03:19:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Dec 2024 02:13:49 GMT</pubDate>
+        <pubDate>Thu, 26 Dec 2024 03:19:09 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/24 スペシャルゲストの詳細更新※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】2月14日（金）から没入型音声体験「ボイスフレンド」とのコラボ、「理由（ワケ）あって書店員！Beit in 書泉ブックタワー」を開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_14001.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14001.html</guid>
+            <pubDate>Thu, 26 Dec 2024 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/0wNBZH29FIJmR5YH2LvIAt2aG398Q9x7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ×RAKU CAFE池袋」のコラボカフェが決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_13828.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13828.html</guid>
+            <pubDate>Thu, 26 Dec 2024 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/7ujQNwtS52SzEDp9y6IghvkESto81Jbg.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】「LIVE SHOWCASE」全公演の「キャストコメント欄参加アーカイブ同時視聴会」の日程・キャストを発表！配信チケット販売中！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13475.html</guid>
             <pubDate>Fri, 20 Dec 2024 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2024/12/s3PJnv99wzPPEuJOlFu2GggnDkvSVc3A.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ツアマス】2025年春 稼働決定！キャストが語るツアマスの魅力！ 動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13418.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13418.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/9meeivLbLpvu8CR0MKdc7hcON9u5OlP2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ熊本公演 いよいよ今週末開催！差し入れ企画「みんなで食べよう！315ご当地デリバリー!!!!!!!!!! in 熊本」＆一部公式グッズWEB販売開始！展示＆会場物販＆飲食情報など要チェック！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ熊本]]></description>
-            <link>https://idolmaster-official.jp/news/01_13954.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13954.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/X3CPoFyEb00t6wts1isIngT6kCZMeBAb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
