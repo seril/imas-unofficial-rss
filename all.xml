@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Dec 2024 03:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 06:20:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Dec 2024 03:18:42 GMT</pubDate>
+        <pubDate>Fri, 27 Dec 2024 06:20:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/26更新 スペシャルゲスト発表※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニラジHBTK】新春生配信スペシャル2025！「新春シャニマスかるた」読み札募集中！]]></title>
+            <description><![CDATA[ #シャニマス #シャニラジHBTK]]></description>
+            <link>https://idolmaster-official.jp/news/01_13998.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13998.html</guid>
+            <pubDate>Fri, 27 Dec 2024 05:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/VJapaVMnJ0xbBOSO3MOadqazUIezI9wj.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着/リセールは2025年1月11日(土)12:00開始！さらに受注中のグッズ情報やドレスコードについてもおしらせ！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13715.html</guid>
             <pubDate>Sun, 22 Dec 2024 06:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1025/SIDEM/2024/11/ERiHHVDJeMINALC24de90crSOaVf3R4D.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！】Act-3開催記念グッズのリバイバル販売が実施中！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_13957.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13957.html</guid>
-            <pubDate>Sun, 22 Dec 2024 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/aVNa48LGQJpA4ZROjoyUGTyEGT6f7yff.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
