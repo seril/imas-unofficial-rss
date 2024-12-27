@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Dec 2024 02:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 03:18:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Dec 2024 02:14:56 GMT</pubDate>
+        <pubDate>Fri, 27 Dec 2024 03:18:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/26更新 スペシャルゲスト発表※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -17,12 +17,28 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着/リセールは2025年1月11日(土)12:00開始！さらに受注中のグッズ情報やドレスコードについてもおしらせ！]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14044.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14044.html</guid>
+            <pubDate>Fri, 27 Dec 2024 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 楽屋花についてのご案内]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14040.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14040.html</guid>
+            <pubDate>Fri, 27 Dec 2024 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/HWn7aIbuBsptaFXK7OTxHA0jd4dNiHWZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年企画　アイドルマスターマンホールプロジェクト「ふたマス!!!!!!」始動！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
             <link>https://idolmaster-official.jp/news/01_14034.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14034.html</guid>
             <pubDate>Fri, 27 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/eCVoE0UfFnOKHalhYHWG06V4pJjkNDOF.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【ライブダイジェスト】みんなで選んだ、もう一度観たい！2020→2024アイマスライブ名場面セレクション プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13473.html</guid>
             <pubDate>Sat, 16 Nov 2024 06:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/DQJ6rgadd38KYv1mmJ8Y4jolgssEQ6AT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【アイマス】ちくせい花火大会2024アイマスコラボミュージックスターマイン🎆 #筑西市コラボ プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #ちくせい花火大会2024 #筑西市コラボ]]></description>
-            <link>https://idolmaster-official.jp/news/live_lMBtDm.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/live_lMBtDm.html</guid>
-            <pubDate>Fri, 15 Nov 2024 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/cNuJT7mLnRPS8WO6InYhs1h2wc4E74nF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ハッチポッチ2】「THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2」2025年3月29日、30日にさいたまスーパーアリーナで開催決定！]]></title>
-            <description><![CDATA[#アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_13457.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13457.html</guid>
-            <pubDate>Fri, 15 Nov 2024 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/11/GirxKRdh9G1Hq7YIOX88XWa0Oxacu8mE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

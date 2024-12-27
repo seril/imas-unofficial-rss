@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Dec 2024 02:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 03:18:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Dec 2024 02:14:56 GMT</pubDate>
+        <pubDate>Fri, 27 Dec 2024 03:18:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/26更新 スペシャルゲスト発表※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着/リセールは2025年1月11日(土)12:00開始！さらに受注中のグッズ情報やドレスコードについてもおしらせ！]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14044.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14044.html</guid>
+            <pubDate>Fri, 27 Dec 2024 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 楽屋花についてのご案内]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14040.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14040.html</guid>
+            <pubDate>Fri, 27 Dec 2024 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/HWn7aIbuBsptaFXK7OTxHA0jd4dNiHWZ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニアニ2nd】全12話総集編は本日12月27日（金）25:23より放送！Blu-ray予約受付中！]]></title>
@@ -30,7 +46,7 @@
             <link>https://idolmaster-official.jp/news/01_14034.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14034.html</guid>
             <pubDate>Fri, 27 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/eCVoE0UfFnOKHalhYHWG06V4pJjkNDOF.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】3日連続、毎日参加できる！『「#学マス初のフェスガシャ開催中」えらべるPayプレゼントキャンペーン』！期間中合計で総額100万円分のえらべるPayが抽選で1000名様に当たる！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13957.html</guid>
             <pubDate>Sun, 22 Dec 2024 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/aVNa48LGQJpA4ZROjoyUGTyEGT6f7yff.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【アイマスエキスポ】閉会式のその後を撮影しました。【タイムラプス】動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13950.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13950.html</guid>
-            <pubDate>Sat, 21 Dec 2024 13:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/01PRHQGIA4GWLPj37sunoTxa1aH8677T.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SHHis_CoMETIK_lme】リセール「283 Production LIVE Performance [liminal;marginal;eternal]」のお申込みが本日15:00より開始！]]></title>
-            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
-            <link>https://idolmaster-official.jp/news/01_13949.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13949.html</guid>
-            <pubDate>Sat, 21 Dec 2024 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/12/lm5CR6JjRvJwDFI1iSqbJPgVJz8Ch4NT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

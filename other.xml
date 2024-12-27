@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Dec 2024 02:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 03:18:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Dec 2024 02:14:56 GMT</pubDate>
+        <pubDate>Fri, 27 Dec 2024 03:18:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/26更新 スペシャルゲスト発表※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -17,12 +17,28 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着/リセールは2025年1月11日(土)12:00開始！さらに受注中のグッズ情報やドレスコードについてもおしらせ！]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14044.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14044.html</guid>
+            <pubDate>Fri, 27 Dec 2024 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 楽屋花についてのご案内]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14040.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14040.html</guid>
+            <pubDate>Fri, 27 Dec 2024 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/HWn7aIbuBsptaFXK7OTxHA0jd4dNiHWZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年企画　アイドルマスターマンホールプロジェクト「ふたマス!!!!!!」始動！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
             <link>https://idolmaster-official.jp/news/01_14034.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14034.html</guid>
             <pubDate>Fri, 27 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/eCVoE0UfFnOKHalhYHWG06V4pJjkNDOF.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】 #アイマスEXPO SPソロステージでのライバーアイドル2nd single曲パフォーマンス映像を特別公開！EXPOステージ配信アーカイブチケットの販売は12月30日まで！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13099.html</guid>
             <pubDate>Sat, 12 Oct 2024 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/71OnmCZkFm1hXqlWP2mbqOxK5aT9jr74.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】現地チケットASOBI STORE一般会員先行の受付が本日10月12日(土)よりスタート！]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13069.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13069.html</guid>
-            <pubDate>Sat, 12 Oct 2024 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/10/kmCtIoFhs2q4VK3JzS3w6sokIWPwnnaI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【スタマス実況】3周年記念☆まだまだスタマスを語りたい！！！　配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #スタマス3周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_12918.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_12918.html</guid>
-            <pubDate>Fri, 11 Oct 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/SEQiD10bdWfq1aHTRoUWy1dVNuj7kN5J.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
