@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Dec 2024 11:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2024 14:13:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Dec 2024 11:11:36 GMT</pubDate>
+        <pubDate>Fri, 27 Dec 2024 14:13:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[※12/26更新 スペシャルゲスト発表※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
             <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】『アイドルマスター』シリーズ合同オーケストラコンサートが2025年7月21日(月・祝)に開催決定！現地チケット最速先行は本日スタート♪]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_14062.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14062.html</guid>
+            <pubDate>Fri, 27 Dec 2024 12:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/8E0fDMofTHswgb3TbFT0tAqdg6F3TXXm.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】アイマス20周年当日の2025年7月26日(土) に特別イベントの開催が決定！！無料生配信＆現地有料イベント形式で開催♪ 現地チケット先行は本日受付スタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14063.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14063.html</guid>
+            <pubDate>Fri, 27 Dec 2024 12:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/e1jaBViVmIyeegOeW9igWaKbQhSOMMHA.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」応援ポストを投稿して、応援チームキャスト3名のサイン色紙に応募しよう！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13921.html</guid>
             <pubDate>Sun, 22 Dec 2024 10:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/oLqloNyufkolxs2MLeOePrCX1LBUDGTj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】情報解禁！2025年5月17日(土) 幕張イベントホールにて「CHOCOFFICERANGER!!」開催決定！！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR]]></description>
-            <link>https://idolmaster-official.jp/news/01_13962.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13962.html</guid>
-            <pubDate>Sun, 22 Dec 2024 09:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/crDXJuPRyKk1aCO22yPahhvIxdBAzkoS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】情報解禁！2025年5月18日(日) 幕張イベントホールにて「AtoZto!!」開催決定！！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_AZto]]></description>
-            <link>https://idolmaster-official.jp/news/01_13963.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13963.html</guid>
-            <pubDate>Sun, 22 Dec 2024 09:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/1GnlFSAc6EoOIhCytCTElbM8QGf1Ynjs.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
