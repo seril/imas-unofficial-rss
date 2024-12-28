@@ -4,17 +4,33 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Dec 2024 14:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Dec 2024 02:11:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Dec 2024 14:13:22 GMT</pubDate>
+        <pubDate>Sat, 28 Dec 2024 02:11:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
-            <title><![CDATA[※12/26更新 スペシャルゲスト発表※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
-            <description><![CDATA[#オールアイマス大感謝祭 #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13559.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
-            <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オールアイマス大感謝祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_13994.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13994.html</guid>
+            <pubDate>Fri, 27 Dec 2024 14:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/yQWDeBA36sR9Q6A2HAvxGWbLnfavuqlk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」お知らせまとめ]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オールアイマス大感謝祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_13991.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
+            <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #アイラブ歌合戦 】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayの数量限定販売中！]]></title>
+            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
+            <link>https://idolmaster-official.jp/news/01_14049.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14049.html</guid>
+            <pubDate>Sat, 28 Dec 2024 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】『アイドルマスター』シリーズ合同オーケストラコンサートが2025年7月21日(月・祝)に開催決定！現地チケット最速先行は本日スタート♪]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13854.html</guid>
             <pubDate>Sun, 15 Dec 2024 05:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/MsaPeCyah5BzbaCrYkrl9UHtDlY1ljBz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY1お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
-            <description><![CDATA[#アイマスEXPO_ライブ_DAY1 #アイマスEXPO_サブステ_DAY1 #アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13798.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13798.html</guid>
-            <pubDate>Sat, 14 Dec 2024 12:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/TfOqEFXPewTLpGPaBKx1lBSjcRr2DYEY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】🔔早期予約特典は明日12月15日(日)まで🔔「283プロダクションアイドル宣材資料（ストレイライト・ノクチル・シーズ Ver）」も同梱予定！！【Blu-ray予約受付中！】]]></title>
-            <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13853.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13853.html</guid>
-            <pubDate>Sat, 14 Dec 2024 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/llm3PSy73fmYiYBMbHeFryjEXvyTSgAz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
