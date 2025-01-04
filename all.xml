@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jan 2025 06:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 11:11:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jan 2025 06:19:08 GMT</pubDate>
+        <pubDate>Sat, 04 Jan 2025 11:11:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】受付はあと約1週間！デレステ10thツアー大阪/東京公演の公式グッズ事前2次販売をお見逃しなく♪ルミカライトもガラポンもご用意♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14071.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14071.html</guid>
+            <pubDate>Sat, 04 Jan 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/01/rhQFPRiuFn5eNNLQ404pqZsjaDKTXNQL.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】学園アイドルマスター×セブン‐イレブン　コラボキャンペーン開催決定！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13993.html</guid>
             <pubDate>Wed, 25 Dec 2024 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/z5zkinjqjhYAvr2JhExwVUw6mU8Z9mPP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】『「期間中 今なら最大190連ガシャ無料!!」開催記念 えらべるPayプレゼントキャンペーン』開催中！]]></title>
-            <description><![CDATA[#ミリシタ #えらべるPay #ミリリン]]></description>
-            <link>https://idolmaster-official.jp/news/01_13889.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13889.html</guid>
-            <pubDate>Wed, 25 Dec 2024 05:59:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/IeFaYaK7ejZMOdUhm2LJTn9bZI5Lz2DN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
