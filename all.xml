@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jan 2025 02:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 03:22:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jan 2025 02:19:06 GMT</pubDate>
+        <pubDate>Mon, 06 Jan 2025 03:22:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【1/10(金) から！】『THE IDOLM@STER MILLION LIVE! MILLION MAGIC』ポップアップストアが開催！🎩✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13992.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13992.html</guid>
+            <pubDate>Mon, 06 Jan 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/q2nzZOUtnGqfzNbcSAPSwFF8hxeVXK9R.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、3月分予約受付中！ 特任プロデューサー就任キャンペーンも開催中♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_13967.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13967.html</guid>
+            <pubDate>Mon, 06 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/z2bBykLrsFeqknMnrTy8wFAHGVuKsItq.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】イオン限定バレンタイン商品が発売決定！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14005.html</guid>
             <pubDate>Wed, 25 Dec 2024 09:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/g17OGYooRmKLAhn1ZRZY8oTeBcEL0OSx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM9th】LIVE Blu-ray ジャケット＆店舗特典デザイン公開！！各店舗にてご予約受付中！]]></title>
-            <description><![CDATA[#SideM #SideM9th]]></description>
-            <link>https://idolmaster-official.jp/news/01_13995.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13995.html</guid>
-            <pubDate>Wed, 25 Dec 2024 08:32:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/V7N5krBcBwma53A1RF8DlXuK0sbp8rw3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「Mフェス2025」イベント詳細情報を公開！]]></title>
-            <description><![CDATA[#SideM #Mフェス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_13946.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13946.html</guid>
-            <pubDate>Wed, 25 Dec 2024 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/Cvm6OmIIx56VvlsF281apvN904wOJb7T.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
