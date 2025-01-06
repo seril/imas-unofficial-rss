@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jan 2025 14:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 02:19:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jan 2025 14:11:41 GMT</pubDate>
+        <pubDate>Mon, 06 Jan 2025 02:19:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】1月25-26日に開催！オンラインアイドルフェス『Virtual Music Award 2025』にヴイアライヴ出演決定のお知らせ！1月7日締切の企画も改めておまとめ！  #ブイアワ]]></title>
+            <description><![CDATA[【 #ヴイアラ 】1月25-26日に開催！オンラインアイドルフェス『Virtual Music Award 2025』にヴイアライヴ出演決定のお知らせ！1月7日締切の企画も改めておまとめ！  #ブイアワ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14069.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14069.html</guid>
+            <pubDate>Mon, 06 Jan 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/s4G9vGpMH77WnMXPMP4Y0cHWbWANxL0m.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着/リセールは2025年1月11日(土)12:00開始！さらに受注中のグッズ情報やドレスコードについてもおしらせ！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13127.html</guid>
             <pubDate>Fri, 18 Oct 2024 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/10/zDaD7JHYtdDBmwLJ1U3fFWftvCY2Hbiq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】いよいよ明日より！ #アイカツアカデミー ！コラボ配信開始！ 17日と19日に合同配信、30日にはコラボ歌枠リレー配信を実施！]]></title>
-            <description><![CDATA[#デミカツ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13122.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13122.html</guid>
-            <pubDate>Wed, 16 Oct 2024 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/10/d4LbAKq5z6Uj3JwBELK1unmlQdjGsWp4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
