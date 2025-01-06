@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jan 2025 06:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 11:11:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jan 2025 06:21:49 GMT</pubDate>
+        <pubDate>Mon, 06 Jan 2025 11:11:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】プロデューサーの皆さんからの投票結果がライバーアイドルの公式能力値に！＜第三 四半期＞「ライバーアイドル中間能力評価」を1月7日まで実施中！ ]]></title>
+            <description><![CDATA[【 #ヴイアラ 】プロデューサーの皆さんからの投票結果がライバーアイドルの公式能力値に！＜第三 四半期＞「ライバーアイドル中間能力評価」を1月7日まで実施中！ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14070.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14070.html</guid>
+            <pubDate>Mon, 06 Jan 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/GYhODUaLn2x6Q0mPf3hklDGly8CSSVKf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】1月25-26日に開催！オンラインアイドルフェス『Virtual Music Award 2025』にヴイアライヴ出演決定のお知らせ！1月7日締切の企画も改めておまとめ！  #ブイアワ]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/live_BQNgg0.html</guid>
             <pubDate>Mon, 21 Oct 2024 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/VvqooYtIzf1P1yfMolHA23TUtc0pcxOa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】配信視聴チケットの販売が本日よりスタート！EXPO AREA「エキスポステージ」「企業ブース」の詳細も公開！現地チケットASOBI STORE一般会員先行も受付中♪]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13127.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13127.html</guid>
-            <pubDate>Fri, 18 Oct 2024 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/10/zDaD7JHYtdDBmwLJ1U3fFWftvCY2Hbiq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
