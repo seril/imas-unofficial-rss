@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jan 2025 14:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 02:16:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jan 2025 14:13:45 GMT</pubDate>
+        <pubDate>Tue, 07 Jan 2025 02:16:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】原宿系がド派手でカワイイ💗JOL原宿にてPOP UPショップ開催]]></title>
+            <description><![CDATA[【学マス】原宿系がド派手でカワイイ💗JOL原宿にてPOP UPショップ開催]]></description>
+            <link>https://idolmaster-official.jp/news/01_14002.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14002.html</guid>
+            <pubDate>Tue, 07 Jan 2025 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/eN5BD4OEUO3oqio1mmbCorCV5UoPSdhj.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】学園アイドルマスター×セブン‐イレブン　コラボキャンペーン開催決定！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13765.html</guid>
             <pubDate>Mon, 09 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/cSUQwtL3XlkXoqTB71bxele1zMHPKFRo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】YouTubeアイマスchにて「LIVE SHOWCASE AREA」天海春香（DAY1）／秋月律子（DAY2）公演の冒頭無料配信が決定！／現地チケット情報やその他お知らせも！]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13768.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13768.html</guid>
-            <pubDate>Fri, 06 Dec 2024 09:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/j5wRMdfzZuvTXLE0v1oPIm91MvwkDKf8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
