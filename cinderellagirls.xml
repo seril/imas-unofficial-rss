@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jan 2025 02:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 03:18:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jan 2025 02:14:38 GMT</pubDate>
+        <pubDate>Wed, 08 Jan 2025 03:18:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】ST@iRs to 10th Anniversary シンデレラアワード開催中！]]></title>
+            <description><![CDATA[#シンデレラアワード開催中 #stairs_to_10th #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14113.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14113.html</guid>
+            <pubDate>Wed, 08 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/felCVQi4QZGTv2LjHt56mlRdWEIw28BN.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【受注開始！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注開始！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</guid>
             <pubDate>Mon, 16 Dec 2024 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/t52e8AXeerb1D8tJWTYS476Vcb9qdofl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA MASTER Passion jewelries! 004」の発売が決定！！]]></title>
-            <description><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA MASTER Passion jewelries! 004」の発売が決定！！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13842.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13842.html</guid>
-            <pubDate>Mon, 16 Dec 2024 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/P64MJbvuf4jLGy3DXgrNqhlSSI6A7fE9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

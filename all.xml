@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jan 2025 02:14:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 03:18:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jan 2025 02:14:38 GMT</pubDate>
+        <pubDate>Wed, 08 Jan 2025 03:18:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】FiFS イラスト展『スリー・ワン・ファイヴ』VOL.4が明日1月9日より開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_14026.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14026.html</guid>
+            <pubDate>Wed, 08 Jan 2025 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/QhjIYZ3GUKlp61dNJuDaYkkrqpE8BVLW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】ST@iRs to 10th Anniversary シンデレラアワード開催中！]]></title>
+            <description><![CDATA[#シンデレラアワード開催中 #stairs_to_10th #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14113.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14113.html</guid>
+            <pubDate>Wed, 08 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/felCVQi4QZGTv2LjHt56mlRdWEIw28BN.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニアニ2nd】1月14日(火)20:00～  アニメ「アイドルマスター シャイニーカラーズ 2nd season」Blu-ray！全力紹介バラエティ！？スペシャル生配信　実施決定！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13904.html</guid>
             <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/D3PTlhS8YARvILSYy2MYxjJlkGwH6KB5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】 #アイマスEXPO SPソロステージでのライバーアイドル2nd single曲パフォーマンス映像を特別公開！EXPOステージ配信アーカイブチケットの販売は12月30日まで！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】 #アイマスEXPO SPソロステージでのライバーアイドル2nd single曲パフォーマンス映像を特別公開！EXPOステージ配信アーカイブチケットの販売は12月30日まで！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14029.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14029.html</guid>
-            <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/p54X2TlrOdL7UZNhFBOZ9MWSMC8pspsb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】篠澤広誕生日記念セット受注受付中♪（1/13(月・祝)まで）]]></title>
-            <description><![CDATA[#学マス #篠澤広 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13979.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13979.html</guid>
-            <pubDate>Thu, 26 Dec 2024 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2024/12/xRvNMBuTcKNY7sXvUUGzN2YhXovXXqKi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

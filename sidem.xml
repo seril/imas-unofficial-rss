@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jan 2025 02:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 03:18:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jan 2025 02:14:39 GMT</pubDate>
+        <pubDate>Wed, 08 Jan 2025 03:18:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】FiFS イラスト展『スリー・ワン・ファイヴ』VOL.4が明日1月9日より開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_14026.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14026.html</guid>
+            <pubDate>Wed, 08 Jan 2025 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/QhjIYZ3GUKlp61dNJuDaYkkrqpE8BVLW.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM 10th ANNIVERSARY P@SSION 07 彩」CD情報！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13848.html</guid>
             <pubDate>Sun, 15 Dec 2024 11:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/ZbLiEZClNCAYFyafrm2uonZk59Cz62w3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY1お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
-            <description><![CDATA[#アイマスEXPO_ライブ_DAY1 #アイマスEXPO_サブステ_DAY1 #アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13798.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13798.html</guid>
-            <pubDate>Sat, 14 Dec 2024 12:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/TfOqEFXPewTLpGPaBKx1lBSjcRr2DYEY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
