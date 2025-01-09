@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jan 2025 06:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 11:11:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jan 2025 06:20:07 GMT</pubDate>
+        <pubDate>Thu, 09 Jan 2025 11:11:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】篠澤広誕生日記念セット締め切り迫る！（1/13(月・祝)まで）]]></title>
+            <description><![CDATA[ #学マス #学園アイドルマスター #初星学園 #篠澤広生誕祭2024]]></description>
+            <link>https://idolmaster-official.jp/news/01_14081.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14081.html</guid>
+            <pubDate>Thu, 09 Jan 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/01/1bZRA82i8KqRk7XbBz32Wnh8Na3kMYHB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14135.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14135.html</guid>
+            <pubDate>Thu, 09 Jan 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】TRAVAS TOKYO コラボTシャツ 受注締切間近！]]></title>
@@ -329,7 +345,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2024/12/PdXHS9Ng0T7IWNpmr1tocAgePI7KqJkp.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[※1月7日更新※【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール広島府中」開催決定！]]></title>
+            <title><![CDATA[※1月9日更新※【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール広島府中」開催決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス広島府中]]></description>
             <link>https://idolmaster-official.jp/news/01_13658.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13658.html</guid>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13660.html</guid>
             <pubDate>Thu, 12 Dec 2024 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/0sgfo5lSS6bMVFUzY6M969Y02sED96Pt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ハーフアニバーサリーグッズ各種、受注〆切間近！]]></title>
-            <description><![CDATA[#学マス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13832.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13832.html</guid>
-            <pubDate>Thu, 12 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2024/12/KBvfF8wyYFXeSfqHmYvHGp8UGmiwYzXf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスエキスポ】DECOR@TION CAR MEETINGブース最新情報！アイ車ステレオDJイベント開催決定♬]]></title>
-            <description><![CDATA[#アイマスエキスポ #DECOR@TIONCARMEETING]]></description>
-            <link>https://idolmaster-official.jp/news/01_13812.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13812.html</guid>
-            <pubDate>Wed, 11 Dec 2024 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2024/12/BZcBCjnCgytx0j3Twfr8Izz6WcJQUFz2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
