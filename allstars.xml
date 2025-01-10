@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jan 2025 14:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 02:17:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jan 2025 14:13:28 GMT</pubDate>
+        <pubDate>Fri, 10 Jan 2025 02:17:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「たかつき観光大使」高槻やよいのバースデーイベントが今年も開催決定！3月22日(土) 安満遺跡公園にて開催🎉]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14097.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14097.html</guid>
+            <pubDate>Fri, 10 Jan 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/Jdoqlg3yzJEInp6esHsFfPmn2DemhIiX.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13672.html</guid>
             <pubDate>Thu, 28 Nov 2024 10:06:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/pkmRqkVGmSNhcv8ffP2IkGZObEsAoRVT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「アイマス検定」公式グッズの事前物販がスタート！さらに12/19（木）19時より「予備校自習室！源Pと一緒に勉強配信」が実施決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー  #アイマス検定]]></description>
-            <link>https://idolmaster-official.jp/news/01_13589.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13589.html</guid>
-            <pubDate>Thu, 28 Nov 2024 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/11/p4T1B8q8A0SMn3KGARmCxF7QRPQKyAr2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
