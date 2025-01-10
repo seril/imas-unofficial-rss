@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 06:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 11:12:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jan 2025 06:20:54 GMT</pubDate>
+        <pubDate>Fri, 10 Jan 2025 11:12:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14136.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14136.html</guid>
+            <pubDate>Fri, 10 Jan 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】「世界一可愛い私 藤田ことね」スケールフィギュアがいよいよ登場！！1月10日(金)13時予約開始！！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13780.html</guid>
             <pubDate>Fri, 13 Dec 2024 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/RD5LJgN3ntcIZH3XAUMVY7UN7frIRsnW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star 2025年5月24日(土)・25日(日)、5月31日(土)・6月1日(日)にて開催決定！アソビストアプレミアム会員先行(抽選)・公式グッズ事前販売 第1弾も開始！]]></title>
-            <description><![CDATA[#学マス  #学マス1st]]></description>
-            <link>https://idolmaster-official.jp/news/01_13819.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13819.html</guid>
-            <pubDate>Thu, 12 Dec 2024 14:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/12/HWVO25SyhNv16hqHhFvOSj8dRmti5ng9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
