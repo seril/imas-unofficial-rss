@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 02:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 03:21:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jan 2025 02:17:50 GMT</pubDate>
+        <pubDate>Fri, 10 Jan 2025 03:21:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明日12:00開始】【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着は明日2025年1月11日(土)12:00受付開始！新ビジュアルを使用したイベントグッズ事前受注は1月13日(月・祝)まで！]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14142.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14142.html</guid>
+            <pubDate>Fri, 10 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【765】「たかつき観光大使」高槻やよいのバースデーイベントが今年も開催決定！3月22日(土) 安満遺跡公園にて開催🎉]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13574.html</guid>
             <pubDate>Fri, 29 Nov 2024 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/UKnEG1OlJl8ECFgmlFPBMzC70z3hi8K5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【961】今週末まで！「961 PRODUCTION presents 『Re:FLAME』 追加公演」アソビストア一般会員先行抽選申込(指定席/見切れ席)の受付は今週末12/1(日)まで！]]></title>
-            <description><![CDATA[#reflame_961]]></description>
-            <link>https://idolmaster-official.jp/news/01_13672.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13672.html</guid>
-            <pubDate>Thu, 28 Nov 2024 10:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/pkmRqkVGmSNhcv8ffP2IkGZObEsAoRVT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

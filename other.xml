@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 02:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 03:21:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jan 2025 02:17:50 GMT</pubDate>
+        <pubDate>Fri, 10 Jan 2025 03:21:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明日12:00開始】【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着は明日2025年1月11日(土)12:00受付開始！新ビジュアルを使用したイベントグッズ事前受注は1月13日(月・祝)まで！]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14142.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14142.html</guid>
+            <pubDate>Fri, 10 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】プロデューサーの皆さんからの投票結果がライバーアイドルの公式能力値に！＜第三 四半期＞「ライバーアイドル中間能力評価」を1月7日まで実施中！ ]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13133.html</guid>
             <pubDate>Tue, 22 Oct 2024 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/QXoTl4rQtfLyvKyFOlbPOpemRT0BCnhP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】アイマス20周年記念企画をみんなでチェック！　配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/live_BQNgg0.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/live_BQNgg0.html</guid>
-            <pubDate>Mon, 21 Oct 2024 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/VvqooYtIzf1P1yfMolHA23TUtc0pcxOa.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

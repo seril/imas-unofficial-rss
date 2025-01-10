@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 02:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 03:21:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jan 2025 02:17:51 GMT</pubDate>
+        <pubDate>Fri, 10 Jan 2025 03:21:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】トレーニング服 第2弾 受注締切間近！]]></title>
+            <description><![CDATA[　　　　　　　　　#学マス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14123.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14123.html</guid>
+            <pubDate>Fri, 10 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/01/w8FTZ7GxNtKfvwI8mpr65kCxrtC8qsvE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】篠澤広誕生日記念セット締め切り迫る！（1/13(月・祝)まで）]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13766.html</guid>
             <pubDate>Thu, 12 Dec 2024 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/66S7r17ln5URfQtnlFqj83taFrAX1iYK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学マスカンファレンス」配信記念！出演キャストのサイン色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター  #学マスカンファレンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13660.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13660.html</guid>
-            <pubDate>Thu, 12 Dec 2024 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/0sgfo5lSS6bMVFUzY6M969Y02sED96Pt.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
