@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 03:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 06:20:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jan 2025 03:21:30 GMT</pubDate>
+        <pubDate>Fri, 10 Jan 2025 06:20:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「世界一可愛い私 藤田ことね」スケールフィギュアがいよいよ登場！！1月10日(金)13時予約開始！！]]></title>
+            <description><![CDATA[【学マス】「世界一可愛い私 藤田ことね」スケールフィギュアがいよいよ登場！！1月10日(金)13時予約開始！！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14057.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14057.html</guid>
+            <pubDate>Fri, 10 Jan 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/TLZyXQzswNeu8cwJ81QZye7V53jzRAoo.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】トレーニング服 第2弾 受注締切間近！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13819.html</guid>
             <pubDate>Thu, 12 Dec 2024 14:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/12/HWVO25SyhNv16hqHhFvOSj8dRmti5ng9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】12/12(木)学マス生配信「学マスカンファレンス」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター #学マスカンファレンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13766.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13766.html</guid>
-            <pubDate>Thu, 12 Dec 2024 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/66S7r17ln5URfQtnlFqj83taFrAX1iYK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
