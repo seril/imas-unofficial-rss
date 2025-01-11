@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 11 Jan 2025 11:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 14:12:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 11 Jan 2025 11:10:38 GMT</pubDate>
+        <pubDate>Sat, 11 Jan 2025 14:12:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SHHis_CoMETIK_lme】283 Production LIVE Performance [liminal;marginal;eternal] [never;1] [odd;2] ご来場・ご視聴いただきありがとうございました！！ 告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#SHHis_CoMETIK_lme #SC_283lme_never1 #SC_283lme_odd2]]></description>
+            <link>https://idolmaster-official.jp/news/01_13814.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13814.html</guid>
+            <pubDate>Sat, 11 Jan 2025 13:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/Pe9mahaPc1j3fOsUJtUCybFxKQn3YGt2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13935.html</guid>
             <pubDate>Fri, 20 Dec 2024 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/4kjxDDYHzVpsUZLEOguzBhzR5qszCFnZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】いよいよ最終回！✨本日 12月20日(金) 25:33～✨ 第12話「今、この時だけの輝き」が放送！アニメ放送前の22:00からは「最終回直前生配信」を実施！ ]]></title>
-            <description><![CDATA[#シャニアニ2nd最終回直前 #シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13908.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13908.html</guid>
-            <pubDate>Fri, 20 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/K4xEC9nXhXycblqNafO6KzrKbgFwupJ8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
