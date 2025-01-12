@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jan 2025 02:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 03:25:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jan 2025 02:22:36 GMT</pubDate>
+        <pubDate>Sun, 12 Jan 2025 03:25:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明日まで!!】【シャニマス】「283 PRODUCE SHOP Series」第1弾 ストレイライトとシーズがプロデュースしたお店のグッズの受注は1月13日(月・祝)まで！]]></title>
+            <description><![CDATA[#283ProduceShop_Series #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14154.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14154.html</guid>
+            <pubDate>Sun, 12 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/01/DzrvbW7x1FdO05FP3sv8nsI9yEJ2h4mr.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SHHis_CoMETIK_lme】283 Production LIVE Performance [liminal;marginal;eternal] [never;1] [odd;2] ご来場・ご視聴いただきありがとうございました！！ 告知内容まとめはこちら！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13930.html</guid>
             <pubDate>Fri, 20 Dec 2024 03:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/vEVQGAY8V6PvNUe6C06np11yvwOON5Tn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS ECHOES 07」サブスクリプションサービス配信記念 Spotifyプレイリスト公開！！]]></title>
-            <description><![CDATA[#シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13935.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13935.html</guid>
-            <pubDate>Fri, 20 Dec 2024 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/4kjxDDYHzVpsUZLEOguzBhzR5qszCFnZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
