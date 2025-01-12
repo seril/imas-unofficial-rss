@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Jan 2025 11:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jan 2025 14:12:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Jan 2025 11:11:34 GMT</pubDate>
+        <pubDate>Sun, 12 Jan 2025 14:12:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】1stLIVEグッズ事前物販2nd実施中！発売は1月13日(月・祝)まで！お見逃しなく！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】1stLIVEグッズ事前物販2nd実施中！発売は1月13日(月・祝)まで！お見逃しなく！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14161.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14161.html</guid>
+            <pubDate>Sun, 12 Jan 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/Mn5UNIEqx26BIDBEiGslJIbuXNA9uAhp.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ディアリースターズ】アイマスDS発売15周年記念グッズセット 受注締切間近！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13174.html</guid>
             <pubDate>Fri, 01 Nov 2024 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/10/OiZvelqeZK0jf0cJdIZk9Zwnv74uoS3x.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】いよいよ明日10/30(水)19時より！ アイカツアカデミー！コラボ歌枠配信リレー開催！ アイカツ！楽曲、アイマス楽曲の相互カバー歌唱の配信を各個人chで同時放送！]]></title>
-            <description><![CDATA[#デミカツ #ヴイアラデミカツ歌枠リレー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13287.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13287.html</guid>
-            <pubDate>Tue, 29 Oct 2024 14:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/10/nPTKVI3IMfsxT2yV6LY8xtkanT3I2JYs.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
