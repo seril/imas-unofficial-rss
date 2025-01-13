@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jan 2025 02:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 03:24:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jan 2025 02:19:56 GMT</pubDate>
+        <pubDate>Mon, 13 Jan 2025 03:24:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14139.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14139.html</guid>
+            <pubDate>Mon, 13 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13744.html</guid>
             <pubDate>Thu, 05 Dec 2024 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/12/77wXBFupgcGP041b4TVOmfkcwRcmw7pN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「アイドルマスター×成田ゆめ牧場  みんなとすごす成田ゆめ牧場 ～穴掘りの頂点を目指しますぅ！～」観光大使発表！🐮✨限定アクリルチケット＆雪歩のバースデー記念SPセットの販売は【12/5(木) 12時】から！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスゆめ牧場]]></description>
-            <link>https://idolmaster-official.jp/news/01_13743.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13743.html</guid>
-            <pubDate>Wed, 04 Dec 2024 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/UFT7VT33EuFX1mxI7VBFmc0z9sQRtjAx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

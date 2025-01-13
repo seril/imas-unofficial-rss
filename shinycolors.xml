@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jan 2025 02:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jan 2025 03:24:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jan 2025 02:19:56 GMT</pubDate>
+        <pubDate>Mon, 13 Jan 2025 03:24:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】「THE IDOLM@STER SHINY COLORS Song for Prism Shower of light / 快盗Vを見逃すな」パネル展＆抽選会 賞品デザイン決定！]]></title>
+            <description><![CDATA[#シャニソン #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14157.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14157.html</guid>
+            <pubDate>Mon, 13 Jan 2025 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/kP7ysics86KC4xMjvk0cRGJSjH3ffVdY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14139.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14139.html</guid>
+            <pubDate>Mon, 13 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】楽曲と振り返るシャニアニ2nd＆シャニマス新プロデュースモード実況プレイ！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13418.html</guid>
             <pubDate>Fri, 20 Dec 2024 09:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/9meeivLbLpvu8CR0MKdc7hcON9u5OlP2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】アンティーカ 田中摩美々/白瀬咲耶 がプラモデルになって12月21日(土)に登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13924.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13924.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/m94uxH1SF58uQtWpr7W2bnN7qIS5vO3P.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SHHis_CoMETIK_lme】アソビストア一般発売（先着）・xRライブストリーミングチケット・リセール「283 Production LIVE Performance [liminal;marginal;eternal]」のお申込みは明日12月21日(土)12:00から！]]></title>
-            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
-            <link>https://idolmaster-official.jp/news/01_13956.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13956.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/12/Z0eQRPLiCkYx709RWzJLUdbw0cHrPk8D.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
