@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jan 2025 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 02:09:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jan 2025 14:14:29 GMT</pubDate>
+        <pubDate>Tue, 14 Jan 2025 02:09:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】関西電力の社会貢献活動推進サービス「モアクト」と、限定グッズがゲットできるコラボキャンペーンが開催決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_14118.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14118.html</guid>
+            <pubDate>Tue, 14 Jan 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/ffNwHUmGq65WVsci0iL8FYEjBXXXDGAH.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13896.html</guid>
             <pubDate>Thu, 19 Dec 2024 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/LNKJEg38PwkOWNQuCS4aWp8zLsTrN7Qd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演 本日よりアソビストアプレミアム会員2次先行お申込み受付スタート！！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_13922.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13922.html</guid>
-            <pubDate>Thu, 19 Dec 2024 04:12:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/VAksNK8m99CETNW1CDwfMaWZHxZEfY9G.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

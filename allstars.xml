@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jan 2025 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 02:09:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jan 2025 14:14:29 GMT</pubDate>
+        <pubDate>Tue, 14 Jan 2025 02:09:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】関西電力の社会貢献活動推進サービス「モアクト」と、限定グッズがゲットできるコラボキャンペーンが開催決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_14118.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14118.html</guid>
+            <pubDate>Tue, 14 Jan 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/ffNwHUmGq65WVsci0iL8FYEjBXXXDGAH.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13738.html</guid>
             <pubDate>Fri, 06 Dec 2024 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/x0chBQwoZoka8q40OOgSSET2uIBMxO7Y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ハッチポッチ2】イベントグッズ事前二次販売開始！]]></title>
-            <description><![CDATA[#アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_13744.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13744.html</guid>
-            <pubDate>Thu, 05 Dec 2024 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/12/77wXBFupgcGP041b4TVOmfkcwRcmw7pN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
