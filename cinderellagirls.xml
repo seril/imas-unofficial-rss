@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jan 2025 03:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 06:19:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Jan 2025 03:14:31 GMT</pubDate>
+        <pubDate>Tue, 14 Jan 2025 06:19:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】[ハート★オーバーフロー]をもとにした”城ヶ崎美嘉"のプライズフィギュア”がRepaint ver.で1月16日(木)より再登場！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14043.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14043.html</guid>
+            <pubDate>Tue, 14 Jan 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/fPbcKfGhe7CiDudfd9zGrRDBC6fGTg35.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「Passion jewelries! 004」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「Passion jewelries! 004」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14166.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14166.html</guid>
+            <pubDate>Tue, 14 Jan 2025 04:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/iTwkgZH6jj1XURKM5P9w4D9HL5MisOp9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】関西電力の社会貢献活動推進サービス「モアクト」と、限定グッズがゲットできるコラボキャンペーンが開催決定！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13933.html</guid>
             <pubDate>Thu, 19 Dec 2024 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/uUZ1ZqnFQ2xuxRxgFdTpu4dsA8rzz4Bu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】12月21日(土)に「LIVE SHOWCASE」シンデレラDAY1・シャニマスDAY1公演の「キャストコメント欄参加アーカイブ同時視聴会」の実施が決定！他公演も同時視聴会を開催予定♪]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13920.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13920.html</guid>
-            <pubDate>Thu, 19 Dec 2024 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/8Bq6XsfVmPHcTV1A3HyPIsVjvfelZzqI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ネタバレ】アイマスエキスポ『奥空心白と行く！エキスポプロデュースチャレンジ』解答・解説]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #心白と謎解き #スタマス #アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13916.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13916.html</guid>
-            <pubDate>Thu, 19 Dec 2024 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/NhmsheVUAUba7iZGBtAf4TTOcGSaFWML.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
