@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jan 2025 03:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 06:19:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Jan 2025 03:15:42 GMT</pubDate>
+        <pubDate>Wed, 15 Jan 2025 06:19:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
@@ -23,6 +23,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】新ゲームモード「アイドルグランプリ プロローグ体験版」 ➁ゲームプレイの流れについて（ゲームの始め方（2週目）大会プレイ～リザルト編）]]></title>
+            <description><![CDATA[#ミリシタ #アイグラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14165.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14165.html</guid>
+            <pubDate>Wed, 15 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/01/gVkaLRIWBtNcSMpPBughAzXRD7gJMTQx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】新ゲームモード「アイドルグランプリ プロローグ体験版」 ①ゲームプレイの流れについて（ゲームの始め方（1週目）ゲーム開始～お仕事・レッスン編）]]></title>
+            <description><![CDATA[#ミリシタ #アイグラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14173.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14173.html</guid>
+            <pubDate>Wed, 15 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/01/gVkaLRIWBtNcSMpPBughAzXRD7gJMTQx.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】関西電力の社会貢献活動推進サービス「モアクト」と、限定グッズがゲットできるコラボキャンペーンが開催決定！]]></title>
@@ -105,20 +121,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/z2bBykLrsFeqknMnrTy8wFAHGVuKsItq.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリシタ】イベント開催記念！『ミリオンアーマーフォトコンテスト』開催決定！]]></title>
+            <title><![CDATA[≪2025.1.15(水)13:00更新≫【ミリシタ】イベント開催記念！『ミリオンアーマーフォトコンテスト』開催決定！]]></title>
             <description><![CDATA[#ミリシタ #目撃ミリオンアーマー]]></description>
             <link>https://idolmaster-official.jp/news/01_14016.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14016.html</guid>
             <pubDate>Thu, 02 Jan 2025 06:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/wlzxFUOKuHdouZkf7QaTLuRUsW3BtT9u.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】イベント開催記念！『ミリオンアーマーイラストコンテスト』開催決定！]]></title>
-            <description><![CDATA[#ミリシタ #目撃ミリオンアーマー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14009.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14009.html</guid>
-            <pubDate>Thu, 02 Jan 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/8RHiNzVyh5kECg4LSFGRHfWYlnNo6T1Z.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスタートラストスペシャル～ミリオンアーマーBeyond～」を開催中！]]></title>
@@ -127,6 +135,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14030.html</guid>
             <pubDate>Thu, 02 Jan 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2024/12/EWxwWocVCxGkXAGWHb8bPXGyUR2MAPLC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[≪2025.1.15(水)13:00更新≫【ミリシタ】イベント開催記念！『ミリオンアーマーイラストコンテスト』開催決定！]]></title>
+            <description><![CDATA[#ミリシタ #目撃ミリオンアーマー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14009.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14009.html</guid>
+            <pubDate>Thu, 02 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/8RHiNzVyh5kECg4LSFGRHfWYlnNo6T1Z.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリシタ】「ミリシタカウントダウン！2024-2025」発表内容のまとめ！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13868.html</guid>
             <pubDate>Wed, 18 Dec 2024 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/fgM4sPpHclcFJZKaNWuP7Yrh0C7BJk9y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【クリスマスパーティー】【忘年会】今年もプロデュース活動お疲れ様でした！2024年の思い出を語り合おう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13740.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13740.html</guid>
-            <pubDate>Tue, 17 Dec 2024 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/WUGPRjJDqnyAAyWTwsTKcIetbC9Xdwt8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント STARDOM ROAD THEATER「プラチナスターティアラ～All Alone～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13879.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13879.html</guid>
-            <pubDate>Tue, 17 Dec 2024 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/YTpGWpRAXOW9bkIEo2ct0CJtc8sLs9qG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
