@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jan 2025 11:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 14:12:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jan 2025 11:11:36 GMT</pubDate>
+        <pubDate>Thu, 16 Jan 2025 14:12:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ハッチポッチ2】1/20(月)12:00～ アソビストア一般会員先行抽選受付開始！]]></title>
+            <description><![CDATA[#アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_14182.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14182.html</guid>
+            <pubDate>Thu, 16 Jan 2025 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/Thnrj2KOXfNOe7mm3CtbxjBceZKeGeBR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SHINY COLORS】偶像大师闪耀色彩 283 Production LIVE Performance [liminal;marginal;eternal] 上海公演 感谢各位的来场与应援！事后线上物贩火热贩售中！]]></title>
             <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14112.html</guid>
             <pubDate>Fri, 10 Jan 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/tjc7w6r6vwpLDIztm3anotWdRfTfuKbE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「世界一可愛い私 藤田ことね」スケールフィギュアがいよいよ登場！！1月10日(金)13時予約開始！！]]></title>
-            <description><![CDATA[【学マス】「世界一可愛い私 藤田ことね」スケールフィギュアがいよいよ登場！！1月10日(金)13時予約開始！！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14057.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14057.html</guid>
-            <pubDate>Fri, 10 Jan 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/TLZyXQzswNeu8cwJ81QZye7V53jzRAoo.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
