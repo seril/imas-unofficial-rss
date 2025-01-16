@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Jan 2025 02:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 03:15:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Jan 2025 02:10:35 GMT</pubDate>
+        <pubDate>Thu, 16 Jan 2025 03:15:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】【学マス】"リスアニ！LIVE 2025"公式コラボTシャツのデザイン公開]]></title>
+            <description><![CDATA[#シャニマス #学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14180.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14180.html</guid>
+            <pubDate>Thu, 16 Jan 2025 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/PsuYAtMznXZfYVjWjeVb9G3SBTd1KW3T.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「白菊ほたる」が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14142.html</guid>
             <pubDate>Fri, 10 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「たかつき観光大使」高槻やよいのバースデーイベントが今年も開催決定！3月22日(土) 安満遺跡公園にて開催🎉]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14097.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14097.html</guid>
-            <pubDate>Fri, 10 Jan 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/Jdoqlg3yzJEInp6esHsFfPmn2DemhIiX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
