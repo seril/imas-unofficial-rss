@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jan 2025 03:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 06:19:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jan 2025 03:16:40 GMT</pubDate>
+        <pubDate>Fri, 17 Jan 2025 06:19:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】初陣公演 現地会場物販の実施が決定！整理券受付は1月24日(金) 13：00よりスタート！]]></title>
+            <description><![CDATA[ #学マス #学マスデビューライブツアー #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14233.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14233.html</guid>
+            <pubDate>Fri, 17 Jan 2025 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/XXIwsoO55Y6XJYYAyBlo9bH1sUuInutc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】篠澤 広コラボのアパレルが新登場！本日より受注開始！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14127.html</guid>
             <pubDate>Sat, 11 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/01/l1jddFjIAlnXpscSA9zQRDkYaGgqt8iQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】大阪/東京公演の公式グッズ事前2次販売はあと3日！ガラポンも締め切り迫る！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14133.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14133.html</guid>
-            <pubDate>Sat, 11 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/01/yqyfbgVGiHffRBft0BRJXjjrOcaTM8T5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
