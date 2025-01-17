@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jan 2025 06:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 11:12:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jan 2025 06:19:59 GMT</pubDate>
+        <pubDate>Fri, 17 Jan 2025 11:12:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】初陣公演 配信視聴チケットの販売が本日1月17日(金) 19:00よりスタート！！]]></title>
+            <description><![CDATA[#学マス #学マスデビューライブツアー #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14212.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14212.html</guid>
+            <pubDate>Fri, 17 Jan 2025 10:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/CY34l2LwiuHJYJCQDXRDglkXGIRek9Y2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】初陣公演 現地会場物販の実施が決定！整理券受付は1月24日(金) 13：00よりスタート！]]></title>
             <description><![CDATA[ #学マス #学マスデビューライブツアー #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13418.html</guid>
             <pubDate>Fri, 20 Dec 2024 09:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/9meeivLbLpvu8CR0MKdc7hcON9u5OlP2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】12/21(土) 17:00～ 学マス年末ゆるっと特番～冬コミブース大解剖&W佐藤の物販部屋～]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13948.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13948.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/12/F4KY9DweiM4G4DXda6sdWyQU31YQ0Lhz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
