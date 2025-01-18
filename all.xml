@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Jan 2025 06:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 11:10:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Jan 2025 06:18:09 GMT</pubDate>
+        <pubDate>Sat, 18 Jan 2025 11:10:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】【明日まで！】4月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は1月19日(日)まで！グッズのサンプルをご紹介！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_14246.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14246.html</guid>
+            <pubDate>Sat, 18 Jan 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/6AjFvTWlu13Al8lZs0RSnrFKkAhdm1Bo.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント STARDOM ROAD THEATER「プラチナスターティアラ～涙を知ること～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13813.html</guid>
             <pubDate>Sun, 12 Jan 2025 13:18:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/QNpxZX6jc4vfaNi7W49Hr9YSGssk0KgX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】1stLIVEグッズ事前物販2nd実施中！発売は1月13日(月・祝)まで！お見逃しなく！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】1stLIVEグッズ事前物販2nd実施中！発売は1月13日(月・祝)まで！お見逃しなく！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14161.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14161.html</guid>
-            <pubDate>Sun, 12 Jan 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/Mn5UNIEqx26BIDBEiGslJIbuXNA9uAhp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
