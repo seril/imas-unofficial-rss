@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jan 2025 14:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 02:07:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jan 2025 14:12:47 GMT</pubDate>
+        <pubDate>Sat, 18 Jan 2025 02:07:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと1日！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14120.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14120.html</guid>
+            <pubDate>Sat, 18 Jan 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【Blu-ray発売記念！】Act-4 開催記念グッズがリバイバル販売中！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14214.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14214.html</guid>
+            <pubDate>Sat, 18 Jan 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【Blu-ray発売記念！】Act-4 開催記念グッズがリバイバル販売中！]]></title>
             <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13903.html</guid>
             <pubDate>Fri, 20 Dec 2024 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/qeWXLncN8V9CClExVhQe6laKA8svYB3k.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ツアマス】2025年春 稼働決定！キャストが語るツアマスの魅力！ 動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13418.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13418.html</guid>
-            <pubDate>Fri, 20 Dec 2024 09:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/9meeivLbLpvu8CR0MKdc7hcON9u5OlP2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと2日！】Act-3開催記念グッズのリバイバル販売が実施中！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_13952.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13952.html</guid>
-            <pubDate>Fri, 20 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/11/aVNa48LGQJpA4ZROjoyUGTyEGT6f7yff.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
