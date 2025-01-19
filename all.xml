@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jan 2025 03:18:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 06:18:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jan 2025 03:18:05 GMT</pubDate>
+        <pubDate>Sun, 19 Jan 2025 06:18:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】＼ 本日まで！ ／190名のバースデーグッズ企画！第2弾「やぎ座」のアイドル15名のグッズ受注は1/19(日)まで♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14247.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14247.html</guid>
+            <pubDate>Sun, 19 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/0aVbI77b6r7LgFVlnm3Jk2dvRPLN7mpD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】【明日まで！】4月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は1月19日(日)まで！グッズのサンプルをご紹介！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14092.html</guid>
             <pubDate>Sun, 12 Jan 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/dUwjFAbP1FdeORwVavfo1d3Wi5OYvNHy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SHHis_CoMETIK_lme】283 Production LIVE Performance [liminal;marginal;eternal] ご来場・ご視聴いただきありがとうございました！！ 4公演分のセットリスト&告知内容まとめはこちら！さらに同時視聴上映会の開催も決定！]]></title>
-            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
-            <link>https://idolmaster-official.jp/news/01_13813.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13813.html</guid>
-            <pubDate>Sun, 12 Jan 2025 13:18:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/QNpxZX6jc4vfaNi7W49Hr9YSGssk0KgX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
