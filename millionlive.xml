@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jan 2025 06:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 11:10:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jan 2025 06:18:25 GMT</pubDate>
+        <pubDate>Sun, 19 Jan 2025 11:10:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【Blu-ray発売記念！】Act-4 開催記念グッズがリバイバル販売中！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14215.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14215.html</guid>
+            <pubDate>Sun, 19 Jan 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【本日締切！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14242.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14242.html</guid>
+            <pubDate>Sun, 19 Jan 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント STARDOM ROAD THEATER「プラチナスターティアラ～涙を知ること～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13934.html</guid>
             <pubDate>Fri, 20 Dec 2024 12:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/zpEmqpwehGryfBnLtd2pQ2mdMwpR1c7Y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【1/10(金) より】「THE IDOLM@STER MILLION LIVE! MILLION MAGIC」のポップアップストアが開催決定🎩✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13959.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13959.html</guid>
-            <pubDate>Fri, 20 Dec 2024 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/q2nzZOUtnGqfzNbcSAPSwFF8hxeVXK9R.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】『ミリシタ7.5周年 唸れ！ミリオンアーマー！生配信!!!!!!!!!!!!!!!』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
-            <description><![CDATA[#ミリシタ  #唸れミリオンアーマー生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_13475.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13475.html</guid>
-            <pubDate>Fri, 20 Dec 2024 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2024/12/s3PJnv99wzPPEuJOlFu2GggnDkvSVc3A.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

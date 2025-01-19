@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jan 2025 06:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jan 2025 11:10:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jan 2025 06:18:25 GMT</pubDate>
+        <pubDate>Sun, 19 Jan 2025 11:10:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【Blu-ray発売記念！】Act-4 開催記念グッズがリバイバル販売中！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14215.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14215.html</guid>
+            <pubDate>Sun, 19 Jan 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【本日締切！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14242.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14242.html</guid>
+            <pubDate>Sun, 19 Jan 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】＼ 本日まで！ ／190名のバースデーグッズ企画！第2弾「やぎ座」のアイドル15名のグッズ受注は1/19(日)まで♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14139.html</guid>
             <pubDate>Mon, 13 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】大阪/東京公演の公式グッズ事前2次販売は本日まで！ガラポンも明日朝まで♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14160.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14160.html</guid>
-            <pubDate>Mon, 13 Jan 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/01/7q41MYJPoGiFv9pPQQFY8RMgFZ0iXTPf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】楽曲と振り返るシャニアニ2nd＆シャニマス新プロデュースモード実況プレイ！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #シャニアニ2nd #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14092.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14092.html</guid>
-            <pubDate>Sun, 12 Jan 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/dUwjFAbP1FdeORwVavfo1d3Wi5OYvNHy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
