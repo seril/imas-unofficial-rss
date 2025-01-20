@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jan 2025 06:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 11:12:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jan 2025 06:20:40 GMT</pubDate>
+        <pubDate>Mon, 20 Jan 2025 11:12:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張公演 イベント公式グッズ事前販売スタート！パッションあふれるアイドル達のグッズや千葉県のご当地キャラクターたちとのコラボグッズも登場！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14259.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14259.html</guid>
+            <pubDate>Mon, 20 Jan 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/yJlsultHcVH2iIqHBzDcvV8L9u6WD3Ii.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM10th】プロミ大阪公演 1月25日(土)より現地チケット一般発売スタート！リセールも実施予定！]]></title>
             <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13966.html</guid>
             <pubDate>Sun, 22 Dec 2024 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/6FQJBHIlZyUTba2zVFcPriYN0ncw8ej5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【1/16追記】【SideM】2025年1月23日 (木) 19:00～「アイドルマスター SideM　​10th Anniversary GREATEST PASSION!!!!!!!!!!​　冬真っ盛り！生配信」配信予定！]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_13859.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13859.html</guid>
-            <pubDate>Sun, 22 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/ZCBvVYdYTtfVUhRawy1pIHpRUs3ZYzsX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

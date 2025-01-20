@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jan 2025 06:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 11:12:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jan 2025 06:20:40 GMT</pubDate>
+        <pubDate>Mon, 20 Jan 2025 11:12:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【デレステ】新人Pにおすすめしたいイチオシ楽曲プレイリスト会議 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ＃APラウンジ #シンデレラアワード開催中 #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14189.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14189.html</guid>
+            <pubDate>Mon, 20 Jan 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/RkdBwjYy4TBqSLcc6rWu8mr8ywPo8zC0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション、第3弾「みずがめ座」のアイドル13名が登場！受注は 2/23(日)まで♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13845.html</guid>
             <pubDate>Wed, 25 Dec 2024 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/jMgNaFeiM9F214BB20ix9owsqeFFxRrt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】1月2日(木)、アイドルフォトパネルに新柄が登場！同日よりアイドルマスター オフィシャルショップ各店にて取り扱い]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13919.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13919.html</guid>
-            <pubDate>Tue, 24 Dec 2024 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/RPHxL0KUmh1IFTnJhoQyzOdYEJR2b4Cf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
