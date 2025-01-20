@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jan 2025 03:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 06:20:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jan 2025 03:17:59 GMT</pubDate>
+        <pubDate>Mon, 20 Jan 2025 06:20:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】★3 白瀬 咲耶が手に入るガシャ開催中！さらに、有栖川 夏葉のソロ楽曲『Damascus Cocktail』が追加！]]></title>
+            <description><![CDATA[#シャニソン  ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14217.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14217.html</guid>
+            <pubDate>Mon, 20 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/IjWku5KOOVButpz6iAgudPL0RzBzhg7h.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ大阪公演 1月25日(土)より現地チケット一般発売スタート！リセールも実施予定！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
+            <link>https://idolmaster-official.jp/news/01_14248.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14248.html</guid>
+            <pubDate>Mon, 20 Jan 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/vNV6BilVVrsA9so4zGJ5DZrli0GEZtG8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】AMNIBUSより「学園アイドルマスター」の新商品第2弾が発売予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14043.html</guid>
             <pubDate>Tue, 14 Jan 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/fPbcKfGhe7CiDudfd9zGrRDBC6fGTg35.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「Passion jewelries! 004」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
-            <description><![CDATA[【シンデレラ】「Passion jewelries! 004」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14166.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14166.html</guid>
-            <pubDate>Tue, 14 Jan 2025 04:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/iTwkgZH6jj1XURKM5P9w4D9HL5MisOp9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】関西電力の社会貢献活動推進サービス「モアクト」と、限定グッズがゲットできるコラボキャンペーンが開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
-            <link>https://idolmaster-official.jp/news/01_14118.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14118.html</guid>
-            <pubDate>Tue, 14 Jan 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/ffNwHUmGq65WVsci0iL8FYEjBXXXDGAH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

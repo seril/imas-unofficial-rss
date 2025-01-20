@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jan 2025 03:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 06:20:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jan 2025 03:17:59 GMT</pubDate>
+        <pubDate>Mon, 20 Jan 2025 06:20:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ大阪公演 1月25日(土)より現地チケット一般発売スタート！リセールも実施予定！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
+            <link>https://idolmaster-official.jp/news/01_14248.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14248.html</guid>
+            <pubDate>Mon, 20 Jan 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/vNV6BilVVrsA9so4zGJ5DZrli0GEZtG8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日締切！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13859.html</guid>
             <pubDate>Sun, 22 Dec 2024 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/ZCBvVYdYTtfVUhRawy1pIHpRUs3ZYzsX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】【本日まで！】若里 春名＆卯月 巻緒がプロデュースした食器や記念グッズの販売は12月22日(日)まで！商品サンプルもご紹介♪]]></title>
-            <description><![CDATA[#SideM #若里春名 #卯月巻緒]]></description>
-            <link>https://idolmaster-official.jp/news/01_13715.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13715.html</guid>
-            <pubDate>Sun, 22 Dec 2024 06:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1025/SIDEM/2024/11/ERiHHVDJeMINALC24de90crSOaVf3R4D.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
