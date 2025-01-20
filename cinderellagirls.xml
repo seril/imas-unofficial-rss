@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jan 2025 14:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 02:13:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jan 2025 14:13:29 GMT</pubDate>
+        <pubDate>Mon, 20 Jan 2025 02:13:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】SHIBUYA109渋谷店にて「♯Midnight Runway」入場整理券の情報公開！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14194.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14194.html</guid>
+            <pubDate>Mon, 20 Jan 2025 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/01/YQS6MHJ2KSt3QAcsMxlQ27UuCs8bRdF1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日締切！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13985.html</guid>
             <pubDate>Tue, 24 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2024/12/Yug6pmw8ii733OmkOXmR8lXqaYrYw5hz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】🌈音楽が、もっと好きになる🌈　高級ハイレゾオーディオブランド「Astell&Kern」とコラボレーションした、限定生産/特別仕様のHi-FiポータブルUSB DACが発売！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13968.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13968.html</guid>
-            <pubDate>Tue, 24 Dec 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/12/FFEwLtS3ERV46Wgj87qnj2DKIuTyA3Tk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
