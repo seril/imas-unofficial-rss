@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jan 2025 03:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 06:20:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jan 2025 03:15:55 GMT</pubDate>
+        <pubDate>Tue, 21 Jan 2025 06:20:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM 10th ANNIVERSARY P@SSION 08 High×Joker」CD情報！]]></title>
+            <description><![CDATA[#SideM #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14251.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14251.html</guid>
+            <pubDate>Tue, 21 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/2020/09/15/アイマスブログ用SideMロゴ.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM10th】プロミ幕張公演 イベント公式グッズ事前販売スタート！パッションあふれるアイドル達のグッズや千葉県のご当地キャラクターたちとのコラボグッズも登場！]]></title>
             <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13873.html</guid>
             <pubDate>Sun, 22 Dec 2024 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2024/12/tKMKavqzdgVGZ2PGy0UmTbtAZF3g4uxo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ熊本公演 集合写真イラストを使用した開催記念グッズ販売スタート！]]></title>
-            <description><![CDATA[#SideM #Side10thプロミ熊本]]></description>
-            <link>https://idolmaster-official.jp/news/01_13966.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13966.html</guid>
-            <pubDate>Sun, 22 Dec 2024 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/6FQJBHIlZyUTba2zVFcPriYN0ncw8ej5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
