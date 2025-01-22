@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jan 2025 06:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jan 2025 11:12:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jan 2025 06:20:31 GMT</pubDate>
+        <pubDate>Wed, 22 Jan 2025 11:12:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】更新！アソビストア ガラポン 沖縄・福岡ピックアップ①ご紹介♪]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14289.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14289.html</guid>
+            <pubDate>Wed, 22 Jan 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/pXK564nFcS9IuQ74SDZp1xq6v8ax95Y5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10th記念！「アソビストア ガラポン」沖縄・福岡公演スタート！ツアー通してアイドル190名のグッズをご用意しております♪]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14023.html</guid>
             <pubDate>Thu, 26 Dec 2024 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/1Rz8Dub3IPm6TV434WKhnCvUPMKUl8f1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ×RAKU CAFE池袋」のコラボカフェが決定！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_13828.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13828.html</guid>
-            <pubDate>Thu, 26 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/7ujQNwtS52SzEDp9y6IghvkESto81Jbg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
