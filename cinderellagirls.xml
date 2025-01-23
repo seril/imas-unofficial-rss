@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Jan 2025 14:13:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 02:11:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Jan 2025 14:13:46 GMT</pubDate>
+        <pubDate>Thu, 23 Jan 2025 02:11:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】アイドルマスター オフィシャルショップにて発売中のアイドルフォトパネル24種をASOBI STOREにて販売！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14276.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14276.html</guid>
+            <pubDate>Thu, 23 Jan 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/3mOQdIA9Ncockzj8fhmhPbQVfLVW4I64.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】更新！アソビストア ガラポン 沖縄・福岡ピックアップ①ご紹介♪]]></title>
             <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13904.html</guid>
             <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/D3PTlhS8YARvILSYy2MYxjJlkGwH6KB5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」追加情報のお知らせ]]></title>
-            <description><![CDATA[ 【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」追加情報のお知らせ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14023.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14023.html</guid>
-            <pubDate>Thu, 26 Dec 2024 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/1Rz8Dub3IPm6TV434WKhnCvUPMKUl8f1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
