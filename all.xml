@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jan 2025 03:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 06:19:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jan 2025 03:15:57 GMT</pubDate>
+        <pubDate>Thu, 23 Jan 2025 06:19:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ大阪公演 会場物販情報公開 ！「パッショナブル大阪おみや」やCD「CIRCLE OFDELIGHT SOLO COLLECTION」も登場！！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
+            <link>https://idolmaster-official.jp/news/01_14171.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14171.html</guid>
+            <pubDate>Thu, 23 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/PwukuoRbmfVl82zOyeR8xmVMQDLANrVJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】[光景]のイラストをもとにした"篠澤 広"のプライズフィギュア彩色原型を公開！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14267.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14267.html</guid>
+            <pubDate>Thu, 23 Jan 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/HiB41ZZdZKie4OE2fMQoNS04SpVyF78A.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「ペインタースタイル」の描き下ろしイラストを使用したオリジナルグッズをASOBI STOREにて販売！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14298.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14298.html</guid>
+            <pubDate>Thu, 23 Jan 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/ziBRoyJbpo87ISwMBm5G5Gf02tx2FCbn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】1/30(木) 19:00～ 学園アイドルマスター「初星学園HR #8」生配信実施予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14228.html</guid>
             <pubDate>Fri, 17 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1024/OTHER/2025/01/NdhhHSGzDV75x78TiNgqGZAcmMzXrStk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】1月23日発売！「SYNDUALITY Echo of Ada」にライバーアイドル上水流宇宙デザインのコラボTシャツ実装！本日1/17 20時よりアーリーアクセスのプレイ配信も！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】1月23日発売！「SYNDUALITY Echo of Ada」にライバーアイドル上水流宇宙デザインのコラボTシャツ実装！本日1/17 20時よりアーリーアクセスのプレイ配信も！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14230.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14230.html</guid>
-            <pubDate>Fri, 17 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/OSy8OnPx43LEGoAun3Ft83K1C7d6wwcQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「上条春菜」が登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14179.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14179.html</guid>
-            <pubDate>Fri, 17 Jan 2025 02:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/IfzelALYAhG6VXMQNrXLRqUUIXi6cqJv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】『学園アイドルマスターPOP UP STORE アベノラクバス& AKIBA FAN CUBE』が開催中！東京「AKIBA FAN CUBE」での開催は1月19日(金)まで！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13894.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13894.html</guid>
-            <pubDate>Fri, 17 Jan 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/RD5LJgN3ntcIZH3XAUMVY7UN7frIRsnW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
