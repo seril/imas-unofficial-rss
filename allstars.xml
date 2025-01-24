@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jan 2025 06:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 11:12:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jan 2025 06:20:07 GMT</pubDate>
+        <pubDate>Fri, 24 Jan 2025 11:12:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 会場物販ならびに会場オリジナルCDの詳細を発表！さらに新曲の試聴は本日22時の開催記念ラジオ番組「HNU アイマス堺東放送局 きみにひびいたかね？」にて解禁！]]></title>
+            <description><![CDATA[#アイマスch #reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14324.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14324.html</guid>
+            <pubDate>Fri, 24 Jan 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/sz8bXvbJ5h7Q6B3i8yQUhI5ca5lGRkP8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演開催記念ラジオ番組「HNU アイマス堺東放送局 きみにひびいたかね？」の公開が今週末1/24(金)に決定！新曲解禁スペシャルとなっておりますのでお聞き逃しなく！！]]></title>
             <description><![CDATA[#アイマスch #reflame_961]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13830.html</guid>
             <pubDate>Thu, 12 Dec 2024 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/11/KS6hgqhuJS20JPffzrxnLt47Tojq7Hdj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスエキスポ】DECOR@TION CAR MEETINGブース最新情報！アイ車ステレオDJイベント開催決定♬]]></title>
-            <description><![CDATA[#アイマスエキスポ #DECOR@TIONCARMEETING]]></description>
-            <link>https://idolmaster-official.jp/news/01_13812.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13812.html</guid>
-            <pubDate>Wed, 11 Dec 2024 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2024/12/BZcBCjnCgytx0j3Twfr8Izz6WcJQUFz2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

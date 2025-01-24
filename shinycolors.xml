@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jan 2025 06:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 11:12:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jan 2025 06:20:07 GMT</pubDate>
+        <pubDate>Fri, 24 Jan 2025 11:12:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】みんなで作ろう！24/7 Live Streamキャンペーン実施中！]]></title>
+            <description><![CDATA[#シャニソン　#俺の考えた最強のシャニソンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14320.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14320.html</guid>
+            <pubDate>Fri, 24 Jan 2025 10:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/xsYcPAEZLbzd5aQA1IHEo8VNU6isIHJc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[「THE IDOLM@STER SHINY COLORS ECHOES 09」CD発売記念グッズの販売決定！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14049.html</guid>
             <pubDate>Sat, 28 Dec 2024 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」各ブランドお知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オールアイマス大感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_13994.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13994.html</guid>
-            <pubDate>Fri, 27 Dec 2024 14:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/yQWDeBA36sR9Q6A2HAvxGWbLnfavuqlk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
