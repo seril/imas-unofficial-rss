@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jan 2025 02:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 03:16:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jan 2025 02:12:02 GMT</pubDate>
+        <pubDate>Fri, 24 Jan 2025 03:16:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー大阪・東京公演の公式グッズ数量限定販売がスタート！！事前にアイテムが手に入るラストチャンスをお見逃しなく♪]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14294.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14294.html</guid>
+            <pubDate>Fri, 24 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/0BjXbnHrz7WISHvjSgeykAq4exfP2fwX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】カードゲーム用サプライ商品が新登場！]]></title>
+            <description><![CDATA[【シンデレラ】カードゲーム用サプライ商品が新登場！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14310.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14310.html</guid>
+            <pubDate>Fri, 24 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/GkR4RwhNX9slIqEQDRebJGhrb44pDvzW.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】コトブキヤくじ アイドルマスター シンデレラガールズ stage04販売開始！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14214.html</guid>
             <pubDate>Sat, 18 Jan 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】有村麻央誕生日記念セット受注受付中♪（2/2(日)まで）]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター #初星学園 #有村麻央生誕祭2024]]></description>
-            <link>https://idolmaster-official.jp/news/01_14239.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14239.html</guid>
-            <pubDate>Fri, 17 Jan 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/01/FM8fCxZ1RZa500PJAcXEQ88IDlpK92Cj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SHHis_CoMETIK_lme】283 Production LIVE Performance [liminal;marginal;eternal]  SHHisとCoMETIKによるオーディオコメンタリー付き同時視聴上映会の実施が決定！]]></title>
-            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
-            <link>https://idolmaster-official.jp/news/01_14240.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14240.html</guid>
-            <pubDate>Fri, 17 Jan 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/BP7JICFGrCsEPkII6ASRZmSYR1LtpMHR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
