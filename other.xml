@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jan 2025 14:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 02:12:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jan 2025 14:20:43 GMT</pubDate>
+        <pubDate>Fri, 24 Jan 2025 02:12:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ソロ2nd single 3曲が1月24日(金)0時より各種サブスク＆DL配信を開始！もちろんハイレゾ音源も！サブスク用描きおろしジャケットイラストも公開！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】ソロ2nd single 3曲が1月24日(金)0時より各種サブスク＆DL配信を開始！もちろんハイレゾ音源も！サブスク用描きおろしジャケットイラストも公開！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14309.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14309.html</guid>
+            <pubDate>Thu, 23 Jan 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/Y3OfY1f103qap5MiuvaIc8XfGsrldjJF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】3月22日開催！1stLIVEの現地一般チケットおよびティーン割のアソビストア一般会員二次先行抽選受付開始！！締切は2月16日(日)まで！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】3月22日開催！1stLIVEの現地一般チケットおよびティーン割のアソビストア一般会員二次先行抽選受付開始！！締切は2月16日(日)まで！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14287.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14287.html</guid>
+            <pubDate>Thu, 23 Jan 2025 14:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/5DPstAlGP4MpWFxJBuL7uJyOSz2eQbOL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演開催記念ラジオ番組「HNU アイマス堺東放送局 きみにひびいたかね？」の公開が今週末1/24(金)に決定！新曲解禁スペシャルとなっておりますのでお聞き逃しなく！！]]></title>
             <description><![CDATA[#アイマスch #reflame_961]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13478.html</guid>
             <pubDate>Mon, 18 Nov 2024 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/11/HeNcf9mKnqJl4JuTpqQhLeDx3JG96FjK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】‎＜ #レトラ誕生祭2024 ＞ありがとうございました！森倉円先生描きおろし！誕生日を記念したグッズセットを受注販売開始！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】‎＜ #レトラ誕生祭2024 ＞ありがとうございました！森倉円先生描きおろし！誕生日を記念したグッズセットを受注販売開始！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13402.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13402.html</guid>
-            <pubDate>Mon, 11 Nov 2024 14:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/11/p5iGgubRNw5SdtCVSKKgbzYwERPSD9x9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】「全国プロデューサー検定」受験申込みの一般販売がスタート！ ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー  #アイマス検定]]></description>
-            <link>https://idolmaster-official.jp/news/01_13387.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13387.html</guid>
-            <pubDate>Mon, 11 Nov 2024 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/11/vQm1WgmS4owPO6ilqasD0zI1ike6OBKZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

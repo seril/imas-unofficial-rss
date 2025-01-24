@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jan 2025 14:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 02:12:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Jan 2025 14:20:42 GMT</pubDate>
+        <pubDate>Fri, 24 Jan 2025 02:12:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】コトブキヤくじ アイドルマスター シンデレラガールズ stage04販売開始！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14257.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14257.html</guid>
+            <pubDate>Fri, 24 Jan 2025 01:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/X4bI3AP503sRkmwN2bpkb4LJnE9TdK4K.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ソロ2nd single 3曲が1月24日(金)0時より各種サブスク＆DL配信を開始！もちろんハイレゾ音源も！サブスク用描きおろしジャケットイラストも公開！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】ソロ2nd single 3曲が1月24日(金)0時より各種サブスク＆DL配信を開始！もちろんハイレゾ音源も！サブスク用描きおろしジャケットイラストも公開！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14309.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14309.html</guid>
+            <pubDate>Thu, 23 Jan 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/Y3OfY1f103qap5MiuvaIc8XfGsrldjJF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】3月22日開催！1stLIVEの現地一般チケットおよびティーン割のアソビストア一般会員二次先行抽選受付開始！！締切は2月16日(日)まで！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】3月22日開催！1stLIVEの現地一般チケットおよびティーン割のアソビストア一般会員二次先行抽選受付開始！！締切は2月16日(日)まで！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14287.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14287.html</guid>
+            <pubDate>Thu, 23 Jan 2025 14:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/5DPstAlGP4MpWFxJBuL7uJyOSz2eQbOL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「アイドルマスター SideM　​10th Anniversary GREATEST PASSION!!!!!!!!!!​　冬真っ盛り！生配信」告知まとめ]]></title>
             <description><![CDATA[#SideM #SideM生配信]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14240.html</guid>
             <pubDate>Fri, 17 Jan 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/BP7JICFGrCsEPkII6ASRZmSYR1LtpMHR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】初陣公演 配信視聴チケットの販売が本日1月17日(金) 19:00よりスタート！！]]></title>
-            <description><![CDATA[#学マス #学マスデビューライブツアー #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14212.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14212.html</guid>
-            <pubDate>Fri, 17 Jan 2025 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/CY34l2LwiuHJYJCQDXRDglkXGIRek9Y2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【Blu-ray発売記念！】Act-4 開催記念グッズがリバイバル販売中！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14213.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14213.html</guid>
-            <pubDate>Fri, 17 Jan 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】2月7日(金)よりなんばマルイで「アイドルマスター SideM」POP UP SHOPの開催が決定！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_14205.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14205.html</guid>
-            <pubDate>Fri, 17 Jan 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/QnitI5QC1mxL2EsvWKHatsDtTHKK7ZZR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
