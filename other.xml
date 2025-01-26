@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jan 2025 11:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 14:11:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jan 2025 11:10:31 GMT</pubDate>
+        <pubDate>Sun, 26 Jan 2025 14:11:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】「Virtual Music Award 2025 #ブイアワ 」にライバーアイドル3名が出演！披露したセットリストを公開！ソロ曲2nd披露に人気曲のカバーやコラボ歌唱も！アーカイブチケットも販売中！！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】「Virtual Music Award 2025 #ブイアワ 」にライバーアイドル3名が出演！披露したセットリストを公開！ソロ曲2nd披露に人気曲のカバーやコラボ歌唱も！アーカイブチケットも販売中！！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14329.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14329.html</guid>
+            <pubDate>Sun, 26 Jan 2025 14:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/y514ZdUXIcwQ4GlSOBCCm7NhgyeKGVX1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 会場物販ならびに会場オリジナルCDの詳細を発表！さらに新曲の試聴は本日22時の開催記念ラジオ番組「HNU アイマス堺東放送局 きみにひびいたかね？」にて解禁！]]></title>
             <description><![CDATA[#アイマスch #reflame_961]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13580.html</guid>
             <pubDate>Fri, 22 Nov 2024 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/11/KS6hgqhuJS20JPffzrxnLt47Tojq7Hdj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※12月5日更新※【アイマス20周年イヤー】ファッション誌『NYLON JAPAN』×『アイドルマスター』シリーズ　特別記念号刊行！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13458.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13458.html</guid>
-            <pubDate>Wed, 20 Nov 2024 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/11/dVeGtFoLgBGZ6YZhEzMSn5om54ZPlJdN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

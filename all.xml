@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Jan 2025 11:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jan 2025 14:11:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Jan 2025 11:10:31 GMT</pubDate>
+        <pubDate>Sun, 26 Jan 2025 14:11:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】「Virtual Music Award 2025 #ブイアワ 」にライバーアイドル3名が出演！披露したセットリストを公開！ソロ曲2nd披露に人気曲のカバーやコラボ歌唱も！アーカイブチケットも販売中！！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】「Virtual Music Award 2025 #ブイアワ 」にライバーアイドル3名が出演！披露したセットリストを公開！ソロ曲2nd披露に人気曲のカバーやコラボ歌唱も！アーカイブチケットも販売中！！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14329.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14329.html</guid>
+            <pubDate>Sun, 26 Jan 2025 14:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/y514ZdUXIcwQ4GlSOBCCm7NhgyeKGVX1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【残り4時間!!!!】Act-4 開催記念グッズがリバイバル販売は本日まで！！新商品のレプリカチケットも！]]></title>
             <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14217.html</guid>
             <pubDate>Mon, 20 Jan 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/IjWku5KOOVButpz6iAgudPL0RzBzhg7h.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ大阪公演 1月25日(土)より現地チケット一般発売スタート！リセールも実施予定！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
-            <link>https://idolmaster-official.jp/news/01_14248.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14248.html</guid>
-            <pubDate>Mon, 20 Jan 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/vNV6BilVVrsA9so4zGJ5DZrli0GEZtG8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
