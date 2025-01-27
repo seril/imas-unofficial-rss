@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jan 2025 11:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 14:13:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jan 2025 11:12:24 GMT</pubDate>
+        <pubDate>Mon, 27 Jan 2025 14:13:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】『シャニソン 運営レター生配信』リニューアル情報＆最新アップデート情報まとめ]]></title>
+            <description><![CDATA[#シャニマス #シャニソン #シャニソン運営レター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14334.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14334.html</guid>
+            <pubDate>Mon, 27 Jan 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/5axZkdSpzKuig5a5FGP824Yupy01AbQq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「-CAMPAI♡NIGHT-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB」が3月7日（金）より開催決定！]]></title>
             <description><![CDATA[#ミリオンライブ　#ミリオンHUB]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14260.html</guid>
             <pubDate>Mon, 20 Jan 2025 10:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/sz8bXvbJ5h7Q6B3i8yQUhI5ca5lGRkP8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【デレステ】新人Pにおすすめしたいイチオシ楽曲プレイリスト会議 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #シンデレラアワード開催中 #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14189.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14189.html</guid>
-            <pubDate>Mon, 20 Jan 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/RkdBwjYy4TBqSLcc6rWu8mr8ywPo8zC0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

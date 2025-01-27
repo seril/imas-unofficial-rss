@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jan 2025 11:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 14:13:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jan 2025 11:12:24 GMT</pubDate>
+        <pubDate>Mon, 27 Jan 2025 14:13:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】『シャニソン 運営レター生配信』リニューアル情報＆最新アップデート情報まとめ]]></title>
+            <description><![CDATA[#シャニマス #シャニソン #シャニソン運営レター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14334.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14334.html</guid>
+            <pubDate>Mon, 27 Jan 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/5axZkdSpzKuig5a5FGP824Yupy01AbQq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】みんなで作ろう！24/7 Live Streamキャンペーン実施中！]]></title>
             <description><![CDATA[#シャニソン　#俺の考えた最強のシャニソンライブ]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_14050.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14050.html</guid>
             <pubDate>Sun, 29 Dec 2024 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #アイラブ歌合戦 】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayの数量限定販売中！]]></title>
-            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
-            <link>https://idolmaster-official.jp/news/01_14049.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14049.html</guid>
-            <pubDate>Sat, 28 Dec 2024 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
