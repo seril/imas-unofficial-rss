@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jan 2025 06:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jan 2025 11:12:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jan 2025 06:20:40 GMT</pubDate>
+        <pubDate>Mon, 27 Jan 2025 11:12:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「-CAMPAI♡NIGHT-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB」が3月7日（金）より開催決定！]]></title>
+            <description><![CDATA[#ミリオンライブ　#ミリオンHUB]]></description>
+            <link>https://idolmaster-official.jp/news/01_14327.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14327.html</guid>
+            <pubDate>Mon, 27 Jan 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/yIzYdYpXXKsN26GtFx6mB3d3ny6VyT5h.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【AP生配信】【アイドルマスター】961 PRODUCTION presents 『Re:FLAME』 追加公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14249.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14249.html</guid>
+            <pubDate>Mon, 27 Jan 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/iog6N0odrMpsQTJwvC7E2hX41eh5Zt7p.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第２弾『 Fin[e]～美しき終焉～』の発売が決定！]]></title>
             <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第２弾『 Fin[e]～美しき終焉～』の発売が決定！]]></description>
@@ -15,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14316.html</guid>
             <pubDate>Mon, 27 Jan 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/6TRuwtzPZ19POLeDh5MczwAbgrUnfbpL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】受注締切直前！「PRODUCER MEETING 2024」EVENT Blu-ray発売連動企画 本日よりヴイアラ公式YouTubeチャンネルにて３夜連続で実施！受注予約は１月30日まで！1stLIVEに向けて過去のEVENTを一気に予習復習できるこの機会をお見逃しなく！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】受注締切直前！「PRODUCER MEETING 2024」EVENT Blu-ray発売連動企画 本日よりヴイアラ公式YouTubeチャンネルにて３夜連続で実施！受注予約は１月30日まで！1stLIVEに向けて過去のEVENTを一気に予習復習できるこの機会をお見逃しなく！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14347.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14347.html</guid>
+            <pubDate>Sun, 26 Jan 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/ufI1Ak1n6txJk9G7kea8VOBYw5TL8MP7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】「Virtual Music Award 2025 #ブイアワ 」にライバーアイドル3名が出演！披露したセットリストを公開！ソロ曲2nd披露に人気曲のカバーやコラボ歌唱も！アーカイブチケットも販売中！！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14189.html</guid>
             <pubDate>Mon, 20 Jan 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/RkdBwjYy4TBqSLcc6rWu8mr8ywPo8zC0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】プライズ景品にてビジュアルアクリルボードシリーズが登場中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14225.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14225.html</guid>
-            <pubDate>Mon, 20 Jan 2025 08:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/LFfH5rjd8PiyZ46zx8R2mYRx6JuvM56I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【学マス】ジャージメイド姿のアイドルのアクリル万年カレンダーがプライズ景品に登場中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14224.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14224.html</guid>
-            <pubDate>Mon, 20 Jan 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/9MR5t4QwnxozQ2aYh9SaQYLf1FgH2W4B.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】花海咲季、月村手毬、藤田ことねのアウター&ボディバッグがSuperGroupiesに登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14206.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14206.html</guid>
-            <pubDate>Mon, 20 Jan 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/01/ypOWKC1u1thC7Pt0DwxhoJQUvSRapsFB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
