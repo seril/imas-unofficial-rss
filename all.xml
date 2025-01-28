@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jan 2025 06:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 11:12:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jan 2025 06:19:56 GMT</pubDate>
+        <pubDate>Tue, 28 Jan 2025 11:12:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」旧正月セール実施のお知らせ]]></title>
+            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
+            <link>https://idolmaster-official.jp/news/01_14258.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14258.html</guid>
+            <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【生配信決定！】アイドルマスター シャイニーカラーズ 生配信 　イベント＆グッズ情報 大放出スペシャル！ 　初出しイベント情報も！]]></title>
+            <description><![CDATA[#シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14357.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14357.html</guid>
+            <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/01/jCYJo0pyvWKfN3gK9tMuEzf7MHpcbY8G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】『スマスロ アイドルマスター ミリオンライブ！ ネクストプロローグ』登場のお知らせ【機種PV公開中】]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -15,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14338.html</guid>
             <pubDate>Tue, 28 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/0ENgCKGlg81MqT6u4Piu2bRE32o6aPjz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】受注締切直前！ヴイアラ公式YouTubeチャンネルにて「PRODUCER MEETING 2024」EVENT Blu-ray発売連動3夜連続企画実施中！ 3夜目となる1/29の企画は23時より「アイマスEXPO ヴイアラソロSPステージDAY1&DAY2」特別公開に決定！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】受注締切直前！ヴイアラ公式YouTubeチャンネルにて「PRODUCER MEETING 2024」EVENT Blu-ray発売連動3夜連続企画実施中！ 3夜目となる1/29の企画は23時より「アイマスEXPO ヴイアラソロSPステージDAY1&DAY2」特別公開に決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14359.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14359.html</guid>
+            <pubDate>Mon, 27 Jan 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/qckEF9r1zXICHtq1ScYMuIAcBwH6ZsMv.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニソン】『シャニソン 運営レター生配信』リニューアル情報＆最新アップデート情報まとめ]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14256.html</guid>
             <pubDate>Tue, 21 Jan 2025 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/D0wsi52nkl25gCLd9B8ArMB2WbCdg4m3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー沖縄・福岡公演のアソビストアプレミアム会員先行受付開始！沖縄はスイート席も♪後半2公演の公式グッズ事前販売もスタートです♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14261.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14261.html</guid>
-            <pubDate>Tue, 21 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/01/nSWuUJuD0tuJ0613opvzNzjvIWeICq8R.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー沖縄・福岡公演の公式グッズ事前販売がスタート！！「190名グッズ」も後半アイドルのラインナップにフルチェンジです♪ ぜひお見逃しなく！！]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14245.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14245.html</guid>
-            <pubDate>Tue, 21 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/fQgJapHlJ5gy8ZxNRDLlH9jWy4tXj7ax.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演 イベント公式グッズ事前販売スタート！パッションあふれるアイドル達のグッズや千葉県のご当地キャラクターたちとのコラボグッズも登場！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14259.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14259.html</guid>
-            <pubDate>Mon, 20 Jan 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/yJlsultHcVH2iIqHBzDcvV8L9u6WD3Ii.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

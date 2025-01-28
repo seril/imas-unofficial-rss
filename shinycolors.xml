@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jan 2025 06:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 11:11:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jan 2025 06:19:56 GMT</pubDate>
+        <pubDate>Tue, 28 Jan 2025 11:11:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」旧正月セール実施のお知らせ]]></title>
+            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
+            <link>https://idolmaster-official.jp/news/01_14258.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14258.html</guid>
+            <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【生配信決定！】アイドルマスター シャイニーカラーズ 生配信 　イベント＆グッズ情報 大放出スペシャル！ 　初出しイベント情報も！]]></title>
+            <description><![CDATA[#シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14357.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14357.html</guid>
+            <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/01/jCYJo0pyvWKfN3gK9tMuEzf7MHpcbY8G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】『シャニソン 運営レター生配信』リニューアル情報＆最新アップデート情報まとめ]]></title>
             <description><![CDATA[#シャニマス #シャニソン #シャニソン運営レター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13911.html</guid>
             <pubDate>Wed, 01 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/ztpisEZPqytIRuxPpXcxBXgCNlegChrE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】★3 八宮 めぐる、★3 田中 摩美々が手に入るガシャ開催中！さらに、ストレイライトの新曲イベントが開催！]]></title>
-            <description><![CDATA[#シャニソン  ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13910.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13910.html</guid>
-            <pubDate>Tue, 31 Dec 2024 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/xyOl8njZtMAgT5mfYATnO2HCKWs028Re.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【数量限定！ 】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが数量限定販売中！]]></title>
-            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
-            <link>https://idolmaster-official.jp/news/01_14050.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14050.html</guid>
-            <pubDate>Sun, 29 Dec 2024 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
