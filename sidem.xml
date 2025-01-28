@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Jan 2025 11:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jan 2025 14:13:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Jan 2025 11:11:59 GMT</pubDate>
+        <pubDate>Tue, 28 Jan 2025 14:13:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【APラウンジ】中川浩二さんとガチトーク！アイマス楽曲を語ろう 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch ＃APラウンジ #reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14339.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14339.html</guid>
+            <pubDate>Tue, 28 Jan 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/oMZnnXDvQo7ZZrA4ZZUk4BVkhCjB2Xis.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「アイドルマスター SideM　​10th Anniversary GREATEST PASSION!!!!!!!!!!​　冬真っ盛り！生配信」告知まとめ]]></title>
             <description><![CDATA[#SideM #SideM生配信]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13977.html</guid>
             <pubDate>Mon, 23 Dec 2024 08:12:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/v4dQJdybPTiu2dpoOrx01G55dg8EYalg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】横浜・八景島シーパラダイス×アイドルマスター SideM　コラボイベント第2弾「315 WINTER PASSION Second!!」の開催が決定！]]></title>
-            <description><![CDATA[【SideM】横浜・八景島シーパラダイス×アイドルマスター SideM　コラボイベント第2弾「315 WINTER PASSION Second!!」の開催が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13931.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13931.html</guid>
-            <pubDate>Mon, 23 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/PKOE5vpOsLRwsxgqdy6YkMv1Wm4CaaJK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
