@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jan 2025 06:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 11:11:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jan 2025 06:19:55 GMT</pubDate>
+        <pubDate>Wed, 29 Jan 2025 11:11:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】1月31日より開催！SHIBUYA109渋谷店「♯Midnight Runway」グッズ購入制限と 描き下ろしパネル販売のお知らせ]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14369.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14369.html</guid>
+            <pubDate>Wed, 29 Jan 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/01/YQS6MHJ2KSt3QAcsMxlQ27UuCs8bRdF1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「覚醒魔王 神崎蘭子」の1/7スケールフィギュアが1月29日(水)より予約受付中！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14064.html</guid>
             <pubDate>Sun, 29 Dec 2024 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2024/12/oIX58KFyplzJEijOxk8ytM7ejkuqsDAv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【数量限定！ 】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが数量限定販売中！]]></title>
-            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
-            <link>https://idolmaster-official.jp/news/01_14050.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14050.html</guid>
-            <pubDate>Sun, 29 Dec 2024 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
