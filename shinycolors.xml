@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jan 2025 02:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jan 2025 03:15:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jan 2025 02:10:46 GMT</pubDate>
+        <pubDate>Wed, 29 Jan 2025 03:15:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニアニ】トレーディングカードゲーム Reバース for you ブースターパック アニメ「アイドルマスター シャイニーカラーズ 2nd season」のオリジナルイラストを公開！]]></title>
+            <description><![CDATA[#シャニマス #シャニアニ #シャニアニ2nd ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14345.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14345.html</guid>
+            <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/Ogv3PB4RXKYOu0k8EoSNlGq5N405MwHK.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【APラウンジ】中川浩二さんとガチトーク！アイマス楽曲を語ろう 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch ＃APラウンジ #reflame_961]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13987.html</guid>
             <pubDate>Mon, 06 Jan 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/NRxBGgeT9vQyeRLfos4pCOnd9L56PER3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】森永製菓「1チョコ for 1スマイル」のアンバサダーに283プロの5名が就任！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #1チョコfor1スマイル]]></description>
-            <link>https://idolmaster-official.jp/news/01_13943.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13943.html</guid>
-            <pubDate>Mon, 06 Jan 2025 01:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/Qly9Hx1ekrt1PuKVMOtd81iKo4iilAE4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
