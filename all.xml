@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jan 2025 11:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 14:13:31 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jan 2025 11:12:52 GMT</pubDate>
+        <pubDate>Thu, 30 Jan 2025 14:13:31 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】1/30(木)学マス生配信「初星学園HR #8」お知らせまとめ]]></title>
+            <description><![CDATA[ #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14306.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14306.html</guid>
+            <pubDate>Thu, 30 Jan 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/01/ZCudlTFe216O9LhkOqZ19Q8ewuXnwUAY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】283プロアイドルPRキャンペーン開催！プリズムジュエル30%OFFクーポンが抽選で当たる！]]></title>
             <description><![CDATA[【シャニソン】283プロアイドルPRキャンペーン開催！プリズムジュエル30%OFFクーポンが抽選で当たる！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14275.html</guid>
             <pubDate>Thu, 23 Jan 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/jW477BTpyEBRPTkYs1ztweAp2LLp1TCD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演 追加出演者発表！！イベント公式グッズ事前販売実施中！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14311.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14311.html</guid>
-            <pubDate>Thu, 23 Jan 2025 10:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/f9TKquV0uboCKzhY60YWTTtX39Er50qg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
