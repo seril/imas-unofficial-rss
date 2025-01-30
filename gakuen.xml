@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jan 2025 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 11:12:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jan 2025 06:19:54 GMT</pubDate>
+        <pubDate>Thu, 30 Jan 2025 11:12:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「初星学園HR #8」配信記念！出演キャストのサイン色紙プレゼントキャンペーン開催中！	]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター  #初星バレンタイン]]></description>
+            <link>https://idolmaster-official.jp/news/01_14368.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14368.html</guid>
+            <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/01/3XnW6JWHtRzpMK4XBVkvIykAH4K71AhI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】二次元コスパより「藤田ことね」のトレーナーが登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13982.html</guid>
             <pubDate>Sun, 29 Dec 2024 01:34:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2024/12/NziRsXXYb1ff5WtyCCTCb3vf1gI9wHDf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】3日連続、毎日参加できる！『「#学マス初のフェスガシャ開催中」えらべるPayプレゼントキャンペーン』！期間中合計で総額100万円分のえらべるPayが抽選で1000名様に当たる！]]></title>
-            <description><![CDATA[#学マス #えらべるPay #学マス初のフェスガシャ開催中]]></description>
-            <link>https://idolmaster-official.jp/news/01_14019.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14019.html</guid>
-            <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/J0ZwuGiVJsxqxaKxnrd7Wi8lbp2jTcqt.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

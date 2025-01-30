@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jan 2025 06:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jan 2025 11:12:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jan 2025 06:19:54 GMT</pubDate>
+        <pubDate>Thu, 30 Jan 2025 11:12:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》4月に向けて白石 紬・馬場このみが登場！「お花見」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル4月]]></description>
+            <link>https://idolmaster-official.jp/news/01_14352.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14352.html</guid>
+            <pubDate>Thu, 30 Jan 2025 10:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/01/3JQ74IakqkHrnRs60dBCXzTsgaOjmG4u.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【発売中!!!!】「THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR」Act-4のLIVE Blu-rayが発売中！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_13506.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13506.html</guid>
+            <pubDate>Thu, 30 Jan 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/ZWOMm1iGOvuOpKjBg1vuE9LLgh94gZYK.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【本日12:30より販売開始！】「アイドルマスターミリオンライブ！ × YUI CHOCOLATE」コラボ商品 再販決定🍫💗]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13994.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:25:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/yQWDeBA36sR9Q6A2HAvxGWbLnfavuqlk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」お知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オールアイマス大感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_13991.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
-            <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】『アイドルマスター』シリーズ合同オーケストラコンサートが2025年7月21日(月・祝)に開催決定！現地チケット最速先行は本日スタート♪]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_14062.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14062.html</guid>
-            <pubDate>Fri, 27 Dec 2024 12:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/8E0fDMofTHswgb3TbFT0tAqdg6F3TXXm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
