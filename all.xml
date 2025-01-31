@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jan 2025 02:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 03:15:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jan 2025 02:11:24 GMT</pubDate>
+        <pubDate>Fri, 31 Jan 2025 03:15:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】本日更新！アソビストア ガラポン 沖縄・福岡ピックアップ②ご紹介♪]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/KZORMcJ1jCiROVv8.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/KZORMcJ1jCiROVv8.html</guid>
+            <pubDate>Fri, 31 Jan 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/p9kMsIvJxTRb3e5VmlPWJvbI7J36jrdP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_Uka,】2025年5月10日(土)・11日(日) オリックス劇場　283 Production LIVE Performance Uka, 詳細発表！アソビストアプレミアム会員先行が開始されました！]]></title>
+            <description><![CDATA[#イルミネ_Uka]]></description>
+            <link>https://idolmaster-official.jp/news/01_14381.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14381.html</guid>
+            <pubDate>Fri, 31 Jan 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/d59RbvzJOOpT5WueyP0eW2BAf6DNsyRr.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】本日開始！関西電力の社会貢献活動推進サービス「モアクト」と、限定グッズがゲットできるコラボキャンペーンが開催中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14309.html</guid>
             <pubDate>Thu, 23 Jan 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/Y3OfY1f103qap5MiuvaIc8XfGsrldjJF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】3月22日開催！1stLIVEの現地一般チケットおよびティーン割のアソビストア一般会員二次先行抽選受付開始！！締切は2月16日(日)まで！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】3月22日開催！1stLIVEの現地一般チケットおよびティーン割のアソビストア一般会員二次先行抽選受付開始！！締切は2月16日(日)まで！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14287.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14287.html</guid>
-            <pubDate>Thu, 23 Jan 2025 14:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/5DPstAlGP4MpWFxJBuL7uJyOSz2eQbOL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM　​10th Anniversary GREATEST PASSION!!!!!!!!!!​　冬真っ盛り！生配信」告知まとめ]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_13861.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13861.html</guid>
-            <pubDate>Thu, 23 Jan 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/01/atVhw99XiZ6g3vAeqEATdq9LrjT34xvu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
