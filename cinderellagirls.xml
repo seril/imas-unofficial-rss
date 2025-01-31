@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jan 2025 06:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 11:11:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jan 2025 06:20:46 GMT</pubDate>
+        <pubDate>Fri, 31 Jan 2025 11:11:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10周年記念ツアー「Let's AMUSEMENT!!!」沖縄公演・福岡公演の公式パンフレット掲載企画！！プロデューサーさんのLIVE初参加の思い出を大募集♪]]></title>
+            <description><![CDATA[#stairs_to_10th #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14382.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14382.html</guid>
+            <pubDate>Fri, 31 Jan 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/G1uZedB47BqxVM9sCGsawx2FaByKfs8v.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】本日更新！アソビストア ガラポン 沖縄・福岡ピックアップ②ご紹介♪]]></title>
             <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14066.html</guid>
             <pubDate>Wed, 01 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2024/12/AhKVdyb8gIh8WSdVsoLropPeu1WrxXIO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】本日更新！アソビストア ガラポン ピックアップ⑥ご紹介♪]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14059.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14059.html</guid>
-            <pubDate>Tue, 31 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2024/12/6NqW9exjvAAynZXtGvpP5zR9BXWjfBk5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
