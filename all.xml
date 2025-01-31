@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jan 2025 03:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 06:20:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jan 2025 03:15:26 GMT</pubDate>
+        <pubDate>Fri, 31 Jan 2025 06:20:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【961 PRODUCTION presents 『Re:FLAME』 追加公演】イベント会場限定！Fan Fun Spot×アソビストアプレミアム会員キャンペーン実施決定！]]></title>
+            <description><![CDATA[#reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14255.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14255.html</guid>
+            <pubDate>Fri, 31 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/01/uokW9sbnbwBdvFo4lZZAbPGTuId0iQr0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】★3 小宮 果穂、★3 福丸 小糸が手に入るガシャ開催中！さらに、アンティーカの新曲イベントが開催！]]></title>
+            <description><![CDATA[#シャニソン  ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14350.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14350.html</guid>
+            <pubDate>Fri, 31 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/UCKebbx72cJakiaEZZv9j2rp6NuWiNCg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～夜に輝く星座のように～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14366.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14366.html</guid>
+            <pubDate>Fri, 31 Jan 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/01/ah2JrDquGK9OM9l2LfYQBBZfyxel2ivI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「アイドルマスター×成田ゆめ牧場  みんなとすごす成田ゆめ牧場 ～穴掘りの頂点を目指しますぅ！～」後半も楽しみがいっぱい✨【24H限定⏰】『全国穴掘り大会』先取祭キャンペーンは本日15:00よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスゆめ牧場]]></description>
+            <link>https://idolmaster-official.jp/news/01_14387.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14387.html</guid>
+            <pubDate>Fri, 31 Jan 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/e0q0mRoQw4TNJQE54ZPgmnfvar6DZSU8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】本日更新！アソビストア ガラポン 沖縄・福岡ピックアップ②ご紹介♪]]></title>
             <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14195.html</guid>
             <pubDate>Fri, 24 Jan 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/1Rz8Dub3IPm6TV434WKhnCvUPMKUl8f1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー大阪・東京公演の公式グッズ数量限定販売がスタート！！事前にアイテムが手に入るラストチャンスをお見逃しなく♪]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14294.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14294.html</guid>
-            <pubDate>Fri, 24 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/0BjXbnHrz7WISHvjSgeykAq4exfP2fwX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】カードゲーム用サプライ商品が新登場！]]></title>
-            <description><![CDATA[【シンデレラ】カードゲーム用サプライ商品が新登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14310.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14310.html</guid>
-            <pubDate>Fri, 24 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/GkR4RwhNX9slIqEQDRebJGhrb44pDvzW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】コトブキヤくじ アイドルマスター シンデレラガールズ stage04販売開始！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14257.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14257.html</guid>
-            <pubDate>Fri, 24 Jan 2025 01:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/X4bI3AP503sRkmwN2bpkb4LJnE9TdK4K.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】ソロ2nd single 3曲が1月24日(金)0時より各種サブスク＆DL配信を開始！もちろんハイレゾ音源も！サブスク用描きおろしジャケットイラストも公開！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】ソロ2nd single 3曲が1月24日(金)0時より各種サブスク＆DL配信を開始！もちろんハイレゾ音源も！サブスク用描きおろしジャケットイラストも公開！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14309.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14309.html</guid>
-            <pubDate>Thu, 23 Jan 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/01/Y3OfY1f103qap5MiuvaIc8XfGsrldjJF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
