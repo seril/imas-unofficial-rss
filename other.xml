@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Feb 2025 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 11:10:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Feb 2025 06:18:40 GMT</pubDate>
+        <pubDate>Sat, 01 Feb 2025 11:10:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#reflame_961 #reflame_961_DAWN #reflame_961_DUSK]]></description>
+            <link>https://idolmaster-official.jp/news/01_14325.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14325.html</guid>
+            <pubDate>Sat, 01 Feb 2025 10:06:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/GgoQMuR7FIL8gp6xUFiJ0aCzhUEJOUa3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【961】🔥狙え！公式宣材写真🔥「961 PRODUCTION presents 『Re:FLAME』 追加公演」配信プロデュースショット投稿キャンペーン📷　のご案内]]></title>
             <description><![CDATA[#reflame_961 #reflameプロデュースショット]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13555.html</guid>
             <pubDate>Fri, 06 Dec 2024 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/0KGMh2LRbxEdpQzbw3UVTHTgJWh2zBhk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※12/26更新 スペシャルゲスト発表※【アイマス20周年イヤー】 「オールアイマス大感謝祭  ～2025年までもう待てない！生配信～」12月27日(金) 19:00～ 配信予定！]]></title>
-            <description><![CDATA[#オールアイマス大感謝祭 #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13559.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13559.html</guid>
-            <pubDate>Fri, 06 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/q7fN9gtSx0RCAuHbVxqBW3omCrvRc26M.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Feb 2025 06:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 11:10:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Feb 2025 06:18:40 GMT</pubDate>
+        <pubDate>Sat, 01 Feb 2025 11:10:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#reflame_961 #reflame_961_DAWN #reflame_961_DUSK]]></description>
+            <link>https://idolmaster-official.jp/news/01_14325.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14325.html</guid>
+            <pubDate>Sat, 01 Feb 2025 10:06:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/GgoQMuR7FIL8gp6xUFiJ0aCzhUEJOUa3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】【明日まで！】CONNECT WITH MUSIC！10th ANNIVERSARY P@SSION 公式グッズ 第2弾の販売は2月2日(日)まで！一部商品サンプルもご紹介♪]]></title>
             <description><![CDATA[#SideM  #SideM10周年 #アソビストア]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14320.html</guid>
             <pubDate>Fri, 24 Jan 2025 10:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/xsYcPAEZLbzd5aQA1IHEo8VNU6isIHJc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリアニ】ご好評につき、公式ファンブック「Thank You! BOOK」の受注期間延長が決定！]]></title>
-            <description><![CDATA[#ミリアニ #ミリオンライブ！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14312.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14312.html</guid>
-            <pubDate>Fri, 24 Jan 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/LNGFEGz8uP5hqYYDtyZZDuNcrWoqq8Jp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
