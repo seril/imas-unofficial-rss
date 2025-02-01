@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jan 2025 14:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 02:15:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jan 2025 14:12:59 GMT</pubDate>
+        <pubDate>Sat, 01 Feb 2025 02:15:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】バレンタイン記念！天海春香・エミリーからの手紙や特別な壁紙が届く、WEB STORE販売キャンペーン開催中！]]></title>
+            <description><![CDATA[#ミリシタ #アソビストア #WEBSTORE #ジュエルを買うならアソビストア #天海春香 #エミリー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14346.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14346.html</guid>
+            <pubDate>Fri, 31 Jan 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/01/MKLsD66zVN58ptCT9YMspGkkI5NCzboS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【961】🔥狙え！公式宣材写真🔥「961 PRODUCTION presents 『Re:FLAME』 追加公演」配信プロデュースショット投稿キャンペーン📷　のご案内]]></title>
             <description><![CDATA[#reflame_961 #reflameプロデュースショット]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14324.html</guid>
             <pubDate>Fri, 24 Jan 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/sz8bXvbJ5h7Q6B3i8yQUhI5ca5lGRkP8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【26日まで！】Act-4 開催記念グッズがリバイバル販売中！新商品のレプリカチケットも！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14302.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14302.html</guid>
-            <pubDate>Fri, 24 Jan 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jan 2025 14:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 02:15:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jan 2025 14:12:59 GMT</pubDate>
+        <pubDate>Sat, 01 Feb 2025 02:15:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】バレンタイン記念！天海春香・エミリーからの手紙や特別な壁紙が届く、WEB STORE販売キャンペーン開催中！]]></title>
+            <description><![CDATA[#ミリシタ #アソビストア #WEBSTORE #ジュエルを買うならアソビストア #天海春香 #エミリー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14346.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14346.html</guid>
+            <pubDate>Fri, 31 Jan 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/01/MKLsD66zVN58ptCT9YMspGkkI5NCzboS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【明日2/1(土)より】『「ミステイク・マーダー！」POP UP SHOP in ボークス秋葉原ホビー天国2』開催💊 2/16(日)まで💉💗]]></title>
             <description><![CDATA[#ミリオンライブ #ミリシタ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14009.html</guid>
             <pubDate>Thu, 02 Jan 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/8RHiNzVyh5kECg4LSFGRHfWYlnNo6T1Z.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】「ミリシタカウントダウン！2024-2025」発表内容のまとめ！]]></title>
-            <description><![CDATA[#アイマス #ミリシタ #ミリオンライブ #ミリシタカウントダウン]]></description>
-            <link>https://idolmaster-official.jp/news/01_14025.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14025.html</guid>
-            <pubDate>Tue, 31 Dec 2024 15:14:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2024/12/RiiN4wJdwEomZtDpJYUu7w9HjfLVt5jS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
