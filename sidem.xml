@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Feb 2025 03:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Feb 2025 06:18:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Feb 2025 03:18:37 GMT</pubDate>
+        <pubDate>Sat, 01 Feb 2025 06:18:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】【明日まで！】CONNECT WITH MUSIC！10th ANNIVERSARY P@SSION 公式グッズ 第2弾の販売は2月2日(日)まで！一部商品サンプルもご紹介♪]]></title>
+            <description><![CDATA[#SideM  #SideM10周年 #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_14335.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14335.html</guid>
+            <pubDate>Sat, 01 Feb 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/DgWvlYD6ATNMWFlFfFZpe2xUVGCMnw4p.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】本日開始！関西電力の社会貢献活動推進サービス「モアクト」と、限定グッズがゲットできるコラボキャンペーンが開催中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13995.html</guid>
             <pubDate>Wed, 25 Dec 2024 08:32:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/V7N5krBcBwma53A1RF8DlXuK0sbp8rw3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「Mフェス2025」イベント詳細情報を公開！]]></title>
-            <description><![CDATA[#SideM #Mフェス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_13946.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13946.html</guid>
-            <pubDate>Wed, 25 Dec 2024 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/Cvm6OmIIx56VvlsF281apvN904wOJb7T.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
