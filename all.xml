@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Feb 2025 14:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 02:12:31 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Feb 2025 14:12:00 GMT</pubDate>
+        <pubDate>Mon, 03 Feb 2025 02:12:31 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「二宮飛鳥」が登場！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14318.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14318.html</guid>
+            <pubDate>Mon, 03 Feb 2025 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/yyJebYr3faA6BIXQyCYeVbZE2J9IrLCN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、4月分予約受付中！ 特任プロデューサー就任キャンペーンも開催中♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14291.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14291.html</guid>
+            <pubDate>Mon, 03 Feb 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/ilU9GcaEXF4faCNvU7d16JzkarIC9ZX9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
             <description><![CDATA[#reflame_961 #reflame_961_DAWN #reflame_961_DUSK]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14303.html</guid>
             <pubDate>Sat, 25 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
-            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
-            <link>https://idolmaster-official.jp/news/01_14115.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14115.html</guid>
-            <pubDate>Fri, 24 Jan 2025 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/01/n8B2ynmfa7EdkXDq3LyEK3zO3ln0hkAD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】みんなで作ろう！24/7 Live Streamキャンペーン実施中！]]></title>
-            <description><![CDATA[#シャニソン　#俺の考えた最強のシャニソンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14320.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14320.html</guid>
-            <pubDate>Fri, 24 Jan 2025 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/xsYcPAEZLbzd5aQA1IHEo8VNU6isIHJc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
