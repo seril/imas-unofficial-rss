@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Feb 2025 02:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 03:19:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Feb 2025 02:12:31 GMT</pubDate>
+        <pubDate>Mon, 03 Feb 2025 03:19:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「フォトカットアクリルスタンド」が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14372.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14372.html</guid>
+            <pubDate>Mon, 03 Feb 2025 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/IHOLa4xRcjtLUi0w5JDWZmqaZmexkl7i.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】アイドル衣装を着た「有村麻央」「葛城リーリヤ」「倉本千奈」最新ちびぐるみのサンプル画像を公開！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14365.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14365.html</guid>
+            <pubDate>Mon, 03 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/vTHJfhzWXBtgbACfFkQOZ5HRC89wowac.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「二宮飛鳥」が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14328.html</guid>
             <pubDate>Sun, 26 Jan 2025 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/Z29TDkTrl3zd5LhOTQJ7oFueAhDTkw3I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日締め切り!!!!】Act-4 開催記念グッズがリバイバル販売は本日まで！！新商品のレプリカチケットも！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14304.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14304.html</guid>
-            <pubDate>Sun, 26 Jan 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで!!!!】Act-4 開催記念グッズがリバイバル販売中！新商品のレプリカチケットも！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14303.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14303.html</guid>
-            <pubDate>Sat, 25 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

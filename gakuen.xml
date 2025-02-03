@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Feb 2025 02:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2025 03:19:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Feb 2025 02:12:31 GMT</pubDate>
+        <pubDate>Mon, 03 Feb 2025 03:19:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「フォトカットアクリルスタンド」が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14372.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14372.html</guid>
+            <pubDate>Mon, 03 Feb 2025 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/IHOLa4xRcjtLUi0w5JDWZmqaZmexkl7i.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】アイドル衣装を着た「有村麻央」「葛城リーリヤ」「倉本千奈」最新ちびぐるみのサンプル画像を公開！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14365.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14365.html</guid>
+            <pubDate>Mon, 03 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/vTHJfhzWXBtgbACfFkQOZ5HRC89wowac.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】本日開始！関西電力の社会貢献活動推進サービス「モアクト」と、限定グッズがゲットできるコラボキャンペーンが開催中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14056.html</guid>
             <pubDate>Wed, 08 Jan 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/aVZPZaFdvJBUTOIPBm6bELJBriJqo3X1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注開始！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14032.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14032.html</guid>
-            <pubDate>Tue, 07 Jan 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】原宿系がド派手でカワイイ💗JOL原宿にてPOP UPショップ開催]]></title>
-            <description><![CDATA[【学マス】原宿系がド派手でカワイイ💗JOL原宿にてPOP UPショップ開催]]></description>
-            <link>https://idolmaster-official.jp/news/01_14002.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14002.html</guid>
-            <pubDate>Tue, 07 Jan 2025 02:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/eN5BD4OEUO3oqio1mmbCorCV5UoPSdhj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
