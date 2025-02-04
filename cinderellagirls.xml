@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Feb 2025 11:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 14:13:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Feb 2025 11:12:15 GMT</pubDate>
+        <pubDate>Tue, 04 Feb 2025 14:13:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【APラウンジ】【デレステ】シンデレラアワード連動！MVビューイング鑑賞会 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ＃APラウンジ #シンデレラアワード開催中 #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14379.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14379.html</guid>
+            <pubDate>Tue, 04 Feb 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/Nbq2Hsn0iPgnGoiZ6LGotHnPZclpIS3o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シンデレラ】ローソンマルチコピー機オリジナル2月バースデーブロマイドが販売中！2月24日(月)まで！]]></title>
             <description><![CDATA[ 【シンデレラ】ローソンマルチコピー機オリジナル2月バースデーブロマイドが販売中！2月24日(月)まで！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14071.html</guid>
             <pubDate>Sat, 04 Jan 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/01/rhQFPRiuFn5eNNLQ404pqZsjaDKTXNQL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】受付はあとわずか！デレステ10thツアー大阪/東京公演の公式グッズ事前2次販売をお見逃しなく♪ルミカライトもガラポンも要チェック♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14067.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14067.html</guid>
-            <pubDate>Thu, 02 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2024/12/d7NLuOn0uFKzP9VnAk2Pz43lmJXDoyoD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
