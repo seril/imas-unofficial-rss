@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Feb 2025 06:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 11:12:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Feb 2025 06:20:29 GMT</pubDate>
+        <pubDate>Tue, 04 Feb 2025 11:12:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演開催記念ラジオ番組「HNU アイマス堺東放送局 きみにひびいたかね？ ネタバレ解禁スペシャル」の公開が今週末2/7(金) 22時に決定！P音無しでのトークをお楽しみください！]]></title>
+            <description><![CDATA[#アイマスch #reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14433.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14433.html</guid>
+            <pubDate>Tue, 04 Feb 2025 10:06:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/4wYBIGFYUeWgrgutl5JgtA1fTr93pT2o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【961】「961 PRODUCTION presents 『Re:FLAME』 追加公演」視聴コメント付きアーカイブ開始！／アンケート実施のご案内]]></title>
             <description><![CDATA[#reflame_961 #reflame_961_DAWN #reflame_961_DUSK]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13768.html</guid>
             <pubDate>Fri, 06 Dec 2024 09:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/j5wRMdfzZuvTXLE0v1oPIm91MvwkDKf8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【アイマスエキスポ】いよいよ今週末！！ブース＆ステージ情報最終チェック！！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13551.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13551.html</guid>
-            <pubDate>Fri, 06 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/11/qKakXnez7Tj27H1VVbrlUnTmWYpHnOFa.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

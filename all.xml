@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Feb 2025 06:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 11:12:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Feb 2025 06:20:30 GMT</pubDate>
+        <pubDate>Tue, 04 Feb 2025 11:12:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演開催記念ラジオ番組「HNU アイマス堺東放送局 きみにひびいたかね？ ネタバレ解禁スペシャル」の公開が今週末2/7(金) 22時に決定！P音無しでのトークをお楽しみください！]]></title>
+            <description><![CDATA[#アイマスch #reflame_961]]></description>
+            <link>https://idolmaster-official.jp/news/01_14433.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14433.html</guid>
+            <pubDate>Tue, 04 Feb 2025 10:06:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/4wYBIGFYUeWgrgutl5JgtA1fTr93pT2o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM 10th ANNIVERSARY P@SSION 09 神速一魂」CD情報！]]></title>
             <description><![CDATA[#SideM #SideM10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14327.html</guid>
             <pubDate>Mon, 27 Jan 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/yIzYdYpXXKsN26GtFx6mB3d3ny6VyT5h.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【AP生配信】【アイドルマスター】961 PRODUCTION presents 『Re:FLAME』 追加公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #reflame_961]]></description>
-            <link>https://idolmaster-official.jp/news/01_14249.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14249.html</guid>
-            <pubDate>Mon, 27 Jan 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/iog6N0odrMpsQTJwvC7E2hX41eh5Zt7p.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
