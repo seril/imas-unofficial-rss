@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Feb 2025 11:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 14:13:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Feb 2025 11:11:57 GMT</pubDate>
+        <pubDate>Wed, 05 Feb 2025 14:13:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ソロ3曲目の初披露に最新情報も！2月15日(土)に第2回 #ASOBINOTES 楽曲縛り歌枠リレー配信の開催が決定！学マスや電音部楽曲をカバー歌唱！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】ソロ3曲目の初披露に最新情報も！2月15日(土)に第2回 #ASOBINOTES 楽曲縛り歌枠リレー配信の開催が決定！学マスや電音部楽曲をカバー歌唱！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14461.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14461.html</guid>
+            <pubDate>Wed, 05 Feb 2025 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/ildAeci2mscdp81jPdj3tvwKu9KyQokC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演開催記念ラジオ番組「HNU アイマス堺東放送局 きみにひびいたかね？ ネタバレ解禁スペシャル」の公開が今週末2/7(金) 22時に決定！P音無しでのトークをお楽しみください！]]></title>
             <description><![CDATA[#アイマスch #reflame_961]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13779.html</guid>
             <pubDate>Fri, 06 Dec 2024 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/12/qlJAJvLt8zkhSvntlUQxNxwPXqvVocpr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】YouTubeアイマスchにて「LIVE SHOWCASE AREA」天海春香（DAY1）／秋月律子（DAY2）公演の冒頭無料配信が決定！／現地チケット情報やその他お知らせも！]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13768.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13768.html</guid>
-            <pubDate>Fri, 06 Dec 2024 09:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/j5wRMdfzZuvTXLE0v1oPIm91MvwkDKf8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

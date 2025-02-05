@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Feb 2025 11:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 14:13:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Feb 2025 11:11:57 GMT</pubDate>
+        <pubDate>Wed, 05 Feb 2025 14:13:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ソロ3曲目の初披露に最新情報も！2月15日(土)に第2回 #ASOBINOTES 楽曲縛り歌枠リレー配信の開催が決定！学マスや電音部楽曲をカバー歌唱！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】ソロ3曲目の初披露に最新情報も！2月15日(土)に第2回 #ASOBINOTES 楽曲縛り歌枠リレー配信の開催が決定！学マスや電音部楽曲をカバー歌唱！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14461.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14461.html</guid>
+            <pubDate>Wed, 05 Feb 2025 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/ildAeci2mscdp81jPdj3tvwKu9KyQokC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】2/5(水)学マス生配信「初星学園HR～秦谷美鈴 大紹介SP～」お知らせまとめ	]]></title>
+            <description><![CDATA[ #学マス #学園アイドルマスター #秦谷美鈴大紹介SP]]></description>
+            <link>https://idolmaster-official.jp/news/01_14367.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14367.html</guid>
+            <pubDate>Wed, 05 Feb 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/02/9PhZ1klfOfqgwDF5ixT7RfRVuPqGWZ8q.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】【学マス】"リスアニ！LIVE 2025"公式コラボTシャツの事後通販決定！]]></title>
             <description><![CDATA[#シャニマス #学マス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14364.html</guid>
             <pubDate>Wed, 29 Jan 2025 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/2IB131iiphsgku0iG5fymEJBX6MIIYvC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【本日12:30より販売開始！】「アイドルマスターミリオンライブ！ × YUI CHOCOLATE」コラボ商品 再販決定🍫💗]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14360.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14360.html</guid>
-            <pubDate>Wed, 29 Jan 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/MSVLFN6tH2PC8x5K7HcZU3lUU1gUycH8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ】トレーディングカードゲーム Reバース for you ブースターパック アニメ「アイドルマスター シャイニーカラーズ 2nd season」のオリジナルイラストを公開！]]></title>
-            <description><![CDATA[#シャニマス #シャニアニ #シャニアニ2nd ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14345.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14345.html</guid>
-            <pubDate>Wed, 29 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/Ogv3PB4RXKYOu0k8EoSNlGq5N405MwHK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
