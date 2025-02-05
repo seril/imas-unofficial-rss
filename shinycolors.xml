@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Feb 2025 06:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 11:11:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Feb 2025 06:20:10 GMT</pubDate>
+        <pubDate>Wed, 05 Feb 2025 11:11:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】【学マス】"リスアニ！LIVE 2025"公式コラボTシャツの事後通販決定！]]></title>
+            <description><![CDATA[#シャニマス #学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14415.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14415.html</guid>
+            <pubDate>Wed, 05 Feb 2025 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/YJpJRKImZmn1Pq8Ma4Yg1gYj2YbRGj07.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【本日発売!!】【シャニマス6th】Blu-rayが本日2月5日(水)発売✨アソビストア特装版は数量限定で販売中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニマス6thTOUR]]></description>
+            <link>https://idolmaster-official.jp/news/01_14435.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14435.html</guid>
+            <pubDate>Wed, 05 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/wk79YwHD6sR4uv11IBcNI9BS14seS9Su.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス衣装展】シャニマス初の衣装展「283PRODUCTION COSTUME G@LLERY」前売りチケットは本日2月5日(水)より先着順で販売中！]]></title>
             <description><![CDATA[#シャニマス衣装展 #シャニマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14137.html</guid>
             <pubDate>Sat, 11 Jan 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14136.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14136.html</guid>
-            <pubDate>Fri, 10 Jan 2025 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】★3 園田 智代子、★3 有栖川 夏葉が手に入るガシャ開催中！さらに、ノクチルのエピソード3が追加！]]></title>
-            <description><![CDATA[#シャニソン  ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14112.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14112.html</guid>
-            <pubDate>Fri, 10 Jan 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/tjc7w6r6vwpLDIztm3anotWdRfTfuKbE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
