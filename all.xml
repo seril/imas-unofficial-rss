@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Feb 2025 03:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2025 06:20:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Feb 2025 03:18:04 GMT</pubDate>
+        <pubDate>Wed, 05 Feb 2025 06:20:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【シャニマス衣装展】シャニマス初の衣装展「283PRODUCTION COSTUME G@LLERY」前売りチケットは本日2月5日(水)より先着順で販売中！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14438.html</guid>
             <pubDate>Wed, 05 Feb 2025 03:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/UmWc9XV6wDlGInTbH3vD5URIwjbgrRoY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10周年記念ツアー「Let's AMUSEMENT!!!」大阪公演開演前企画「デレステFULLCOMBOチャレンジ@OSAKA」実施決定！参加者大募集♪]]></title>
+            <description><![CDATA[#stairs_to_10th #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14394.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14394.html</guid>
+            <pubDate>Wed, 05 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/7dBLq79zQ7S7IvSlb0ABvkF5U7Zv8lXM.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】生配信「イベント＆グッズ情報 大放出スペシャル！」お知らせまとめ✨ シャニマス初の衣装展の開催が決定！！描きおろしイラストも公開！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14258.html</guid>
             <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【生配信決定！】アイドルマスター シャイニーカラーズ 生配信 　イベント＆グッズ情報 大放出スペシャル！ 　初出しイベント情報も！]]></title>
-            <description><![CDATA[#シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14357.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14357.html</guid>
-            <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/01/jCYJo0pyvWKfN3gK9tMuEzf7MHpcbY8G.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
