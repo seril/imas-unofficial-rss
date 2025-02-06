@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Feb 2025 02:13:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 03:17:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Feb 2025 02:13:26 GMT</pubDate>
+        <pubDate>Thu, 06 Feb 2025 03:17:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】明日から全国のナムコのお店で「ニャンてすてきなナムコキャンペーン」が開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_14422.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14422.html</guid>
+            <pubDate>Thu, 06 Feb 2025 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/al6uGkZTBALHjqPN1bMDwudqfCahDJ2W.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM 10th ANNIVERSARY P@SSION 09 神速一魂」CD情報！]]></title>
             <description><![CDATA[#SideM #SideM10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13904.html</guid>
             <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/D3PTlhS8YARvILSYy2MYxjJlkGwH6KB5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】2月14日（金）から没入型音声体験「ボイスフレンド」とのコラボ、「理由（ワケ）あって書店員！Beit in 書泉ブックタワー」を開催！　※2025年1月24日グッズ情報更新]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_14001.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14001.html</guid>
-            <pubDate>Thu, 26 Dec 2024 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/0wNBZH29FIJmR5YH2LvIAt2aG398Q9x7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
