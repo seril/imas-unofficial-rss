@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Feb 2025 06:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 11:11:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Feb 2025 06:20:40 GMT</pubDate>
+        <pubDate>Fri, 07 Feb 2025 11:11:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オケマス2025】現地チケットのアソビストアプレミアム会員2次先行が明日2月8日(土) 12:00よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_14492.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14492.html</guid>
+            <pubDate>Fri, 07 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/iLzNm9hrHPrQ26lMTsafngLOedAZFv1E.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ハッチポッチ2】2/10(月)12:00～ アソビストア一般会員2次先行抽選受付予定！]]></title>
             <description><![CDATA[#アイマスハッチポッチ2]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13967.html</guid>
             <pubDate>Mon, 06 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/z2bBykLrsFeqknMnrTy8wFAHGVuKsItq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[≪2025.1.15(水)13:00更新≫【ミリシタ】イベント開催記念！『ミリオンアーマーフォトコンテスト』開催決定！]]></title>
-            <description><![CDATA[#ミリシタ #目撃ミリオンアーマー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14016.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14016.html</guid>
-            <pubDate>Thu, 02 Jan 2025 06:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/wlzxFUOKuHdouZkf7QaTLuRUsW3BtT9u.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

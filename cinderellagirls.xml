@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Feb 2025 06:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 11:11:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Feb 2025 06:20:40 GMT</pubDate>
+        <pubDate>Fri, 07 Feb 2025 11:11:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[イラストレーター展「FR@GMENTS of THE IDOLM@STER CINDERELLA GIRLS」本日より開催中！]]></title>
+            <description><![CDATA[#imas_cg #デレマス　#Fragmentsデレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14483.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14483.html</guid>
+            <pubDate>Fri, 07 Feb 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/3N22FbTSXCfVHavuSixjdx8V8pXSrqo2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オケマス2025】現地チケットのアソビストアプレミアム会員2次先行が明日2月8日(土) 12:00よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_14492.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14492.html</guid>
+            <pubDate>Fri, 07 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/iLzNm9hrHPrQ26lMTsafngLOedAZFv1E.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」が開催中！開催期間は2/16(日)まで！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14113.html</guid>
             <pubDate>Wed, 08 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/felCVQi4QZGTv2LjHt56mlRdWEIw28BN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注開始！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14032.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14032.html</guid>
-            <pubDate>Tue, 07 Jan 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】全ピックアップページ解放！「アソビストア ガラポン」合計96名のアイドルが登場中！お見逃しなく♪]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14086.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14086.html</guid>
-            <pubDate>Tue, 07 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/fwtJZ2ebM8ZeCAWyRypapyA1yrA0GgTs.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
