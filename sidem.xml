@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Feb 2025 03:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 06:20:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Feb 2025 03:19:04 GMT</pubDate>
+        <pubDate>Fri, 07 Feb 2025 06:20:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ大阪公演 イベント会場限定！Fan Fun Spot×アソビストアプレミアム会員キャンペーン実施決定！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
+            <link>https://idolmaster-official.jp/news/01_14393.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14393.html</guid>
+            <pubDate>Fri, 07 Feb 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/6Bq6s5dSBeIVNNXF8hWPAWuHUYTvNa4X.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! 明日2月8日(土)よりアソビストアプレミアム会員２次先行のお申込み受付がスタート！イベント公式グッズ事前販売も実施中！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_14491.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14491.html</guid>
+            <pubDate>Fri, 07 Feb 2025 05:51:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/YNysJRBWyvK9LvDGGhkvd0iknrvulszP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】清澄九郎＆神谷幸広、握野英雄＆紅井朱雀がプロデュースした食器の受注販売スタート！描きおろしイラストを使用した記念グッズも♪]]></title>
+            <description><![CDATA[#SideM #清澄九郎 #神谷幸広 #握野英雄 #紅井朱雀]]></description>
+            <link>https://idolmaster-official.jp/news/01_14337.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14337.html</guid>
+            <pubDate>Fri, 07 Feb 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/6alA5r6ZnPhc5x5LrarzBqz8660yj4Kr.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張公演 明日2月8日(土)よりアソビストア一般会員先行お申込み受付スタート！！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14488.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14488.html</guid>
+            <pubDate>Fri, 07 Feb 2025 03:36:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/p7eM9onMz6ZAYLVBEfksCJL7CYk5g9sx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】くじ引き堂にて「アイドルマスター SideM」コラボくじが2/13より販売決定！！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13991.html</guid>
             <pubDate>Fri, 27 Dec 2024 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/RsEMEQQ3fqhuytiPrgDnOJ8tdrNUz31m.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】『アイドルマスター』シリーズ合同オーケストラコンサートが2025年7月21日(月・祝)に開催決定！現地チケット最速先行は本日スタート♪]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_14062.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14062.html</guid>
-            <pubDate>Fri, 27 Dec 2024 12:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/8E0fDMofTHswgb3TbFT0tAqdg6F3TXXm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】アイマス20周年当日の2025年7月26日(土) に特別イベントの開催が決定！！無料生配信＆現地有料イベント形式で開催♪ 現地チケット先行は本日受付スタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14063.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14063.html</guid>
-            <pubDate>Fri, 27 Dec 2024 12:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/e1jaBViVmIyeegOeW9igWaKbQhSOMMHA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」応援ポストを投稿して、応援チームキャスト3名のサイン色紙に応募しよう！]]></title>
-            <description><![CDATA[#オールアイマス大感謝祭 #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14053.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14053.html</guid>
-            <pubDate>Fri, 27 Dec 2024 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/qj0f4cPpWNz537Ifp2wdWTssMOMxjqF6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「オールアイマス大感謝祭 ～2025年までもう待てない！生配信～」 #オールアイマス大感謝祭 でポスト！抽選で、ゲストを含めた出演キャストのサイン色紙をプレゼント！]]></title>
-            <description><![CDATA[#オールアイマス大感謝祭 #アイマス20周年イヤー #アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14055.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14055.html</guid>
-            <pubDate>Fri, 27 Dec 2024 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2024/12/oB53HHPdDY5aUMKgfbuO2whAilGTICVe.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
