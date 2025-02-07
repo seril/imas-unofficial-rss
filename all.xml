@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Feb 2025 02:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 03:19:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Feb 2025 02:14:02 GMT</pubDate>
+        <pubDate>Fri, 07 Feb 2025 03:19:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】アゾンインターナショナルより、1/6スケールドール化企画の続報！]]></title>
+            <description><![CDATA[#アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14238.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14238.html</guid>
+            <pubDate>Fri, 07 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/zHny2wcKJtRdbXSIqvj1M2J37Pulyq9i.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】くじ引き堂にて「アイドルマスター SideM」コラボくじが2/13より販売決定！！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_14427.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14427.html</guid>
+            <pubDate>Fri, 07 Feb 2025 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/JNnaOMcAfGtZTrtLYuarPZqQebfXrcdv.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」が開催中！開催期間は2/16(日)まで！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14368.html</guid>
             <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/01/3XnW6JWHtRzpMK4XBVkvIykAH4K71AhI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!! イベント公式グッズ事前販売スタート！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR]]></description>
-            <link>https://idolmaster-official.jp/news/01_14383.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14383.html</guid>
-            <pubDate>Thu, 30 Jan 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/g7bebjIZ37gSgetj9Kw0cQeRCzOAABdp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】 AtoZto!! イベント公式グッズ事前販売スタート！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_AZ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14384.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14384.html</guid>
-            <pubDate>Thu, 30 Jan 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/fLhfvrcxdwSsMLXq7SCPQvrSm1hf8pnm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
