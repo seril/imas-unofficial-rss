@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Feb 2025 14:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Feb 2025 02:09:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Feb 2025 14:13:25 GMT</pubDate>
+        <pubDate>Sat, 08 Feb 2025 02:09:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【961】2月15日(土) ASOBISTAGEにて961 PRODUCTION presents 『Re:FLAME』 追加公演 [Re:FLAME/DUSK] 生オーディオコメンタリーの配信が決定！！！開催記念グッズの受注受付は2月16日(日)まで！]]></title>
+            <description><![CDATA[#reflame_961 #reflame_961_DUSK]]></description>
+            <link>https://idolmaster-official.jp/news/01_14502.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14502.html</guid>
+            <pubDate>Sat, 08 Feb 2025 00:16:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/PR9UNwrTQWxVDrAxJiZN4k7e1JLSShEh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オケマス2025】現地チケットのアソビストアプレミアム会員2次先行が明日2月8日(土) 12:00よりスタート！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13937.html</guid>
             <pubDate>Mon, 23 Dec 2024 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/11/dVeGtFoLgBGZ6YZhEzMSn5om54ZPlJdN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【アイマスエキスポ】閉会式のその後を撮影しました。【タイムラプス】動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13950.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13950.html</guid>
-            <pubDate>Sat, 21 Dec 2024 13:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/01PRHQGIA4GWLPj37sunoTxa1aH8677T.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
