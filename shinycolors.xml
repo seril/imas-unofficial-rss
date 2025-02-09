@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Feb 2025 14:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2025 02:16:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Feb 2025 14:12:08 GMT</pubDate>
+        <pubDate>Sun, 09 Feb 2025 02:16:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】PLUM PMOAより桑山千雪のスケールフィギュア化決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14472.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14472.html</guid>
+            <pubDate>Sun, 09 Feb 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/A3dFEvcjyefhwNvN9NRQ797pmMYCWw4w.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_Uka】◆今週日曜日まで！◆　アソビストアプレミアム会員先行「283 Production LIVE Performance Uka,」のお申込みは2月9日(日)23:59まで！]]></title>
             <description><![CDATA[#イルミネ_Uka]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14092.html</guid>
             <pubDate>Sun, 12 Jan 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/dUwjFAbP1FdeORwVavfo1d3Wi5OYvNHy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SHHis_CoMETIK_lme】283 Production LIVE Performance [liminal;marginal;eternal] ご来場・ご視聴いただきありがとうございました！！ 4公演分のセットリスト&告知内容まとめはこちら！さらに同時視聴上映会の開催も決定！]]></title>
-            <description><![CDATA[#SHHis_CoMETIK_lme]]></description>
-            <link>https://idolmaster-official.jp/news/01_13813.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13813.html</guid>
-            <pubDate>Sun, 12 Jan 2025 13:18:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/QNpxZX6jc4vfaNi7W49Hr9YSGssk0KgX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
