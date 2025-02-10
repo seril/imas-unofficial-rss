@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Feb 2025 03:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 06:21:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Feb 2025 03:19:45 GMT</pubDate>
+        <pubDate>Mon, 10 Feb 2025 06:21:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】★3 櫻木 真乃、★3 黛 冬優子が手に入るガシャ開催中！ さらに、バレンタインデー&ホワイトデー2025イベントの開催も！]]></title>
+            <description><![CDATA[#シャニソン  ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14496.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14496.html</guid>
+            <pubDate>Mon, 10 Feb 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/EiqzgzZ8b2EGHKlPnHVlpkVYttTPEcVX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS ECHOES 09」CD発売記念グッズの通販実施決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14507.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14507.html</guid>
+            <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/CIb27y4p3CVmRAgsk9YCkWIjMAi8M2xA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「Fin[e]〜美しき終焉〜」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「Fin[e]〜美しき終焉〜」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14466.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14466.html</guid>
+            <pubDate>Mon, 10 Feb 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/XphKtmQbgFels8FYN81F45B00H8hI6Hs.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】本日更新！アソビストア ガラポン 沖縄・福岡ピックアップ③ご紹介♪]]></title>
             <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14395.html</guid>
             <pubDate>Tue, 04 Feb 2025 13:51:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/01/B6vVx0JpToTvlxl9lbqLzIBWhfMCcUGa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【APラウンジ】【デレステ】シンデレラアワード連動！MVビューイング鑑賞会 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #シンデレラアワード開催中 #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14379.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14379.html</guid>
-            <pubDate>Tue, 04 Feb 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/Nbq2Hsn0iPgnGoiZ6LGotHnPZclpIS3o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演開催記念ラジオ番組「HNU アイマス堺東放送局 きみにひびいたかね？ ネタバレ解禁スペシャル」の公開が今週末2/7(金) 22時に決定！P音無しでのトークをお楽しみください！]]></title>
-            <description><![CDATA[#アイマスch #reflame_961]]></description>
-            <link>https://idolmaster-official.jp/news/01_14433.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14433.html</guid>
-            <pubDate>Tue, 04 Feb 2025 10:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/4wYBIGFYUeWgrgutl5JgtA1fTr93pT2o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM 10th ANNIVERSARY P@SSION 09 神速一魂」CD情報！]]></title>
-            <description><![CDATA[#SideM #SideM10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14404.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14404.html</guid>
-            <pubDate>Tue, 04 Feb 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/2020/09/15/アイマスブログ用SideMロゴ.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

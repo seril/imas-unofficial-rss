@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Feb 2025 03:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 06:21:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Feb 2025 03:19:45 GMT</pubDate>
+        <pubDate>Mon, 10 Feb 2025 06:21:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】★3 櫻木 真乃、★3 黛 冬優子が手に入るガシャ開催中！ さらに、バレンタインデー&ホワイトデー2025イベントの開催も！]]></title>
+            <description><![CDATA[#シャニソン  ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14496.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14496.html</guid>
+            <pubDate>Mon, 10 Feb 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/EiqzgzZ8b2EGHKlPnHVlpkVYttTPEcVX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS ECHOES 09」CD発売記念グッズの通販実施決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14507.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14507.html</guid>
+            <pubDate>Mon, 10 Feb 2025 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/CIb27y4p3CVmRAgsk9YCkWIjMAi8M2xA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】PLUM PMOAより桑山千雪のスケールフィギュア化決定！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14157.html</guid>
             <pubDate>Mon, 13 Jan 2025 03:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/kP7ysics86KC4xMjvk0cRGJSjH3ffVdY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14139.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14139.html</guid>
-            <pubDate>Mon, 13 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】楽曲と振り返るシャニアニ2nd＆シャニマス新プロデュースモード実況プレイ！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #シャニアニ2nd #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14092.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14092.html</guid>
-            <pubDate>Sun, 12 Jan 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/dUwjFAbP1FdeORwVavfo1d3Wi5OYvNHy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
