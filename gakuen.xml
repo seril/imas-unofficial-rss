@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Feb 2025 06:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 11:12:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Feb 2025 06:20:24 GMT</pubDate>
+        <pubDate>Thu, 13 Feb 2025 11:12:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTへのタイアップ参戦が決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14550.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14550.html</guid>
+            <pubDate>Thu, 13 Feb 2025 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/LOgRXCACwP6JSmxrb46wHZCThxD0GMq7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター ×狭山スキー場コラボイベント『Sayama Winter mode♡』開催！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14537.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14537.html</guid>
+            <pubDate>Thu, 13 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/AtFuyMqLWPqCbJsmvkplRPKFwU3hSjnE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】初陣公演 梅田クラブクアトロ公演 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
             <description><![CDATA[#学マス #学マスデビュー初陣_梅田 #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14187.html</guid>
             <pubDate>Thu, 16 Jan 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/wMqvbJ9PCCLHL9TXXXCkFEjUcL9PKHZq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オケマス2025】開場・開演時間変更についてのご案内]]></title>
-            <description><![CDATA[#アイマス20周年イヤー　#オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_14210.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14210.html</guid>
-            <pubDate>Thu, 16 Jan 2025 06:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/01/1q9NrSvueiWmHNe1aqRnhAIshYVVtqSu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】【学マス】"リスアニ！LIVE 2025"公式コラボTシャツのデザイン公開]]></title>
-            <description><![CDATA[#シャニマス #学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14180.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14180.html</guid>
-            <pubDate>Thu, 16 Jan 2025 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/PsuYAtMznXZfYVjWjeVb9G3SBTd1KW3T.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
