@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Feb 2025 06:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 11:11:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Feb 2025 06:20:04 GMT</pubDate>
+        <pubDate>Fri, 14 Feb 2025 11:11:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【20周年生配信イベント】現地チケットのアソビストアプレミアム会員2次先行が明日2月15日(土) 12:00よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14575.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14575.html</guid>
+            <pubDate>Fri, 14 Feb 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/dAF0trnnU4v7MHoY5tlu7B0UvlnHOSJi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】いよいよ今週末！学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- in渋谷クラブクアトロは2月16日(日)開催！ 配信視聴チケット販売中！]]></title>
+            <description><![CDATA[#学マスデビュー初陣_渋谷 #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14574.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14574.html</guid>
+            <pubDate>Fri, 14 Feb 2025 10:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/02/p6udGjNk1hbvJdb52szT8Zyd5KdoLNhA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[「学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 渋谷クラブクアトロ公演」 春咲 暖様（秦谷 美鈴役）ご出演につきまして]]></title>
+            <description><![CDATA[#学マス #学マスデビューライブツアー #学マスデビュー初陣_渋谷]]></description>
+            <link>https://idolmaster-official.jp/news/01_14567.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14567.html</guid>
+            <pubDate>Fri, 14 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】甘いものって好き？フレームアクリルキーホルダーが当たる！「#学マスドキドキバレンタイン」プレゼントキャンペーン]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター #学マスドキドキバレンタイン]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14204.html</guid>
             <pubDate>Fri, 17 Jan 2025 03:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/bqJqKPLH7j35h1CMsTfIMwpsmsADlVNW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14216.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14216.html</guid>
-            <pubDate>Fri, 17 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 広島府中』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス広島府中]]></description>
-            <link>https://idolmaster-official.jp/news/01_14228.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14228.html</guid>
-            <pubDate>Fri, 17 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1024/OTHER/2025/01/NdhhHSGzDV75x78TiNgqGZAcmMzXrStk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】『学園アイドルマスターPOP UP STORE アベノラクバス& AKIBA FAN CUBE』が開催中！東京「AKIBA FAN CUBE」での開催は1月19日(金)まで！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_13894.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13894.html</guid>
-            <pubDate>Fri, 17 Jan 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/11/RD5LJgN3ntcIZH3XAUMVY7UN7frIRsnW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
