@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Feb 2025 02:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 03:18:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Feb 2025 02:13:45 GMT</pubDate>
+        <pubDate>Fri, 14 Feb 2025 03:18:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】【ミリオン】【3/14(金)より】『765 MILLION ALLSTARS SHOP in コトブキヤ秋葉原館』の開催が決定！]]></title>
+            <description><![CDATA[#アイドルマスター　#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14525.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14525.html</guid>
+            <pubDate>Fri, 14 Feb 2025 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/YR3Ugpn3YODos8nj2OwDT2aWNrd8zfjk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTへのタイアップ参戦が決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14032.html</guid>
             <pubDate>Tue, 07 Jan 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【1/10(金) から！】『THE IDOLM@STER MILLION LIVE! MILLION MAGIC』ポップアップストアが開催！🎩✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13992.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13992.html</guid>
-            <pubDate>Mon, 06 Jan 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/q2nzZOUtnGqfzNbcSAPSwFF8hxeVXK9R.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
