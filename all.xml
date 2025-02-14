@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Feb 2025 14:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 02:13:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Feb 2025 14:14:15 GMT</pubDate>
+        <pubDate>Fri, 14 Feb 2025 02:13:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「相原雪乃」が登場！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14412.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14412.html</guid>
+            <pubDate>Fri, 14 Feb 2025 02:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/nE4YZzOk69C3ruAH9PDZ9NEfd1bGYQqw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】[純白領域]をもとにした”鈴木羽那”のプライズフィギュアが2月20日(木)より登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14407.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14407.html</guid>
+            <pubDate>Fri, 14 Feb 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/eNc1eC5nibAX9tVsw6eFCNRm7F04TEM0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】洋服の青山×アイドルマスター シャイニーカラーズ　コラボ追加施策発表！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #AOYAMAシャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14513.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14513.html</guid>
+            <pubDate>Fri, 14 Feb 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/S3uuyaLMRcFOy6ABpPu59UE6i5vvf7Z0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【デレステ】【公式】新人PにおすすめしたいデレステMVプレイリスト 公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #シンデレラアワード #デレステ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14337.html</guid>
             <pubDate>Fri, 07 Feb 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/6alA5r6ZnPhc5x5LrarzBqz8660yj4Kr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演 明日2月8日(土)よりアソビストア一般会員先行お申込み受付スタート！！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14488.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14488.html</guid>
-            <pubDate>Fri, 07 Feb 2025 03:36:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/p7eM9onMz6ZAYLVBEfksCJL7CYk5g9sx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】アゾンインターナショナルより、1/6スケールドール化企画の続報！]]></title>
-            <description><![CDATA[#アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14238.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14238.html</guid>
-            <pubDate>Fri, 07 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/zHny2wcKJtRdbXSIqvj1M2J37Pulyq9i.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】くじ引き堂にて「アイドルマスター SideM」コラボくじが2/13より販売決定！！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_14427.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14427.html</guid>
-            <pubDate>Fri, 07 Feb 2025 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/JNnaOMcAfGtZTrtLYuarPZqQebfXrcdv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

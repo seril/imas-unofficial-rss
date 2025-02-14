@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Feb 2025 14:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 02:13:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Feb 2025 14:14:15 GMT</pubDate>
+        <pubDate>Fri, 14 Feb 2025 02:13:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】[純白領域]をもとにした”鈴木羽那”のプライズフィギュアが2月20日(木)より登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14407.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14407.html</guid>
+            <pubDate>Fri, 14 Feb 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/eNc1eC5nibAX9tVsw6eFCNRm7F04TEM0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】洋服の青山×アイドルマスター シャイニーカラーズ　コラボ追加施策発表！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #AOYAMAシャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14513.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14513.html</guid>
+            <pubDate>Fri, 14 Feb 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/S3uuyaLMRcFOy6ABpPu59UE6i5vvf7Z0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTへのタイアップ参戦が決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14058.html</guid>
             <pubDate>Wed, 15 Jan 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/NM4CsfWivFMmgCCMglr5YaoaMZjwnk5I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】「Blu-ray！全力紹介バラエティ！？スペシャル生配信」お知らせまとめ！ ご視聴ありがとうございました！【Blu-ray受注締切は本日23:59まで！】]]></title>
-            <description><![CDATA[#シャニアニ生配信 #シャニアニ2nd #シャニアニ #シャニマス #シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_14082.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14082.html</guid>
-            <pubDate>Tue, 14 Jan 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/loDHNq7JCV8Jo9NCiirEEpcPY3WVncz8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】『Blu-ray！全力紹介バラエティ！？スペシャル生配信』配信記念！プレゼントキャンペーン開催中！【Blu-rayの受注締切は1月14日(火)まで！】]]></title>
-            <description><![CDATA[#シャニアニ生配信 #シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14085.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14085.html</guid>
-            <pubDate>Tue, 14 Jan 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/4muZ9o0E05XAQqZdvOOfInCyqfvwuzGr.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
