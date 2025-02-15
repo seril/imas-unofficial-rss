@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Feb 2025 03:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Feb 2025 06:18:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Feb 2025 03:17:46 GMT</pubDate>
+        <pubDate>Sat, 15 Feb 2025 06:18:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】【明日まで！】5月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は2月16日(日)まで！グッズのサンプルをご紹介！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_14518.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14518.html</guid>
+            <pubDate>Sat, 15 Feb 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/GfcFxEHYHHbU8zPnXdIJTMGxcF2MtdHx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【20周年生配信イベント】現地チケットのアソビストアプレミアム会員2次先行が明日2月15日(土) 12:00よりスタート！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14499.html</guid>
             <pubDate>Fri, 07 Feb 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/bVWYQdkjq89Sc3UY63Qq2zj80hEVgrW0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 名古屋クラブクアトロ公演」 春咲 暖様（秦谷 美鈴役）ご出演見合わせにつきまして]]></title>
-            <description><![CDATA[#学マス #学マスデビューライブツアー #学マスデビュー初陣_名古屋 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14480.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14480.html</guid>
-            <pubDate>Fri, 07 Feb 2025 09:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
