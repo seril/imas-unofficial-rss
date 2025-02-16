@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Feb 2025 14:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 02:19:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Feb 2025 14:11:40 GMT</pubDate>
+        <pubDate>Sun, 16 Feb 2025 02:19:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ライバーアイドルのソロ3rd single 3曲が各種配信サイトでリリース！DL販売にハイレゾ音源も！テーマはアニメのオープニングテーマ！配信用ジャケットも公開！  #ASOBINOTES]]></title>
+            <description><![CDATA[【 #ヴイアラ 】ライバーアイドルのソロ3rd single 3曲が各種配信サイトでリリース！DL販売にハイレゾ音源も！テーマはアニメのオープニングテーマ！配信用ジャケットも公開！  #ASOBINOTES]]></description>
+            <link>https://idolmaster-official.jp/news/01_14578.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14578.html</guid>
+            <pubDate>Sat, 15 Feb 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/TAYYOVmg9wVYBYJ0V6OOIfrlAKuKOap7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】＜1stLIVE追加情報＞会場物販決定！初のイベントスポンサー企業様も公開！現地チケットWeb先行受付は明日2月16日(日)まで！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】＜1stLIVE追加情報＞会場物販決定！初のイベントスポンサー企業様も公開！現地チケットWeb先行受付は明日2月16日(日)まで！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14580.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14580.html</guid>
+            <pubDate>Sat, 15 Feb 2025 14:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/guBduFM5XuxsLF2Qtc0MVOzEymklWu3G.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】豪華コンポーザー陣によるロックテーマのユニット1st Album「彼方」販売決定！初の流通販売も決定！”アソビストア限定早期購入特典”購入者限定リリースイベントの開催も！ #ASOBINOTES]]></title>
+            <description><![CDATA[【 #ヴイアラ 】豪華コンポーザー陣によるロックテーマのユニット1st Album「彼方」販売決定！初の流通販売も決定！”アソビストア限定早期購入特典”購入者限定リリースイベントの開催も！ #ASOBINOTES]]></description>
+            <link>https://idolmaster-official.jp/news/01_14563.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14563.html</guid>
+            <pubDate>Sat, 15 Feb 2025 14:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/TqckyhpgO4jVPhWoAYRr8RJJR4faqkZb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日12:30放送開始】【961】ASOBISTAGEにて961 PRODUCTION presents 『Re:FLAME』 追加公演 [Re:FLAME/DUSK] 生オーディオコメンタリーを配信！！！開催記念グッズの受注受付は2月16日(日)まで！]]></title>
             <description><![CDATA[#reflame_961 #reflame_961_DUSK]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13798.html</guid>
             <pubDate>Sat, 14 Dec 2024 12:25:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/TfOqEFXPewTLpGPaBKx1lBSjcRr2DYEY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※1月11日更新※【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール広島府中」開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス広島府中]]></description>
-            <link>https://idolmaster-official.jp/news/01_13658.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13658.html</guid>
-            <pubDate>Fri, 13 Dec 2024 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】いよいよ今週末開催！！当日の参加にあたってのご案内／現地チケット情報をお知らせします！]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13837.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13837.html</guid>
-            <pubDate>Fri, 13 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/eHUPqfkYGYkakW7BkIblkn2abWTTICNp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ディアリースターズ】 アイマスDS発売15周年記念イラストを使用したオリジナルグッズセットの受注販売が決定！！]]></title>
-            <description><![CDATA[#imas_ds ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13830.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13830.html</guid>
-            <pubDate>Thu, 12 Dec 2024 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2024/11/KS6hgqhuJS20JPffzrxnLt47Tojq7Hdj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
