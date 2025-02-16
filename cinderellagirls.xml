@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Feb 2025 02:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2025 03:20:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Feb 2025 02:19:23 GMT</pubDate>
+        <pubDate>Sun, 16 Feb 2025 03:20:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[★本日まで★【シンデレラ】デレステ10thツアー大阪公演の公式グッズ数量限定販売は本日まで！]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14564.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14564.html</guid>
+            <pubDate>Sun, 16 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/fT2CcxgDUO0kVZ9VSdQJGVOlQPvFI3AO.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【20周年生配信イベント】現地チケットのアソビストアプレミアム会員2次先行が明日2月15日(土) 12:00よりスタート！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14210.html</guid>
             <pubDate>Thu, 16 Jan 2025 06:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/01/1q9NrSvueiWmHNe1aqRnhAIshYVVtqSu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「白菊ほたる」が登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14178.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14178.html</guid>
-            <pubDate>Thu, 16 Jan 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/QN9gt4iHV4dqkT7eWrcMjlQzQjRqZcrU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
