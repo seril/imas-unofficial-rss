@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Feb 2025 06:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 11:13:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Feb 2025 06:21:05 GMT</pubDate>
+        <pubDate>Mon, 17 Feb 2025 11:13:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】初陣公演 渋谷クラブクアトロ公演 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
+            <description><![CDATA[#学マスデビュー初陣_渋谷 #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14581.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14581.html</guid>
+            <pubDate>Mon, 17 Feb 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/02/X6rRJVeEpu9u3TMWfKUXZ9dtUtxaCpoH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】アイマス給湯室「アイマス検定答え合わせ配信」＆「アイマス検定本番まもなく！自習用24/7Stream !」配信決定！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定 #アイマス給湯室]]></description>
+            <link>https://idolmaster-official.jp/news/01_14442.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14442.html</guid>
+            <pubDate>Mon, 17 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/Z6uTzy2Mtjvop0WcB7cCvzEZlaPQCIQL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスタートラスト13～I.V.～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14512.html</guid>
             <pubDate>Mon, 10 Feb 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/pDqD4dIgUP6D8fCc9zahetkTrGS21FbH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 梅田クラブクアトロ公演」 春咲 暖様（秦谷 美鈴役）ご出演につきまして]]></title>
-            <description><![CDATA[#学マス #学マスデビューライブツアー #学マスデビュー初陣_梅田]]></description>
-            <link>https://idolmaster-official.jp/news/01_14509.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14509.html</guid>
-            <pubDate>Mon, 10 Feb 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】★3 櫻木 真乃、★3 黛 冬優子が手に入るガシャ開催中！ さらに、バレンタインデー&ホワイトデー2025イベントの開催も！]]></title>
-            <description><![CDATA[#シャニソン  ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14496.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14496.html</guid>
-            <pubDate>Mon, 10 Feb 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/EiqzgzZ8b2EGHKlPnHVlpkVYttTPEcVX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

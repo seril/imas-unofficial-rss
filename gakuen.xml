@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Feb 2025 06:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 11:13:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Feb 2025 06:21:05 GMT</pubDate>
+        <pubDate>Mon, 17 Feb 2025 11:13:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】初陣公演 渋谷クラブクアトロ公演 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
+            <description><![CDATA[#学マスデビュー初陣_渋谷 #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14581.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14581.html</guid>
+            <pubDate>Mon, 17 Feb 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/02/X6rRJVeEpu9u3TMWfKUXZ9dtUtxaCpoH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】アイマス給湯室「アイマス検定答え合わせ配信」＆「アイマス検定本番まもなく！自習用24/7Stream !」配信決定！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定 #アイマス給湯室]]></description>
+            <link>https://idolmaster-official.jp/news/01_14442.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14442.html</guid>
+            <pubDate>Mon, 17 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/Z6uTzy2Mtjvop0WcB7cCvzEZlaPQCIQL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】エンスカイより、「スナップマイドSpecial」が登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14206.html</guid>
             <pubDate>Mon, 20 Jan 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/01/ypOWKC1u1thC7Pt0DwxhoJQUvSRapsFB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】AMNIBUSより「学園アイドルマスター」の新商品第2弾が発売予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14172.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14172.html</guid>
-            <pubDate>Mon, 20 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/jpPo5emBj4Mba6TP22XiMnzWBGmMNuOS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター」eプリントブロマイド発売！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14174.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14174.html</guid>
-            <pubDate>Mon, 20 Jan 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/01/3L75cRI2DLt3xDAPsDTSgIiLMNt6UElB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
