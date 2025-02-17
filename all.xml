@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Feb 2025 02:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 03:20:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Feb 2025 02:17:14 GMT</pubDate>
+        <pubDate>Mon, 17 Feb 2025 03:20:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】2月25日(火) 21:00～ 声優陣4名が出演する生配信を実施予定！]]></title>
+            <description><![CDATA[#シャニソン #シャニマス #シャニソン生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_14521.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14521.html</guid>
+            <pubDate>Mon, 17 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/sWwHay48f1vdUdBOklOAwFzyVvlITETR.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】[一匹狼]のイラストをもとにした"月村手毬"のプライズフィギュアが登場予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14551.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14551.html</guid>
+            <pubDate>Mon, 17 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/9Un6YzoMAA4tD25hW5RwHv2V2jYDYak4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】秦谷美鈴誕生日記念セット受注本日まで！]]></title>
             <description><![CDATA[#学マス #秦谷美鈴 #秦谷美鈴生誕祭2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14501.html</guid>
             <pubDate>Mon, 10 Feb 2025 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/02/4I9kvjMgptG0FJUAIMAmz0CDOmdtNQVq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】Vポイントアプリを着せかえできるサービス「Vキセカエ」に登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14479.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14479.html</guid>
-            <pubDate>Mon, 10 Feb 2025 01:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/g7c6XoPHoAAk6EqB01p5PEPb5ckliI0k.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ大阪公演 集合写真イラストを使用した開催記念グッズ販売スタート！]]></title>
-            <description><![CDATA[#SideM #Side10thプロミ大阪]]></description>
-            <link>https://idolmaster-official.jp/news/01_14503.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14503.html</guid>
-            <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/knY0dp8SmjtbyjxLCsDjq5OdyxqPhLcx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
