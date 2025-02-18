@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Feb 2025 03:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 06:20:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Feb 2025 03:17:49 GMT</pubDate>
+        <pubDate>Tue, 18 Feb 2025 06:20:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM 10th ANNIVERSARY P@SSION 10 Café Parade」CD情報！]]></title>
+            <description><![CDATA[#SideM #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14559.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14559.html</guid>
+            <pubDate>Tue, 18 Feb 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/2020/09/15/アイマスブログ用SideMロゴ.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】アイドル衣装を着た「紫雲清夏」「篠澤 広」「姫崎莉波」のちびぐるみが2025年7月に登場予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -15,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14417.html</guid>
             <pubDate>Tue, 18 Feb 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/1HD7czqqpaEVUTDHHAwNMGANoXrswr94.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション、第4弾「うお座」のアイドル15名が甘くてロリィタな衣装で登場！受注は 3/23(日)まで♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14573.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14573.html</guid>
+            <pubDate>Tue, 18 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/IozZm8TplXPcrTPZqHxRRvK7uPo9xRp1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】初陣公演 渋谷クラブクアトロ公演 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14500.html</guid>
             <pubDate>Mon, 10 Feb 2025 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/13SJ8StoSqShhJcdcGxBz0DNksFJrQbA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ大阪公演 視聴コメント付きアーカイブ配信開始！同時視聴上映会も実施予定！アンケートも実施中！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
-            <link>https://idolmaster-official.jp/news/01_14515.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14515.html</guid>
-            <pubDate>Mon, 10 Feb 2025 09:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/MyAOgCa7F2ZVVVFv8CGD7sp1aPZSt6cg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【学マス】 DEBUT LIVE 初 TOUR -初陣公演- 終了後感想会 決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #AP生配信 #学マス #学マスデビューライブツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14424.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14424.html</guid>
-            <pubDate>Mon, 10 Feb 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/fBG1uXN1JgGLnEPK0m05PvkiTtB9Og5V.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
