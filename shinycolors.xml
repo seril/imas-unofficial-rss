@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Feb 2025 06:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 11:12:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Feb 2025 06:20:23 GMT</pubDate>
+        <pubDate>Tue, 18 Feb 2025 11:12:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】和泉 愛依、斑鳩 ルカが登場するパラレルコレクションを開催中！ プロデュースイベント「ウィンター・スノー・ボックス」の開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14577.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14577.html</guid>
+            <pubDate>Tue, 18 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/fFfuAY2cGyUhaMQrQNfAGkdvjUXvT6UC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】アイマス給湯室「アイマス検定答え合わせ配信」＆「アイマス検定本番まもなく！自習用24/7Stream !」配信決定！【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定 #アイマス給湯室]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14191.html</guid>
             <pubDate>Fri, 17 Jan 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/lh6QISW8F2Ibkj44UmMwV42goG1B6ofI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14216.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14216.html</guid>
-            <pubDate>Fri, 17 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

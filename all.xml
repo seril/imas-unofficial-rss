@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Feb 2025 06:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Feb 2025 11:12:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Feb 2025 06:20:23 GMT</pubDate>
+        <pubDate>Tue, 18 Feb 2025 11:12:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】和泉 愛依、斑鳩 ルカが登場するパラレルコレクションを開催中！ プロデュースイベント「ウィンター・スノー・ボックス」の開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14577.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14577.html</guid>
+            <pubDate>Tue, 18 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/fFfuAY2cGyUhaMQrQNfAGkdvjUXvT6UC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM 10th ANNIVERSARY P@SSION 10 Café Parade」CD情報！]]></title>
             <description><![CDATA[#SideM #SideM10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14497.html</guid>
             <pubDate>Wed, 12 Feb 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】いよいよ明日！学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- in梅田クラブクアトロは2月11日(火・祝)開催！ 配信視聴チケット販売中！]]></title>
-            <description><![CDATA[#学マスデビュー初陣_梅田 #学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14500.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14500.html</guid>
-            <pubDate>Mon, 10 Feb 2025 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/13SJ8StoSqShhJcdcGxBz0DNksFJrQbA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
