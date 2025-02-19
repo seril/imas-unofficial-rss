@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Feb 2025 14:13:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 02:14:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Feb 2025 14:13:54 GMT</pubDate>
+        <pubDate>Wed, 19 Feb 2025 02:14:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニラジHBTK】3月6日(木) 19:00～ライブ後特別回「シャニラジ生配信」実施決定！シャニアニ2ndLIVEの感想をたっぷりお届けします♪]]></title>
+            <description><![CDATA[#シャニラジHBTK #シャニラジ生配信 #シャニアニ2ndLIVE #シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14596.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14596.html</guid>
+            <pubDate>Tue, 18 Feb 2025 14:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/CmNsmRz5GGiPrD9ArhMIBlCxpSfdweZT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【APラウンジ】【ミリオンライブ！】12周年をお祝いしてこの1年を振り返ろう！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch ＃APラウンジ #ミリオンライブ #ミリシタ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14508.html</guid>
             <pubDate>Wed, 12 Feb 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/cAou0PotpGvSw9AjSVmMwjr7CWYgXKDt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】＜デレステ10thツアー＞参加条件は法被＆ライト持ち込み！ツアー前半公演打ち上げDJイベント「SUPER! HAPPY! TRACKS!」が namco TOKYOにて開催決定!!!]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14510.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14510.html</guid>
-            <pubDate>Wed, 12 Feb 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/3QzH4tvK2ioeDcNBoYWTFsE5XIkcANXn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
