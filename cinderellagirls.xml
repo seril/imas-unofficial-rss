@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Feb 2025 11:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Feb 2025 14:14:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Feb 2025 11:12:16 GMT</pubDate>
+        <pubDate>Wed, 19 Feb 2025 14:14:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
+            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
+            <link>https://idolmaster-official.jp/news/01_14370.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14370.html</guid>
+            <pubDate>Wed, 19 Feb 2025 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/15G7GNr16HUhX2msfggTpOZjgRnQiCCw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「マリオンクレープ」とのコラボ第2弾が開催決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14430.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14430.html</guid>
+            <pubDate>Wed, 19 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/WOmDNBLLpXgJyHkFvUSzceF4YOT72ZBa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】ST@iRs to 10th Anniversary シンデレラアワード前半5テーマ結果発表！]]></title>
             <description><![CDATA[#シンデレラアワード開催中 #stairs_to_10th #デレステ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14194.html</guid>
             <pubDate>Mon, 20 Jan 2025 01:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/01/YQS6MHJ2KSt3QAcsMxlQ27UuCs8bRdF1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日締切！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14242.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14242.html</guid>
-            <pubDate>Sun, 19 Jan 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】＼ 本日まで！ ／190名のバースデーグッズ企画！第2弾「やぎ座」のアイドル15名のグッズ受注は1/19(日)まで♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14247.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14247.html</guid>
-            <pubDate>Sun, 19 Jan 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2024/12/0aVbI77b6r7LgFVlnm3Jk2dvRPLN7mpD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
