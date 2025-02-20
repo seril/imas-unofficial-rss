@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Feb 2025 02:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 03:19:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Feb 2025 02:14:46 GMT</pubDate>
+        <pubDate>Thu, 20 Feb 2025 03:19:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】2月25日から！「Super Point Screen」と「アイドルマスター シンデレラガールズ スターライトステージ」とのコラボキャンペーン開催！]]></title>
+            <description><![CDATA[#stairs_to_10th  #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14348.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14348.html</guid>
+            <pubDate>Thu, 20 Feb 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/01/du3jvAJAVNgYcHIZdEvQqQjReZJFnrdv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】本日更新！アソビストア ガラポン 沖縄・福岡ピックアップ④ご紹介♪]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14587.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14587.html</guid>
+            <pubDate>Thu, 20 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/02/OSlcagsvGaJZabU3siknMv8sJKMfd0uH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「服部瞳子」が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14407.html</guid>
             <pubDate>Fri, 14 Feb 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/eNc1eC5nibAX9tVsw6eFCNRm7F04TEM0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】洋服の青山×アイドルマスター シャイニーカラーズ　コラボ追加施策発表！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #AOYAMAシャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14513.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14513.html</guid>
-            <pubDate>Fri, 14 Feb 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/S3uuyaLMRcFOy6ABpPu59UE6i5vvf7Z0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【デレステ】【公式】新人PにおすすめしたいデレステMVプレイリスト 公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #シンデレラアワード #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14188.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14188.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/ZzgOtg8FsnMKy4CQTuhxBZvNJ5PGbU6R.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
