@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Feb 2025 06:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 11:12:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Feb 2025 06:20:30 GMT</pubDate>
+        <pubDate>Thu, 20 Feb 2025 11:12:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》5月に向けてジュリア・宮尾美也が登場！「ゴールデンウィーク」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル5月]]></description>
+            <link>https://idolmaster-official.jp/news/01_14514.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14514.html</guid>
+            <pubDate>Thu, 20 Feb 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/adVbxF9LtByujD167Y92MnXUP8obdfvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】3月1日より開催！SHIBUYA109阿倍野店「♯Midnight Runway」大阪限定グッズと 入場整理券のお知らせ]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14584.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14584.html</guid>
+            <pubDate>Thu, 20 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/VSUxPKXn3G50H87VZ6KVVidUy4ckZCUf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター」とZOZOTOWNが初コラボ！ 「学園アイドルマスター BLACK COLLECTION by ZOZOTOWN」を2月28日より販売！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14585.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14585.html</guid>
+            <pubDate>Thu, 20 Feb 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/n3izMT03Hd24itCagFpMF9yoRAXRfZ5z.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「Mフェス2025 × ふらんす亭」コラボ詳細を公開！]]></title>
+            <description><![CDATA[#SideM #Mフェス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_14566.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14566.html</guid>
+            <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/qvqIQ35sTOLwbaVhm7U2pBIunng39DM9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】3/8(土)・9(日)開催「デレステ10thツアー大阪公演」にて会場物販の実施が決定！！開催記念グッズから先行し、「トレーディングクリアカード」も会場販売決定！！]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14599.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14599.html</guid>
+            <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/Wk7AxHIYaqifi17qcG0D6V3J7mTkA0yd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】2月25日から！「Super Point Screen」と「アイドルマスター シンデレラガールズ スターライトステージ」とのコラボキャンペーン開催！]]></title>
             <description><![CDATA[#stairs_to_10th  #デレマス #デレステ]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14431.html</guid>
             <pubDate>Fri, 14 Feb 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/N7tBKm7F0ZrmZCkKK4apaDBj5lB0trpc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】【ミリオン】【3/14(金)より】『765 MILLION ALLSTARS SHOP in コトブキヤ秋葉原館』の開催が決定！]]></title>
-            <description><![CDATA[#アイドルマスター　#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14525.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14525.html</guid>
-            <pubDate>Fri, 14 Feb 2025 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/YR3Ugpn3YODos8nj2OwDT2aWNrd8zfjk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】 ＼2/23(日)まで／「星座」にフィーチャーした190名のバースデーコレクション、第3弾「みずがめ座」のアイドル13名が登場中！！]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14552.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14552.html</guid>
-            <pubDate>Fri, 14 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/EpHViBtlcgCmCeQ9sj36Yo57hXjOhHKn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】ヴァイスシュヴァルツブラウにてSideMのブースターパックが6月20日に発売決定！新規収録のオリジナルイラストも公開！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_14549.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14549.html</guid>
-            <pubDate>Fri, 14 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/rs2raAaAFeymqgD2B9vMaYwf1lOnmxli.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「相原雪乃」が登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14412.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14412.html</guid>
-            <pubDate>Fri, 14 Feb 2025 02:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/nE4YZzOk69C3ruAH9PDZ9NEfd1bGYQqw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】[純白領域]をもとにした”鈴木羽那”のプライズフィギュアが2月20日(木)より登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14407.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14407.html</guid>
-            <pubDate>Fri, 14 Feb 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/eNc1eC5nibAX9tVsw6eFCNRm7F04TEM0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

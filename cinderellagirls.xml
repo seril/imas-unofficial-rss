@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Feb 2025 06:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 11:12:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Feb 2025 06:20:29 GMT</pubDate>
+        <pubDate>Thu, 20 Feb 2025 11:12:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】3月1日より開催！SHIBUYA109阿倍野店「♯Midnight Runway」大阪限定グッズと 入場整理券のお知らせ]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14584.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14584.html</guid>
+            <pubDate>Thu, 20 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/VSUxPKXn3G50H87VZ6KVVidUy4ckZCUf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】3/8(土)・9(日)開催「デレステ10thツアー大阪公演」にて会場物販の実施が決定！！開催記念グッズから先行し、「トレーディングクリアカード」も会場販売決定！！]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14599.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14599.html</guid>
+            <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/Wk7AxHIYaqifi17qcG0D6V3J7mTkA0yd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】2月25日から！「Super Point Screen」と「アイドルマスター シンデレラガールズ スターライトステージ」とのコラボキャンペーン開催！]]></title>
             <description><![CDATA[#stairs_to_10th  #デレマス #デレステ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14256.html</guid>
             <pubDate>Tue, 21 Jan 2025 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/D0wsi52nkl25gCLd9B8ArMB2WbCdg4m3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー沖縄・福岡公演のアソビストアプレミアム会員先行受付開始！沖縄はスイート席も♪後半2公演の公式グッズ事前販売もスタートです♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14261.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14261.html</guid>
-            <pubDate>Tue, 21 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/01/nSWuUJuD0tuJ0613opvzNzjvIWeICq8R.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー沖縄・福岡公演の公式グッズ事前販売がスタート！！「190名グッズ」も後半アイドルのラインナップにフルチェンジです♪ ぜひお見逃しなく！！]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14245.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14245.html</guid>
-            <pubDate>Tue, 21 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/fQgJapHlJ5gy8ZxNRDLlH9jWy4tXj7ax.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
