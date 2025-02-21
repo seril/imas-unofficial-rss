@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Feb 2025 11:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 14:12:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Feb 2025 11:12:11 GMT</pubDate>
+        <pubDate>Fri, 21 Feb 2025 14:12:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ゲストアイドルが登場！「公式オーディオドラマVol.1&Vol.2」がBOOTHにて同時発売決定！購入特典に書き下ろし画像も！Vol.1はゲスト日高愛、Vol.2は天海春香&秋月律子が登場！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】ゲストアイドルが登場！「公式オーディオドラマVol.1&Vol.2」がBOOTHにて同時発売決定！購入特典に書き下ろし画像も！Vol.1はゲスト日高愛、Vol.2は天海春香&秋月律子が登場！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14676.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14676.html</guid>
+            <pubDate>Fri, 21 Feb 2025 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/SoF6lr7ZgVnmSZx9LiXXnvsVt1yrxV0s.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「アイマス検定」イベント会場限定！Fan Fun Spot×アソビストアプレミアム会員キャンペーン実施決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマス検定]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13740.html</guid>
             <pubDate>Tue, 17 Dec 2024 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/WUGPRjJDqnyAAyWTwsTKcIetbC9Xdwt8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【アイマスエキスポ】お疲れさまでした！2日間を振り返ろう！！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ #アイマスエキスポ]]></description>
-            <link>https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</guid>
-            <pubDate>Mon, 16 Dec 2024 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/t52e8AXeerb1D8tJWTYS476Vcb9qdofl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
