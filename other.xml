@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Feb 2025 03:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 06:20:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Feb 2025 03:19:54 GMT</pubDate>
+        <pubDate>Fri, 21 Feb 2025 06:20:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「アイマス検定」イベント会場限定！Fan Fun Spot×アソビストアプレミアム会員キャンペーン実施決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス検定]]></description>
+            <link>https://idolmaster-official.jp/news/01_14544.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14544.html</guid>
+            <pubDate>Fri, 21 Feb 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/mzeretJm9MfKYJijUUEgZktJxbReRwxa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】ゲストは坂上陽三さん！‎本日2/21(金)20:00より公式番組「アイドル育成プロジェクト ヴイアライヴ」放送！]]></title>
             <description><![CDATA[【 #ヴイアラ 】ゲストは坂上陽三さん！‎本日2/21(金)20:00より公式番組「アイドル育成プロジェクト ヴイアライヴ」放送！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/VoXOavEw7f83M2O1.html</guid>
             <pubDate>Mon, 16 Dec 2024 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2024/12/t52e8AXeerb1D8tJWTYS476Vcb9qdofl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】初の有観客ワンマンLIVE「1stLIVE -HERE WE ARE !!!-」早期限定グッズ&お見送り付現地チケットの抽選お申込みは※本日12/16締切※！ #アイマスEXPO に合わせてLIVEグッズの事前販売も実施中！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】初の有観客ワンマンLIVE「1stLIVE -HERE WE ARE !!!-」早期限定グッズ&お見送り付現地チケットの抽選お申込みは※本日12/16締切※！ #アイマスEXPO に合わせてLIVEグッズの事前販売も実施中！]]></description>
-            <link>https://idolmaster-official.jp/news/01_13860.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13860.html</guid>
-            <pubDate>Mon, 16 Dec 2024 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/CyDOyCT5RjTOI10kRVtoVbF0u1KCk8YK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
