@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Feb 2025 14:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 02:15:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Feb 2025 14:14:21 GMT</pubDate>
+        <pubDate>Fri, 21 Feb 2025 02:15:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】コトブキヤくじ 学園アイドルマスター CHEERFUL! 販売開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14504.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14504.html</guid>
+            <pubDate>Fri, 21 Feb 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/FnDk8vXuvdVMAx2CjC5RD5g0MK40b6iA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】ソーシャルゲーム版「アイドルマスター SideM」メモリアルブック 本日発売！！ASOBI STOREにて数量限定販売中！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_14639.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14639.html</guid>
+            <pubDate>Fri, 21 Feb 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/qfbDs694uNtT4WmovGT8Q3FMPiKgUNSw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】全国のイオン店舗でサントリーフーズ株式会社×『学園アイドルマスター』のタイアップキャンペーンを実施！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14538.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14538.html</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/hynW13EJc4SbDfGtpKknmrkG0L1uL7lA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》5月に向けてジュリア・宮尾美也が登場！「ゴールデンウィーク」をイメージしたグッズが受注開始！]]></title>
             <description><![CDATA[#ミリオンシーズナル5月]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14542.html</guid>
             <pubDate>Fri, 14 Feb 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/0BjXbnHrz7WISHvjSgeykAq4exfP2fwX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 渋谷クラブクアトロ公演」 春咲 暖様（秦谷 美鈴役）ご出演につきまして]]></title>
-            <description><![CDATA[#学マス #学マスデビューライブツアー #学マスデビュー初陣_渋谷]]></description>
-            <link>https://idolmaster-official.jp/news/01_14567.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14567.html</guid>
-            <pubDate>Fri, 14 Feb 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】横浜・八景島シーパラダイス×アイドルマスター SideM　コラボイベント第2弾「315 WINTER PASSION Second!!」は2月18日(火)からスタート！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_14539.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14539.html</guid>
-            <pubDate>Fri, 14 Feb 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/7oMovdFzvNPnhAfxjMFfWbj0ZCm18BHc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】甘いものって好き？フレームアクリルキーホルダーが当たる！「#学マスドキドキバレンタイン」プレゼントキャンペーン]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #学マスドキドキバレンタイン]]></description>
-            <link>https://idolmaster-official.jp/news/01_14431.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14431.html</guid>
-            <pubDate>Fri, 14 Feb 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/N7tBKm7F0ZrmZCkKK4apaDBj5lB0trpc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

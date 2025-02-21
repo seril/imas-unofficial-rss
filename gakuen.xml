@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Feb 2025 14:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 02:15:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Feb 2025 14:14:21 GMT</pubDate>
+        <pubDate>Fri, 21 Feb 2025 02:15:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】コトブキヤくじ 学園アイドルマスター CHEERFUL! 販売開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14504.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14504.html</guid>
+            <pubDate>Fri, 21 Feb 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/FnDk8vXuvdVMAx2CjC5RD5g0MK40b6iA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】全国のイオン店舗でサントリーフーズ株式会社×『学園アイドルマスター』のタイアップキャンペーンを実施！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14538.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14538.html</guid>
+            <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/hynW13EJc4SbDfGtpKknmrkG0L1uL7lA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「学園アイドルマスター」とZOZOTOWNが初コラボ！ 「学園アイドルマスター BLACK COLLECTION by ZOZOTOWN」を2月28日より販売！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14186.html</guid>
             <pubDate>Thu, 23 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/01/8RYzoUZtPtX1mqqedhrfirI9Y1G1L75z.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star ただいま受注中の協賛社グッズを一部ご紹介！]]></title>
-            <description><![CDATA[#学マス #学マス1st]]></description>
-            <link>https://idolmaster-official.jp/news/01_14234.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14234.html</guid>
-            <pubDate>Tue, 21 Jan 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/QpSz6y7Lg5iJEEdB1q2MYg2QkOI3XdRg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】プライズ景品にてビジュアルアクリルボードシリーズが登場中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14225.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14225.html</guid>
-            <pubDate>Mon, 20 Jan 2025 08:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/LFfH5rjd8PiyZ46zx8R2mYRx6JuvM56I.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
