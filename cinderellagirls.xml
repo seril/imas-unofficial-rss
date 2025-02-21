@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Feb 2025 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 11:12:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Feb 2025 06:20:38 GMT</pubDate>
+        <pubDate>Fri, 21 Feb 2025 11:12:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】 ＼＼みずがめ座は今週末2/23(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第3弾「みずがめ座」＆第4弾「うお座」が受注中！！エッジィ＆ロリィタなルックにご注目♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14658.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14658.html</guid>
+            <pubDate>Fri, 21 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/EpHViBtlcgCmCeQ9sj36Yo57hXjOhHKn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【数量限定!!!!!】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが販売中！]]></title>
+            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
+            <link>https://idolmaster-official.jp/news/01_14667.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14667.html</guid>
+            <pubDate>Fri, 21 Feb 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「アイマス検定」イベント会場限定！Fan Fun Spot×アソビストアプレミアム会員キャンペーン実施決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマス検定]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14294.html</guid>
             <pubDate>Fri, 24 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/0BjXbnHrz7WISHvjSgeykAq4exfP2fwX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】カードゲーム用サプライ商品が新登場！]]></title>
-            <description><![CDATA[【シンデレラ】カードゲーム用サプライ商品が新登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14310.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14310.html</guid>
-            <pubDate>Fri, 24 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/GkR4RwhNX9slIqEQDRebJGhrb44pDvzW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】コトブキヤくじ アイドルマスター シンデレラガールズ stage04販売開始！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14257.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14257.html</guid>
-            <pubDate>Fri, 24 Jan 2025 01:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/X4bI3AP503sRkmwN2bpkb4LJnE9TdK4K.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

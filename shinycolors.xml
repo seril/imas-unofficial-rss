@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Feb 2025 06:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 11:12:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Feb 2025 06:20:38 GMT</pubDate>
+        <pubDate>Fri, 21 Feb 2025 11:12:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】横浜みなとみらい 万葉倶楽部×放課後クライマックスガールズ　コラボキャンペーン「ぽかぽか湯めぐりあふたー」イベント詳細公開！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14632.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14632.html</guid>
+            <pubDate>Fri, 21 Feb 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/SHINYCOLORS/2025/02/6uZvwl8v71XanBG0nypkPuLjG5SibbFo.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ2ndLIVE】キャスト生出演オーコメ付き！アーカイブ同時視聴会の開催が決定！！「アイドル直筆コメント画像」特典付き配信チケットも販売中♪]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ2ndLIVE #シャニアニ2nd]]></description>
+            <link>https://idolmaster-official.jp/news/01_14624.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14624.html</guid>
+            <pubDate>Fri, 21 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/pkmQzs6XTTEzgu5CkCL9dQbhVpP4MGtT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【数量限定!!!!!】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが販売中！]]></title>
+            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
+            <link>https://idolmaster-official.jp/news/01_14667.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14667.html</guid>
+            <pubDate>Fri, 21 Feb 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【シャニマス】THE IDOLM@STER SHINY COLORS 2nd season LIVE Over the prism終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #シャニマス  #シャニアニ2ndLIVE]]></description>
+            <link>https://idolmaster-official.jp/news/01_14560.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14560.html</guid>
+            <pubDate>Fri, 21 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/Idp8GlNcWRdB9hxJi2ai5F1agpv1ej0d.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「アイマス検定」イベント会場限定！Fan Fun Spot×アソビストアプレミアム会員キャンペーン実施決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマス検定]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14061.html</guid>
             <pubDate>Wed, 22 Jan 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/YfvryI3ymZwsYzZlFA0UWR7RqouMRTa4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】SHHis POP UP SHOP『武闘遊戯』1月24日（金）よりなんばマルイにて開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #武闘遊戯]]></description>
-            <link>https://idolmaster-official.jp/news/01_14254.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14254.html</guid>
-            <pubDate>Wed, 22 Jan 2025 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/fsSAgxpfX1yNY934s2p4npd2TtpI7GRv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】横浜・八景島シーパラダイスコラボイベント『Shiny Pieces』オリジナルグッズの事後販売が1月25日（土）より開始！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14274.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14274.html</guid>
-            <pubDate>Tue, 21 Jan 2025 10:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/6Gp9IoTsvmVDsT3T4ErQZqhKsw6asrVf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】風野 灯織、七草 にちかが登場するパラレルコレクションを開催中！ 冬のアイドル強化週間も開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14218.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14218.html</guid>
-            <pubDate>Tue, 21 Jan 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/yzff4HW8ZXvnPDDotuSj5jQNKh3n1HhE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】★3 白瀬 咲耶が手に入るガシャ開催中！さらに、有栖川 夏葉のソロ楽曲『Damascus Cocktail』が追加！]]></title>
-            <description><![CDATA[#シャニソン  ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14217.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14217.html</guid>
-            <pubDate>Mon, 20 Jan 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/01/IjWku5KOOVButpz6iAgudPL0RzBzhg7h.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
