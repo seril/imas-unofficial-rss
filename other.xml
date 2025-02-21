@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Feb 2025 02:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Feb 2025 03:19:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Feb 2025 02:15:15 GMT</pubDate>
+        <pubDate>Fri, 21 Feb 2025 03:19:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ゲストは坂上陽三さん！‎本日2/21(金)20:00より公式番組「アイドル育成プロジェクト ヴイアライヴ」放送！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】ゲストは坂上陽三さん！‎本日2/21(金)20:00より公式番組「アイドル育成プロジェクト ヴイアライヴ」放送！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14645.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14645.html</guid>
+            <pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/2PVVs6p6ZQgumHP0qHgxY3KdR95YtIPu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】アイマス給湯室「アイマス検定答え合わせ配信」＆「アイマス検定本番まもなく！自習用24/7Stream !」配信決定！【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定 #アイマス給湯室]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13860.html</guid>
             <pubDate>Mon, 16 Dec 2024 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/CyDOyCT5RjTOI10kRVtoVbF0u1KCk8YK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】DAY2お楽しみいただきありがとうございました！セットリストや会場での写真をお届けします♪／アンケート実施中！]]></title>
-            <description><![CDATA[#アイマスEXPO_ライブ_DAY2 #アイマスEXPO_サブステ_DAY2 #アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13848.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13848.html</guid>
-            <pubDate>Sun, 15 Dec 2024 11:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/ZbLiEZClNCAYFyafrm2uonZk59Cz62w3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
