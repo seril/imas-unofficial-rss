@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Feb 2025 11:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 14:12:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Feb 2025 11:10:51 GMT</pubDate>
+        <pubDate>Sat, 22 Feb 2025 14:12:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【数量限定!!!!!】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが販売中！]]></title>
+            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
+            <link>https://idolmaster-official.jp/news/01_14669.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14669.html</guid>
+            <pubDate>Sat, 22 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】2/22(土)学マス生配信「初星学園HR #9」お知らせまとめ]]></title>
             <description><![CDATA[ #学マス #学園アイドルマスター #初星ひな祭り]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14573.html</guid>
             <pubDate>Tue, 18 Feb 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/IozZm8TplXPcrTPZqHxRRvK7uPo9xRp1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】初陣公演 渋谷クラブクアトロ公演 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
-            <description><![CDATA[#学マスデビュー初陣_渋谷 #学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14581.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14581.html</guid>
-            <pubDate>Mon, 17 Feb 2025 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/02/X6rRJVeEpu9u3TMWfKUXZ9dtUtxaCpoH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Feb 2025 11:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 14:12:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Feb 2025 11:10:51 GMT</pubDate>
+        <pubDate>Sat, 22 Feb 2025 14:12:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【数量限定!!!!!】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが販売中！]]></title>
+            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
+            <link>https://idolmaster-official.jp/news/01_14669.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14669.html</guid>
+            <pubDate>Sat, 22 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】THE IDOLM@STER SHINY COLORS ECHOESシリーズ完走記念！旧譜キャンペーン開催！]]></title>
             <description><![CDATA[#シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14320.html</guid>
             <pubDate>Fri, 24 Jan 2025 10:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/xsYcPAEZLbzd5aQA1IHEo8VNU6isIHJc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「THE IDOLM@STER SHINY COLORS ECHOES 09」CD発売記念グッズの販売決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14060.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14060.html</guid>
-            <pubDate>Wed, 22 Jan 2025 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/NhK7qN9nQbhcOJ8lFTEAZzniPIiZ8L6f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Feb 2025 11:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 14:12:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Feb 2025 11:10:51 GMT</pubDate>
+        <pubDate>Sat, 22 Feb 2025 14:12:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【数量限定!!!!!】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが販売中！]]></title>
+            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
+            <link>https://idolmaster-official.jp/news/01_14669.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14669.html</guid>
+            <pubDate>Sat, 22 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[★あと3日★【デレステ10thツアー沖縄・福岡公演】の公式グッズ事前販売締め切りまであと3日！！190人グッズの後半ラインナップもお見逃しなく]]></title>
             <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14115.html</guid>
             <pubDate>Fri, 24 Jan 2025 12:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/01/n8B2ynmfa7EdkXDq3LyEK3zO3ln0hkAD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ ～ST@iRs to 10th Anniversary～SHOP in 有楽町マルイ」が開催中！開催期間は2/16(日)まで！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14195.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14195.html</guid>
-            <pubDate>Fri, 24 Jan 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/1Rz8Dub3IPm6TV434WKhnCvUPMKUl8f1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
