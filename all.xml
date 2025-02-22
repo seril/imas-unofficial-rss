@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Feb 2025 03:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 06:20:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Feb 2025 03:16:52 GMT</pubDate>
+        <pubDate>Sat, 22 Feb 2025 06:20:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【SideM】2月22日は猫の日！猫×アイドルをコンセプトにした「アイドルマスター SideM×ホラグチカヨ 公式にゃんにゃんにゃんグッズ」が登場！！本日より受注開始！！]]></title>
+            <description><![CDATA[#SideM #猫の日 #にゃんにゃんにゃんの日]]></description>
+            <link>https://idolmaster-official.jp/news/01_14571.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14571.html</guid>
+            <pubDate>Sat, 22 Feb 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/Cubvpd8eCby4WLA9dHVPiW9n82Rb4dTT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[★あと3日★【デレステ10thツアー沖縄・福岡公演】の公式グッズ事前販売締め切りまであと3日！！190人グッズの後半ラインナップもお見逃しなく]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14607.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14607.html</guid>
+            <pubDate>Sat, 22 Feb 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/7xWV2guThgeBXnYDCKV2OlnStG7baTcf.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】THE IDOLM@STER SHINY COLORS ECHOESシリーズ完走記念！旧譜キャンペーン開催！]]></title>
             <description><![CDATA[#シャニマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14520.html</guid>
             <pubDate>Mon, 17 Feb 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/02/rjFkofgSbjeGVqOlcvLA9fWGrQYbxbow.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】エンスカイより、「スナップマイドSpecial」が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14541.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14541.html</guid>
-            <pubDate>Mon, 17 Feb 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/kEcmRao1ry5Q3BEZxKrP0mTk7pt06fAt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】ST@iRs to 10th Anniversary記念！ガラス彫刻工房ONOのガラスの靴と美濃焼タンブラーの受注は2月28日まで！]]></title>
-            <description><![CDATA[#imas_cg #デレマス #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14576.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14576.html</guid>
-            <pubDate>Mon, 17 Feb 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/11/954N47ZBJxwD2KyEWnYMvewFOA5FD78v.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
