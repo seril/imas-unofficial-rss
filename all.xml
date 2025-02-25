@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Feb 2025 03:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 06:20:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Feb 2025 03:22:02 GMT</pubDate>
+        <pubDate>Tue, 25 Feb 2025 06:20:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニアニ2ndLIVE】✨いよいよ今週末開催✨現地会場にてコラボドリンクの販売が決定！シャニアニ2nd Blu-rayサンプルも初公開！現地チケット＆配信チケット販売中♪]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ2ndLIVE #シャニアニ2nd]]></description>
+            <link>https://idolmaster-official.jp/news/01_14640.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14640.html</guid>
+            <pubDate>Tue, 25 Feb 2025 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/VfKigJlY6xIElzeY9nYmI8sCJPvxt9IT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第３弾『EPHEMERAL AЯROW』の発売が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第３弾『EPHEMERAL AЯROW』の発売が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14657.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14657.html</guid>
+            <pubDate>Tue, 25 Feb 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/M5krfP879fBvrKSlJAPANPjKkrm39U3b.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「セレクトショップ プリヴェ」×PRアイドルグッズ第2弾が受注開始！ 受注は3月16日(日)まで！！]]></title>
             <description><![CDATA[#stairs_to_10th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14370.html</guid>
             <pubDate>Wed, 19 Feb 2025 12:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/15G7GNr16HUhX2msfggTpOZjgRnQiCCw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「マリオンクレープ」とのコラボ第2弾が開催決定！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14430.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14430.html</guid>
-            <pubDate>Wed, 19 Feb 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/WOmDNBLLpXgJyHkFvUSzceF4YOT72ZBa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【アイマス】萩原雪歩さんがリポート！成田ゆめ牧場と夢のコラボ！ プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスゆめ牧場]]></description>
-            <link>https://idolmaster-official.jp/news/01_14458.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14458.html</guid>
-            <pubDate>Wed, 19 Feb 2025 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/nOWGAjNS4RxeciNe8HT3h56WOEToHl4n.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
