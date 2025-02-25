@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Feb 2025 11:12:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 14:14:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Feb 2025 11:12:31 GMT</pubDate>
+        <pubDate>Tue, 25 Feb 2025 14:14:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】『見なきゃソンソン♪ シャニソン リニューアル直前！生配信』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[ #シャニソン #シャニマス #シャニソン生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_14611.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14611.html</guid>
+            <pubDate>Tue, 25 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/PvUTvs8tZl0F2bwhb396BohUH85Wvs7H.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】ラウンドワンコラボキャンペーン第2弾が開催決定！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14587.html</guid>
             <pubDate>Thu, 20 Feb 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/02/OSlcagsvGaJZabU3siknMv8sJKMfd0uH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「服部瞳子」が登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14597.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14597.html</guid>
-            <pubDate>Thu, 20 Feb 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/Niqvn7gWIpihcElXLkBJMcJtHHDkgEfH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
