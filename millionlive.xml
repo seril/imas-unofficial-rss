@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Feb 2025 11:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 14:14:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Feb 2025 11:12:49 GMT</pubDate>
+        <pubDate>Wed, 26 Feb 2025 14:14:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「アイマス検定答え合わせ配信」ご視聴ありがとうございました！【アイマス給湯室】【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定 #アイマス給湯室]]></description>
+            <link>https://idolmaster-official.jp/news/01_14700.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14700.html</guid>
+            <pubDate>Wed, 26 Feb 2025 12:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/UOMHxt5AtzUBSiEoMwwMPcMBX57uw9Jg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「アイマス検定」イベントレポートを公開！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマス検定]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_14214.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14214.html</guid>
             <pubDate>Sat, 18 Jan 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【Blu-ray発売記念！】Act-4 開催記念グッズがリバイバル販売中！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14213.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14213.html</guid>
-            <pubDate>Fri, 17 Jan 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
