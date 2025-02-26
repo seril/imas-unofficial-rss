@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Feb 2025 02:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 03:21:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Feb 2025 02:17:04 GMT</pubDate>
+        <pubDate>Wed, 26 Feb 2025 03:21:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー「Let's AMUSEMENT!!!」配信チケットの販売がスタート！！ライブ冒頭の無料生配信も実施予定♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14689.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14689.html</guid>
+            <pubDate>Wed, 26 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/ch17XLi8eA9HfCD7kuI23ZdtHZgeU30I.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】リニューアル・キャンペーン情報まとめ]]></title>
+            <description><![CDATA[#シャニソン #シャニソンリニューアル]]></description>
+            <link>https://idolmaster-official.jp/news/01_14595.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14595.html</guid>
+            <pubDate>Tue, 25 Feb 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/pYvPNUYVtlrQSEl7lPSUqZNHxNaTBfNx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】『見なきゃソンソン♪ シャニソン リニューアル直前！生配信』enza対応ゲーム「シャニマス」＆その他告知情報まとめ]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニソン #シャニソン生配信]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14585.html</guid>
             <pubDate>Thu, 20 Feb 2025 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/n3izMT03Hd24itCagFpMF9yoRAXRfZ5z.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「Mフェス2025 × ふらんす亭」コラボ詳細を公開！]]></title>
-            <description><![CDATA[#SideM #Mフェス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_14566.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14566.html</guid>
-            <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/qvqIQ35sTOLwbaVhm7U2pBIunng39DM9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】3/8(土)・9(日)開催「デレステ10thツアー大阪公演」にて会場物販の実施が決定！！開催記念グッズから先行し、「トレーディングクリアカード」も会場販売決定！！]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14599.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14599.html</guid>
-            <pubDate>Thu, 20 Feb 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/Wk7AxHIYaqifi17qcG0D6V3J7mTkA0yd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

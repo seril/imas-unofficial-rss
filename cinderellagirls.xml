@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Feb 2025 02:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 03:21:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Feb 2025 02:17:04 GMT</pubDate>
+        <pubDate>Wed, 26 Feb 2025 03:21:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー「Let's AMUSEMENT!!!」配信チケットの販売がスタート！！ライブ冒頭の無料生配信も実施予定♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14689.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14689.html</guid>
+            <pubDate>Wed, 26 Feb 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/ch17XLi8eA9HfCD7kuI23ZdtHZgeU30I.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第３弾『EPHEMERAL AЯROW』の発売が決定！]]></title>
             <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第３弾『EPHEMERAL AЯROW』の発売が決定！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14394.html</guid>
             <pubDate>Wed, 05 Feb 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/7dBLq79zQ7S7IvSlb0ABvkF5U7Zv8lXM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【APラウンジ】【デレステ】シンデレラアワード連動！MVビューイング鑑賞会 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #シンデレラアワード開催中 #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14379.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14379.html</guid>
-            <pubDate>Tue, 04 Feb 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/Nbq2Hsn0iPgnGoiZ6LGotHnPZclpIS3o.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
