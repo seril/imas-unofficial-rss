@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Feb 2025 03:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2025 06:21:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Feb 2025 03:21:25 GMT</pubDate>
+        <pubDate>Wed, 26 Feb 2025 06:21:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】シャニソンリニューアル！リニューアル記念！豪華キャンペーンを開催中！ 今なら最大100連ガシャが無料！]]></title>
+            <description><![CDATA[#シャニソン #シャニソンリニューアル]]></description>
+            <link>https://idolmaster-official.jp/news/01_14631.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14631.html</guid>
+            <pubDate>Wed, 26 Feb 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/02/Ylrg1j56cdBw4faV5LqIpriizHtujHXj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】リニューアル記念！毎日リポストキャンペーン開催中！]]></title>
+            <description><![CDATA[#シャニソン #シャニソンリニューアル]]></description>
+            <link>https://idolmaster-official.jp/news/01_14495.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14495.html</guid>
+            <pubDate>Wed, 26 Feb 2025 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/PjGz1YIFonXti96LuK69sY1bCXO4nmv4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー「Let's AMUSEMENT!!!」配信チケットの販売がスタート！！ライブ冒頭の無料生配信も実施予定♬]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14514.html</guid>
             <pubDate>Thu, 20 Feb 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/adVbxF9LtByujD167Y92MnXUP8obdfvH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】3月1日より開催！SHIBUYA109阿倍野店「♯Midnight Runway」大阪限定グッズと 入場整理券のお知らせ]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14584.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14584.html</guid>
-            <pubDate>Thu, 20 Feb 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/VSUxPKXn3G50H87VZ6KVVidUy4ckZCUf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター」とZOZOTOWNが初コラボ！ 「学園アイドルマスター BLACK COLLECTION by ZOZOTOWN」を2月28日より販売！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14585.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14585.html</guid>
-            <pubDate>Thu, 20 Feb 2025 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/n3izMT03Hd24itCagFpMF9yoRAXRfZ5z.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
