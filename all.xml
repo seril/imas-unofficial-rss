@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Feb 2025 11:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 14:14:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Feb 2025 11:12:29 GMT</pubDate>
+        <pubDate>Thu, 27 Feb 2025 14:14:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【生配信】もうすぐ1stライブ！ヴイアライヴの3人を徹底特集！【アイマス給湯室】 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ＃アイマス給湯室 #ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14718.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14718.html</guid>
+            <pubDate>Thu, 27 Feb 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/02/8CjZXAesFYRSF27ClOCKggP9wtlxu17f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【APラウンジ】【ヴイアラ】アイマスPに知ってほしいヴイアライヴの魅力！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ＃APラウンジ #ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14693.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14693.html</guid>
+            <pubDate>Thu, 27 Feb 2025 12:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/VOl23u7KrTRYnxnJl7TXPBtWlV3sxoJy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】2025年3月5日(水)19:00～『ミリオンライブ！の12周年は花ざかり✿ ​ 今夜はFantastic night 生配信！​』配信予定！]]></title>
+            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_14423.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14423.html</guid>
+            <pubDate>Thu, 27 Feb 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/02/warMUjco9T0HxcbGQSDGQqwr07aO78tc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】横浜みなとみらい 万葉倶楽部×放課後クライマックスガールズ　コラボキャンペーン「ぽかぽか湯めぐりあふたー」が明日2月28日（金）より開催！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14604.html</guid>
             <pubDate>Fri, 21 Feb 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/fQgJapHlJ5gy8ZxNRDLlH9jWy4tXj7ax.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2ndLIVE】現地チケット一般発売2次（先着）の受付が明日2月22日(土)12:00よりスタート！！「アイドル直筆コメント画像」特典付き配信チケットも販売中！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ2ndLIVE #シャニアニ2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_14614.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14614.html</guid>
-            <pubDate>Fri, 21 Feb 2025 03:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/Gbf1SAoXUFKcI7uwJSEIYvxJRT7fbQT0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】明日から「Mフェス2025×ばくだん焼本舗」コラボが開催！]]></title>
-            <description><![CDATA[#SideM #Mフェス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_14426.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14426.html</guid>
-            <pubDate>Fri, 21 Feb 2025 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/FgbbvLpxNgEy9r7pYkf1v2IOX9s2TegY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】ゲストは坂上陽三さん！‎本日2/21(金)20:00より公式番組「アイドル育成プロジェクト ヴイアライヴ」放送！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】ゲストは坂上陽三さん！‎本日2/21(金)20:00より公式番組「アイドル育成プロジェクト ヴイアライヴ」放送！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14645.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14645.html</guid>
-            <pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/2PVVs6p6ZQgumHP0qHgxY3KdR95YtIPu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
