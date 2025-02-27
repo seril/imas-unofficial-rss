@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Feb 2025 06:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Feb 2025 11:12:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Feb 2025 06:21:12 GMT</pubDate>
+        <pubDate>Thu, 27 Feb 2025 11:12:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】横浜みなとみらい 万葉倶楽部×放課後クライマックスガールズ　コラボキャンペーン「ぽかぽか湯めぐりあふたー」が明日2月28日（金）より開催！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14707.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14707.html</guid>
+            <pubDate>Thu, 27 Feb 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/G9hZdwqusHAPOcW1zXCYdDfm4Noq6E0i.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】CoMETIK POP UP SHOP『綺羅これくしょん』が明日2月28日（金）より開催！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #綺羅これ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14701.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14701.html</guid>
+            <pubDate>Thu, 27 Feb 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/kSfz91EAbcfHllWmIf4Nu1MIiciQG6bt.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「アイマス検定答え合わせ配信」ご視聴ありがとうございました！【アイマス給湯室】【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定 #アイマス給湯室]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14645.html</guid>
             <pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/2PVVs6p6ZQgumHP0qHgxY3KdR95YtIPu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】コトブキヤくじ 学園アイドルマスター CHEERFUL! 販売開始！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14504.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14504.html</guid>
-            <pubDate>Fri, 21 Feb 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/FnDk8vXuvdVMAx2CjC5RD5g0MK40b6iA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】ソーシャルゲーム版「アイドルマスター SideM」メモリアルブック 本日発売！！ASOBI STOREにて数量限定販売中！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_14639.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14639.html</guid>
-            <pubDate>Fri, 21 Feb 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/qfbDs694uNtT4WmovGT8Q3FMPiKgUNSw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
