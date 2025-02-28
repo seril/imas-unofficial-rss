@@ -4,10 +4,58 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Feb 2025 06:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 11:12:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Feb 2025 06:20:56 GMT</pubDate>
+        <pubDate>Fri, 28 Feb 2025 11:12:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ストレイライト】2025年3月12日(水)にYouTube Live＆特別オンライン会場にて「MUSIC SCENE SPECIAL LIVE」開催決定！]]></title>
+            <description><![CDATA[#シャニマス音楽特番_ストレイ #シャニソンリニューアル]]></description>
+            <link>https://idolmaster-official.jp/news/01_14635.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14635.html</guid>
+            <pubDate>Fri, 28 Feb 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/yLOq4oW7A5py1SKooip9a0PT7MMUUQgW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【今週末まで！】【961】「961 PRODUCTION presents 『Re:FLAME』 追加公演」視聴コメント付きアーカイブは今週末3月2日(日) 23:59まで！京都公演と併せて計5公演が収録されるBlu-ray BOXは現在受注受付中！]]></title>
+            <description><![CDATA[#reflame_961 #reflame_961_DAWN #reflame_961_DUSK]]></description>
+            <link>https://idolmaster-official.jp/news/01_14726.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14726.html</guid>
+            <pubDate>Fri, 28 Feb 2025 10:16:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/HgQW9lZQtPgPAVouwuOzpclEEpNtiWMj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【シンデレラガールズ】イラストレーター111名がアイドル190名を描いた史上初の展覧会！ 2月28日(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #imas_cg #Fragmentsデレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14637.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14637.html</guid>
+            <pubDate>Fri, 28 Feb 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/d1afUvtWjsuV6x8NODljQAF5lTHytuqT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ2ndLIVE】✨いよいよ今週末開催✨本日19:00～は前日特番「シャニアニ総集編オーディオコメンタリー」！ 一部イベントグッズ販売もスタート！現地＆配信チケット販売中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ2ndLIVE #シャニアニ2nd]]></description>
+            <link>https://idolmaster-official.jp/news/01_14706.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14706.html</guid>
+            <pubDate>Fri, 28 Feb 2025 08:07:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/VfKigJlY6xIElzeY9nYmI8sCJPvxt9IT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】市川 雛菜、芹沢 あさひが登場するガシャを開催中！ シナリオイベントの開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14679.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14679.html</guid>
+            <pubDate>Fri, 28 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/PGV5UIBEakp7X6IEtDStWuBefCPOQnal.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張公演 3月1日(土)より現地チケット一般発売スタート！リセールも実施予定！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14729.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14729.html</guid>
+            <pubDate>Fri, 28 Feb 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/ZwkvCJmsl6axTeZLfONHcxGM8spcd2Yi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニアニ2ndLIVE】イベント会場限定！Fan Fun Spot×アソビストアプレミアム会員キャンペーン実施決定！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ2ndLIVE #シャニアニ2nd]]></description>
@@ -359,54 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14655.html</guid>
             <pubDate>Fri, 21 Feb 2025 09:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2024/12/e0q0mRoQw4TNJQE54ZPgmnfvar6DZSU8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「-CAMPAI♡NIGHT-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB」が3月7日（金）より開催！2月25日より予約受付開始🍷メニュー、グッズ情報も公開♪]]></title>
-            <description><![CDATA[#ミリオンライブ　#ミリオンHUB]]></description>
-            <link>https://idolmaster-official.jp/news/01_14633.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14633.html</guid>
-            <pubDate>Fri, 21 Feb 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/yIzYdYpXXKsN26GtFx6mB3d3ny6VyT5h.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2ndLIVE】キャスト生出演オーコメ付き！アーカイブ同時視聴会の開催が決定！！「アイドル直筆コメント画像」特典付き配信チケットも販売中♪]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ2ndLIVE #シャニアニ2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_14624.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14624.html</guid>
-            <pubDate>Fri, 21 Feb 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/pkmQzs6XTTEzgu5CkCL9dQbhVpP4MGtT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】 ＼＼みずがめ座は今週末2/23(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第3弾「みずがめ座」＆第4弾「うお座」が受注中！！エッジィ＆ロリィタなルックにご注目♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14658.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14658.html</guid>
-            <pubDate>Fri, 21 Feb 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/EpHViBtlcgCmCeQ9sj36Yo57hXjOhHKn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【数量限定!!!!!】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが販売中！]]></title>
-            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
-            <link>https://idolmaster-official.jp/news/01_14667.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14667.html</guid>
-            <pubDate>Fri, 21 Feb 2025 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「ミステイク・マーダー！」POP UP SHOP グッズがAnimoにて予約開始！💊 3/21(金)まで💉💗]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14601.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14601.html</guid>
-            <pubDate>Fri, 21 Feb 2025 08:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/FpsF3xb7IimSbI6KPvjWpBmYPHhlhxmd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ムービックより「学園アイドルマスター」の新商品が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14526.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14526.html</guid>
-            <pubDate>Fri, 21 Feb 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/MQZoNqlTUYrmIgnC4wOTu4LBCjqOP4Yq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
