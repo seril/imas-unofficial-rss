@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Feb 2025 03:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 06:20:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Feb 2025 03:22:51 GMT</pubDate>
+        <pubDate>Fri, 28 Feb 2025 06:20:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「Mフェス2025 × 315!!!SHOP」グッズ・ミニゲーム・フード・特典の情報を公開！]]></title>
+            <description><![CDATA[#SideM　#Mフェス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_14723.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14723.html</guid>
+            <pubDate>Fri, 28 Feb 2025 05:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/I8sHSSSybSZO3tikdl5JVnEKQizhthc3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「アイマス検定答え合わせ配信」ご視聴ありがとうございました！【アイマス給湯室】【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定 #アイマス給湯室]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14251.html</guid>
             <pubDate>Tue, 21 Jan 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/2020/09/15/アイマスブログ用SideMロゴ.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演 イベント公式グッズ事前販売スタート！パッションあふれるアイドル達のグッズや千葉県のご当地キャラクターたちとのコラボグッズも登場！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14259.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14259.html</guid>
-            <pubDate>Mon, 20 Jan 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/yJlsultHcVH2iIqHBzDcvV8L9u6WD3Ii.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
