@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Feb 2025 14:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Feb 2025 02:18:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Feb 2025 14:14:30 GMT</pubDate>
+        <pubDate>Fri, 28 Feb 2025 02:18:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【シンデレラ】「覚醒魔王 神崎蘭子」の1/7スケールフィギュアがご予約受付中！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14674.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14674.html</guid>
+            <pubDate>Fri, 28 Feb 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/aVGjvPnfphai5viKKrIsFWsc0AwqrGBB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【生配信】もうすぐ1stライブ！ヴイアライヴの3人を徹底特集！【アイマス給湯室】 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch ＃アイマス給湯室 #ヴイアラ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14570.html</guid>
             <pubDate>Fri, 21 Feb 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/GkR4RwhNX9slIqEQDRebJGhrb44pDvzW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー沖縄・福岡公演】の公式グッズ事前販売締め切りまであと4日！！ライブに向けて準備を進めましょう！]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14604.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14604.html</guid>
-            <pubDate>Fri, 21 Feb 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/fQgJapHlJ5gy8ZxNRDLlH9jWy4tXj7ax.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
