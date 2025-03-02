@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Mar 2025 11:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Mar 2025 14:13:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Mar 2025 11:12:05 GMT</pubDate>
+        <pubDate>Sun, 02 Mar 2025 14:13:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニアニ2ndLIVE】DAY2ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シャニアニ2ndLIVE #シャニアニ2ndLIVE_day2 #シャニマス #シャニソン #シャニアニ #シャニアニ2nd]]></description>
+            <link>https://idolmaster-official.jp/news/01_14687.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14687.html</guid>
+            <pubDate>Sun, 02 Mar 2025 11:46:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/yGfHK9TWRCp8toDu4Y5yuOvDevFAqZXY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7th】≪福岡・横浜公演≫のイベントグッズ事前販売がスタート！！描きおろしキービジュアルも公開！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14746.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14746.html</guid>
+            <pubDate>Sun, 02 Mar 2025 11:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/HZ1oTSCcUnN8zX8MWwgBnhf1IJhqJlXA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターチューン～彼氏になってよ。～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14678.html</guid>
             <pubDate>Sun, 23 Feb 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/EpHViBtlcgCmCeQ9sj36Yo57hXjOhHKn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【数量限定!!!!!】「異次元フェス アイドルマスター★♥ラブライブ！歌合戦」Blu-rayが販売中！]]></title>
-            <description><![CDATA[#アイラブ歌合戦 #異次元フェス #lovelive]]></description>
-            <link>https://idolmaster-official.jp/news/01_14669.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14669.html</guid>
-            <pubDate>Sat, 22 Feb 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/09/C19OssUGSmybcvL1wOnr5qO6Rb6Fi4Yz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】2/22(土)学マス生配信「初星学園HR #9」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター #初星ひな祭り]]></description>
-            <link>https://idolmaster-official.jp/news/01_14591.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14591.html</guid>
-            <pubDate>Sat, 22 Feb 2025 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/02/NWomlmzLccf6FDE166MfZfIcS3q0z7qB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
