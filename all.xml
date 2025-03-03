@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Mar 2025 14:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 02:20:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Mar 2025 14:13:47 GMT</pubDate>
+        <pubDate>Mon, 03 Mar 2025 02:20:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、5月分予約受付中！ 特任プロデューサー就任キャンペーンも開催中♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14672.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14672.html</guid>
+            <pubDate>Mon, 03 Mar 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/zJq80HRLYyRFOGNeUX78OZVcisMaM2PF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ】「THE IDOLM@STER SHINY COLORS SOLO COLLECTION -2nd season LIVE Over the prism part1/part2/part3/part4-」事後物販決定！]]></title>
+            <description><![CDATA[#シャニアニ2ndLIVE]]></description>
+            <link>https://idolmaster-official.jp/news/01_14765.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14765.html</guid>
+            <pubDate>Mon, 03 Mar 2025 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/nIcOgrv8muoy1wtOCCRzwcTaZROgKKYk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニアニ2ndLIVE】DAY2ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
             <description><![CDATA[#シャニアニ2ndLIVE #シャニアニ2ndLIVE_day2 #シャニマス #シャニソン #シャニアニ #シャニアニ2nd]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14519.html</guid>
             <pubDate>Sun, 23 Feb 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/IytCopQyJIB0wyRKU5eB4QjFw2t3zjlH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[★明日まで★【デレステ10thツアー沖縄・福岡公演】の公式グッズ事前販売は明日まで！！担当アイドルたちの可愛いアイテムをお見逃しなく♬]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14608.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14608.html</guid>
-            <pubDate>Sun, 23 Feb 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/mlnw7RtZH0H0HKzHOXO2whG3zLxUnVxc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】 ＼＼みずがめ座は本日2/23(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第3弾「みずがめ座」＆第4弾「うお座」が受注中♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14678.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14678.html</guid>
-            <pubDate>Sun, 23 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/EpHViBtlcgCmCeQ9sj36Yo57hXjOhHKn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
