@@ -4,17 +4,41 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Mar 2025 06:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Mar 2025 11:13:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Mar 2025 06:22:31 GMT</pubDate>
+        <pubDate>Mon, 03 Mar 2025 11:13:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
-            <title><![CDATA[【学マス】[カワイイ♡はじめました]をもとにした”藤田ことね”のプライズフィギュアが3月5日(水)よりクレーンゲームに登場！]]></title>
+            <title><![CDATA[​​​​​​​【YouTube】【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S【#2】3月3日(月) 22:00よりプレミア公開！]]></title>
+            <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_14448.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14448.html</guid>
+            <pubDate>Mon, 03 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/3zSjO1WJabkkS0UZFiqhC8M3Vyr27Isw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ2ndLIVE】視聴コメント付きアーカイブ配信本日より開始！ / アンケート実施のご案内]]></title>
+            <description><![CDATA[#シャニアニ2ndLIVE #シャニアニ2ndLIVE_day1 #シャニアニ2ndLIVE_day2 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14747.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14747.html</guid>
+            <pubDate>Mon, 03 Mar 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/jdpuUzPrmTvtickR6Jq0fzaaw61CPpFl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】[カワイイ♡はじめました]をもとにした”藤田ことね”のプライズフィギュアが3月6日(木)よりクレーンゲームに登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14708.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14708.html</guid>
-            <pubDate>Mon, 03 Mar 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/bAgWVXOLyi5sKU2mPW5Xtk72Ot0erc7s.jpeg" length="0" type="image/jpeg"/>
+            <link>https://idolmaster-official.jp/news/01_14786.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14786.html</guid>
+            <pubDate>Mon, 03 Mar 2025 08:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/EHl30GGzNqeuIMUPfhDS7kdtRhgN79eK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 大阪公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14603.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14603.html</guid>
+            <pubDate>Mon, 03 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/RAnkauco1qy87EeGB9xxxdcmJpNgTYcx.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』大阪公演で会場オリジナルCDの発売が決定！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14642.html</guid>
             <pubDate>Tue, 25 Feb 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/5zl8v8QBLgn34B3v9WFQeCXZnQQzQB1l.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】アイマス給湯室〜アニメシンデレラガールズ10周年記念で振り返りM@S〜 ＃５～７ゲスト決定！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_14688.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14688.html</guid>
-            <pubDate>Mon, 24 Feb 2025 14:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/r1898cTQOEeibidE3u8TlMhBOgect5oC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[​​​​​​​【YouTube】【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S【＃1】2月24日(月) 22:00よりプレミア公開！]]></title>
-            <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_14444.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14444.html</guid>
-            <pubDate>Mon, 24 Feb 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/dVFmEOB8evh30jsgRSeix6wCk37hn7U7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「アイマス検定」イベントレポートを公開！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス検定]]></description>
-            <link>https://idolmaster-official.jp/news/01_14671.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14671.html</guid>
-            <pubDate>Mon, 24 Feb 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/NNHfdQ5FufUFQxXOlIVgcTMjTp5oNFug.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
