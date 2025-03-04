@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Mar 2025 14:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 02:19:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Mar 2025 14:15:08 GMT</pubDate>
+        <pubDate>Tue, 04 Mar 2025 02:19:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】ローソンマルチコピー機オリジナル3月バースデーブロマイドが販売中！3月24日(月)まで！]]></title>
+            <description><![CDATA[【シンデレラ】ローソンマルチコピー機オリジナル3月バースデーブロマイドが販売中！3月24日(月)まで！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14319.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14319.html</guid>
+            <pubDate>Tue, 04 Mar 2025 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/MFV39d6a2YyYqIhRDWBnQQG0jpaM6KWk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「デレラジ☆プレゼンツ U149完結記念イベント ソラシドリームパーティー」に 結城晴役の小市眞琴さんの出演が決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス #デレラジ #U149]]></description>
+            <link>https://idolmaster-official.jp/news/01_14769.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14769.html</guid>
+            <pubDate>Tue, 04 Mar 2025 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/DuTJUUwjUFvo9p4Cea2v6bXSZ1JqNGOj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[​​​​​​​【YouTube】【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S【#2】3月3日(月) 22:00よりプレミア公開！]]></title>
             <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14510.html</guid>
             <pubDate>Wed, 12 Feb 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/3QzH4tvK2ioeDcNBoYWTFsE5XIkcANXn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー東京】追加キャストの出演が決定！！さらに、現地チケット一般会員先行が本日よりスタート！]]></title>
-            <description><![CDATA[#stairs_to_10th #デレステ10thツアー #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14375.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14375.html</guid>
-            <pubDate>Wed, 12 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/01/ENHI3CyLw1hEPC3yCK516IbGlnyT9edI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】コミック『U149』18巻・最終19巻が予約受付中！]]></title>
-            <description><![CDATA[#imas_cg  #U149]]></description>
-            <link>https://idolmaster-official.jp/news/01_14497.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14497.html</guid>
-            <pubDate>Wed, 12 Feb 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

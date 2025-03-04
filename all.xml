@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Mar 2025 14:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 02:19:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Mar 2025 14:15:08 GMT</pubDate>
+        <pubDate>Tue, 04 Mar 2025 02:19:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】ローソンマルチコピー機オリジナル3月バースデーブロマイドが販売中！3月24日(月)まで！]]></title>
+            <description><![CDATA[【シンデレラ】ローソンマルチコピー機オリジナル3月バースデーブロマイドが販売中！3月24日(月)まで！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14319.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14319.html</guid>
+            <pubDate>Tue, 04 Mar 2025 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/MFV39d6a2YyYqIhRDWBnQQG0jpaM6KWk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ローソン限定の描き下ろしイラストを使用したオリジナルランダムブロマイドが販売中！　6月2日(月)まで！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14373.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14373.html</guid>
+            <pubDate>Tue, 04 Mar 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/GFDrJZlNwivu4fuoGzwe1l8sjIBIja5V.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「デレラジ☆プレゼンツ U149完結記念イベント ソラシドリームパーティー」に 結城晴役の小市眞琴さんの出演が決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス #デレラジ #U149]]></description>
+            <link>https://idolmaster-official.jp/news/01_14769.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14769.html</guid>
+            <pubDate>Tue, 04 Mar 2025 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/DuTJUUwjUFvo9p4Cea2v6bXSZ1JqNGOj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[​​​​​​​【YouTube】【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S【#2】3月3日(月) 22:00よりプレミア公開！]]></title>
             <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14657.html</guid>
             <pubDate>Tue, 25 Feb 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/M5krfP879fBvrKSlJAPANPjKkrm39U3b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「セレクトショップ プリヴェ」×PRアイドルグッズ第2弾が受注開始！ 受注は3月16日(日)まで！！]]></title>
-            <description><![CDATA[#stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14683.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14683.html</guid>
-            <pubDate>Tue, 25 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/bcx1J6UjbuqMhkYXsKPyCgGngA6eJhCg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズ コヒーレントライト第3巻　3月26日（水）に発売決定＆カバーを公開！]]></title>
-            <description><![CDATA[#シャニマス #コヒーレントライト]]></description>
-            <link>https://idolmaster-official.jp/news/01_14623.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14623.html</guid>
-            <pubDate>Tue, 25 Feb 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/nD3aXO6aM2nsqLU5nbrJ7JmfwoOomKmt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】3月22日(土)「たかつき観光大使」高槻やよいのバースデーイベントにて、仁後真耶子さんのトークショー実施決定🎤✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14642.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14642.html</guid>
-            <pubDate>Tue, 25 Feb 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/5zl8v8QBLgn34B3v9WFQeCXZnQQzQB1l.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
