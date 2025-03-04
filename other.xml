@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Mar 2025 11:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 14:14:31 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Mar 2025 11:12:43 GMT</pubDate>
+        <pubDate>Tue, 04 Mar 2025 14:14:31 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【#ヴイアラ】ライバーアイドルソロ1stアルバムが4月2日(水)に発売決定！ASOBISTOREでは本日より予約受付開始！1st singleのMVも公開日が決定！]]></title>
+            <description><![CDATA[【#ヴイアラ】ライバーアイドルソロ1stアルバムが4月2日(水)に発売決定！ASOBISTOREでは本日より予約受付開始！1st singleのMVも公開日が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14809.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14809.html</guid>
+            <pubDate>Tue, 04 Mar 2025 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/dKOle3VNACSKKJo5qttdrQn6bS8cRbdT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】初の有観客ワンマンLIVE「1stLIVE -HERE WE ARE !!!-」一般販売(先着)チケットの受付は3月8日13時開始！協賛社グッズ・開催記念商品等会場物販情報も更新！CD/映像商品には会場限定特典も！ ]]></title>
+            <description><![CDATA[【 #ヴイアラ 】初の有観客ワンマンLIVE「1stLIVE -HERE WE ARE !!!-」一般販売(先着)チケットの受付は3月8日13時開始！協賛社グッズ・開催記念商品等会場物販情報も更新！CD/映像商品には会場限定特典も！ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14810.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14810.html</guid>
+            <pubDate>Tue, 04 Mar 2025 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/MysS3NLqkLaDxuwwF61fE4Hzzm6BcZFd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】本日3/4(火)夜は”今からでも間に合うヴイアライヴ”特集！19時より3本立てでお届け！第一部はAPラウンジヴイアラ入門！第二部はASOBINOTES特別配信！そして第三部はアイマス給湯室ヴイアラゲスト回！]]></title>
             <description><![CDATA[#アイマスch ＃アイマス給湯室]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14005.html</guid>
             <pubDate>Wed, 25 Dec 2024 09:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/g17OGYooRmKLAhn1ZRZY8oTeBcEL0OSx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【 #ヴイアラ 】本日よりヴイアライヴとゲーム「サバイバルクイズシティ」とのコラボ開催！ゲーム内ではオリジナルアイテムやクイズも実装！コラボを記念し声優桃井はるこさんとのコラボ配信も実施中！ ]]></title>
-            <description><![CDATA[ 【 #ヴイアラ 】本日よりヴイアライヴとゲーム「サバイバルクイズシティ」とのコラボ開催！ゲーム内ではオリジナルアイテムやクイズも実装！コラボを記念し声優桃井はるこさんとのコラボ配信も実施中！ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_13978.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13978.html</guid>
-            <pubDate>Sun, 22 Dec 2024 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/fiHBeuxVNEqx2tHzC2pw1XIZN2VyNTG6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』本日発売＆グッズ発売決定！ 合わせてオリジナルポスターのプレゼントキャンペーン開催！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_13937.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13937.html</guid>
-            <pubDate>Mon, 23 Dec 2024 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/11/dVeGtFoLgBGZ6YZhEzMSn5om54ZPlJdN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
