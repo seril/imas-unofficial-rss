@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Mar 2025 11:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 14:14:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Mar 2025 11:12:50 GMT</pubDate>
+        <pubDate>Wed, 05 Mar 2025 14:14:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第４弾「ミリオンライブ！ in 大阪」情報解禁！]]></title>
+            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14808.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14808.html</guid>
+            <pubDate>Wed, 05 Mar 2025 12:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/gVqZHHh3EIlrKgqEdPkOwA5noFQyork8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】3月22日(土)「たかつき観光大使」高槻やよいバースデーイベント🎂🎉「ちびキャラ応援隊」メンバー公開📣トークショーでは「ふたマス!!!!!!」お披露目も✨]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
+            <link>https://idolmaster-official.jp/news/01_14673.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14673.html</guid>
+            <pubDate>Wed, 05 Mar 2025 12:07:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/eDeHsPAgagblOKHnv0gqzI2gk73PcDUH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ハッチポッチ2】3/8(土)12:00～ 現地チケット一般発売(先着)開始予定！公式リセールも同日受付開始！]]></title>
             <description><![CDATA[#アイマスハッチポッチ2]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14142.html</guid>
             <pubDate>Fri, 10 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「たかつき観光大使」高槻やよいのバースデーイベントが今年も開催決定！3月22日(土) 安満遺跡公園にて開催🎉]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14097.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14097.html</guid>
-            <pubDate>Fri, 10 Jan 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/Jdoqlg3yzJEInp6esHsFfPmn2DemhIiX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注受付中！】『NYLON JAPAN THE IDOLM@STER 20th ANNIVERSARY BOOK』公式グッズが受注受付中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14135.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14135.html</guid>
-            <pubDate>Thu, 09 Jan 2025 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
