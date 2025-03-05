@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Mar 2025 02:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 03:23:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Mar 2025 02:19:22 GMT</pubDate>
+        <pubDate>Wed, 05 Mar 2025 03:23:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10周年記念ツアー「Let’s AMUSEMENT!!! 大阪公演」「Cygamesフラワースタンド」ご観覧のお知らせ]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14785.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14785.html</guid>
+            <pubDate>Wed, 05 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/TRUtmNbWyrAhVgF8SEHJpD6HcaJphZw6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張公演 本日より配信チケット販売スタート！現地チケットのリセールも実施中！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14812.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14812.html</guid>
+            <pubDate>Wed, 05 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/GsHMFC18kCdeThUeG0MyviuB0YvCgmCn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】アイドルマスター オフィシャルショップの抽選くじに新柄21種が登場！3月7日(金)から秋葉原・名古屋・大阪・博多で取り扱い]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14693.html</guid>
             <pubDate>Thu, 27 Feb 2025 12:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/VOl23u7KrTRYnxnJl7TXPBtWlV3sxoJy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】2025年3月5日(水)19:00～『ミリオンライブ！の12周年は花ざかり✿ ​ 今夜はFantastic night 生配信！​』配信予定！]]></title>
-            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_14423.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14423.html</guid>
-            <pubDate>Thu, 27 Feb 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/02/warMUjco9T0HxcbGQSDGQqwr07aO78tc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】横浜みなとみらい 万葉倶楽部×放課後クライマックスガールズ　コラボキャンペーン「ぽかぽか湯めぐりあふたー」が明日2月28日（金）より開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14707.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14707.html</guid>
-            <pubDate>Thu, 27 Feb 2025 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/G9hZdwqusHAPOcW1zXCYdDfm4Noq6E0i.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
