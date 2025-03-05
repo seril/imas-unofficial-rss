@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Mar 2025 06:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 11:12:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Mar 2025 06:21:19 GMT</pubDate>
+        <pubDate>Wed, 05 Mar 2025 11:12:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『ミリオンライブ！の12周年は花ざかり✿ ​ 今夜はFantastic night 生配信！』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
+            <description><![CDATA[#ミリシタ  #ミリオンライブFantasticnight生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_14440.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14440.html</guid>
+            <pubDate>Wed, 05 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/03/wvCSfRvLrvyP89hTDNAvL00HN53EhaaR.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】つくりより「自撮り風アクリルスタンド」「ゲーミングマウスパッド」の受注販売開始!!]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14710.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14710.html</guid>
+            <pubDate>Wed, 05 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/WJiK2wKeepjzLUGJim9VizUADfLYWXAy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー開催記念！24/7 Special Stage配信決定！]]></title>
+            <description><![CDATA[#デレステ #stairs_to_10th #special24_7stage ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14816.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14816.html</guid>
+            <pubDate>Wed, 05 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/2nYtmmX48b44HpvlWcxw72BQqOPETbI5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10周年記念ツアー「Let’s AMUSEMENT!!! 大阪公演」「Cygamesフラワースタンド」ご観覧のお知らせ]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14681.html</guid>
             <pubDate>Fri, 28 Feb 2025 03:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/Dzya95RIG7hSRb1Nx9i2icRteH8VPiji.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】「覚醒魔王 神崎蘭子」の1/7スケールフィギュアがご予約受付中！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14674.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14674.html</guid>
-            <pubDate>Fri, 28 Feb 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/aVGjvPnfphai5viKKrIsFWsc0AwqrGBB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【生配信】もうすぐ1stライブ！ヴイアライヴの3人を徹底特集！【アイマス給湯室】 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃アイマス給湯室 #ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14718.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14718.html</guid>
-            <pubDate>Thu, 27 Feb 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/02/8CjZXAesFYRSF27ClOCKggP9wtlxu17f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【APラウンジ】【ヴイアラ】アイマスPに知ってほしいヴイアライヴの魅力！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14693.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14693.html</guid>
-            <pubDate>Thu, 27 Feb 2025 12:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/VOl23u7KrTRYnxnJl7TXPBtWlV3sxoJy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
