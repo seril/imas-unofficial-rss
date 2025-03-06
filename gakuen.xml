@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Mar 2025 03:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 06:21:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Mar 2025 03:24:12 GMT</pubDate>
+        <pubDate>Thu, 06 Mar 2025 06:21:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star イベント公式グッズ事前販売 第3弾が本日3月6日(木) 15:00よりスタート！ ]]></title>
+            <description><![CDATA[#学マス  #学マス1st]]></description>
+            <link>https://idolmaster-official.jp/news/01_14822.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14822.html</guid>
+            <pubDate>Thu, 06 Mar 2025 06:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/03/lfADUumF0O0unXmjVz921X3VXsbSB9fD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第４弾「ミリオンライブ！ in 大阪」情報解禁！]]></title>
             <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14409.html</guid>
             <pubDate>Mon, 03 Feb 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/fZCjdoRadGkKDr0C61dNCs3m6roBWULK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「フォトカットアクリルスタンド」が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14372.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14372.html</guid>
-            <pubDate>Mon, 03 Feb 2025 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/IHOLa4xRcjtLUi0w5JDWZmqaZmexkl7i.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
