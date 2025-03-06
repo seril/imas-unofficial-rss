@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Mar 2025 06:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 11:12:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Mar 2025 06:21:12 GMT</pubDate>
+        <pubDate>Thu, 06 Mar 2025 11:12:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレステ10thツアー大阪】いよいよ今週末「Let's AMUSEMENT!!!」大阪公演開催！盛りだくさんの当日企画・物販・配信情報を最終チェック！！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14821.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14821.html</guid>
+            <pubDate>Thu, 06 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/BlXlmlAqmrAXfwIDDcyk1iR7bRxaEYcA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー沖縄・福岡公演の公式グッズ事前2次＆協賛社グッズ販売がスタート！一部アイテムは数量限定販売に切り替わっております！公式パンフレット掲載企画もお見逃しなく！]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14763.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14763.html</guid>
+            <pubDate>Thu, 06 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/nzmjxYMMV9vlOiEmJmg9wtxB8b6GM5aN.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「槙原志保」が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14576.html</guid>
             <pubDate>Mon, 17 Feb 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/11/954N47ZBJxwD2KyEWnYMvewFOA5FD78v.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[★本日まで★【シンデレラ】デレステ10thツアー大阪公演の公式グッズ数量限定販売は本日まで！]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14564.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14564.html</guid>
-            <pubDate>Sun, 16 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/fT2CcxgDUO0kVZ9VSdQJGVOlQPvFI3AO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【20周年生配信イベント】現地チケットのアソビストアプレミアム会員2次先行が明日2月15日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14575.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14575.html</guid>
-            <pubDate>Fri, 14 Feb 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/dAF0trnnU4v7MHoY5tlu7B0UvlnHOSJi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

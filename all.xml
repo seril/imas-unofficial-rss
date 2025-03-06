@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Mar 2025 06:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 11:12:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Mar 2025 06:21:12 GMT</pubDate>
+        <pubDate>Thu, 06 Mar 2025 11:12:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニアニ2nd】3月13日(木) 19:00～「#シャニアニ生配信 ～Blu-ray宣伝王は誰だ！？全力バトルバラエティ！スペシャル～」を実施予定✨]]></title>
+            <description><![CDATA[#シャニアニ生配信 #シャニアニ2nd #シャニアニ #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14749.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14749.html</guid>
+            <pubDate>Thu, 06 Mar 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/nz9hcSOz2PhdGezZMqiGyVti2V5GDLd1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】6月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場！！本日より受注開始！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_14613.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14613.html</guid>
+            <pubDate>Thu, 06 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/QTHVS3vqH0Fr96NrMNxZcuD1ApM9WDUW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【デレステ10thツアー大阪】いよいよ今週末「Let's AMUSEMENT!!!」大阪公演開催！盛りだくさんの当日企画・物販・配信情報を最終チェック！！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14821.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14821.html</guid>
+            <pubDate>Thu, 06 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/BlXlmlAqmrAXfwIDDcyk1iR7bRxaEYcA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー沖縄・福岡公演の公式グッズ事前2次＆協賛社グッズ販売がスタート！一部アイテムは数量限定販売に切り替わっております！公式パンフレット掲載企画もお見逃しなく！]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14763.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14763.html</guid>
+            <pubDate>Thu, 06 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/nzmjxYMMV9vlOiEmJmg9wtxB8b6GM5aN.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star イベント公式グッズ事前販売 第3弾が本日3月6日(木) 15:00よりスタート！ ]]></title>
             <description><![CDATA[#学マス  #学マス1st]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14711.html</guid>
             <pubDate>Sun, 02 Mar 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/02/HS0VI1SAvylUqLSCnZN3M7O4RvvKExiP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】≪愛知・青森公演≫のアソビストアプレミアム会員最速先行のお申込み受付が本日3月1日(土)よりスタート！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14744.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14744.html</guid>
-            <pubDate>Sat, 01 Mar 2025 12:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/SM3pbBz6Vk8NXgF9LHKNFRcuuBOw3mes.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ 事務的光空記録』コミックス3巻は 4月11日（金）発売＆表紙を公開！]]></title>
-            <description><![CDATA[#シャニマス #ジムシャニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14709.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14709.html</guid>
-            <pubDate>Sat, 01 Mar 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/4ZX9qUvkE5YWhJ7ylMpuPIxo6ApuRJpK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2ndLIVE】DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シャニアニ2ndLIVE #シャニアニ2ndLIVE_day1 #シャニマス #シャニソン #シャニアニ #シャニアニ2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_14686.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14686.html</guid>
-            <pubDate>Sat, 01 Mar 2025 11:19:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/yIMNItmhn9FdokVYBZgFI6HZyjADtLcv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】アイドル達がお店屋さんをプロデュース♪「283 PRODUCE SHOP Series」グッズ〈第2弾〉の受注がスタート！！放課後クライマックスガールズとノクチルが登場！]]></title>
-            <description><![CDATA[#283ProduceShop_Series #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14745.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14745.html</guid>
-            <pubDate>Sat, 01 Mar 2025 11:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/juCJDL4op8lC8GhIhLywrS30LoAMKYB7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
