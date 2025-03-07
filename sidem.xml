@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Mar 2025 14:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 02:20:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Mar 2025 14:14:22 GMT</pubDate>
+        <pubDate>Fri, 07 Mar 2025 02:20:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 2025年3月26日(水)に稼働開始！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14847.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14847.html</guid>
+            <pubDate>Fri, 07 Mar 2025 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/CtSngO9qQDrJAFvG58u0bvj27mDvph55.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】6月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場！！本日より受注開始！]]></title>
             <description><![CDATA[#SideM #アソビストア]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14384.html</guid>
             <pubDate>Thu, 30 Jan 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/fLhfvrcxdwSsMLXq7SCPQvrSm1hf8pnm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ大阪公演 本日より配信チケット販売スタート！現地チケットのリセールも実施中！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
-            <link>https://idolmaster-official.jp/news/01_14364.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14364.html</guid>
-            <pubDate>Wed, 29 Jan 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/01/2IB131iiphsgku0iG5fymEJBX6MIIYvC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

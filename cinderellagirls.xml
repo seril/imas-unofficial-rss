@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Mar 2025 14:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 02:20:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Mar 2025 14:14:22 GMT</pubDate>
+        <pubDate>Fri, 07 Mar 2025 02:20:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 2025年3月26日(水)に稼働開始！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14847.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14847.html</guid>
+            <pubDate>Fri, 07 Mar 2025 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/CtSngO9qQDrJAFvG58u0bvj27mDvph55.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレステ10thツアー大阪】いよいよ今週末「Let's AMUSEMENT!!!」大阪公演開催！盛りだくさんの当日企画・物販・配信情報を最終チェック！！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14442.html</guid>
             <pubDate>Mon, 17 Feb 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/Z6uTzy2Mtjvop0WcB7cCvzEZlaPQCIQL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】ST@iRs to 10th Anniversary記念！ガラス彫刻工房ONOのガラスの靴と美濃焼タンブラーの受注は2月28日まで！]]></title>
-            <description><![CDATA[#imas_cg #デレマス #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14576.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14576.html</guid>
-            <pubDate>Mon, 17 Feb 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2024/11/954N47ZBJxwD2KyEWnYMvewFOA5FD78v.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

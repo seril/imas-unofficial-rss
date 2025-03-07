@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Mar 2025 14:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 02:20:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Mar 2025 14:14:22 GMT</pubDate>
+        <pubDate>Fri, 07 Mar 2025 02:20:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 2025年3月26日(水)に稼働開始！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14847.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14847.html</guid>
+            <pubDate>Fri, 07 Mar 2025 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/CtSngO9qQDrJAFvG58u0bvj27mDvph55.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニアニ2nd】3月13日(木) 19:00～「#シャニアニ生配信 ～Blu-ray宣伝王は誰だ！？全力バトルバラエティ！スペシャル～」を実施予定✨]]></title>
             <description><![CDATA[#シャニアニ生配信 #シャニアニ2nd #シャニアニ #シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14521.html</guid>
             <pubDate>Mon, 17 Feb 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/sWwHay48f1vdUdBOklOAwFzyVvlITETR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【20周年生配信イベント】現地チケットのアソビストアプレミアム会員2次先行が明日2月15日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14575.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14575.html</guid>
-            <pubDate>Fri, 14 Feb 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/dAF0trnnU4v7MHoY5tlu7B0UvlnHOSJi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
