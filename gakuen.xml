@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Mar 2025 06:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 11:12:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Mar 2025 06:21:22 GMT</pubDate>
+        <pubDate>Fri, 07 Mar 2025 11:12:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター 1st Anniversary Celebration Party フェア＆オンリーショップ in アニメイト」が開催決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14807.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14807.html</guid>
+            <pubDate>Fri, 07 Mar 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/a2Ng5N3tBylJzhAwyOsUBjmgR30CBsGH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「マリオンクレープ」とのコラボが開催決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14288.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14288.html</guid>
+            <pubDate>Fri, 07 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/cMbCCCNvioqYtoaW1k5GbbKrisc1yHDF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】エンスカイより、「おまんじゅうにぎにぎマスコット」と「名札風アクリルバッジ」が新登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14307.html</guid>
             <pubDate>Thu, 06 Feb 2025 02:31:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/8DMMghZcsHo8djfC2RT1Dq4ie98sDoQK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】一番くじ 学園アイドルマスターの描きおろしイラスト＆全ラインナップを公開！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14441.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14441.html</guid>
-            <pubDate>Thu, 06 Feb 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/5hfwM6mrTGholo6SBxpx3YX66KXyyqkA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】2/5(水)学マス生配信「初星学園HR～秦谷美鈴 大紹介SP～」お知らせまとめ	]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター #秦谷美鈴大紹介SP]]></description>
-            <link>https://idolmaster-official.jp/news/01_14367.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14367.html</guid>
-            <pubDate>Wed, 05 Feb 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/02/9PhZ1klfOfqgwDF5ixT7RfRVuPqGWZ8q.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

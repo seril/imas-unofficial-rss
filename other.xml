@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Mar 2025 06:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 11:12:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Mar 2025 06:21:22 GMT</pubDate>
+        <pubDate>Fri, 07 Mar 2025 11:12:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 ヴイアライヴ】【人気のコミュボイス販売シリーズ】「1stLIVE差し入れコミュ」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></title>
+            <description><![CDATA[【 ヴイアライヴ】【人気のコミュボイス販売シリーズ】「1stLIVE差し入れコミュ」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14819.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14819.html</guid>
+            <pubDate>Fri, 07 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/34CVwUrlY0qBgIhROI6CJYyqWv0Efdxz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#ヴイアラ】ライバーアイドルソロ1stアルバムが4月2日(水)に発売決定！ASOBISTOREでは本日より予約受付開始！1st singleのMVも公開日が決定！]]></title>
             <description><![CDATA[【#ヴイアラ】ライバーアイドルソロ1stアルバムが4月2日(水)に発売決定！ASOBISTOREでは本日より予約受付開始！1st singleのMVも公開日が決定！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14029.html</guid>
             <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2024/12/p54X2TlrOdL7UZNhFBOZ9MWSMC8pspsb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【アイマスエキスポ】「LIVE SHOWCASE」全公演の「キャストコメント欄参加アーカイブ同時視聴会」の日程・キャストを発表！配信チケット販売中！]]></title>
-            <description><![CDATA[#アイマスエキスポ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14005.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14005.html</guid>
-            <pubDate>Wed, 25 Dec 2024 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2024/12/g17OGYooRmKLAhn1ZRZY8oTeBcEL0OSx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

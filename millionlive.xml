@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Mar 2025 06:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 11:12:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Mar 2025 06:21:22 GMT</pubDate>
+        <pubDate>Fri, 07 Mar 2025 11:12:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】※今週末3/9(日)まで※《SEASONAL SNAPSHOT》5月に向けてジュリア・宮尾美也が登場！「ゴールデンウィーク」をイメージしたグッズが受注中！]]></title>
+            <description><![CDATA[#ミリオンシーズナル5月]]></description>
+            <link>https://idolmaster-official.jp/news/01_14783.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14783.html</guid>
+            <pubDate>Fri, 07 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/adVbxF9LtByujD167Y92MnXUP8obdfvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ハッチポッチ2】配信チケット販売開始！明日3/8(土)12:00からは現地チケット一般発売(先着)受付予定！]]></title>
+            <description><![CDATA[#アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_14893.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14893.html</guid>
+            <pubDate>Fri, 07 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/uhr3ctBfpq1kUGkPJNpMW3b2xxUh8K5Y.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 2025年3月26日(水)に稼働開始！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -390,22 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_14305.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14305.html</guid>
             <pubDate>Sun, 26 Jan 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ハッチポッチ2】本日締切！イベントグッズ事前三次販売受付中！]]></title>
-            <description><![CDATA[#アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_14328.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14328.html</guid>
-            <pubDate>Sun, 26 Jan 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/Z29TDkTrl3zd5LhOTQJ7oFueAhDTkw3I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日締め切り!!!!】Act-4 開催記念グッズがリバイバル販売は本日まで！！新商品のレプリカチケットも！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14304.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14304.html</guid>
-            <pubDate>Sun, 26 Jan 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/5BTBBoflQku0JyotwDZZDheYRzMeqvsl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
