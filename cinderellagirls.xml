@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Mar 2025 14:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 01:56:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Mar 2025 14:14:12 GMT</pubDate>
+        <pubDate>Sat, 08 Mar 2025 01:56:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「Let’s AMUSEMENT!!! 大阪公演」Cygamesフラワースタンド」出演キャストサインパネルを公開！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14859.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14859.html</guid>
+            <pubDate>Sat, 08 Mar 2025 00:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/SfJacTXiDPhJfP5GZY2wG4QY4c9Na5So.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】復刻しました！！！デレステ10th大阪公演 開催記念！「アソビストア ガラポン」大阪復刻スタート！全ピックアップ解放中♪]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14597.html</guid>
             <pubDate>Thu, 20 Feb 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/Niqvn7gWIpihcElXLkBJMcJtHHDkgEfH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
-            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
-            <link>https://idolmaster-official.jp/news/01_14370.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14370.html</guid>
-            <pubDate>Wed, 19 Feb 2025 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/15G7GNr16HUhX2msfggTpOZjgRnQiCCw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
