@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Mar 2025 14:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Mar 2025 02:01:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Mar 2025 14:10:29 GMT</pubDate>
+        <pubDate>Sun, 09 Mar 2025 02:01:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ASOBI STOREからのサンキュー！ 歳末セール実施中！]]></title>
+            <description><![CDATA[ASOBI STOREからのサンキュー！ 歳末セール実施中！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14898.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14898.html</guid>
+            <pubDate>Sun, 09 Mar 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/O4sCwSBVWhyFVED2qyZUu7LSkvVtvi52.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー大阪DAY1のご鑑賞ありがとうございました！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレステ10thツアー大阪_day1]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14797.html</guid>
             <pubDate>Tue, 04 Mar 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/KtvwkP19U32xZVf0vjg01BueR8NVU1rD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】ローソンマルチコピー機オリジナル3月バースデーブロマイドが販売中！3月24日(月)まで！]]></title>
-            <description><![CDATA[【シンデレラ】ローソンマルチコピー機オリジナル3月バースデーブロマイドが販売中！3月24日(月)まで！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14319.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14319.html</guid>
-            <pubDate>Tue, 04 Mar 2025 02:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/MFV39d6a2YyYqIhRDWBnQQG0jpaM6KWk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
