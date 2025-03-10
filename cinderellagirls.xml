@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Mar 2025 03:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 06:18:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Mar 2025 03:15:53 GMT</pubDate>
+        <pubDate>Mon, 10 Mar 2025 06:18:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「EPHEMERAL AЯROW」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「EPHEMERAL AЯROW」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14869.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14869.html</guid>
+            <pubDate>Mon, 10 Mar 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/tOokZZuC6mgpxj7FKnplWeQc5gIAjGP2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】Amazon Merch on Demandに「アイドルマスター シンデレラガールズ」のアパレル商品が新登場！]]></title>
+            <description><![CDATA[#stairs_to_10th #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14884.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14884.html</guid>
+            <pubDate>Mon, 10 Mar 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/eZOCGjHX94TdhffhREjU338yCJbxhXPu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「ST@iRs to 10th Anniversary」 を記念した、特別なリングの予約がスタート！]]></title>
             <description><![CDATA[#stairs_to_10th  #デレステ10thツアー #デレマス #デレステ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14544.html</guid>
             <pubDate>Fri, 21 Feb 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/mzeretJm9MfKYJijUUEgZktJxbReRwxa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】カードゲーム用サプライ商品が続々登場！]]></title>
-            <description><![CDATA[【シンデレラ】カードゲーム用サプライ商品が続々登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14570.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14570.html</guid>
-            <pubDate>Fri, 21 Feb 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/GkR4RwhNX9slIqEQDRebJGhrb44pDvzW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー沖縄・福岡公演】の公式グッズ事前販売締め切りまであと4日！！ライブに向けて準備を進めましょう！]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14604.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14604.html</guid>
-            <pubDate>Fri, 21 Feb 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/fQgJapHlJ5gy8ZxNRDLlH9jWy4tXj7ax.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

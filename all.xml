@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Mar 2025 03:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 06:18:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Mar 2025 03:15:53 GMT</pubDate>
+        <pubDate>Mon, 10 Mar 2025 06:18:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】★3 浅倉 透、★3 緋田 美琴が手に入るガシャ開催中！ さらに、ストレイライトのエピソード3が追加！]]></title>
+            <description><![CDATA[#シャニソン  ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14817.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14817.html</guid>
+            <pubDate>Mon, 10 Mar 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/Pol4TbNjki2EAwppGDVvREdtMlPiMH9R.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「EPHEMERAL AЯROW」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「EPHEMERAL AЯROW」と「THE IDOLM@STER CINDERELLA GIRLS UNIT LIVE TOUR ConnecTrip! @ FUKUOKA ＆ TOKYO ＆ ISHIKAWA」Blu-ray BOXの発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14869.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14869.html</guid>
+            <pubDate>Mon, 10 Mar 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/tOokZZuC6mgpxj7FKnplWeQc5gIAjGP2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】Amazon Merch on Demandに「アイドルマスター シンデレラガールズ」のアパレル商品が新登場！]]></title>
+            <description><![CDATA[#stairs_to_10th #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14884.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14884.html</guid>
+            <pubDate>Mon, 10 Mar 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/eZOCGjHX94TdhffhREjU338yCJbxhXPu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】SHHis POP UP SHOP『武闘遊戯』コラボ商品のEC販売開始！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ #武闘遊戯]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14810.html</guid>
             <pubDate>Tue, 04 Mar 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/MysS3NLqkLaDxuwwF61fE4Hzzm6BcZFd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【APラウンジ】【学マス】初星学園MV鑑賞会＆狭山スキー場コラボに行ってきた⭐ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #学マス #狭山で行くぞWintermode]]></description>
-            <link>https://idolmaster-official.jp/news/01_14789.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14789.html</guid>
-            <pubDate>Tue, 04 Mar 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/Y0eQGg85XW1M34QIzvqP3g2fgJXM34Pd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10thプロミ幕張】「冬馬のバターチキンカレーパン出張販売所」＆「ばくだん焼本舗」出店決定！！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張 #カレーパン #ばくだん焼き]]></description>
-            <link>https://idolmaster-official.jp/news/01_14796.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14796.html</guid>
-            <pubDate>Tue, 04 Mar 2025 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/Jo4oZtDSync4xKdCjB9d1WnGiG3b0cNl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ハッチポッチ2】3/8(土)12:00～ 現地チケット一般発売(先着)開始予定！公式リセールも同日受付開始！]]></title>
-            <description><![CDATA[#アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_14793.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14793.html</guid>
-            <pubDate>Tue, 04 Mar 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/wZlazgWqj4NpYTXpy6z0AVBTLIHfjHrq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
