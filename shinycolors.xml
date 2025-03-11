@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Mar 2025 06:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 11:13:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Mar 2025 06:21:20 GMT</pubDate>
+        <pubDate>Tue, 11 Mar 2025 11:13:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】幽谷 霧子、緋田 美琴が登場するパラレルコレクションを開催中！ホワイトデースペシャルコミュの開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14818.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14818.html</guid>
+            <pubDate>Tue, 11 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/BHX0L7Lu7QHyC7g51CahgKl1AlunBD6r.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】★3 浅倉 透、★3 緋田 美琴が手に入るガシャ開催中！ さらに、ストレイライトのエピソード3が追加！]]></title>
             <description><![CDATA[#シャニソン  ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14565.html</guid>
             <pubDate>Wed, 19 Feb 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/kSfz91EAbcfHllWmIf4Nu1MIiciQG6bt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニラジHBTK】3月6日(木) 19:00～ライブ後特別回「シャニラジ生配信」実施決定！シャニアニ2ndLIVEの感想をたっぷりお届けします♪]]></title>
-            <description><![CDATA[#シャニラジHBTK #シャニラジ生配信 #シャニアニ2ndLIVE #シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14596.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14596.html</guid>
-            <pubDate>Tue, 18 Feb 2025 14:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/CmNsmRz5GGiPrD9ArhMIBlCxpSfdweZT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

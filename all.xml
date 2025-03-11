@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Mar 2025 06:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 11:13:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Mar 2025 06:21:20 GMT</pubDate>
+        <pubDate>Tue, 11 Mar 2025 11:13:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】本日3/11(火)21時配信！1stLIVE開催直前！ライバーアイドル3D配信実施！未発表の新曲も初披露！！]]></title>
+            <description><![CDATA[#ASOBINOTES]]></description>
+            <link>https://idolmaster-official.jp/news/01_14910.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14910.html</guid>
+            <pubDate>Tue, 11 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/IpkuT6TP1gsriVYurLZpIeHLZtpnlPEP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】PINATATIME!! LIVE Blu-ray ダイジェスト映像＆ジャケットデザイン公開！！ご予約受付中！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_PT]]></description>
+            <link>https://idolmaster-official.jp/news/01_14908.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14908.html</guid>
+            <pubDate>Tue, 11 Mar 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/R680sqtacdDhZOb3cTu8DkA0417T6bzc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】幽谷 霧子、緋田 美琴が登場するパラレルコレクションを開催中！ホワイトデースペシャルコミュの開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14818.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14818.html</guid>
+            <pubDate>Tue, 11 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/BHX0L7Lu7QHyC7g51CahgKl1AlunBD6r.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S【#3】3月10日(月) 22:00よりプレミア公開！]]></title>
             <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14816.html</guid>
             <pubDate>Wed, 05 Mar 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/2nYtmmX48b44HpvlWcxw72BQqOPETbI5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10周年記念ツアー「Let’s AMUSEMENT!!! 大阪公演」「Cygamesフラワースタンド」ご観覧のお知らせ]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14785.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14785.html</guid>
-            <pubDate>Wed, 05 Mar 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/TRUtmNbWyrAhVgF8SEHJpD6HcaJphZw6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演 本日より配信チケット販売スタート！現地チケットのリセールも実施中！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14812.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14812.html</guid>
-            <pubDate>Wed, 05 Mar 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/GsHMFC18kCdeThUeG0MyviuB0YvCgmCn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】アイドルマスター オフィシャルショップの抽選くじに新柄21種が登場！3月7日(金)から秋葉原・名古屋・大阪・博多で取り扱い]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14801.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14801.html</guid>
-            <pubDate>Wed, 05 Mar 2025 02:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/Cuocoawg1oJ4zXv9CjmHR7uR0FxqmQsP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
