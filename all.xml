@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Mar 2025 02:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 03:24:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Mar 2025 02:19:25 GMT</pubDate>
+        <pubDate>Wed, 12 Mar 2025 03:24:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】アイドル衣装を着た「花海佑芽」「秦谷美鈴」「十王星南」のちびぐるみが2025年8月に登場予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14589.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14589.html</guid>
+            <pubDate>Wed, 12 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/KBjZJg2vsaSGc167cxnxnu5wJ9vHtuyw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】見つけて！マイシンデレラ　特設サイト公開！]]></title>
+            <description><![CDATA[#見つけてマイシンデレラ　#デレステ　#stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14911.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14911.html</guid>
+            <pubDate>Wed, 12 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/gnXhO7NKeUHyPkwHbQ6uaeMtp6G0LLqM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】初の単独現地イベント「PRODUCER MEETING 2024」EVENT Blu-ray BOXが本日より販売開始！最終オーディションライブ「THE LAST STATEMENT!!!」も同時収録！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】初の単独現地イベント「PRODUCER MEETING 2024」EVENT Blu-ray BOXが本日より販売開始！最終オーディションライブ「THE LAST STATEMENT!!!」も同時収録！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14915.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14915.html</guid>
+            <pubDate>Wed, 12 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/a5ttBFzevFem5IRMiSZGOUAds5t19VtJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】TSUTAYAコラボPOP UP SHOP「AFTERSCHOOL STYLEJAM」が本日3月12日（水）よりEC販売開始！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -265,6 +289,14 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/K9wPLIgX1dEj1XJ6HRWj9aPgFqrKesmZ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【シャニマス】283PRODUCTION SHOP 2025 -クラシックシーズン- 開催決定！商品情報 第1弾を公開！]]></title>
+            <description><![CDATA[#シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14883.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14883.html</guid>
+            <pubDate>Wed, 12 Mar 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/EesCZkpWc3OkwA8kAJla2CHQsRa4RQxI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演-　名古屋クラブクアトロ公演 一部出演者見合わせに伴う現地チケット・配信視聴チケットの対応につきまして]]></title>
             <description><![CDATA[#学マス #学マスデビューライブツアー #学園アイドルマスター]]></description>
             <link>https://idolmaster-official.jp/news/01_14836.html</link>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14806.html</guid>
             <pubDate>Wed, 05 Mar 2025 12:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/fNBTa6KE3QR20OPMhqYQNQ1xlbJnrwaJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×アトレ浦和」開催決定！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14643.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14643.html</guid>
-            <pubDate>Wed, 05 Mar 2025 12:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/1ugkbPqL69LA3cyS5CCvq9ixiqVQUWSg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「THE IDOLM@STER MILLION LIVE!×NewDays」コラボ開催決定！✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14798.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14798.html</guid>
-            <pubDate>Wed, 05 Mar 2025 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/03/Qo3NOW4cj2QlE9cqn3rMFQsbBtzYQpnd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリアニ】新作エピソードOVA発売決定！ミリアニ制作陣が再集結！]]></title>
-            <description><![CDATA[【ミリアニ】新作エピソードOVA発売決定！ミリアニ制作陣が再集結！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14692.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14692.html</guid>
-            <pubDate>Wed, 05 Mar 2025 11:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/LYREx8ELotACIFuBTs4tjoKFo7o0lPqf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオンライブ】『ミリオンライブ！の12周年は花ざかり✿ ​ 今夜はFantastic night 生配信！』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
-            <description><![CDATA[#ミリシタ  #ミリオンライブFantasticnight生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_14440.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14440.html</guid>
-            <pubDate>Wed, 05 Mar 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/03/wvCSfRvLrvyP89hTDNAvL00HN53EhaaR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
