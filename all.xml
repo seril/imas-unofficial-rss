@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Mar 2025 06:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 11:13:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Mar 2025 06:21:41 GMT</pubDate>
+        <pubDate>Wed, 12 Mar 2025 11:13:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】「THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST!」シリーズの20周年記念リマスター盤CD/SACDが登場！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14909.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14909.html</guid>
+            <pubDate>Wed, 12 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/fpf5JGU8ZGP2IUPOhk4nWRuOhffKIf5F.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】本日更新！アソビストア ガラポン 沖縄・福岡ピックアップ⑥ご紹介♪]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14928.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14928.html</guid>
+            <pubDate>Wed, 12 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/03/Izf7mt94YZximNCnJYOnLkEfL7A6y9Yx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】SideM10周年×パックマン45周年スペシャルコラボ！「THE IDOLM@STER SideM 10th feels PAC-MAN's 45th!」公式コラボグッズ発売決定！本日より受注開始！！]]></title>
+            <description><![CDATA[#SideM #pacman #パックマン]]></description>
+            <link>https://idolmaster-official.jp/news/01_14784.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14784.html</guid>
+            <pubDate>Wed, 12 Mar 2025 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/2lS96BhWuxC7GDyCDxj7tf8nTm6Qo3ee.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【APラウンジ】【デレステ】『見つけて！マイシンデレラ』で気になるアイドルさんに出会ってみよう！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch ＃APラウンジ #stairs_to_10th #見つけてマイシンデレラ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14808.html</guid>
             <pubDate>Wed, 05 Mar 2025 12:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/gVqZHHh3EIlrKgqEdPkOwA5noFQyork8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】あみあみオンラインくじ アイドルマスター ミリオンライブ！ ラビットシティ大捜査線 詳細情報公開！販売サイトもオープン🐰🚨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14787.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14787.html</guid>
-            <pubDate>Wed, 05 Mar 2025 12:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/rToTEbdtYBFAbW2N40nIYgvJzMhdCwP5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】3月22日(土)「たかつき観光大使」高槻やよいバースデーイベント🎂🎉「ちびキャラ応援隊」メンバー公開📣トークショーでは「ふたマス!!!!!!」お披露目も✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
-            <link>https://idolmaster-official.jp/news/01_14673.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14673.html</guid>
-            <pubDate>Wed, 05 Mar 2025 12:07:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/eDeHsPAgagblOKHnv0gqzI2gk73PcDUH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！」とGiGOのコラボが決定！コラボたい焼き販売やオリジナルグッズ販売も♢♧♡♤✨]]></title>
-            <description><![CDATA[#ミリオンライブ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14805.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14805.html</guid>
-            <pubDate>Wed, 05 Mar 2025 12:04:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/jFJEnAygAw44OHx6TSHtV609XDzriLP1.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
