@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Mar 2025 14:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 02:19:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Mar 2025 14:15:43 GMT</pubDate>
+        <pubDate>Wed, 12 Mar 2025 02:19:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】TSUTAYAコラボPOP UP SHOP「AFTERSCHOOL STYLEJAM」が本日3月12日（水）よりEC販売開始！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14813.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14813.html</guid>
+            <pubDate>Wed, 12 Mar 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/yEPSD03lgyIzenrSTylyefaaJbM7asHA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】TOKYO MXにて1stLIVEのダイジェスト放送決定！放送時間は3月29日（土）25：00から！1stLIVE現地一般販売チケットは明日12日(水)23:59まで！]]></title>
             <description><![CDATA[【 #ヴイアラ 】TOKYO MXにて1stLIVEのダイジェスト放送決定！放送時間は3月29日（土）25：00から！1stLIVE現地一般販売チケットは明日12日(水)23:59まで！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14440.html</guid>
             <pubDate>Wed, 05 Mar 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/03/wvCSfRvLrvyP89hTDNAvL00HN53EhaaR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】つくりより「自撮り風アクリルスタンド」「ゲーミングマウスパッド」の受注販売開始!!]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14710.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14710.html</guid>
-            <pubDate>Wed, 05 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/WJiK2wKeepjzLUGJim9VizUADfLYWXAy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
