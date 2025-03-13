@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Mar 2025 06:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Mar 2025 11:13:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Mar 2025 06:21:21 GMT</pubDate>
+        <pubDate>Thu, 13 Mar 2025 11:13:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニアニ2nd】Blu-ray発売日の3月28日（金）にnamco TOKOYOにてBlu-ray発売記念イベントを実施！！]]></title>
+            <description><![CDATA[#シャニアニ2nd_Blu-ray発売 #シャニアニ2nd #シャニアニ #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14924.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14924.html</guid>
+            <pubDate>Thu, 13 Mar 2025 11:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/5yo4s7rqVLm8eLKugJhE2Z1YPwR4e31x.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ2nd】「#シャニアニ生配信 ～Blu-ray宣伝王は誰だ！？全力バトルバラエティ！スペシャル～」配信記念！プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#シャニアニ生配信 #シャニアニ #シャニアニ2nd #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14750.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14750.html</guid>
+            <pubDate>Thu, 13 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/wg0KmAvGke14adrlCmBz5AUSZISbiJMx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】幽谷 霧子、緋田 美琴が登場するパラレルコレクションを開催中！ホワイトデースペシャルコミュの開催も！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14544.html</guid>
             <pubDate>Fri, 21 Feb 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/mzeretJm9MfKYJijUUEgZktJxbReRwxa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2ndLIVE】現地チケット一般発売2次（先着）の受付が明日2月22日(土)12:00よりスタート！！「アイドル直筆コメント画像」特典付き配信チケットも販売中！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ2ndLIVE #シャニアニ2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_14614.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14614.html</guid>
-            <pubDate>Fri, 21 Feb 2025 03:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/Gbf1SAoXUFKcI7uwJSEIYvxJRT7fbQT0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2ndLIVE】2月28日(金)19:00～前日特番「 シャニアニ総集編オーディオコメンタリー」配信決定！「アイドル直筆コメント画像」特典付き配信チケットも販売中！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ2ndLIVE #シャニアニ2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_14530.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14530.html</guid>
-            <pubDate>Wed, 19 Feb 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/FuJVUxnMjqia7aVcweLMa3FE8hPtIVYy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
