@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 03:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 06:21:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Mar 2025 03:25:23 GMT</pubDate>
+        <pubDate>Fri, 14 Mar 2025 06:21:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ハッチポッチ2】けやき広場にキッチンカーの出店が決定！]]></title>
+            <description><![CDATA[#アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_14945.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14945.html</guid>
+            <pubDate>Fri, 14 Mar 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/OIkuxYYZTRUAa8YCAWXvMXnbiXfJou3o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】3月25日(火) 19:00～ 「#アイマス20周年イヤー 特別生配信 ～3月もどどんと情報盛りだくさんスペシャル～」配信予定！さらに、765プロダクションによる発表記者会見も配信予定！]]></title>
             <description><![CDATA[#どどんと情報アイマス生配信]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14360.html</guid>
             <pubDate>Wed, 29 Jan 2025 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/MSVLFN6tH2PC8x5K7HcZU3lUU1gUycH8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【APラウンジ】中川浩二さんとガチトーク！アイマス楽曲を語ろう 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch ＃APラウンジ #reflame_961]]></description>
-            <link>https://idolmaster-official.jp/news/01_14339.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14339.html</guid>
-            <pubDate>Tue, 28 Jan 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/oMZnnXDvQo7ZZrA4ZZUk4BVkhCjB2Xis.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
