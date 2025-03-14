@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 02:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 03:25:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Mar 2025 02:19:26 GMT</pubDate>
+        <pubDate>Fri, 14 Mar 2025 03:25:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】3月25日(火) 19:00～ 「#アイマス20周年イヤー 特別生配信 ～3月もどどんと情報盛りだくさんスペシャル～」配信予定！さらに、765プロダクションによる発表記者会見も配信予定！]]></title>
+            <description><![CDATA[#どどんと情報アイマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_14694.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14694.html</guid>
+            <pubDate>Fri, 14 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/8WSg4o2SWEWMAIjF5RCTafscG4gUK6Cs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】シリーズ20周年記念 実写CMが公開！【『アイドルマスター』シリーズは2025年7月26日で20周年を迎えます！】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14937.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14937.html</guid>
+            <pubDate>Fri, 14 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/UR4CCouL0lvj6PoPTTXv1g0piWLBewSz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】【ミリオン】【明日3月14日(金)から！】『765 MILLION ALLSTARS SHOP in コトブキヤ秋葉原館』がついに開催✨]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイドルマスター #ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14339.html</guid>
             <pubDate>Tue, 28 Jan 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/oMZnnXDvQo7ZZrA4ZZUk4BVkhCjB2Xis.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」旧正月セール実施のお知らせ]]></title>
-            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
-            <link>https://idolmaster-official.jp/news/01_14258.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14258.html</guid>
-            <pubDate>Tue, 28 Jan 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】『スマスロ アイドルマスター ミリオンライブ！ ネクストプロローグ』登場のお知らせ【機種PV公開中】]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14338.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14338.html</guid>
-            <pubDate>Tue, 28 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/0ENgCKGlg81MqT6u4Piu2bRE32o6aPjz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
