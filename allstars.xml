@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 06:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 11:12:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Mar 2025 06:21:16 GMT</pubDate>
+        <pubDate>Fri, 14 Mar 2025 11:12:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オケマス2025】現地チケットのアソビストア一般会員先行が明日3月15日(土) 12:00よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_14958.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14958.html</guid>
+            <pubDate>Fri, 14 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/UTuaJebXjn9J4I2TpWIODmSKy0A3V1tj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』のカード付きスナック菓子が3月25日(火)よりクレーンゲームに登場予定！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14904.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14904.html</guid>
+            <pubDate>Fri, 14 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/Dgi9HrXrjPjYZLLfYbAbvnHgdWDM9MEU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」スプリングセール実施のお知らせ]]></title>
+            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
+            <link>https://idolmaster-official.jp/news/01_14815.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14815.html</guid>
+            <pubDate>Fri, 14 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ハッチポッチ2】けやき広場にキッチンカーの出店が決定！]]></title>
             <description><![CDATA[#アイマスハッチポッチ2]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14216.html</guid>
             <pubDate>Fri, 17 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/IZ4BUnio4HTMciqkZc0c1An7LO0HdwKE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 広島府中』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス広島府中]]></description>
-            <link>https://idolmaster-official.jp/news/01_14228.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14228.html</guid>
-            <pubDate>Fri, 17 Jan 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1024/OTHER/2025/01/NdhhHSGzDV75x78TiNgqGZAcmMzXrStk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ハッチポッチ2】1/20(月)12:00～ アソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_14182.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14182.html</guid>
-            <pubDate>Thu, 16 Jan 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/01/Thnrj2KOXfNOe7mm3CtbxjBceZKeGeBR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オケマス2025】開場・開演時間変更についてのご案内]]></title>
-            <description><![CDATA[#アイマス20周年イヤー　#オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_14210.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14210.html</guid>
-            <pubDate>Thu, 16 Jan 2025 06:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/01/1q9NrSvueiWmHNe1aqRnhAIshYVVtqSu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

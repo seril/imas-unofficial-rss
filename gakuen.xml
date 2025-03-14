@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 06:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 11:12:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Mar 2025 06:21:16 GMT</pubDate>
+        <pubDate>Fri, 14 Mar 2025 11:12:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オケマス2025】現地チケットのアソビストア一般会員先行が明日3月15日(土) 12:00よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_14958.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14958.html</guid>
+            <pubDate>Fri, 14 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/UTuaJebXjn9J4I2TpWIODmSKy0A3V1tj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】3月25日(火) 19:00～ 「#アイマス20周年イヤー 特別生配信 ～3月もどどんと情報盛りだくさんスペシャル～」配信予定！さらに、765プロダクションによる発表記者会見も配信予定！]]></title>
             <description><![CDATA[#どどんと情報アイマス生配信]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14512.html</guid>
             <pubDate>Mon, 10 Feb 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/pDqD4dIgUP6D8fCc9zahetkTrGS21FbH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 梅田クラブクアトロ公演」 春咲 暖様（秦谷 美鈴役）ご出演につきまして]]></title>
-            <description><![CDATA[#学マス #学マスデビューライブツアー #学マスデビュー初陣_梅田]]></description>
-            <link>https://idolmaster-official.jp/news/01_14509.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14509.html</guid>
-            <pubDate>Mon, 10 Feb 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

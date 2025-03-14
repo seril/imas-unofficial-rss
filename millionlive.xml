@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 06:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 11:12:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Mar 2025 06:21:16 GMT</pubDate>
+        <pubDate>Fri, 14 Mar 2025 11:12:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オケマス2025】現地チケットのアソビストア一般会員先行が明日3月15日(土) 12:00よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_14958.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14958.html</guid>
+            <pubDate>Fri, 14 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/UTuaJebXjn9J4I2TpWIODmSKy0A3V1tj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』のカード付きスナック菓子が3月25日(火)よりクレーンゲームに登場予定！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14904.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14904.html</guid>
+            <pubDate>Fri, 14 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/Dgi9HrXrjPjYZLLfYbAbvnHgdWDM9MEU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」スプリングセール実施のお知らせ]]></title>
+            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
+            <link>https://idolmaster-official.jp/news/01_14815.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14815.html</guid>
+            <pubDate>Fri, 14 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ハッチポッチ2】けやき広場にキッチンカーの出店が決定！]]></title>
             <description><![CDATA[#アイマスハッチポッチ2]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14376.html</guid>
             <pubDate>Fri, 31 Jan 2025 01:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/1dVV7Vk0wnXR1hJXNkmsYamS7FhO4RoZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》4月に向けて白石 紬・馬場このみが登場！「お花見」をイメージしたグッズが受注開始！]]></title>
-            <description><![CDATA[#ミリオンシーズナル4月]]></description>
-            <link>https://idolmaster-official.jp/news/01_14352.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14352.html</guid>
-            <pubDate>Thu, 30 Jan 2025 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/01/3JQ74IakqkHrnRs60dBCXzTsgaOjmG4u.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【発売中!!!!】「THE IDOLM@STER MILLION LIVE! 10thLIVE TOUR」Act-4のLIVE Blu-rayが発売中！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン10周年 #imas_ml_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_13506.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_13506.html</guid>
-            <pubDate>Thu, 30 Jan 2025 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/01/ZWOMm1iGOvuOpKjBg1vuE9LLgh94gZYK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【本日12:30より販売開始！】「アイドルマスターミリオンライブ！ × YUI CHOCOLATE」コラボ商品 再販決定🍫💗]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14360.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14360.html</guid>
-            <pubDate>Wed, 29 Jan 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/MSVLFN6tH2PC8x5K7HcZU3lUU1gUycH8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
