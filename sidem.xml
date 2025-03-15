@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Mar 2025 11:11:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 14:14:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Mar 2025 11:11:15 GMT</pubDate>
+        <pubDate>Sat, 15 Mar 2025 14:14:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張公演DAY1 ご来場＆ご視聴いただきありがとうございました！！本日の公演内容＆告知情報はこちら！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14948.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14948.html</guid>
+            <pubDate>Sat, 15 Mar 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/wU3Os72OP7808T9Of7EElkuKbFYJVxK0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 SideM 】理由あって、" うんこ " とコラボ！？「アイドルマスターSideM × うんこドリル」コラボグッズが登場！本日より受注開始！！]]></title>
+            <description><![CDATA[#SideM #うんこドリル]]></description>
+            <link>https://idolmaster-official.jp/news/01_14894.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14894.html</guid>
+            <pubDate>Sat, 15 Mar 2025 11:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/FbqVwAV9aTcWh4POO9m2tkmmFZFcUgbt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張公演 2025年12月3日(水) EVENT Blu-ray 発売決定！！本日より順次ご予約受付開始！！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14966.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14966.html</guid>
+            <pubDate>Sat, 15 Mar 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/WsN4RgPhlJVOSuaeeA8VC98eedVxIOKQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】【明日まで！】「アイドルマスター SideM×ホラグチカヨ 公式にゃんにゃんにゃんグッズ」の販売は3月16日(日)まで！一部商品サンプルもご紹介♪]]></title>
             <description><![CDATA[#SideM  #アソビストア]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14469.html</guid>
             <pubDate>Thu, 13 Feb 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/FByby5iJ62EOqzPOAP6iQOMF0sqkd7xc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ大阪公演 視聴コメント付きアーカイブ配信開始！同時視聴上映会も実施予定！アンケートも実施中！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
-            <link>https://idolmaster-official.jp/news/01_14515.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14515.html</guid>
-            <pubDate>Mon, 10 Feb 2025 09:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/02/MyAOgCa7F2ZVVVFv8CGD7sp1aPZSt6cg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ大阪公演 集合写真イラストを使用した開催記念グッズ販売スタート！]]></title>
-            <description><![CDATA[#SideM #Side10thプロミ大阪]]></description>
-            <link>https://idolmaster-official.jp/news/01_14503.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14503.html</guid>
-            <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/knY0dp8SmjtbyjxLCsDjq5OdyxqPhLcx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ大阪公演DAY2 ご来場＆ご視聴いただきありがとうございました！！本日の公演内容＆告知情報はこちら！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ大阪]]></description>
-            <link>https://idolmaster-official.jp/news/01_14477.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14477.html</guid>
-            <pubDate>Sun, 09 Feb 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/QZ9hVvSbqPBksK4W4OoKQ4virXy4fOU0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
