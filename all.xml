@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Mar 2025 03:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 06:19:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Mar 2025 03:22:24 GMT</pubDate>
+        <pubDate>Sat, 15 Mar 2025 06:19:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】【明日まで！】「アイドルマスター SideM×ホラグチカヨ 公式にゃんにゃんにゃんグッズ」の販売は3月16日(日)まで！一部商品サンプルもご紹介♪]]></title>
+            <description><![CDATA[#SideM  #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_14892.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14892.html</guid>
+            <pubDate>Sat, 15 Mar 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/Y3YQXsgXdin5PMgTYQAEK5TjYcFfi3Mz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】✩明日3月16日(日)まで✩「セレクトショップ プリヴェ」×PRアイドルグッズ第2弾が受注中！]]></title>
             <description><![CDATA[#stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14884.html</guid>
             <pubDate>Mon, 10 Mar 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/eZOCGjHX94TdhffhREjU338yCJbxhXPu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】SHHis POP UP SHOP『武闘遊戯』コラボ商品のEC販売開始！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #武闘遊戯]]></description>
-            <link>https://idolmaster-official.jp/news/01_14823.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14823.html</guid>
-            <pubDate>Mon, 10 Mar 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/d8rzS5rD8878pVfkJ1PcWdjec4SKMadn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
