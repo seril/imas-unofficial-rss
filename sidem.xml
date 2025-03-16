@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Mar 2025 11:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 14:12:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Mar 2025 11:12:56 GMT</pubDate>
+        <pubDate>Sun, 16 Mar 2025 14:12:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【SideM10th】プロミ幕張公演DAY2 ご来場＆ご視聴いただきありがとうございました！！本日の公演内容＆告知情報はこちら！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14949.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14949.html</guid>
+            <pubDate>Sun, 16 Mar 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/q032s6ejuPGp6LWKCSgNWUjBXqa6AmmG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】10th ANNIVERSARY ST@GE ～P@SSION-ING!!!～ 開催概要＆出演者＆チケット情報発表！！本日20:30よりアソビストアプレミアム会員先行お申込み受付開始！]]></title>
+            <description><![CDATA[#SideM #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_14967.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14967.html</guid>
+            <pubDate>Sun, 16 Mar 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/jnGrzNmPxl6p6L6X2T6cxDqjvCrLZuaT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張 開催記念グッズ販売スタート！新衣装のビジュアルやパッションキャラバン完走記念イラストを使用したグッズが登場！]]></title>
+            <description><![CDATA[#SideM #Side10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14968.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14968.html</guid>
+            <pubDate>Sun, 16 Mar 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/cRe84QgLM6WvrZNnMAAljcnaPenL76Ey.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】2025年4月27日 (日) 14:30～「アイドルマスター SideM　​10th Anniversary 超GREATEST PASSION!!!!!!!!!!​　特別ステージ」実施予定！]]></title>
             <description><![CDATA[#SideM #SideM特別ステージ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14532.html</guid>
             <pubDate>Fri, 14 Feb 2025 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/JA2iGFBZCyfD3FwngTieCfIGJaEYx1nR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】横浜・八景島シーパラダイス×アイドルマスター SideM　コラボイベント第2弾「315 WINTER PASSION Second!!」は2月18日(火)からスタート！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_14539.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14539.html</guid>
-            <pubDate>Fri, 14 Feb 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/7oMovdFzvNPnhAfxjMFfWbj0ZCm18BHc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】ヴァイスシュヴァルツブラウにてSideMのブースターパックが6月20日に発売決定！新規収録のオリジナルイラストも公開！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_14549.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14549.html</guid>
-            <pubDate>Fri, 14 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/rs2raAaAFeymqgD2B9vMaYwf1lOnmxli.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTへのタイアップ参戦が決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14550.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14550.html</guid>
-            <pubDate>Thu, 13 Feb 2025 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/LOgRXCACwP6JSmxrb46wHZCThxD0GMq7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
