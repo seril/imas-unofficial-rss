@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Mar 2025 06:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 11:12:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Mar 2025 06:22:25 GMT</pubDate>
+        <pubDate>Mon, 17 Mar 2025 11:12:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S【#4】3月17日(月) 22:00よりプレミア公開！]]></title>
+            <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_14454.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14454.html</guid>
+            <pubDate>Mon, 17 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/4DMpDPy1wYPvYjnPc45z0mD3oek2z4Cj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念 壁紙プレゼントキャンペーンを開催！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14963.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14963.html</guid>
+            <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/03/KKoAqkRrlpvF3sAZuyLcwiaItYBY4QBM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 東京公演」 青木志貴様（二宮飛鳥役）ご出演見合わせにつきまして]]></title>
             <description><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 東京公演」 青木志貴様（二宮飛鳥役）ご出演見合わせにつきまして]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14637.html</guid>
             <pubDate>Fri, 28 Feb 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/d1afUvtWjsuV6x8NODljQAF5lTHytuqT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】「覚醒魔王 神崎蘭子」の1/7スケールフィギュアがご予約受付中！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14674.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14674.html</guid>
-            <pubDate>Fri, 28 Feb 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/aVGjvPnfphai5viKKrIsFWsc0AwqrGBB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「アイマス検定答え合わせ配信」ご視聴ありがとうございました！【アイマス給湯室】【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマス検定 #アイマス給湯室]]></description>
-            <link>https://idolmaster-official.jp/news/01_14700.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14700.html</guid>
-            <pubDate>Wed, 26 Feb 2025 12:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/UOMHxt5AtzUBSiEoMwwMPcMBX57uw9Jg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

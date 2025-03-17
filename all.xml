@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Mar 2025 06:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 11:12:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Mar 2025 06:22:25 GMT</pubDate>
+        <pubDate>Mon, 17 Mar 2025 11:12:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S【#4】3月17日(月) 22:00よりプレミア公開！]]></title>
+            <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_14454.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14454.html</guid>
+            <pubDate>Mon, 17 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/4DMpDPy1wYPvYjnPc45z0mD3oek2z4Cj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】3/27(木) 19:00～ 学園アイドルマスター「初星学園HR #10」生配信実施予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14914.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14914.html</guid>
+            <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/03/LDUCJZZJyns1rxQ1g6fzJVLG6N6qUhQc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念 壁紙プレゼントキャンペーンを開催！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_14963.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14963.html</guid>
+            <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/03/KKoAqkRrlpvF3sAZuyLcwiaItYBY4QBM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張公演 視聴コメント付きアーカイブ配信開始！同時視聴上映会も実施予定！アンケートも実施中！]]></title>
+            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_14986.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14986.html</guid>
+            <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/ZRyBkGk2YHNCYyjkUbqWOhJFdChy6uVS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 東京公演」 青木志貴様（二宮飛鳥役）ご出演見合わせにつきまして]]></title>
             <description><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 東京公演」 青木志貴様（二宮飛鳥役）ご出演見合わせにつきまして]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14918.html</guid>
             <pubDate>Thu, 13 Mar 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/GHSHFLW9dcbqHAh5wpIRhBbgrYGbtpoL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「THE IDOLM@STER 765PRO ALLSTARS+ GRE@TEST BEST!」シリーズの20周年記念リマスター盤CD/SACDが登場！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14909.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14909.html</guid>
-            <pubDate>Wed, 12 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/fpf5JGU8ZGP2IUPOhk4nWRuOhffKIf5F.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】本日更新！アソビストア ガラポン 沖縄・福岡ピックアップ⑥ご紹介♪]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14928.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14928.html</guid>
-            <pubDate>Wed, 12 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/03/Izf7mt94YZximNCnJYOnLkEfL7A6y9Yx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】SideM10周年×パックマン45周年スペシャルコラボ！「THE IDOLM@STER SideM 10th feels PAC-MAN's 45th!」公式コラボグッズ発売決定！本日より受注開始！！]]></title>
-            <description><![CDATA[#SideM #pacman #パックマン]]></description>
-            <link>https://idolmaster-official.jp/news/01_14784.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14784.html</guid>
-            <pubDate>Wed, 12 Mar 2025 08:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/2lS96BhWuxC7GDyCDxj7tf8nTm6Qo3ee.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【APラウンジ】【デレステ】『見つけて！マイシンデレラ』で気になるアイドルさんに出会ってみよう！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #stairs_to_10th #見つけてマイシンデレラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14814.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14814.html</guid>
-            <pubDate>Wed, 12 Mar 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/saaOmG1zXVtM5G7RpULd9qdhpDp9NLR8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
