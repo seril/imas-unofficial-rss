@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Mar 2025 14:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 02:23:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Mar 2025 14:12:21 GMT</pubDate>
+        <pubDate>Mon, 17 Mar 2025 02:23:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター ウエハース２　2025年6月発売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14951.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14951.html</guid>
+            <pubDate>Mon, 17 Mar 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/M8ZU79PgicyjUex867WSfrrMN8G6LbGJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】3月15日(土)よりコトブキヤ限定商品「ヴォート」シリーズ第1弾が予約開始！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_14959.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14959.html</guid>
+            <pubDate>Mon, 17 Mar 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/03/cqW95a4b82RnUyqTUBC2DF22vK75zN0x.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】オンラインアイドルフェス「Life Like a Live!9 #えるすりー9 」にライバーアイドル3名が出演！セットリストも公開！]]></title>
             <description><![CDATA[【 #ヴイアラ 】オンラインアイドルフェス「Life Like a Live!9 #えるすりー9 」にライバーアイドル3名が出演！セットリストも公開！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14813.html</guid>
             <pubDate>Wed, 12 Mar 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/yEPSD03lgyIzenrSTylyefaaJbM7asHA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】TOKYO MXにて1stLIVEのダイジェスト放送決定！放送時間は3月29日（土）25：00から！1stLIVE現地一般販売チケットは明日12日(水)23:59まで！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】TOKYO MXにて1stLIVEのダイジェスト放送決定！放送時間は3月29日（土）25：00から！1stLIVE現地一般販売チケットは明日12日(水)23:59まで！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14912.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14912.html</guid>
-            <pubDate>Tue, 11 Mar 2025 13:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/bKkTsPcJI5yHu09j9DQLNv9AQTg3yHl0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】本日3/11(火)21時配信！1stLIVE開催直前！ライバーアイドル3D配信実施！未発表の新曲も初披露！！]]></title>
-            <description><![CDATA[#ASOBINOTES]]></description>
-            <link>https://idolmaster-official.jp/news/01_14910.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14910.html</guid>
-            <pubDate>Tue, 11 Mar 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/IpkuT6TP1gsriVYurLZpIeHLZtpnlPEP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
