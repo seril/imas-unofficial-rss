@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Mar 2025 02:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 03:28:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Mar 2025 02:23:22 GMT</pubDate>
+        <pubDate>Mon, 17 Mar 2025 03:28:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】 「学園アイドルマスター」アクリルスタンド2がガシャポンに登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_14696.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14696.html</guid>
+            <pubDate>Mon, 17 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/3umioAN5c0In0ahelYzvPczlSDWssc7o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】学園アイドルマスター ウエハース２　2025年6月発売決定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14500.html</guid>
             <pubDate>Mon, 10 Feb 2025 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/13SJ8StoSqShhJcdcGxBz0DNksFJrQbA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【学マス】 DEBUT LIVE 初 TOUR -初陣公演- 終了後感想会 決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #AP生配信 #学マス #学マスデビューライブツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14424.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14424.html</guid>
-            <pubDate>Mon, 10 Feb 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/fBG1uXN1JgGLnEPK0m05PvkiTtB9Og5V.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
