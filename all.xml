@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Mar 2025 03:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 06:22:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Mar 2025 03:28:36 GMT</pubDate>
+        <pubDate>Mon, 17 Mar 2025 06:22:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 東京公演」 青木志貴様（二宮飛鳥役）ご出演見合わせにつきまして]]></title>
+            <description><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 東京公演」 青木志貴様（二宮飛鳥役）ご出演見合わせにつきまして]]></description>
+            <link>https://idolmaster-official.jp/news/01_14979.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14979.html</guid>
+            <pubDate>Mon, 17 Mar 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズ×東京タワーのコラボイベント「Sweet Step Spring Stage!」の全情報が公開！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14939.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14939.html</guid>
+            <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/nHrsUcTjii48ooNa20n2VWChPGxmDHWj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】ご予約は本日3/17(月)23時まで！黛 冬優子が"ふゆコレクション"の衣装でちびぐるみ化♡]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14814.html</guid>
             <pubDate>Wed, 12 Mar 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/saaOmG1zXVtM5G7RpULd9qdhpDp9NLR8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】アイドル衣装を着た「花海佑芽」「秦谷美鈴」「十王星南」のちびぐるみが2025年8月に登場予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14589.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14589.html</guid>
-            <pubDate>Wed, 12 Mar 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/KBjZJg2vsaSGc167cxnxnu5wJ9vHtuyw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】見つけて！マイシンデレラ　特設サイト公開！]]></title>
-            <description><![CDATA[#見つけてマイシンデレラ　#デレステ　#stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_14911.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14911.html</guid>
-            <pubDate>Wed, 12 Mar 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/gnXhO7NKeUHyPkwHbQ6uaeMtp6G0LLqM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
