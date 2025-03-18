@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Mar 2025 06:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 11:12:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Mar 2025 06:21:51 GMT</pubDate>
+        <pubDate>Tue, 18 Mar 2025 11:12:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】コラボ限定グッズが当たる「モアクト推進ポスターコンテスト」が開催中！応募は3/24(月)11:59まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_14991.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14991.html</guid>
+            <pubDate>Tue, 18 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/NTRKusAt03zThEui0H3vHR7uplVoMbqk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【＃APラウンジ】【シャニマス】大阪にて初の衣装展開催中！シャニマス衣装の魅力に迫る！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #APラウンジ #シャニマス衣装展]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14524.html</guid>
             <pubDate>Tue, 25 Feb 2025 14:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/02/aLXDjeMAeXdqM6yJvadwInu6ydObq7Yc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】『見なきゃソンソン♪ シャニソン リニューアル直前！生配信』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[ #シャニソン #シャニマス #シャニソン生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_14611.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14611.html</guid>
-            <pubDate>Tue, 25 Feb 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/PvUTvs8tZl0F2bwhb396BohUH85Wvs7H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

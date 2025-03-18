@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Mar 2025 06:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Mar 2025 11:12:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Mar 2025 06:21:51 GMT</pubDate>
+        <pubDate>Tue, 18 Mar 2025 11:12:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】コラボ限定グッズが当たる「モアクト推進ポスターコンテスト」が開催中！応募は3/24(月)11:59まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_14991.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14991.html</guid>
+            <pubDate>Tue, 18 Mar 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/NTRKusAt03zThEui0H3vHR7uplVoMbqk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「ふたマス!!!!!!」大阪府高槻市のマンホール設置情報を公開！グッズ情報も！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
+            <link>https://idolmaster-official.jp/news/01_14970.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14970.html</guid>
+            <pubDate>Tue, 18 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/eCVoE0UfFnOKHalhYHWG06V4pJjkNDOF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】期間中合計で総額100万円分のえらべるPayが抽選で1000名様に当たる！『「#DMM版学マスリリース」えらべるPayプレゼントキャンペーン』開催中！]]></title>
+            <description><![CDATA[#学マス #えらべるPay #DMM版学マスリリース]]></description>
+            <link>https://idolmaster-official.jp/news/01_14923.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14923.html</guid>
+            <pubDate>Tue, 18 Mar 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/CAGSeuywPNt8JrKIyLAXngyDiH3nB3KJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】「プラチナスタートラスト～Bestest!!～」開催中！フォロー＆RPでMOVEMENT OF “STARS”開発公式パンフレットが抽選で当たる！]]></title>
             <description><![CDATA[#ミリシタ #馬場このみ #天海春香 #中谷育 #松田亜利沙 #田中琴葉]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14897.html</guid>
             <pubDate>Fri, 14 Mar 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/HH70vIkcratRLhqDnkHa9kc03OcQg0Tt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】#シャニアニ生配信 ～Blu-ray宣伝王は誰だ！？全力バトルバラエティ！スペシャル～　お知らせまとめ【Blu-rayは3月28日（金）発売！！】]]></title>
-            <description><![CDATA[#シャニアニ生配信 #シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14752.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14752.html</guid>
-            <pubDate>Thu, 13 Mar 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/JQfugvlrKFTf9ZecJBxxW9Ah4jyXhhAQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】Blu-ray発売日の3月28日（金）にnamco TOKOYOにてBlu-ray発売記念イベントを実施！！]]></title>
-            <description><![CDATA[#シャニアニ2nd_Blu-ray発売 #シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14924.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14924.html</guid>
-            <pubDate>Thu, 13 Mar 2025 11:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/5yo4s7rqVLm8eLKugJhE2Z1YPwR4e31x.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】3月31日(月) 20:00～「シャニアニ2nd Blu-ray発売記念！『SHHis』生オーディオコメンタリー」を実施予定✨]]></title>
-            <description><![CDATA[#SHHis生オーコメ #シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14932.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14932.html</guid>
-            <pubDate>Thu, 13 Mar 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/8f0AursfYAnCnSnXmUMnqTKsKplvy79m.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
