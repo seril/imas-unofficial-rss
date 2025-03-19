@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Mar 2025 03:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 06:22:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Mar 2025 03:27:33 GMT</pubDate>
+        <pubDate>Wed, 19 Mar 2025 06:22:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】本日発売！豪華コンポーザー陣によるロックテーマのユニット1st Album「彼方」がついにリリース！アソビストア＆各流通で販売中！ #ASOBINOTES]]></title>
+            <description><![CDATA[【 #ヴイアラ 】本日発売！豪華コンポーザー陣によるロックテーマのユニット1st Album「彼方」がついにリリース！アソビストア＆各流通で販売中！ #ASOBINOTES]]></description>
+            <link>https://idolmaster-official.jp/news/01_14999.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14999.html</guid>
+            <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/TqckyhpgO4jVPhWoAYRr8RJJR4faqkZb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念 壁紙プレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_14158.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14158.html</guid>
             <pubDate>Sat, 11 Jan 2025 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日12:00開始】【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着は明日2025年1月11日(土)12:00受付開始！新ビジュアルを使用したイベントグッズ事前受注は1月13日(月・祝)まで！]]></title>
-            <description><![CDATA[#reflame_961]]></description>
-            <link>https://idolmaster-official.jp/news/01_14142.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14142.html</guid>
-            <pubDate>Fri, 10 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>

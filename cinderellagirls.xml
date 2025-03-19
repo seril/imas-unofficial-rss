@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Mar 2025 03:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 06:22:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Mar 2025 03:27:33 GMT</pubDate>
+        <pubDate>Wed, 19 Mar 2025 06:22:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[「アイドルマスター シンデレラガールズ × スモールワールズT O K Y O」コラボイベント開催！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_14998.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14998.html</guid>
+            <pubDate>Wed, 19 Mar 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/PxKrITcZZheEVfxetcYXs1diVoZZxv7k.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション、第5弾「おひつじ座」のアイドル20名がパンクでロックな衣装で登場！受注は 4/20(日)まで♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14603.html</guid>
             <pubDate>Mon, 03 Mar 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/RAnkauco1qy87EeGB9xxxdcmJpNgTYcx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』大阪公演で会場オリジナルCDの発売が決定！]]></title>
-            <description><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』大阪公演で会場オリジナルCDの発売が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14766.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14766.html</guid>
-            <pubDate>Mon, 03 Mar 2025 04:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/bekv9E7j7Z5NwK9gV2O6TEQAfRnA1QHH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
