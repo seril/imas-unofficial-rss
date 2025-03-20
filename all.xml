@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Mar 2025 02:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 03:26:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Mar 2025 02:20:48 GMT</pubDate>
+        <pubDate>Thu, 20 Mar 2025 03:26:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】 ＼＼うお座は今週末の3/23(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第4弾「うお座」＆第5弾「おひつじ座」が受注中♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15005.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15005.html</guid>
+            <pubDate>Thu, 20 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/A4O5hEWXFOn4sZkje2KflC8vYvmeSp1w.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【3/26(水)より開催！】「アイドルマスター ミリオンライブ！×カラオケの鉄人～SAKURA PARTY～」詳細が公開🌸 コラボルームの予約は3/21(金)18時から🎤♪]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14815.html</guid>
             <pubDate>Fri, 14 Mar 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演 イベント会場限定！Fan Fun Spot×アソビストアプレミアム会員キャンペーン実施決定！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14907.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14907.html</guid>
-            <pubDate>Fri, 14 Mar 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/03/5YNNW1TaBpz5sKN9zjPhQ2kk8EjB9JOU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
