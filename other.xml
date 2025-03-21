@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Mar 2025 06:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 11:13:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Mar 2025 06:23:07 GMT</pubDate>
+        <pubDate>Fri, 21 Mar 2025 11:13:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】いよいよ明日3月22日開催 ！ #ヴイアラ1stLIVE ＜ご来場に際してのご注意事項＞についてお知らせ]]></title>
+            <description><![CDATA[【 #ヴイアラ 】いよいよ明日3月22日開催 ！ #ヴイアラ1stLIVE ＜ご来場に際してのご注意事項＞についてお知らせ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15015.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15015.html</guid>
+            <pubDate>Fri, 21 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/PZjz62VSKxuZpPGVgHMML2dYfZ2MwTFz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】本日発売！豪華コンポーザー陣によるロックテーマのユニット1st Album「彼方」がついにリリース！アソビストア＆各流通で販売中！ #ASOBINOTES]]></title>
             <description><![CDATA[【 #ヴイアラ 】本日発売！豪華コンポーザー陣によるロックテーマのユニット1st Album「彼方」がついにリリース！アソビストア＆各流通で販売中！ #ASOBINOTES]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14127.html</guid>
             <pubDate>Sat, 11 Jan 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/01/l1jddFjIAlnXpscSA9zQRDkYaGgqt8iQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【961】961 PRODUCTION presents 『Re:FLAME』 追加公演 現地チケット一般先着販売はこのあと12:00開始！xRライブストリーミングチケットも12:00から販売開始！]]></title>
-            <description><![CDATA[#reflame_961]]></description>
-            <link>https://idolmaster-official.jp/news/01_14158.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14158.html</guid>
-            <pubDate>Sat, 11 Jan 2025 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2024/12/gzwwGWyaqumzNVSe0K77j0jdjrdlJ7QY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

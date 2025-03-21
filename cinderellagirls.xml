@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Mar 2025 06:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 11:13:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Mar 2025 06:23:07 GMT</pubDate>
+        <pubDate>Fri, 21 Mar 2025 11:13:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】LiPPSとSHIBUYA109のコラボポップアップショップ「＃Midnight Runway」グッズのEC販売が決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15006.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15006.html</guid>
+            <pubDate>Fri, 21 Mar 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/Sho6x48xccsyZ0pXo6vJdBMjZgTeCm6u.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】 ＼＼うお座は今週末の3/23(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第4弾「うお座」＆第5弾「おひつじ座」が受注中♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14319.html</guid>
             <pubDate>Tue, 04 Mar 2025 02:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/MFV39d6a2YyYqIhRDWBnQQG0jpaM6KWk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「デレラジ☆プレゼンツ U149完結記念イベント ソラシドリームパーティー」に 結城晴役の小市眞琴さんの出演が決定！]]></title>
-            <description><![CDATA[#imas_cg #デレマス #デレラジ #U149]]></description>
-            <link>https://idolmaster-official.jp/news/01_14769.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14769.html</guid>
-            <pubDate>Tue, 04 Mar 2025 01:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/DuTJUUwjUFvo9p4Cea2v6bXSZ1JqNGOj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
