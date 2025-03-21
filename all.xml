@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Mar 2025 03:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 06:23:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Mar 2025 03:27:54 GMT</pubDate>
+        <pubDate>Fri, 21 Mar 2025 06:23:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】シャニソン×765プロコラボが開催中！さらに、★3 和泉 愛依が手に入るガシャも開催！]]></title>
+            <description><![CDATA[#シャニソン  ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14985.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14985.html</guid>
+            <pubDate>Fri, 21 Mar 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/UfDVzThfJK04KhSgpjoN3z8aMMan7qzN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ハッチポッチ2】明日3/22(土)12:00より現地チケット（見切れ席のみ）受付予定！]]></title>
+            <description><![CDATA[#アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_15016.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15016.html</guid>
+            <pubDate>Fri, 21 Mar 2025 05:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/LfpYvmh4MisoK4coOBcEZYKi1NHs7W5A.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「THE IDOLM@STER MILLION LIVE!×NewDays」EC先行物販が開催中！グッズ情報を公開♪]]></title>
             <description><![CDATA[#ミリオンライブ #ミリオンNewDaysコラボ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14904.html</guid>
             <pubDate>Fri, 14 Mar 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/Dgi9HrXrjPjYZLLfYbAbvnHgdWDM9MEU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【SideM10th】プロミ幕張公演 いよいよ今週末開催！差し入れ企画「みんなで食べよう！315ご当地デリバリー!!!!!!!!!! in 幕張」＆一部公式グッズWEB販売開始！展示＆会場物販＆配信チケット情報など要チェック！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14950.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14950.html</guid>
-            <pubDate>Fri, 14 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/t4gRvjhrsN5Q1BIhNIapbhBuCVG4Fn4C.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】PINATATIME!! LIVE Blu-ray 店舗特典デザイン公開＆アソビストア特装版特典 担当カメラ映像をチラ見せ！ASOBI STOREでのご予約は3月16日(日)まで！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_PT]]></description>
-            <link>https://idolmaster-official.jp/news/01_14956.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14956.html</guid>
-            <pubDate>Fri, 14 Mar 2025 08:23:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/mjYLG2kD6yoI3vZB6qJtQxkvuF1xStDo.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
