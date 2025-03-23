@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Mar 2025 02:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Mar 2025 03:30:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Mar 2025 02:27:37 GMT</pubDate>
+        <pubDate>Sun, 23 Mar 2025 03:30:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】 ＼＼うお座は本日3/23(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第4弾「うお座」＆第5弾「おひつじ座」が受注中♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15004.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15004.html</guid>
+            <pubDate>Sun, 23 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/ad2ldOtwQuHMTHbQgbgAgY8CgWq6YPCw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_Uka,】スペシャル壁紙プレゼント！「283 Production LIVE Performance Uka,」アソビストア一般会員先行締切は明日まで！]]></title>
+            <description><![CDATA[#イルミネ_Uka]]></description>
+            <link>https://idolmaster-official.jp/news/01_15027.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15027.html</guid>
+            <pubDate>Sun, 23 Mar 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/2FmQziMzvlTTB1pVX8VeQRwAXjlTdMAB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#ヴイアラ】#ヴイアラ1stLIVE  -HERE WE ARE!!!- 本日のセットリスト＆最新情報まとめ！ 有料アーカイブが4月5日に販売決定！新衣装イラストの開催記念メモリアルグッズも！]]></title>
             <description><![CDATA[#ヴイアラプロミ2024]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14967.html</guid>
             <pubDate>Sun, 16 Mar 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/jnGrzNmPxl6p6L6X2T6cxDqjvCrLZuaT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張 開催記念グッズ販売スタート！新衣装のビジュアルやパッションキャラバン完走記念イラストを使用したグッズが登場！]]></title>
-            <description><![CDATA[#SideM #Side10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14968.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14968.html</guid>
-            <pubDate>Sun, 16 Mar 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/XtjxoCnMST7bEfs9AC7VOX6l3hnGtUyi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】2025年4月27日 (日) 14:30～「アイドルマスター SideM　​10th Anniversary 超GREATEST PASSION!!!!!!!!!!​　特別ステージ」実施予定！]]></title>
-            <description><![CDATA[#SideM #SideM特別ステージ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14839.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14839.html</guid>
-            <pubDate>Sun, 16 Mar 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/03/ykQcnqmeQLsNojOY4BpAkaQ9cF1RAw2O.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
