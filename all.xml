@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Mar 2025 06:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Mar 2025 11:13:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Mar 2025 06:22:45 GMT</pubDate>
+        <pubDate>Mon, 24 Mar 2025 11:13:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[イラストレーター展「FR@GMENTS of THE IDOLM@STER CINDERELLA GIRLS」は3月30日まで！]]></title>
+            <description><![CDATA[#imas_cg #デレマス　#Fragmentsデレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15035.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15035.html</guid>
+            <pubDate>Mon, 24 Mar 2025 10:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/02/3N22FbTSXCfVHavuSixjdx8V8pXSrqo2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism 裸足じゃイラレナイ / 明日もBeautiful Day / ハナムケのハナタバ / 青空」連動発売記念イベントグッズラインナップ公開＆会場物販のお知らせ]]></title>
+            <description><![CDATA[#シャニソン #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15032.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15032.html</guid>
+            <pubDate>Mon, 24 Mar 2025 09:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/Gv2098Vb5poBocDOxZM3AUEzqbzYoMp2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP配信】【765ミリオン】THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ミリオンライブ #アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_14920.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14920.html</guid>
+            <pubDate>Mon, 24 Mar 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/oVMr9syWpITqPM3ENwbwLCnBWN6d8dbk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第4弾『We wish your smile』の発売が決定！]]></title>
             <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第4弾『We wish your smile』の発売が決定！]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14939.html</guid>
             <pubDate>Mon, 17 Mar 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/nHrsUcTjii48ooNa20n2VWChPGxmDHWj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】ご予約は本日3/17(月)23時まで！黛 冬優子が"ふゆコレクション"の衣装でちびぐるみ化♡]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14952.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14952.html</guid>
-            <pubDate>Mon, 17 Mar 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/omo77vV1npnx6RdFGeGBdp4Of2fd9lvn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】 「学園アイドルマスター」アクリルスタンド2がガシャポンに登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14696.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14696.html</guid>
-            <pubDate>Mon, 17 Mar 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/3umioAN5c0In0ahelYzvPczlSDWssc7o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター ウエハース２　2025年6月発売決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14951.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14951.html</guid>
-            <pubDate>Mon, 17 Mar 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/M8ZU79PgicyjUex867WSfrrMN8G6LbGJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
