@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Mar 2025 03:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 06:22:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Mar 2025 03:29:24 GMT</pubDate>
+        <pubDate>Tue, 25 Mar 2025 06:22:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「アイドルマスター」メディア利用アンケートご協力のお願い]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】「アイドルマスター」メディア利用アンケートご協力のお願い]]></description>
+            <link>https://idolmaster-official.jp/news/01_15057.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15057.html</guid>
+            <pubDate>Tue, 25 Mar 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/aEZ8BSh7nlc2NgZ0ocwxoceEt8ZJ7Ija.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』がいよいよ明日3月26日(水)より稼働開始！リリース記念のアンケートキャンペーンも実施！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14548.html</guid>
             <pubDate>Fri, 28 Feb 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/kqy06jTw4GOS22fpNkAtndT9o7OJNGQn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】★3 西城 樹里、★3 桑山 千雪が手に入るガシャ開催中！ さらに、ノクチルの新曲イベントも開催！]]></title>
-            <description><![CDATA[#シャニソン  ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14680.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14680.html</guid>
-            <pubDate>Fri, 28 Feb 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/VVKTQ0YgnOQHVS5uEuw277E8jqLXNWfs.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

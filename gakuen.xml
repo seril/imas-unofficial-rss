@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Mar 2025 03:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 06:22:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Mar 2025 03:29:24 GMT</pubDate>
+        <pubDate>Tue, 25 Mar 2025 06:22:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「アイドルマスター」メディア利用アンケートご協力のお願い]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】「アイドルマスター」メディア利用アンケートご協力のお願い]]></description>
+            <link>https://idolmaster-official.jp/news/01_15057.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15057.html</guid>
+            <pubDate>Tue, 25 Mar 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/aEZ8BSh7nlc2NgZ0ocwxoceEt8ZJ7Ija.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』がいよいよ明日3月26日(水)より稼働開始！リリース記念のアンケートキャンペーンも実施！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14529.html</guid>
             <pubDate>Sun, 16 Feb 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/02/5KSDTtMT9Huw6VVdeDUfM9s97zYE07Gi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター DEBUT LIVE 初 TOUR 初声公演・初心公演・初恋公演のリバイバル配信が決定！]]></title>
-            <description><![CDATA[#学マス #学マスデビューライブツアー #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14540.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14540.html</guid>
-            <pubDate>Sun, 16 Feb 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/02/CzKMboR0VIoSFYc7dzmeRYPycwuXC2xy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
