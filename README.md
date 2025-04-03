@@ -14,14 +14,14 @@ Node.JSで作成しており、公式サイトのCMSからトークンを取得�
 
 |シリーズ名|URL|
 |---|---|
-|すべて|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/all.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/all.xml)|
-|アイドルマスター|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/allstars.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/allstars.xml)|
-|シンデレラガールズ|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/cinderellagirls.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/cinderellagirls.xml)|
-|ミリオンライブ！|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/millionlive.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/millionlive.xml)|
-|SideM|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/sidem.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/sidem.xml)|
-|シャイニーカラーズ|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/shinycolors.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/shinycolors.xml)|
-|学園アイドルマスター|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/gakuen.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/gakuen.xml)|
-|その他|[https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/other.xml](https://raw.githubusercontent.com/ogatomo21/imas-unofficial-rss/refs/heads/rss/other.xml)|
+|すべて|[https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/all.xml](https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/all.xml)|
+|アイドルマスター|[https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/allstars.xml](https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/allstars.xml)|
+|シンデレラガールズ|[https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/cinderellagirls.xml](https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/cinderellagirls.xml)|
+|ミリオンライブ！|[https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/millionlive.xml](https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/millionlive.xml)|
+|SideM|[https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/sidem.xml](https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/sidem.xml)|
+|シャイニーカラーズ|[https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/shinycolors.xml](https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/shinycolors.xml)|
+|学園アイドルマスター|[https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/gakuen.xml](https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/gakuen.xml)|
+|その他|[https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/other.xml](https://raw.githubusercontent.com/seril/imas-unofficial-rss/refs/heads/rss/other.xml)|
 
 
 ## 注意事項
