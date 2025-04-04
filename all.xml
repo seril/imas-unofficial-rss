@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Apr 2025 02:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 03:31:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Apr 2025 02:24:18 GMT</pubDate>
+        <pubDate>Fri, 04 Apr 2025 03:31:09 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】283PRODUCTION SHOP 2025 -クラシックシーズン- 開催決定！商品情報 第2弾を公開！]]></title>
+            <description><![CDATA[#シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15097.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15097.html</guid>
+            <pubDate>Fri, 04 Apr 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/9HNpf1GKRNXnRBaNpf9rwIEQ2SIPigAc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【本日4月4日（金）より】「-CAMPAI♡NIGHT-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB」コラボグッズのEC販売開始🍷！]]></title>
+            <description><![CDATA[#ミリオンライブ　#ミリオンHUB]]></description>
+            <link>https://idolmaster-official.jp/news/01_15038.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15038.html</guid>
+            <pubDate>Fri, 04 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/CmiUJbLlNOjYe0h9laCTzrKH0fIrJrse.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】7月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場！！本日より受注開始！]]></title>
             <description><![CDATA[#SideM #アソビストア]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15103.html</guid>
             <pubDate>Fri, 28 Mar 2025 02:06:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/j6cG5ibrcunyoKdo7sdo66UlSO6lJFzf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【3/28(金)～30(日) の3日間限定！】「アイドルマスター ミリオンライブ！×アトレ浦和」が本日10:00より開催✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15080.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15080.html</guid>
-            <pubDate>Fri, 28 Mar 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/1ugkbPqL69LA3cyS5CCvq9ixiqVQUWSg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】3/27(木)学マス生配信「初星学園HR #10」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター #桜フォトグラフ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15001.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15001.html</guid>
-            <pubDate>Thu, 27 Mar 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/03/QAm0WXnhta2TQj0DrKPcJ68xobrlJ9i5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
