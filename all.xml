@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Apr 2025 11:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 14:17:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Apr 2025 11:15:59 GMT</pubDate>
+        <pubDate>Fri, 04 Apr 2025 14:17:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【765ミリオン】【さいたまスーパーアリーナ】ハッチポッチ2の会場ができるまで【タイムラプス】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ミリオンライブ #アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_15171.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15171.html</guid>
+            <pubDate>Fri, 04 Apr 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/aPjw60ap0KFTCIk1jiZxgrfEryFPtlQN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【デレステ10thツアー】東京公演事前数量限定販売は日曜まで！！！法被とライトの購入でDJイベントにも応募できます♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15179.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15179.html</guid>
+            <pubDate>Fri, 04 Apr 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/aXzLxfZCbNkUEbrbAAf69ZYVexqMqJFe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM10th】プロミ幕張 開催記念グッズ販売は今週末4/6(日)まで！新衣装のビジュアルやパッションキャラバン完走記念イラストを使用したグッズをお見逃しなく！]]></title>
             <description><![CDATA[#SideM #Side10thプロミ幕張]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15003.html</guid>
             <pubDate>Fri, 28 Mar 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/03/gmHYXSAGZFBlHzFTMXlCSEmOmFsxx8BM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】SSR出現率2倍！「ミリオンリンケージ　今宵、パーティーを脱け出して…編」開催中！]]></title>
-            <description><![CDATA[#ミリシタ #ミリリン]]></description>
-            <link>https://idolmaster-official.jp/news/01_15093.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15093.html</guid>
-            <pubDate>Fri, 28 Mar 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/VfvN2LqNyLKmUqhmiK0y8ybAbLpEfl6Q.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】本日実施！namco TOKYOでお待ちしています！　3月28日（金）Blu-ray発売記念イベントを実施！]]></title>
-            <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15104.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15104.html</guid>
-            <pubDate>Fri, 28 Mar 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/tSKHkfqvewGYs4MMr2GQhgA6kDFh8QI4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
