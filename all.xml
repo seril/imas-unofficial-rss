@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Apr 2025 06:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 11:15:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Apr 2025 06:25:48 GMT</pubDate>
+        <pubDate>Fri, 04 Apr 2025 11:15:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM10th】プロミ幕張 開催記念グッズ販売は今週末4/6(日)まで！新衣装のビジュアルやパッションキャラバン完走記念イラストを使用したグッズをお見逃しなく！]]></title>
+            <description><![CDATA[#SideM #Side10thプロミ幕張]]></description>
+            <link>https://idolmaster-official.jp/news/01_15169.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15169.html</guid>
+            <pubDate>Fri, 04 Apr 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/XtjxoCnMST7bEfs9AC7VOX6l3hnGtUyi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】THE IDOLM@STER SideM 10th ANNIVERSARY P@SSIONリリース記念グッズ第3弾＆F@NTASTIC COMBINATION～PINATATIME!!～リリース記念グッズ発売決定！]]></title>
+            <description><![CDATA[#SideM ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15173.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15173.html</guid>
+            <pubDate>Fri, 04 Apr 2025 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ】SR-GYMよりアニメ「アイドルマスター シャイニーカラーズ 2nd season」の新商品が登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15162.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15162.html</guid>
+            <pubDate>Fri, 04 Apr 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/Cunc78HlacYQEB9soBRLb6PmaNHIhIpG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】4/7(月)19時から「学園アイドルマスター」 collaboration Cafe in SMILE BASE CAFEの予約受付が開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15132.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15132.html</guid>
+            <pubDate>Fri, 04 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/m83KSccfBCqo7ysUBh7jt1tMYNlr8EUC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】【4/23(水)より開催！】「アイドルマスター シンデレラガールズ×カラオケの鉄人」 の詳細が公開！コラボルームの予約は4/9(水)18時から🎤♪]]></title>
+            <description><![CDATA[【シンデレラ】【4/23(水)より開催！】「アイドルマスター シンデレラガールズ×カラオケの鉄人」 の詳細が公開！コラボルームの予約は4/9(水)18時から🎤♪]]></description>
+            <link>https://idolmaster-official.jp/news/01_15050.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15050.html</guid>
+            <pubDate>Fri, 04 Apr 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/zevhyDsydwyOGRwtB2GotL5bKU1Z3dUr.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】283PRODUCTION SHOP 2025 -クラシックシーズン- 開催決定！商品情報 第2弾を公開！]]></title>
             <description><![CDATA[#シャニマス]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15104.html</guid>
             <pubDate>Fri, 28 Mar 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/tSKHkfqvewGYs4MMr2GQhgA6kDFh8QI4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】 「学園アイドルマスター」まちぼうけがガシャポンに登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14984.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14984.html</guid>
-            <pubDate>Fri, 28 Mar 2025 02:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/WqRc7BojWf4X4coq1pvgIhVeOu64qTt4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】「覚醒魔王 神崎蘭子」の1/7スケールフィギュアがご予約受付中！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14675.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14675.html</guid>
-            <pubDate>Fri, 28 Mar 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/aVGjvPnfphai5viKKrIsFWsc0AwqrGBB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】HATSUBOSHI SNAP📸渋谷モディにてPOP UP SHOP開催！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #HATSUBOSHISNAP]]></description>
-            <link>https://idolmaster-official.jp/news/01_15054.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15054.html</guid>
-            <pubDate>Fri, 28 Mar 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/DpsTl4r6SPtZAatp25ClpzXPx0renzNm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】Blu-rayが発売！  さらに、Blu-ray発売を記念して特別PVを公開！]]></title>
-            <description><![CDATA[#シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15094.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15094.html</guid>
-            <pubDate>Fri, 28 Mar 2025 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/03/Z4oOaVSBTGCd3qiBrWhG7Td8Ml4pkkmm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】Blu-ray発売記念！フォロー＆リポストキャンペーン開催中！【Blu-ray本日3月28日発売！】]]></title>
-            <description><![CDATA[#シャニアニ2nd #シャニアニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15103.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15103.html</guid>
-            <pubDate>Fri, 28 Mar 2025 02:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/j6cG5ibrcunyoKdo7sdo66UlSO6lJFzf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
