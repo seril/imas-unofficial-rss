@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Apr 2025 03:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Apr 2025 06:23:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Apr 2025 03:29:40 GMT</pubDate>
+        <pubDate>Sat, 05 Apr 2025 06:23:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 SideM 】【明日まで！】理由あって、" うんこ " とコラボ！？「アイドルマスターSideM × うんこドリル」公式コラボグッズの販売は4月6日(日)まで！]]></title>
+            <description><![CDATA[#SideM #うんこドリル]]></description>
+            <link>https://idolmaster-official.jp/news/01_15086.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15086.html</guid>
+            <pubDate>Sat, 05 Apr 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/FbqVwAV9aTcWh4POO9m2tkmmFZFcUgbt.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】「1st LIVE-HERE WE ARE!!!- 」全編有料アーカイブ販売開始！4月6日22時からはご購入者向けの同時視聴上映会も実施！【 #ヴイアラ1stLIVE 】]]></title>
             <description><![CDATA[【 #ヴイアラ 】「1st LIVE-HERE WE ARE!!!- 」全編有料アーカイブ販売開始！4月6日22時からはご購入者向けの同時視聴上映会も実施！【 #ヴイアラ1stLIVE 】]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15091.html</guid>
             <pubDate>Fri, 28 Mar 2025 06:12:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/03/VooO87F6o7VOoqDwHzWid6vAO8KInmxB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ】トレーディングカードゲーム Reバース for you ブースターパック アニメ「アイドルマスター シャイニーカラーズ 2nd season」が本日発売！＆本日よりゲーム内アイテム配布開始！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニアニ  #シャニアニ2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_14867.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14867.html</guid>
-            <pubDate>Fri, 28 Mar 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/OpEClnlCCSG2qXPwPN92gyZMGMJjMVQ9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
