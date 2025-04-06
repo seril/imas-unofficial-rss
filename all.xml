@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Apr 2025 02:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Apr 2025 03:33:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Apr 2025 02:35:24 GMT</pubDate>
+        <pubDate>Sun, 06 Apr 2025 03:33:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[本日まで！【デレステ10thツアー】東京公演事前数量限定販売は今日まで！！！DJイベントも応募できます♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15181.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15181.html</guid>
+            <pubDate>Sun, 06 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/aXzLxfZCbNkUEbrbAAf69ZYVexqMqJFe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 SideM 】【明日まで！】理由あって、" うんこ " とコラボ！？「アイドルマスターSideM × うんこドリル」公式コラボグッズの販売は4月6日(日)まで！]]></title>
             <description><![CDATA[#SideM #うんこドリル]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15106.html</guid>
             <pubDate>Fri, 28 Mar 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/jwLbPMk17tutJoSm1iOGs8X0LYaZhyYn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】フォロー＆RPでWEB STOREで使えるミリオンジュエル39%OFFクーポンが抽選で当たる！「ミリオンリンケージ　今宵、パーティーを脱け出して…編」開催中！]]></title>
-            <description><![CDATA[#ミリシタ #四条貴音 #三浦あずさ #ミリオンリンケージ #ミリリン]]></description>
-            <link>https://idolmaster-official.jp/news/01_15091.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15091.html</guid>
-            <pubDate>Fri, 28 Mar 2025 06:12:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/03/VooO87F6o7VOoqDwHzWid6vAO8KInmxB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
