@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Apr 2025 06:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 11:15:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Apr 2025 06:26:38 GMT</pubDate>
+        <pubDate>Tue, 08 Apr 2025 11:15:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S 全7回公開中！]]></title>
+            <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_14842.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14842.html</guid>
+            <pubDate>Tue, 08 Apr 2025 09:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/g8H7NF7eeoIYh3vYYIH0SpS9fPY4Ctsd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日まで！【デレステ10thツアー】東京公演事前数量限定販売は今日まで！！！DJイベントも応募できます♬]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15077.html</guid>
             <pubDate>Fri, 28 Mar 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/X7An17BuMpQ87hVIXzYo9wjTEXU0m1LF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×ANIMA」全39種類のコラボレーションイヤホンが、明日3/29(土)よりASOBI STOREにて受注販売開始！🎵]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15106.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15106.html</guid>
-            <pubDate>Fri, 28 Mar 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/jwLbPMk17tutJoSm1iOGs8X0LYaZhyYn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
