@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Apr 2025 06:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 11:15:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Apr 2025 06:27:00 GMT</pubDate>
+        <pubDate>Wed, 09 Apr 2025 11:15:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】花海佑芽・花海咲季誕生日記念セット受注受付中♪（4/13(日)まで）]]></title>
+            <description><![CDATA[#学マス #花海佑芽生誕祭2025 #花海咲季生誕祭2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15195.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15195.html</guid>
+            <pubDate>Wed, 09 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/04/P5q2SzgDFjibUcokxWvazXXTrdda7ThE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×BOOKOFF」開催決定！ コラボグッズ詳細解禁📗✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14980.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14980.html</guid>
+            <pubDate>Wed, 09 Apr 2025 08:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/iS83mK52oAuvVva5FLyI00gcz18V0XTc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】4月18日(金)、アイドルマスター オフィシャルショップ 仙台店がオープン！仙台店オリジナル購入特典が登場！]]></title>
             <description><![CDATA[【シンデレラ】4月18日(金)、アイドルマスター オフィシャルショップ 仙台店がオープン！仙台店オリジナル購入特典が登場！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15110.html</guid>
             <pubDate>Fri, 28 Mar 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/koAvJJbdOSF4IhDZpprFpTcPfOZFRgEN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】「Blu-ray発売記念イベント in namco TOKYO」を配信中！#シャニアニ生配信 をつけてポストすると、抽選で10名様にポスターが当たります！！]]></title>
-            <description><![CDATA[#シャニアニ生配信 #シャニアニ #シャニアニ2nd #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15113.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15113.html</guid>
-            <pubDate>Fri, 28 Mar 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/FMQEIourN7054FBEYWd61VhqrtUuJsrG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ハッチポッチ2】「THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2」開催記念グッズ受注開始！]]></title>
-            <description><![CDATA[#アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_15112.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15112.html</guid>
-            <pubDate>Fri, 28 Mar 2025 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/03/3BIziyWLNIDSlHWRxXBisdB3suEYjeM7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

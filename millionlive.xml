@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Apr 2025 06:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 11:15:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Apr 2025 06:26:59 GMT</pubDate>
+        <pubDate>Wed, 09 Apr 2025 11:15:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×BOOKOFF」開催決定！ コラボグッズ詳細解禁📗✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_14980.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14980.html</guid>
+            <pubDate>Wed, 09 Apr 2025 08:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/iS83mK52oAuvVva5FLyI00gcz18V0XTc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×名鉄観光サービス」11thLIVE公式送迎バス記念グッズセットの販売決定！本日12時より販売スタート！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14945.html</guid>
             <pubDate>Fri, 14 Mar 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/OIkuxYYZTRUAa8YCAWXvMXnbiXfJou3o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】3月25日(火) 19:00～ 「#アイマス20周年イヤー 特別生配信 ～3月もどどんと情報盛りだくさんスペシャル～」配信予定！さらに、765プロダクションによる発表記者会見も配信予定！]]></title>
-            <description><![CDATA[#どどんと情報アイマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_14694.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14694.html</guid>
-            <pubDate>Fri, 14 Mar 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/8WSg4o2SWEWMAIjF5RCTafscG4gUK6Cs.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
