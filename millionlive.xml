@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Apr 2025 06:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 11:15:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Apr 2025 06:26:37 GMT</pubDate>
+        <pubDate>Thu, 10 Apr 2025 11:15:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】「THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS」公式グッズの事前物販開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15200.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15200.html</guid>
+            <pubDate>Thu, 10 Apr 2025 07:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【アイマス20周年イヤー】「THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信」公式グッズの事前販売がスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15199.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15199.html</guid>
+            <pubDate>Thu, 10 Apr 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×BOOKOFF」開催決定！ コラボグッズ詳細解禁📗✨]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14904.html</guid>
             <pubDate>Fri, 14 Mar 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/Dgi9HrXrjPjYZLLfYbAbvnHgdWDM9MEU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」スプリングセール実施のお知らせ]]></title>
-            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
-            <link>https://idolmaster-official.jp/news/01_14815.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14815.html</guid>
-            <pubDate>Fri, 14 Mar 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ハッチポッチ2】けやき広場にキッチンカーの出店が決定！]]></title>
-            <description><![CDATA[#アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_14945.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14945.html</guid>
-            <pubDate>Fri, 14 Mar 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/OIkuxYYZTRUAa8YCAWXvMXnbiXfJou3o.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

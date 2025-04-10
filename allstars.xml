@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Apr 2025 06:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 11:15:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Apr 2025 06:26:37 GMT</pubDate>
+        <pubDate>Thu, 10 Apr 2025 11:15:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】「THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS」公式グッズの事前物販開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15200.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15200.html</guid>
+            <pubDate>Thu, 10 Apr 2025 07:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【アイマス20周年イヤー】「THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信」公式グッズの事前販売がスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15199.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15199.html</guid>
+            <pubDate>Thu, 10 Apr 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【765ミリオン】【さいたまスーパーアリーナ】ハッチポッチ2の会場ができるまで【タイムラプス】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #ミリオンライブ #アイマスハッチポッチ2]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14442.html</guid>
             <pubDate>Mon, 17 Feb 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/Z6uTzy2Mtjvop0WcB7cCvzEZlaPQCIQL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【20周年生配信イベント】現地チケットのアソビストアプレミアム会員2次先行が明日2月15日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14575.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14575.html</guid>
-            <pubDate>Fri, 14 Feb 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/02/dAF0trnnU4v7MHoY5tlu7B0UvlnHOSJi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日12:30放送開始】【961】ASOBISTAGEにて961 PRODUCTION presents 『Re:FLAME』 追加公演 [Re:FLAME/DUSK] 生オーディオコメンタリーを配信！！！開催記念グッズの受注受付は2月16日(日)まで！]]></title>
-            <description><![CDATA[#reflame_961 #reflame_961_DUSK]]></description>
-            <link>https://idolmaster-official.jp/news/01_14569.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14569.html</guid>
-            <pubDate>Fri, 14 Feb 2025 10:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/PR9UNwrTQWxVDrAxJiZN4k7e1JLSShEh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
