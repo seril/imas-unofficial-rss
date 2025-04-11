@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Apr 2025 02:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 03:32:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Apr 2025 02:25:48 GMT</pubDate>
+        <pubDate>Fri, 11 Apr 2025 03:32:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】WEBラジオ番組「CINDERELLA PARTY!」の4コマ漫画「はみだしシンデレラパーティー」が単行本として発売決定！]]></title>
+            <description><![CDATA[【シンデレラ】WEBラジオ番組「CINDERELLA PARTY!」の4コマ漫画「はみだしシンデレラパーティー」が単行本として発売決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_14903.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14903.html</guid>
+            <pubDate>Fri, 11 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/RHwWMcNz3lmOHA79UzxBcHICAQc27OZf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー「Let's AMUSEMENT!!!」東京配信チケットの販売がスタート！！ライブ冒頭の無料生配信も実施予定♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15187.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15187.html</guid>
+            <pubDate>Fri, 11 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/aZQjShAFkqJbfxDDB0ymK1l5OGTu5mcs.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ」の曲を流して遊べる「デレステ狩歌」予約受付中！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14946.html</guid>
             <pubDate>Sat, 15 Mar 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/bcx1J6UjbuqMhkYXsKPyCgGngA6eJhCg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
-            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
-            <link>https://idolmaster-official.jp/news/01_14775.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14775.html</guid>
-            <pubDate>Fri, 14 Mar 2025 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/t01zLE8zegFnUIZ5cAkGkX7a0L3S4rEy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オケマス2025】現地チケットのアソビストア一般会員先行が明日3月15日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_14958.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14958.html</guid>
-            <pubDate>Fri, 14 Mar 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/UTuaJebXjn9J4I2TpWIODmSKy0A3V1tj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
