@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Apr 2025 06:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 11:15:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Apr 2025 06:26:13 GMT</pubDate>
+        <pubDate>Fri, 11 Apr 2025 11:15:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」 SUPERGT2025 まもなく開幕！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15211.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15211.html</guid>
+            <pubDate>Fri, 11 Apr 2025 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/imBlcS9SCqisZy90QXLyaWOm7jlKJFmP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】横浜みなとみらい 万葉倶楽部×放課後クライマックスガールズ　コラボキャンペーン「ぽかぽか湯めぐりあふたー」グッズEC販売決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15209.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15209.html</guid>
+            <pubDate>Fri, 11 Apr 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/aAOfqC8rY2zjolSsd3mwW6KRRTBUoJWt.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_Uka,】楽屋花についてのご案内 - 283 Production LIVE Performance Uka, ]]></title>
             <description><![CDATA[#イルミネ_Uka]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14991.html</guid>
             <pubDate>Tue, 18 Mar 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/NTRKusAt03zThEui0H3vHR7uplVoMbqk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【＃APラウンジ】【シャニマス】大阪にて初の衣装展開催中！シャニマス衣装の魅力に迫る！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #シャニマス衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_14887.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14887.html</guid>
-            <pubDate>Mon, 17 Mar 2025 12:17:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/j5K9cKTcJP8bUwwkO0QoWk20NV4H1RAk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念 壁紙プレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14963.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14963.html</guid>
-            <pubDate>Mon, 17 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/03/KKoAqkRrlpvF3sAZuyLcwiaItYBY4QBM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

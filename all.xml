@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Apr 2025 06:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 11:15:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Apr 2025 06:26:13 GMT</pubDate>
+        <pubDate>Fri, 11 Apr 2025 11:15:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」 SUPERGT2025 まもなく開幕！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15211.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15211.html</guid>
+            <pubDate>Fri, 11 Apr 2025 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/imBlcS9SCqisZy90QXLyaWOm7jlKJFmP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】【締切間近】過去発売商品を多く取り扱う『学園アイドルマスター 初星学園入学準備フェア』は4月13日（日） 23:59まで！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15202.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15202.html</guid>
+            <pubDate>Fri, 11 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/04/fLLr7hocS7GxZW44KjVjggRGDMbLxh12.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】横浜みなとみらい 万葉倶楽部×放課後クライマックスガールズ　コラボキャンペーン「ぽかぽか湯めぐりあふたー」グッズEC販売決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15209.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15209.html</guid>
+            <pubDate>Fri, 11 Apr 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/aAOfqC8rY2zjolSsd3mwW6KRRTBUoJWt.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】WEBラジオ番組「CINDERELLA PARTY!」の4コマ漫画「はみだしシンデレラパーティー」が単行本として発売決定！]]></title>
             <description><![CDATA[【シンデレラ】WEBラジオ番組「CINDERELLA PARTY!」の4コマ漫画「はみだしシンデレラパーティー」が単行本として発売決定！]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14456.html</guid>
             <pubDate>Mon, 31 Mar 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/meBqmCmw67GY5STsGW4prGLt5E6Umlvu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ハッチポッチ2】アーカイブ配信開始！公演アンケートも実施中！]]></title>
-            <description><![CDATA[#アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_15122.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15122.html</guid>
-            <pubDate>Mon, 31 Mar 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/03/NwVVNGgLVRlAEtj5qN4VoAyA33uuZFTf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】★3 三峰 結華、★3 小宮 果穂が手に入るガシャ開催中！さらに、シーズの新曲イベントも開催！]]></title>
-            <description><![CDATA[#シャニソン  ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15105.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15105.html</guid>
-            <pubDate>Mon, 31 Mar 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/GmeuqVCbEDTgTjp6puX81woUGEGIMNp6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「ミラシル by 第一生命×アイドルマスター特別コラボ企画」開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15114.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15114.html</guid>
-            <pubDate>Mon, 31 Mar 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/bMt8ZYYyNkwpnKVvVHf5Mb133kMqQGvE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
