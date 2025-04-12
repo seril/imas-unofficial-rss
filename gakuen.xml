@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Apr 2025 14:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 02:22:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Apr 2025 14:17:48 GMT</pubDate>
+        <pubDate>Sat, 12 Apr 2025 02:22:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15220.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15220.html</guid>
+            <pubDate>Sat, 12 Apr 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」 SUPERGT2025 まもなく開幕！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14847.html</guid>
             <pubDate>Fri, 07 Mar 2025 02:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/CtSngO9qQDrJAFvG58u0bvj27mDvph55.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star イベント公式グッズ事前販売 第3弾が本日3月6日(木) 15:00よりスタート！ ]]></title>
-            <description><![CDATA[#学マス  #学マス1st]]></description>
-            <link>https://idolmaster-official.jp/news/01_14822.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14822.html</guid>
-            <pubDate>Thu, 06 Mar 2025 06:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/03/lfADUumF0O0unXmjVz921X3VXsbSB9fD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
