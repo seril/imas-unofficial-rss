@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Apr 2025 03:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Apr 2025 06:23:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Apr 2025 03:30:05 GMT</pubDate>
+        <pubDate>Sat, 12 Apr 2025 06:23:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】【明日まで！】7月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は4月13日(日)まで！グッズのサンプルをご紹介！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_15219.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15219.html</guid>
+            <pubDate>Sat, 12 Apr 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/jGieGcvDZgkyT0CoEorbPoaqgGjNMhxf.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15123.html</guid>
             <pubDate>Tue, 01 Apr 2025 00:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/PxKrITcZZheEVfxetcYXs1diVoZZxv7k.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】「シャニアニ2nd Blu-ray発売記念！『SHHis』生オーディオコメンタリー」配信記念！プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#SHHis生オーコメ #シャニアニ2nd #シャニアニ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14933.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14933.html</guid>
-            <pubDate>Mon, 31 Mar 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/xf3gKXYizvgBWUF6iiXg0LNPqYol3a1e.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
