@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Apr 2025 06:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Apr 2025 11:13:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Apr 2025 06:24:31 GMT</pubDate>
+        <pubDate>Sun, 13 Apr 2025 11:13:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15221.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15221.html</guid>
+            <pubDate>Sun, 13 Apr 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】【明日まで！】7月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は4月13日(日)まで！グッズのサンプルをご紹介！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14937.html</guid>
             <pubDate>Fri, 14 Mar 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/UR4CCouL0lvj6PoPTTXv1g0piWLBewSz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】セガ ラッキーくじオンライン「アイドルマスター SideM 10th Anniversary 」発売決定！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_14936.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14936.html</guid>
-            <pubDate>Fri, 14 Mar 2025 02:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/LoRT3b18qBrDHHNHBQHZ6W4zWnG0pm1r.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
