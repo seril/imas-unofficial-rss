@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Apr 2025 02:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 03:37:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Apr 2025 02:37:33 GMT</pubDate>
+        <pubDate>Mon, 14 Apr 2025 03:37:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレステ10thツアー福岡】現地チケット一般会員先行が本日よりスタート！東京公演の配信チケットも販売中です♬]]></title>
+            <description><![CDATA[#stairs_to_10th #デレステ10thツアー #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15212.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15212.html</guid>
+            <pubDate>Mon, 14 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/lBjZIC93m5Aej09KVh0sIQ61a5wKdES9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】全国の「ナムコ」のお店で4/25(金)から「学園アイドルマスター HOP! STEP! JUMP! SPRING!キャンペーン in ナムコ」開催！　namco TOKYOではコラボイベントも！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15207.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15207.html</guid>
+            <pubDate>Mon, 14 Apr 2025 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/04/iBsXNX7roog7YTLiWuZbi0eumeF065x2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15130.html</guid>
             <pubDate>Tue, 01 Apr 2025 06:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/2020/09/15/アイマスブログ用SideMロゴ.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、6月分予約受付中！ 特任プロデューサー就任キャンペーンも開催中♪]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15037.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15037.html</guid>
-            <pubDate>Tue, 01 Apr 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/x6cWRKeBvVL9XzEae8iYPxDc0egg0VYo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「ST@iRs to 10th Anniversary」 を記念した、特別なリングの予約を受付中！予約期間は4月7日(月)まで！]]></title>
-            <description><![CDATA[#stairs_to_10th   #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15126.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15126.html</guid>
-            <pubDate>Tue, 01 Apr 2025 01:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/MoqSxsF099XowzVzng6hhFgDFq8F7FSh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
