@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Apr 2025 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 02:36:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Apr 2025 14:18:34 GMT</pubDate>
+        <pubDate>Tue, 15 Apr 2025 02:36:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】アイドル衣装を着た「花海咲季」「月村手毬」「藤田ことね」のちびぐるみが2025年9月よりクレーンゲームに再登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15196.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15196.html</guid>
+            <pubDate>Tue, 15 Apr 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/yftztsS4s6baB3VQW6ilXjKh6p7EFDNi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】全国の「ナムコ」のお店で4/25(金)から「学園アイドルマスター HOP! STEP! JUMP! SPRING!キャンペーン in ナムコ」開催！　namco TOKYOではコラボイベントも！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14288.html</guid>
             <pubDate>Fri, 07 Mar 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/cMbCCCNvioqYtoaW1k5GbbKrisc1yHDF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】エンスカイより、「おまんじゅうにぎにぎマスコット」と「名札風アクリルバッジ」が新登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14820.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14820.html</guid>
-            <pubDate>Fri, 07 Mar 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/K9wPLIgX1dEj1XJ6HRWj9aPgFqrKesmZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

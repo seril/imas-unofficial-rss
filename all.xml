@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Apr 2025 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Apr 2025 02:36:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Apr 2025 14:18:34 GMT</pubDate>
+        <pubDate>Tue, 15 Apr 2025 02:36:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】アイドル衣装を着た「花海咲季」「月村手毬」「藤田ことね」のちびぐるみが2025年9月よりクレーンゲームに再登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15196.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15196.html</guid>
+            <pubDate>Tue, 15 Apr 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/yftztsS4s6baB3VQW6ilXjKh6p7EFDNi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】4月15日(火)よりコトブキヤ限定商品「ヴォート」シリーズ第2弾が予約開始！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_15197.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15197.html</guid>
+            <pubDate>Tue, 15 Apr 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/04/w8SKVuGmDZqM5QI72k4ITZFKQsniLR3R.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ミリオンライブ！】【スマスロ】キャストが”あのメーカーさん”に潜入！新台で遊んでみた！  プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #ミリオンライブ #スマスロミリオンライブ #パチスロ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15108.html</guid>
             <pubDate>Wed, 02 Apr 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/03/5TPVjNzEfd2JuCPK1WS8MFxAmcrkJQjM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】『痛印堂』より「学園アイドルマスター」の痛印が発売決定 ！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15076.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15076.html</guid>
-            <pubDate>Wed, 02 Apr 2025 03:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/D3Cz5eEeyb5VnGbmv8DaATYjNNoRfsVi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【4/8追記】【シャニマス】4月15日(火) 20:00～ 声優陣3名が出演する生配信を実施予定！]]></title>
-            <description><![CDATA[#シャニマス #シャニマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_14730.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14730.html</guid>
-            <pubDate>Wed, 02 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/04/8y8rjWfDwQ0SJpw9PQpxLGIMk1YnEKeU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
