@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Apr 2025 02:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 03:32:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Apr 2025 02:24:08 GMT</pubDate>
+        <pubDate>Fri, 18 Apr 2025 03:32:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレステ10thツアー沖縄】現地有料アクセスバスのご案内]]></title>
+            <description><![CDATA[#stairs_to_10th #デレステ10thツアー #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15279.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15279.html</guid>
+            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/04/KhlLoW1LB9K0pQ8F5t4o0RQZbZbSx4R4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション、第6弾「おうし座」のアイドル14名がフェミニンでクラシカルな衣装で登場！受注は 5/25(日)まで♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15291.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15291.html</guid>
+            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/RkIk0CVGadWEGWPOUyTi4HZLlrSNxj1W.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[「アイドルマスター20th特別生配信 公式アクリルスタンドケース」ご購入のお客様へ仕様変更に関するお詫びとご案内]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15006.html</guid>
             <pubDate>Fri, 21 Mar 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/Sho6x48xccsyZ0pXo6vJdBMjZgTeCm6u.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】 ＼＼うお座は今週末の3/23(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第4弾「うお座」＆第5弾「おひつじ座」が受注中♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15005.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15005.html</guid>
-            <pubDate>Thu, 20 Mar 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/A4O5hEWXFOn4sZkje2KflC8vYvmeSp1w.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10周年記念ツアー「Let's AMUSEMENT!!!」東京公演開演前企画「デレステFULLCOMBOチャレンジ@TOKYO」実施決定！参加者大募集♪]]></title>
-            <description><![CDATA[#stairs_to_10th #デレステ10thツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14941.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14941.html</guid>
-            <pubDate>Wed, 19 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/VjoSStKe4CVcLeO1JG8I57SP5XP4M6GW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

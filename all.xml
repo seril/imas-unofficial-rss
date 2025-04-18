@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Apr 2025 02:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 03:32:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Apr 2025 02:24:08 GMT</pubDate>
+        <pubDate>Fri, 18 Apr 2025 03:32:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism 裸足じゃイラレナイ / 明日もBeautiful Day / ハナムケのハナタバ / 青空」連動発売記念イベントグッズの一部事後通販決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15234.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15234.html</guid>
+            <pubDate>Fri, 18 Apr 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/Y6IcuTkwCLdc2kMiK5eCPKvMIGzT0yuD.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】藤田ことねの1/7スケールフィギュアが登場！ご予約受付中♪]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15276.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15276.html</guid>
+            <pubDate>Fri, 18 Apr 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/04/cLJHVIEzqZk2tIfE87MZSJAQvBGVY9SE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! SS席・S席特典 撮りおろしフォトカードのデザインを公開！4月26日(土)12:00より現地チケット一般発売(先着)開始！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15210.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15210.html</guid>
+            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【デレステ10thツアー沖縄】現地有料アクセスバスのご案内]]></title>
+            <description><![CDATA[#stairs_to_10th #デレステ10thツアー #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15279.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15279.html</guid>
+            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/04/KhlLoW1LB9K0pQ8F5t4o0RQZbZbSx4R4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション、第6弾「おうし座」のアイドル14名がフェミニンでクラシカルな衣装で登場！受注は 5/25(日)まで♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15291.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15291.html</guid>
+            <pubDate>Fri, 18 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/RkIk0CVGadWEGWPOUyTi4HZLlrSNxj1W.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】学園アイドルマスター 花海咲季のSSD風味ゼリー&ステッカー 2025年９月発売決定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15178.html</guid>
             <pubDate>Wed, 09 Apr 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/SHPpAcXmDkPAFRFO4DhRxaKBHbDfeBwB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】1/8スケールフィギュア「黛 冬優子 オ♡フ♡レ♡コVer.」が再販決定！ご予約受付中！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15182.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15182.html</guid>
-            <pubDate>Wed, 09 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/xFWu7nZ1Vi0OqvWZiiBnW19vYB6tLjiq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×名鉄観光サービス」11thLIVE公式送迎バス記念グッズセットの販売決定！本日12時より販売スタート！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15144.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15144.html</guid>
-            <pubDate>Wed, 09 Apr 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/pYA661vIkoCjJPlBal8ZOuYFM8XkM20c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【YouTube】【＃APラウンジ】【U149】コミック最終巻発売記念！米内Pとこれまでの軌跡を振り返ろう！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #U149]]></description>
-            <link>https://idolmaster-official.jp/news/01_14890.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14890.html</guid>
-            <pubDate>Tue, 08 Apr 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/s3K6Lv7j4Ia3wtr4wSVWUbmx8vwfUq0K.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス給湯室】アニメシンデレラガールズ10周年記念で振り返りM@S 全7回公開中！]]></title>
-            <description><![CDATA[#アイマスch #アイマス給湯室 #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_14842.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14842.html</guid>
-            <pubDate>Tue, 08 Apr 2025 09:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/g8H7NF7eeoIYh3vYYIH0SpS9fPY4Ctsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日まで！【デレステ10thツアー】東京公演事前数量限定販売は今日まで！！！DJイベントも応募できます♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15181.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15181.html</guid>
-            <pubDate>Sun, 06 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/aXzLxfZCbNkUEbrbAAf69ZYVexqMqJFe.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
