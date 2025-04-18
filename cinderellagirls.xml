@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Apr 2025 06:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 11:14:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Apr 2025 06:26:28 GMT</pubDate>
+        <pubDate>Fri, 18 Apr 2025 11:14:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】 ＼＼おひつじ座は今週末の4/20(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第5弾「おひつじ座」＆第6弾「おうし座」が受注中♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15290.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15290.html</guid>
+            <pubDate>Fri, 18 Apr 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/yCm6nADcdfAZYBzsTGUtow6NA28OR2q8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15281.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15281.html</guid>
+            <pubDate>Fri, 18 Apr 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレステ10thツアー沖縄】現地有料アクセスバスのご案内]]></title>
             <description><![CDATA[#stairs_to_10th #デレステ10thツアー #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15004.html</guid>
             <pubDate>Sun, 23 Mar 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/03/ad2ldOtwQuHMTHbQgbgAgY8CgWq6YPCw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】全ピックアップページ解放！「アソビストア ガラポン」94名のアイドルと他2名（？）が登場中！お見逃しなく♪]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15033.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15033.html</guid>
-            <pubDate>Sat, 22 Mar 2025 03:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/01/fwtJZ2ebM8ZeCAWyRypapyA1yrA0GgTs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】LiPPSとSHIBUYA109のコラボポップアップショップ「＃Midnight Runway」グッズのEC販売が決定！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15006.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15006.html</guid>
-            <pubDate>Fri, 21 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/03/Sho6x48xccsyZ0pXo6vJdBMjZgTeCm6u.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
