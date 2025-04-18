@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Apr 2025 03:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Apr 2025 06:26:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Apr 2025 03:32:16 GMT</pubDate>
+        <pubDate>Fri, 18 Apr 2025 06:26:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスタートラストBOT～頂上決戦ヴィクトリー!!!!!!～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15236.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15236.html</guid>
+            <pubDate>Fri, 18 Apr 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/04/s7Nhci0xANtYudxLHFOYueZkw2860LEi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×アトレ秋葉原」開催！物販・特典の情報を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15271.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15271.html</guid>
+            <pubDate>Fri, 18 Apr 2025 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/3i1tgQ3wdEfVM8Kc76RiwzdznKJ6H023.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[「アイドルマスター20th特別生配信 公式アクリルスタンドケース」ご購入のお客様へ仕様変更に関するお詫びとご案内]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -15,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15287.html</guid>
             <pubDate>Thu, 17 Apr 2025 10:55:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「ふたマス!!!!!!」島根県松江市「田中琴葉」のマンホールお披露目について続報公開！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
+            <link>https://idolmaster-official.jp/news/01_15213.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15213.html</guid>
+            <pubDate>Wed, 16 Apr 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/eCVoE0UfFnOKHalhYHWG06V4pJjkNDOF.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【ミリオンライブ！】【スマスロ】キャストが”あのメーカーさん”に潜入！新台で遊んでみた！  プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14992.html</guid>
             <pubDate>Wed, 19 Mar 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/FpsF3xb7IimSbI6KPvjWpBmYPHhlhxmd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×アトレ浦和」開催！物販・特典の情報を公開！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14938.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14938.html</guid>
-            <pubDate>Wed, 19 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/1ugkbPqL69LA3cyS5CCvq9ixiqVQUWSg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】コラボ限定グッズが当たる「モアクト推進ポスターコンテスト」が開催中！応募は3/24(月)11:59まで！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
-            <link>https://idolmaster-official.jp/news/01_14991.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14991.html</guid>
-            <pubDate>Tue, 18 Mar 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/NTRKusAt03zThEui0H3vHR7uplVoMbqk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】「プラチナスタートラスト～Bestest!!～」開催中！フォロー＆RPでMOVEMENT OF “STARS”開発公式パンフレットが抽選で当たる！]]></title>
-            <description><![CDATA[#ミリシタ #馬場このみ #天海春香 #中谷育 #松田亜利沙 #田中琴葉]]></description>
-            <link>https://idolmaster-official.jp/news/01_14978.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14978.html</guid>
-            <pubDate>Tue, 18 Mar 2025 06:11:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/03/8D9VIHBeuvGZNUKHQaCYQDs6ynVb6Thm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
