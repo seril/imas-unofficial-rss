@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Apr 2025 06:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 11:14:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Apr 2025 06:24:19 GMT</pubDate>
+        <pubDate>Sat, 19 Apr 2025 11:14:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15282.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15282.html</guid>
+            <pubDate>Sat, 19 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14700.html</guid>
             <pubDate>Wed, 26 Feb 2025 12:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/UOMHxt5AtzUBSiEoMwwMPcMBX57uw9Jg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】3月22日(土)「たかつき観光大使」高槻やよいのバースデーイベントにて、仁後真耶子さんのトークショー実施決定🎤✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14642.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14642.html</guid>
-            <pubDate>Tue, 25 Feb 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/5zl8v8QBLgn34B3v9WFQeCXZnQQzQB1l.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

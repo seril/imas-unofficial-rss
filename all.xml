@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Apr 2025 06:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 11:14:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Apr 2025 06:24:19 GMT</pubDate>
+        <pubDate>Sat, 19 Apr 2025 11:14:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15282.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15282.html</guid>
+            <pubDate>Sat, 19 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_Uka,】リセール「283 Production LIVE Performance Uka,」のお申込みが本日4月19日(土)15:00より開始！]]></title>
             <description><![CDATA[#イルミネ_Uka]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15187.html</guid>
             <pubDate>Fri, 11 Apr 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/aZQjShAFkqJbfxDDB0ymK1l5OGTu5mcs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ」の曲を流して遊べる「デレステ狩歌」予約受付中！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15193.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15193.html</guid>
-            <pubDate>Thu, 10 Apr 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/04/8J3i0Z67AfKBARcH1gEYf980mtmvNUTK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
