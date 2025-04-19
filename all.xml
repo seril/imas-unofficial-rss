@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Apr 2025 02:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 03:29:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Apr 2025 02:21:34 GMT</pubDate>
+        <pubDate>Sat, 19 Apr 2025 03:29:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】 ＼＼明日まで！／／おひつじ座20名は4/20(日)まで！星座にフィーチャーした190名のバースデーコレクション、第5弾「おひつじ座」＆第6弾「おうし座」が受注中♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15305.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15305.html</guid>
+            <pubDate>Sat, 19 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/yCm6nADcdfAZYBzsTGUtow6NA28OR2q8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】 ＼＼おひつじ座は今週末の4/20(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第5弾「おひつじ座」＆第6弾「おうし座」が受注中♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15194.html</guid>
             <pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/04/HyWaEH25rTtuRVNO4DHROrpekZuvePuA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】4/26(土)・27(日)開催「デレステ10thツアー東京公演」にて会場物販の実施が決定！！開催記念グッズから先行し、「トレーディングクリアカード」も会場販売決定！！]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15204.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15204.html</guid>
-            <pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/ctU9rAMDdGPDt4BXVkLvj5XNfMDlYn9S.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
