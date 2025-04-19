@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Apr 2025 03:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 06:24:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Apr 2025 03:29:15 GMT</pubDate>
+        <pubDate>Sat, 19 Apr 2025 06:24:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_Uka,】リセール「283 Production LIVE Performance Uka,」のお申込みが本日4月19日(土)15:00より開始！]]></title>
+            <description><![CDATA[#イルミネ_Uka]]></description>
+            <link>https://idolmaster-official.jp/news/01_15301.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15301.html</guid>
+            <pubDate>Sat, 19 Apr 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/04/d3VcxP8V27Ul1RsKL3xho2JhskvSm5V6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_Uka,】一般発売（先着）・xRライブストリーミングチケット「283 Production LIVE Performance Uka,」の販売が本日4月19日(土)13:00より開始！]]></title>
+            <description><![CDATA[#イルミネ_Uka]]></description>
+            <link>https://idolmaster-official.jp/news/01_15300.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15300.html</guid>
+            <pubDate>Sat, 19 Apr 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/04/NdEGJuRi0vmJtJdc8qvCjonk7JZxj5aB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】 ＼＼明日まで！／／おひつじ座20名は4/20(日)まで！星座にフィーチャーした190名のバースデーコレクション、第5弾「おひつじ座」＆第6弾「おうし座」が受注中♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15193.html</guid>
             <pubDate>Thu, 10 Apr 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/04/8J3i0Z67AfKBARcH1gEYf980mtmvNUTK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 SideM 】CONNECT WITH MUSIC！10th ANNIVERSARY P@SSION 公式グッズ 第3弾が登場！！本日より受注開始！！]]></title>
-            <description><![CDATA[#SideM #SideM10周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_15180.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15180.html</guid>
-            <pubDate>Thu, 10 Apr 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/Z4blV86ujIVPDVZwlCUrbpBw4ygiHaUM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】大崎 甘奈、緋田 美琴が登場するトワイライツコレクションを開催中！1日1回10連無料スタンプガシャの開催も！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15194.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15194.html</guid>
-            <pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/04/HyWaEH25rTtuRVNO4DHROrpekZuvePuA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

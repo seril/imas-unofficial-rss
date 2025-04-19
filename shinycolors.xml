@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Apr 2025 03:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Apr 2025 06:24:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Apr 2025 03:29:15 GMT</pubDate>
+        <pubDate>Sat, 19 Apr 2025 06:24:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_Uka,】リセール「283 Production LIVE Performance Uka,」のお申込みが本日4月19日(土)15:00より開始！]]></title>
+            <description><![CDATA[#イルミネ_Uka]]></description>
+            <link>https://idolmaster-official.jp/news/01_15301.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15301.html</guid>
+            <pubDate>Sat, 19 Apr 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/04/d3VcxP8V27Ul1RsKL3xho2JhskvSm5V6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_Uka,】一般発売（先着）・xRライブストリーミングチケット「283 Production LIVE Performance Uka,」の販売が本日4月19日(土)13:00より開始！]]></title>
+            <description><![CDATA[#イルミネ_Uka]]></description>
+            <link>https://idolmaster-official.jp/news/01_15300.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15300.html</guid>
+            <pubDate>Sat, 19 Apr 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/04/NdEGJuRi0vmJtJdc8qvCjonk7JZxj5aB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_Uka,】一般発売（先着）・xRライブストリーミングチケット・公式リセール「283 Production LIVE Performance Uka,」のお申込みは明日4月19日(土)13:00から！]]></title>
             <description><![CDATA[#イルミネ_Uka]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15081.html</guid>
             <pubDate>Wed, 26 Mar 2025 10:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/BAhk8QzXUcpxmYy1wgXQH3EyrHxyQVLe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市とのコラボグッズ「アクリルスタンド」「アクリルキーホルダー」がふるさと納税返礼品に追加登場！]]></title>
-            <description><![CDATA[#筑西市コラボ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15052.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15052.html</guid>
-            <pubDate>Wed, 26 Mar 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/P7QUKL0U6oHGq6K4eQSy2s8ODLbzrykQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※3月27日追記 【アイマス20周年イヤー】 アイドルマスター × ゴゴスマBOX コラボが決定！全3回の特集動画を公開予定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15043.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15043.html</guid>
-            <pubDate>Tue, 25 Mar 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/Sg21XkKQ8yqQAGmaR0kjPXMRaSgKg6x1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
