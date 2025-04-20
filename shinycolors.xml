@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Apr 2025 06:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Apr 2025 11:14:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Apr 2025 06:24:35 GMT</pubDate>
+        <pubDate>Sun, 20 Apr 2025 11:14:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15283.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15283.html</guid>
+            <pubDate>Sun, 20 Apr 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【アイマス20周年イヤー】アイマス20周年配信イベントのグッズの事前販売は4/27(日)まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15286.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15286.html</guid>
+            <pubDate>Sun, 20 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで!!】【シャニマス7th】≪福岡・横浜公演≫のイベントグッズ事前販売ファイナルは本日4月20日(日)まで！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15094.html</guid>
             <pubDate>Fri, 28 Mar 2025 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/03/Z4oOaVSBTGCd3qiBrWhG7Td8Ml4pkkmm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】Blu-ray発売記念！フォロー＆リポストキャンペーン開催中！【Blu-ray本日3月28日発売！】]]></title>
-            <description><![CDATA[#シャニアニ2nd #シャニアニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15103.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15103.html</guid>
-            <pubDate>Fri, 28 Mar 2025 02:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/j6cG5ibrcunyoKdo7sdo66UlSO6lJFzf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】くじ引き堂にてスタイルブックの撮り下ろしビジュアルを使用したシーズ＆コメティックのオンラインくじが4/3より販売決定！！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14983.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14983.html</guid>
-            <pubDate>Thu, 27 Mar 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/FgefmVh5KyXxMDGVcdZcYVN0PSeVYclU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
