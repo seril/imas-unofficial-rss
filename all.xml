@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Apr 2025 02:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 03:41:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Apr 2025 02:40:32 GMT</pubDate>
+        <pubDate>Mon, 21 Apr 2025 03:41:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7th】追加出演者を発表！≪愛知・青森公演≫のゲーム先行のお申込み受付が本日4月21日(月)よりスタート！]]></title>
+            <description><![CDATA[【シャニマス7th】追加出演者を発表！≪愛知・青森公演≫のゲーム先行のお申込み受付が本日4月21日(月)よりスタート！]]></description>
+            <link>https://idolmaster-official.jp/news/01_15185.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15185.html</guid>
+            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/04/Txkq8V6csy4zcIXv3UDbGJhc2BhjRE6Y.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【デレステ10thツアー】現地チケット情報｜東京公演【見切れ席DAY2】一般販売2次（先着）の実施が決定！配信もございます♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15307.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15307.html</guid>
+            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/dVd64u70VKX4WlxWNABo3O94P5ZteTx5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】 森永製菓「板チョコアイス」とのコラボキャンペーンが開催決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -289,7 +305,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/04/VqwGIUttvfFTsBcdTigAV1O0xK9goyFB.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニソン】4月29日(火･祝) 19:00～ シャニソン1.5周年を記念した生配信が実施決定！]]></title>
+            <title><![CDATA[【4/21追記】【シャニソン】4月29日(火･祝) 19:00～ シャニソン1.5周年を記念した生配信が実施決定！]]></title>
             <description><![CDATA[#シャニソン #シャニマス #シャニソン生配信]]></description>
             <link>https://idolmaster-official.jp/news/01_15214.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15214.html</guid>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15223.html</guid>
             <pubDate>Sat, 12 Apr 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/IDcfnKjNM2AFM9AWDliVwRY2IS6tUlyR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】【明日まで！】7月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は4月13日(日)まで！グッズのサンプルをご紹介！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_15219.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15219.html</guid>
-            <pubDate>Sat, 12 Apr 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/jGieGcvDZgkyT0CoEorbPoaqgGjNMhxf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15220.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15220.html</guid>
-            <pubDate>Sat, 12 Apr 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

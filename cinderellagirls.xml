@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Apr 2025 02:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 03:41:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Apr 2025 02:40:32 GMT</pubDate>
+        <pubDate>Mon, 21 Apr 2025 03:41:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレステ10thツアー】現地チケット情報｜東京公演【見切れ席DAY2】一般販売2次（先着）の実施が決定！配信もございます♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15307.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15307.html</guid>
+            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/dVd64u70VKX4WlxWNABo3O94P5ZteTx5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】 森永製菓「板チョコアイス」とのコラボキャンペーンが開催決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14455.html</guid>
             <pubDate>Tue, 25 Mar 2025 09:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/3HEuuIvsWBDmnobAGHK0lyQHw2DAqXXQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【デレステ10thツアー】現地チケット情報｜東京公演【全席指定／見切れ席】一般発売（先着）／リセールの実施が決定！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15056.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15056.html</guid>
-            <pubDate>Tue, 25 Mar 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/MhYercDlgHgm41gVn1yjIyepuSxMKKH2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
