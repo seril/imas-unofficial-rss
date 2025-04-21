@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Apr 2025 06:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Apr 2025 11:15:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Apr 2025 06:26:56 GMT</pubDate>
+        <pubDate>Mon, 21 Apr 2025 11:15:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター HOP!STEP!JUMP!SPRING!キャンペーン in ナムコ」にて、フィギュア・アクリル雑貨がプライズ景品で登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15208.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15208.html</guid>
+            <pubDate>Mon, 21 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/04/A5bu6CdTayMJpBLZrEgzr81PY4fhB4qU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】4/28(月) 19:00～ 学園アイドルマスター ～初星学園HR 1周年目前SP～生配信実施予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15251.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15251.html</guid>
+            <pubDate>Mon, 21 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/04/e97p06ek8payOn0x9hHpIivPUzSAp6e2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 東京公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15203.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15203.html</guid>
+            <pubDate>Mon, 21 Apr 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/4HoStAAObRIQ1v7nqSnIaydSRZjv4LEC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】★3 大崎 甜花が手に入るガシャ開催中！さらに、アルストロメリアの2DMV楽曲を追加！]]></title>
             <description><![CDATA[#シャニソン  ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15226.html</guid>
             <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/EhJkp3IDYiP89hEj1C3V98A9b4uCP7CE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』東京公演で会場オリジナルCDの発売が決定！]]></title>
-            <description><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』東京公演で会場オリジナルCDの発売が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15229.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15229.html</guid>
-            <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/8miudR0lKGL0vpeWebFXXbTONnxjIM4L.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー福岡】現地チケット一般会員先行が本日よりスタート！東京公演の配信チケットも販売中です♬]]></title>
-            <description><![CDATA[#stairs_to_10th #デレステ10thツアー #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15212.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15212.html</guid>
-            <pubDate>Mon, 14 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/lBjZIC93m5Aej09KVh0sIQ61a5wKdES9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】全国の「ナムコ」のお店で4/25(金)から「学園アイドルマスター HOP! STEP! JUMP! SPRING!キャンペーン in ナムコ」開催！　namco TOKYOではコラボイベントも！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15207.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15207.html</guid>
-            <pubDate>Mon, 14 Apr 2025 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/04/iBsXNX7roog7YTLiWuZbi0eumeF065x2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
