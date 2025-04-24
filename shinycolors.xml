@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Apr 2025 03:36:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 06:27:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Apr 2025 03:36:56 GMT</pubDate>
+        <pubDate>Thu, 24 Apr 2025 06:27:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7th】≪愛知・青森公演≫のイベントグッズ事前販売がスタート！！ゲーム先行のお申し込みも受付中！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15355.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15355.html</guid>
+            <pubDate>Thu, 24 Apr 2025 06:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/4O5yWcWRYK9e9r54ImsR3qpXSIkmFDdZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】セブン-イレブン×アイドルマスター シャイニーカラーズ　コラボキャンペーン＆オリジナルランダムブロマイドは本日より開催中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15319.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15319.html</guid>
+            <pubDate>Thu, 24 Apr 2025 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/vEDEP3CUHDtAmUFBL0Gx3KWWwFJQgBJO.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】4月24日でサービス開始から7周年！24時間限定すべてSSR確定の無料ガシャや7周年記念アイテム配布も！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニマス7周年]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14734.html</guid>
             <pubDate>Fri, 28 Mar 2025 11:40:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/03/7MliLIqfw4GapwJTWTsMXk2izyO4GRjd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】THE IDOLM@STER SHINY COLORS "円環 -Halo around-" 01～04の購入特典が決定！]]></title>
-            <description><![CDATA[#シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15110.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15110.html</guid>
-            <pubDate>Fri, 28 Mar 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/koAvJJbdOSF4IhDZpprFpTcPfOZFRgEN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ2nd】「Blu-ray発売記念イベント in namco TOKYO」を配信中！#シャニアニ生配信 をつけてポストすると、抽選で10名様にポスターが当たります！！]]></title>
-            <description><![CDATA[#シャニアニ生配信 #シャニアニ #シャニアニ2nd #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15113.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15113.html</guid>
-            <pubDate>Fri, 28 Mar 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/FMQEIourN7054FBEYWd61VhqrtUuJsrG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
