@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Apr 2025 06:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 11:15:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Apr 2025 06:27:08 GMT</pubDate>
+        <pubDate>Thu, 24 Apr 2025 11:15:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレステ10thツアー東京】いよいよ今週末「Let's AMUSEMENT!!!」東京公演開催！盛りだくさんの当日企画・物販・配信情報を最終チェック！！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15309.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15309.html</guid>
+            <pubDate>Thu, 24 Apr 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/oo6DYDZcQReWQym7RpMy8zxYUMemBrNN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【明日4月25日(金)より🎨】「アイドルマスター ミリオンライブ！×アトレ秋葉原」が開催！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15302.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15302.html</guid>
+            <pubDate>Thu, 24 Apr 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/3i1tgQ3wdEfVM8Kc76RiwzdznKJ6H023.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》7月に向けて北沢志保・高山紗代子が登場！「夏の海」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル7月]]></description>
+            <link>https://idolmaster-official.jp/news/01_15324.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15324.html</guid>
+            <pubDate>Thu, 24 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/z2q2UL7k2DagqFfmcFhOwAuY3JPy4I3U.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7th】≪愛知・青森公演≫のイベントグッズ事前販売がスタート！！ゲーム先行のお申し込みも受付中！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15270.html</guid>
             <pubDate>Thu, 17 Apr 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/eRAz57vAXH8K45qR6a7bjeNHDPkwISFU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】高級感ただようインテリア「パーソナルパブミラー」シリーズに「有栖川夏葉」が登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15233.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15233.html</guid>
-            <pubDate>Thu, 17 Apr 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/k7E9jZbSYrVKISkJ5EsEnlIEflKCNv4X.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】完結目前！初星コミュ 1章～4章のオーディオコメンタリーがYouTubeアイドルマスターチャンネルにてプレミア公開決定！]]></title>
-            <description><![CDATA[#学園アイドルマスター #学マス #アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_15238.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15238.html</guid>
-            <pubDate>Wed, 16 Apr 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/dnZ32GvZoo79bt40yR61eQCEMvAw4MkE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「ふたマス!!!!!!」島根県松江市「田中琴葉」のマンホールお披露目について続報公開！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
-            <link>https://idolmaster-official.jp/news/01_15213.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15213.html</guid>
-            <pubDate>Wed, 16 Apr 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/12/eCVoE0UfFnOKHalhYHWG06V4pJjkNDOF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
