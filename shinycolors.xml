@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Apr 2025 14:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 02:36:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Apr 2025 14:19:24 GMT</pubDate>
+        <pubDate>Thu, 24 Apr 2025 02:36:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】4月24日でサービス開始から7周年！24時間限定すべてSSR確定の無料ガシャや7周年記念アイテム配布も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニマス7周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_15346.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15346.html</guid>
+            <pubDate>Wed, 23 Apr 2025 15:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/04/QzcTJe5cdhaZdCN1Hx09RjI6LwMBIpAC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】#シャニマス7周年 投稿キャンペーン開催！抽選で20名様に3000円分のギフトカードが当たる！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニマス7周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_15359.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15359.html</guid>
+            <pubDate>Wed, 23 Apr 2025 15:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/04/1yEA4mxn9jabHaRsiU9rJuo4yL8ucXit.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】★3 大崎 甜花が手に入るガシャ開催中！さらに、アルストロメリアの2DMV楽曲を追加！]]></title>
             <description><![CDATA[#シャニソン  ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15113.html</guid>
             <pubDate>Fri, 28 Mar 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/03/FMQEIourN7054FBEYWd61VhqrtUuJsrG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ 7周年スタート生配信』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_14733.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14733.html</guid>
-            <pubDate>Fri, 28 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/C5LeGrfoQkfJ1GUKoSF5s9NavJ1w0s8s.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】20th特別生配信　現地チケットのアソビストア一般会員先行が明日3月29日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15096.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15096.html</guid>
-            <pubDate>Fri, 28 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/UpsVu1QSGkw95pxy9gRCp5Q0nIrYtfvq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
