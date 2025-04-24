@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Apr 2025 11:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Apr 2025 14:17:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Apr 2025 11:15:44 GMT</pubDate>
+        <pubDate>Thu, 24 Apr 2025 14:17:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】4月25日(金)よりアソビストア会員先行抽選受付を開始！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_15376.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15376.html</guid>
+            <pubDate>Thu, 24 Apr 2025 12:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/35hiSf3QHZ7C0au25fdc1nEkF5IKOqkM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】 森永製菓「板チョコアイス」とのコラボキャンペーンが開催決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14847.html</guid>
             <pubDate>Fri, 07 Mar 2025 02:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/CtSngO9qQDrJAFvG58u0bvj27mDvph55.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第４弾「ミリオンライブ！ in 大阪」情報解禁！]]></title>
-            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_14808.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14808.html</guid>
-            <pubDate>Wed, 05 Mar 2025 12:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/gVqZHHh3EIlrKgqEdPkOwA5noFQyork8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
