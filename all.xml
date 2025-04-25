@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Apr 2025 14:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 02:36:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Apr 2025 14:17:34 GMT</pubDate>
+        <pubDate>Fri, 25 Apr 2025 02:36:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 2025年4月25日(金)よりGWキャンペーン開始！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15352.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15352.html</guid>
+            <pubDate>Fri, 25 Apr 2025 02:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/XjhR02rExar27yLvdDhnejoqTXp8Hy1I.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「ミラシル by 第一生命×アイドルマスター特別コラボ企画」記事公開！限定アクリルスタンドのプレゼントキャンペーンも！🎁]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15142.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15142.html</guid>
+            <pubDate>Fri, 25 Apr 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/Kld6iIEJEbHy6kA7UKi7icZ6ccyNzwj7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス765単独NEI】4月25日(金)よりアソビストア会員先行抽選受付を開始！]]></title>
             <description><![CDATA[#アイマス765単独NEI]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15287.html</guid>
             <pubDate>Thu, 17 Apr 2025 10:55:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【＃APラウンジ】【U149】コミック最終巻発売記念！米内Pとこれまでの軌跡を振り返ろう！ 配信記念！イラスト色紙＆イラストラミネートパネルプレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #アイマスch_U149特集]]></description>
-            <link>https://idolmaster-official.jp/news/01_15272.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15272.html</guid>
-            <pubDate>Thu, 17 Apr 2025 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/04/YvhfEwgargUS5PHh0xlRc5SHL8mvEGlX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】フィギュア「姫崎莉波-clumsy trick-」ご予約受付中！彩色原型の展示も決定！]]></title>
-            <description><![CDATA[【学マス】フィギュア「姫崎莉波-clumsy trick-」ご予約受付中！彩色原型の展示も決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15167.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15167.html</guid>
-            <pubDate>Thu, 17 Apr 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/khsc5Dk0xrTrZvPHfy6If5Q4MVUtGOtJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
