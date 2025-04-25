@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Apr 2025 06:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 11:15:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Apr 2025 06:26:40 GMT</pubDate>
+        <pubDate>Fri, 25 Apr 2025 11:15:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[学园偶像大师 The 1st Period演唱会 上海上映会 票务信息解禁！4月28日18:00正式开售！]]></title>
+            <description><![CDATA[学园偶像大师 The 1st Period演唱会 上海上映会 票务信息解禁！4月28日18:00正式开售！]]></description>
+            <link>https://idolmaster-official.jp/news/01_15384.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15384.html</guid>
+            <pubDate>Fri, 25 Apr 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/M6RzSZHS17jtLLba7nH833dFFyG4HWB7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】ゴールデンウィークもアイマスですよ！2025 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ＃APラウンジ #GW]]></description>
+            <link>https://idolmaster-official.jp/news/01_15382.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15382.html</guid>
+            <pubDate>Fri, 25 Apr 2025 10:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/955hy4LsoGVx7TkFFl2aSAV0FFpUVUb4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star「アニメイトカフェ出張版」＆「ばくだん焼本舗」出店決定！！]]></title>
             <description><![CDATA[#学マス #学マス1st]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14926.html</guid>
             <pubDate>Mon, 24 Mar 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/live-event/1017/GAKUEN/2025/03/xHKBuVpOaprAt3cZPNR3RucpKzMXX4ll.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス1st】公演現地チケット一般販売（抽選）が本日3月22日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#学マス1st #学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_14989.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14989.html</guid>
-            <pubDate>Sat, 22 Mar 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/BhUJGt4rHLS7WxOqZSOuo6JtxVNhSZHe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】1/7スケールフィギュア「篠澤 広 一番向いてないことVer.」予約受付中！]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15017.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15017.html</guid>
-            <pubDate>Fri, 21 Mar 2025 08:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/RapVH01kUQY9vyaptcx8PftkGyMHdSbb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

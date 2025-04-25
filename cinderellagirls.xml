@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Apr 2025 06:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 11:15:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Apr 2025 06:26:40 GMT</pubDate>
+        <pubDate>Fri, 25 Apr 2025 11:15:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】ゴールデンウィークもアイマスですよ！2025 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ＃APラウンジ #GW]]></description>
+            <link>https://idolmaster-official.jp/news/01_15382.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15382.html</guid>
+            <pubDate>Fri, 25 Apr 2025 10:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/955hy4LsoGVx7TkFFl2aSAV0FFpUVUb4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー東京公演の開催記念グッズが受注開始！描き下ろしイラストも大公開！！協賛社グッズ販売もスタート♪]]></title>
+            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15308.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15308.html</guid>
+            <pubDate>Fri, 25 Apr 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/h6dIDLtQJJqtPX07NO5LZVbCOWBrGBrg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】いよいよ明日開催！デレステ10thツアー東京公演＜エントランスがオープン!!!＞冒頭無料配信やマルチアングルもございます♬]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15377.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15377.html</guid>
+            <pubDate>Fri, 25 Apr 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/AMxkDJb6lNfEQZy7BmitzPlQiarHRqQB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】復刻！デレステ10th東京公演 開催記念！「アソビストア ガラポン」東京復刻スタート！全ピックアップ解放中♪]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15378.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15378.html</guid>
+            <pubDate>Fri, 25 Apr 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/6MiXmbdtFYg0bE9f5wiLHZjn6mmWfQFA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」Steamゴールデンウィークセール実施のお知らせ]]></title>
+            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
+            <link>https://idolmaster-official.jp/news/01_15225.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15225.html</guid>
+            <pubDate>Fri, 25 Apr 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 2025年4月25日(金)よりGWキャンペーン開始！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -54,7 +94,7 @@
             <link>https://idolmaster-official.jp/news/01_15203.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15203.html</guid>
             <pubDate>Mon, 21 Apr 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/4HoStAAObRIQ1v7nqSnIaydSRZjv4LEC.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/6heom6dI6thTgFnA2UvEXmYL3PLSoqnb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第5弾『スマイルファンタジー』の発売が決定！]]></title>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15096.html</guid>
             <pubDate>Fri, 28 Mar 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/UpsVu1QSGkw95pxy9gRCp5Q0nIrYtfvq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー】大阪開催記念グッズ＆沖縄福岡事前2次販売はあと3日！！！描きおろしビジュアルをお見逃しなく♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15077.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15077.html</guid>
-            <pubDate>Fri, 28 Mar 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/X7An17BuMpQ87hVIXzYo9wjTEXU0m1LF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】「覚醒魔王 神崎蘭子」の1/7スケールフィギュアがご予約受付中！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_14675.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14675.html</guid>
-            <pubDate>Fri, 28 Mar 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/aVGjvPnfphai5viKKrIsFWsc0AwqrGBB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【＃APラウンジ】【アイマス】2025年エイプリルフール企画を一挙紹介！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #エイプリルフール]]></description>
-            <link>https://idolmaster-official.jp/news/01_14885.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14885.html</guid>
-            <pubDate>Wed, 26 Mar 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/HsJSFaXp8Mvk5SZKs8imrYxCBaZp5jrB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー】大阪開催記念グッズ＆沖縄福岡事前2次販売は今週末日曜まで！！！190人グッズもお見逃しなく♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15073.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15073.html</guid>
-            <pubDate>Wed, 26 Mar 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/03/X7An17BuMpQ87hVIXzYo9wjTEXU0m1LF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市とのコラボグッズ「アクリルスタンド」「アクリルキーホルダー」がふるさと納税返礼品に追加登場！]]></title>
-            <description><![CDATA[#筑西市コラボ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15052.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15052.html</guid>
-            <pubDate>Wed, 26 Mar 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/P7QUKL0U6oHGq6K4eQSy2s8ODLbzrykQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

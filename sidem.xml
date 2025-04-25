@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Apr 2025 06:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Apr 2025 11:15:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Apr 2025 06:26:40 GMT</pubDate>
+        <pubDate>Fri, 25 Apr 2025 11:15:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】ゴールデンウィークもアイマスですよ！2025 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ＃APラウンジ #GW]]></description>
+            <link>https://idolmaster-official.jp/news/01_15382.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15382.html</guid>
+            <pubDate>Fri, 25 Apr 2025 10:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/955hy4LsoGVx7TkFFl2aSAV0FFpUVUb4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】横浜公演 イベント公式グッズ事前販売 第2弾スタート！10周年記念衣装「パッショネイトシンフォニー」を身にまとったアイドル達のグッズが多数登場！]]></title>
+            <description><![CDATA[#SideM #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15316.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15316.html</guid>
+            <pubDate>Fri, 25 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/kRlz57qtN4WeFkl8Z6VYRcVFACoCGKpV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM10th】横浜公演 本日12:00よりアソビストアプレミアム会員2次先行お申込み受付開始！]]></title>
             <description><![CDATA[#SideM #SideM10th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14839.html</guid>
             <pubDate>Sun, 16 Mar 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/03/ykQcnqmeQLsNojOY4BpAkaQ9cF1RAw2O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演DAY1 ご来場＆ご視聴いただきありがとうございました！！本日の公演内容＆告知情報はこちら！]]></title>
-            <description><![CDATA[#SideM #SideM10thプロミ幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_14948.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14948.html</guid>
-            <pubDate>Sat, 15 Mar 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/wU3Os72OP7808T9Of7EElkuKbFYJVxK0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 SideM 】理由あって、" うんこ " とコラボ！？「アイドルマスターSideM × うんこドリル」コラボグッズが登場！本日より受注開始！！]]></title>
-            <description><![CDATA[#SideM #うんこドリル]]></description>
-            <link>https://idolmaster-official.jp/news/01_14894.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14894.html</guid>
-            <pubDate>Sat, 15 Mar 2025 11:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/FbqVwAV9aTcWh4POO9m2tkmmFZFcUgbt.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
