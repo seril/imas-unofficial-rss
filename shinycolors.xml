@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Apr 2025 02:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Apr 2025 03:31:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Apr 2025 02:23:54 GMT</pubDate>
+        <pubDate>Sat, 26 Apr 2025 03:31:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと1日！】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15392.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15392.html</guid>
+            <pubDate>Sat, 26 Apr 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】ゴールデンウィークもアイマスですよ！2025 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch ＃APラウンジ #GW]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14730.html</guid>
             <pubDate>Wed, 02 Apr 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/04/8y8rjWfDwQ0SJpw9PQpxLGIMk1YnEKeU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」第一期個人スポンサー募集開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスレーシングPJ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15131.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15131.html</guid>
-            <pubDate>Tue, 01 Apr 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/0UJxFME2gKSxWfYMAi7fkkDaG625O3XW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
