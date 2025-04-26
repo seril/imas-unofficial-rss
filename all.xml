@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Apr 2025 11:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Apr 2025 14:15:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Apr 2025 11:13:40 GMT</pubDate>
+        <pubDate>Sat, 26 Apr 2025 14:15:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】コラボ決定！『Shadowverse EVOLVE』 × 『アイドルマスター シンデレラガールズ』のコラボ商品が2025年8月22日(金)に発売！]]></title>
+            <description><![CDATA[【シンデレラ】コラボ決定！『Shadowverse EVOLVE』 × 『アイドルマスター シンデレラガールズ』のコラボ商品が2025年8月22日(金)に発売！]]></description>
+            <link>https://idolmaster-official.jp/news/01_15347.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15347.html</guid>
+            <pubDate>Sat, 26 Apr 2025 12:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/n7TKr5jgyftlIJ2bEkMPnx0KPuv43aut.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ9周年ライブ【THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY】Blu-rayの受注がスタート！！アソビストア版のご予約は6月15日(日)まで！]]></title>
+            <description><![CDATA[#imascgSF  #デレステ10thツアー東京_day1 #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15403.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15403.html</guid>
+            <pubDate>Sat, 26 Apr 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/ureKCqETTXCdZp1WJtOnnVP9oubXnIBq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー東京公演DAY1のご鑑賞ありがとうございました！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー東京_day1]]></description>
+            <link>https://idolmaster-official.jp/news/01_15310.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15310.html</guid>
+            <pubDate>Sat, 26 Apr 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/29G9D3dg8J0TdnE1qwheXuvAesxjUAOK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】高槻やよいさんが「たかつき観光大使」として高槻市をPR！ プレミア公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15322.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15322.html</guid>
+            <pubDate>Sat, 26 Apr 2025 11:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/LHMpuzSIxnqRVtjRsJ5A1OsNyvqFKY3k.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 名取』イベントレポート]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス名取]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15286.html</guid>
             <pubDate>Sun, 20 Apr 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで!!】【シャニマス7th】≪福岡・横浜公演≫のイベントグッズ事前販売ファイナルは本日4月20日(日)まで！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15304.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15304.html</guid>
-            <pubDate>Sun, 20 Apr 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/YFpAZ3jJpMAIAaHttMXM08wTd74FMFcm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】 ＼＼本日まで！／／おひつじ座20名は本日4/20(日)まで！星座にフィーチャーした190名のバースデーコレクション、第5弾「おひつじ座」＆第6弾「おうし座」が受注中♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15306.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15306.html</guid>
-            <pubDate>Sun, 20 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/yCm6nADcdfAZYBzsTGUtow6NA28OR2q8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15282.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15282.html</guid>
-            <pubDate>Sat, 19 Apr 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_Uka,】リセール「283 Production LIVE Performance Uka,」のお申込みが本日4月19日(土)15:00より開始！]]></title>
-            <description><![CDATA[#イルミネ_Uka]]></description>
-            <link>https://idolmaster-official.jp/news/01_15301.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15301.html</guid>
-            <pubDate>Sat, 19 Apr 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/04/d3VcxP8V27Ul1RsKL3xho2JhskvSm5V6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
