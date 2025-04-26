@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Apr 2025 06:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Apr 2025 11:13:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Apr 2025 06:24:09 GMT</pubDate>
+        <pubDate>Sat, 26 Apr 2025 11:13:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 名取』イベントレポート]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス名取]]></description>
+            <link>https://idolmaster-official.jp/news/01_15201.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15201.html</guid>
+            <pubDate>Sat, 26 Apr 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/04/j2KIYHTWJcSWOQ67PTLYsiifDgMbJo76.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】本日4/18(金)20:30より！「1st LIVE-HERE WE ARE!!!- 」アーカイブメンバーオーコメ配信を実施！LIVE本編アーカイブも好評発売中！【 #ヴイアラ1stLIVE 】]]></title>
             <description><![CDATA[#ASOBINOTES]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14339.html</guid>
             <pubDate>Tue, 28 Jan 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/01/oMZnnXDvQo7ZZrA4ZZUk4BVkhCjB2Xis.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】受注締切直前！ヴイアラ公式YouTubeチャンネルにて「PRODUCER MEETING 2024」EVENT Blu-ray発売連動3夜連続企画実施中！ 3夜目となる1/29の企画は23時より「アイマスEXPO ヴイアラソロSPステージDAY1&DAY2」特別公開に決定！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】受注締切直前！ヴイアラ公式YouTubeチャンネルにて「PRODUCER MEETING 2024」EVENT Blu-ray発売連動3夜連続企画実施中！ 3夜目となる1/29の企画は23時より「アイマスEXPO ヴイアラソロSPステージDAY1&DAY2」特別公開に決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14359.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14359.html</guid>
-            <pubDate>Mon, 27 Jan 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/01/qckEF9r1zXICHtq1ScYMuIAcBwH6ZsMv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
