@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Apr 2025 06:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 11:13:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 27 Apr 2025 06:24:25 GMT</pubDate>
+        <pubDate>Sun, 27 Apr 2025 11:13:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】アイマス20周年配信イベントのグッズの事前販売は本日まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15408.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15408.html</guid>
+            <pubDate>Sun, 27 Apr 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM　​10th Anniversary 超GREATEST PASSION!!!!!!!!!!​　特別ステージ」告知まとめ]]></title>
+            <description><![CDATA[#SideM #SideM特別ステージ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15189.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15189.html</guid>
+            <pubDate>Sun, 27 Apr 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/04/wFOPSz0dDjA7tUq7FPBK64KQ6WLb2HgW.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM10th】横浜公演 追加出演者発表！！現地チケット アソビストアプレミアム会員２次先行お申込み受付中&イベント公式グッズ事前販売第2弾実施中！]]></title>
             <description><![CDATA[#SideM #SideM10th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15185.html</guid>
             <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/04/Txkq8V6csy4zcIXv3UDbGJhc2BhjRE6Y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー】現地チケット情報｜東京公演【見切れ席DAY2】一般販売2次（先着）の実施が決定！配信もございます♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15307.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15307.html</guid>
-            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/dVd64u70VKX4WlxWNABo3O94P5ZteTx5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】 森永製菓「板チョコアイス」とのコラボキャンペーンが開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15230.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15230.html</guid>
-            <pubDate>Mon, 21 Apr 2025 02:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/lOnd2otyDrFtzyN9OZkFa4fuqwLy481L.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
