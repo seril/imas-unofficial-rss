@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Apr 2025 06:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 11:15:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Apr 2025 06:27:31 GMT</pubDate>
+        <pubDate>Tue, 29 Apr 2025 11:15:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】『シャイノグラフィ実装決定！GWはシャニソンやらなきゃソンソン♪1.5周年生配信』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[ #シャニマス #シャニソン #シャイノグラフィ実装決定]]></description>
+            <link>https://idolmaster-official.jp/news/01_15404.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15404.html</guid>
+            <pubDate>Tue, 29 Apr 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/04/gSxUtHMyIRhXK6UOVKfyhKk0LLnNwRgD.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】福丸 小糸、白瀬 咲耶が登場するガシャを開催中！シナリオイベントの開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15385.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15385.html</guid>
+            <pubDate>Tue, 29 Apr 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/04/4V4ehQpB64vdN8NR3St360c3Iw0RKR4O.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【24/7Stream】ドライブで聴きたい「アイドルマスター」シリーズ楽曲プレイリスト【アイドルマスター】]]></title>
             <description><![CDATA[#アイマスch　#GW]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15192.html</guid>
             <pubDate>Thu, 10 Apr 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/04/mV0d5YoTtB9nVYIqW9LsGZPYUgDWpVoQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】1/8スケールフィギュア「黛 冬優子 オ♡フ♡レ♡コVer.」が再販決定！ご予約受付中！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15182.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15182.html</guid>
-            <pubDate>Wed, 09 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/xFWu7nZ1Vi0OqvWZiiBnW19vYB6tLjiq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニアニ】SR-GYMよりアニメ「アイドルマスター シャイニーカラーズ 2nd season」の新商品が登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15162.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15162.html</guid>
-            <pubDate>Fri, 04 Apr 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/Cunc78HlacYQEB9soBRLb6PmaNHIhIpG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

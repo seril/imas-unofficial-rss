@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Apr 2025 06:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Apr 2025 11:15:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Apr 2025 06:27:31 GMT</pubDate>
+        <pubDate>Tue, 29 Apr 2025 11:15:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】藤田ことね誕生日記念セット受注受付中♪（5/11(日)まで）]]></title>
+            <description><![CDATA[#学マス #藤田ことね生誕祭2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15414.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15414.html</guid>
+            <pubDate>Tue, 29 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/04/SdIn8CgwjXSgJtSh0fmvjQa373VWmsWP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】4/28(月)学マス生配信「初星学園HR 1周年目前SP」お知らせまとめ]]></title>
             <description><![CDATA[ #学マス #学園アイドルマスター #もうすぐ学マス1周年]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14321.html</guid>
             <pubDate>Thu, 27 Mar 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/01/yvGhd9mfz2dwALeH8UBtS1g3g9EHOTpD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】2025年6月15日(日) 「初星学園放送部 公開録音2025 ～放送部の優雅で軽やかで大騒ぎな一日～」開催決定！！]]></title>
-            <description><![CDATA[#学マス #初星学園放送部]]></description>
-            <link>https://idolmaster-official.jp/news/01_15072.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15072.html</guid>
-            <pubDate>Wed, 26 Mar 2025 12:37:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/03/1TOG2wqKYEco4nqjkJkrGiaj8LBGnOsc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
