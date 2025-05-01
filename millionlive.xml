@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Apr 2025 14:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 02:46:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Apr 2025 14:18:10 GMT</pubDate>
+        <pubDate>Thu, 01 May 2025 02:46:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、7月分予約受付中！ 特任プロデューサー就任キャンペーンも開催中♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15353.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15353.html</guid>
+            <pubDate>Thu, 01 May 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/Xs2Xrf4EGIoXznhPXpjoP9Kg6hgH5ftC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【5/2(金)まで⏰】「アイドルマスター ミリオンライブ！×ANIMA」全39種類のコラボレーションイヤホンがASOBI STOREにて受注中！〆切をお見逃しなく！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14885.html</guid>
             <pubDate>Wed, 26 Mar 2025 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/HsJSFaXp8Mvk5SZKs8imrYxCBaZp5jrB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市とのコラボグッズ「アクリルスタンド」「アクリルキーホルダー」がふるさと納税返礼品に追加登場！]]></title>
-            <description><![CDATA[#筑西市コラボ #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15052.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15052.html</guid>
-            <pubDate>Wed, 26 Mar 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/P7QUKL0U6oHGq6K4eQSy2s8ODLbzrykQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
