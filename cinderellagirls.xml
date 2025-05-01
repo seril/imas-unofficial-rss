@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 May 2025 02:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 03:44:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 May 2025 02:46:29 GMT</pubDate>
+        <pubDate>Thu, 01 May 2025 03:44:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10周年記念ツアー「Let's AMUSEMENT!!!」沖縄公演開演前企画「デレステFULLCOMBOチャレンジ@OKINAWA」実施決定！参加者大募集♪]]></title>
+            <description><![CDATA[#stairs_to_10th #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15277.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15277.html</guid>
+            <pubDate>Thu, 01 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/04/xzsUGbv2prob3boffISSy5GjeV1Q86eE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【デレステ】【有明アリーナ】10周年記念LIVEツアーの会場ができるまで【タイムラプス】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #デレステ10thツアー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15204.html</guid>
             <pubDate>Thu, 10 Apr 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/ctU9rAMDdGPDt4BXVkLvj5XNfMDlYn9S.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】「THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS」公式グッズの事前物販開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15200.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15200.html</guid>
-            <pubDate>Thu, 10 Apr 2025 07:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
