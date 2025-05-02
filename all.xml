@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 May 2025 11:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 May 2025 14:17:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 May 2025 11:15:30 GMT</pubDate>
+        <pubDate>Fri, 02 May 2025 14:17:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[「KIMCHIKURA Fes VOL.4」に「ミリオンライブ！」「シャイニーカラーズ」の出演が決定！]]></title>
+            <description><![CDATA[「KIMCHIKURA Fes VOL.4」に「ミリオンライブ！」「シャイニーカラーズ」の出演が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_15477.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15477.html</guid>
+            <pubDate>Fri, 02 May 2025 12:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/05/PG2ljMf8xbrJmYCcjjuZKZ4YEXnh4f17.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シンデレラ】「We wish your smile」と「CINDERELLA MASTER 070-072 －COOL SELECTION－」、「スマイルファンタジー」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
             <description><![CDATA[ 【シンデレラ】「We wish your smile」と「CINDERELLA MASTER 070-072 －COOL SELECTION－」、「スマイルファンタジー」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15384.html</guid>
             <pubDate>Fri, 25 Apr 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/M6RzSZHS17jtLLba7nH833dFFyG4HWB7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】ゴールデンウィークもアイマスですよ！2025 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #GW]]></description>
-            <link>https://idolmaster-official.jp/news/01_15382.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15382.html</guid>
-            <pubDate>Fri, 25 Apr 2025 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/955hy4LsoGVx7TkFFl2aSAV0FFpUVUb4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
