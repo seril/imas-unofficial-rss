@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 May 2025 02:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 03:35:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 May 2025 02:26:55 GMT</pubDate>
+        <pubDate>Sat, 03 May 2025 03:35:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】＜公開終了直前!!＞本日5/3(土)19:00！「1stLIVE-HERE WE ARE!!!- 」アーカイブ スタッフオーコメ配信を実施！LIVE本編アーカイブの販売は5月6日まで！【 #ヴイアラ1stLIVE 】]]></title>
+            <description><![CDATA[#ASOBINOTES]]></description>
+            <link>https://idolmaster-official.jp/news/01_15481.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15481.html</guid>
+            <pubDate>Sat, 03 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/05/mtofYOj46EYUeQpyao4J6OdbcdqA4Y6a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[「KIMCHIKURA Fes VOL.4」に「ミリオンライブ！」「シャイニーカラーズ」の出演が決定！]]></title>
             <description><![CDATA[「KIMCHIKURA Fes VOL.4」に「ミリオンライブ！」「シャイニーカラーズ」の出演が決定！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15398.html</guid>
             <pubDate>Sat, 26 Apr 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/7DgxBY4T8xMQ0qS7e3v9l8oSg88P5Ami.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[学园偶像大师 The 1st Period演唱会 上海上映会 票务信息解禁！4月28日18:00正式开售！]]></title>
-            <description><![CDATA[学园偶像大师 The 1st Period演唱会 上海上映会 票务信息解禁！4月28日18:00正式开售！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15384.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15384.html</guid>
-            <pubDate>Fri, 25 Apr 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/M6RzSZHS17jtLLba7nH833dFFyG4HWB7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
