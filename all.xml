@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 May 2025 06:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 11:16:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 May 2025 06:27:59 GMT</pubDate>
+        <pubDate>Thu, 08 May 2025 11:16:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ヴイアライヴ】【人気のコミュボイス販売シリーズ】「1stLIVE打ち上げ差し入れコミュ」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></title>
+            <description><![CDATA[【ヴイアライヴ】【人気のコミュボイス販売シリーズ】「1stLIVE打ち上げ差し入れコミュ」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15493.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15493.html</guid>
+            <pubDate>Thu, 08 May 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/05/0fQqUf06P8Aa71O5oeYLdY3lAYeOzskP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】8月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場！！本日より受注開始！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_15273.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15273.html</guid>
+            <pubDate>Thu, 08 May 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/CiMha6Viup9Q5kGGtpZO3a99eEVz3OUU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】アイドル衣装を着た「有村麻央」「葛城リーリヤ」「倉本千奈」のちびぐるみが5月15日(木)よりクレーンゲームに登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15408.html</guid>
             <pubDate>Sun, 27 Apr 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM　​10th Anniversary 超GREATEST PASSION!!!!!!!!!!​　特別ステージ」告知まとめ]]></title>
-            <description><![CDATA[#SideM #SideM特別ステージ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15189.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15189.html</guid>
-            <pubDate>Sun, 27 Apr 2025 07:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/04/wFOPSz0dDjA7tUq7FPBK64KQ6WLb2HgW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】横浜公演 追加出演者発表！！現地チケット アソビストアプレミアム会員２次先行お申込み受付中&イベント公式グッズ事前販売第2弾実施中！]]></title>
-            <description><![CDATA[#SideM #SideM10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15395.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15395.html</guid>
-            <pubDate>Sun, 27 Apr 2025 05:56:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/fZCLbfYN0FFb5ngsnNOEzxKMLRlGzfx9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
