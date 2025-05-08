@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 May 2025 03:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 06:27:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 May 2025 03:41:10 GMT</pubDate>
+        <pubDate>Thu, 08 May 2025 06:27:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【学マス】アイドル衣装を着た「有村麻央」「葛城リーリヤ」「倉本千奈」のちびぐるみが5月15日(木)よりクレーンゲームに登場！]]></title>
@@ -233,20 +233,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/LAwupFXaNapN5yR5NdOSDI7N1VEROWeG.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! 会場物販情報公開&開催記念グッズ発売決定！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
-            <link>https://idolmaster-official.jp/news/01_15362.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15362.html</guid>
-            <pubDate>Wed, 30 Apr 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/jceFkEK6Hfuvs4NagfT4TznoD6oE03f9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリオン】【5/2(金)まで⏰】「アイドルマスター ミリオンライブ！×ANIMA」全39種類のコラボレーションイヤホンがASOBI STOREにて受注中！〆切をお見逃しなく！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
             <link>https://idolmaster-official.jp/news/01_15391.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15391.html</guid>
             <pubDate>Wed, 30 Apr 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/jwLbPMk17tutJoSm1iOGs8X0LYaZhyYn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! 会場物販情報公開&開催記念グッズ発売決定！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15362.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15362.html</guid>
+            <pubDate>Wed, 30 Apr 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/jceFkEK6Hfuvs4NagfT4TznoD6oE03f9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー東京公演公式グッズの数量限定事後販売がスタート！！「神崎蘭子」のグッズもASOBI STOREに追加されております♪]]></title>
