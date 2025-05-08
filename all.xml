@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 May 2025 02:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 May 2025 03:41:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 May 2025 02:40:58 GMT</pubDate>
+        <pubDate>Thu, 08 May 2025 03:41:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】アイドル衣装を着た「有村麻央」「葛城リーリヤ」「倉本千奈」のちびぐるみが5月15日(木)よりクレーンゲームに登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15345.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15345.html</guid>
+            <pubDate>Thu, 08 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/dcFsq9Dbe99PQGZdUku1UIT7wVMiAbsi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! 本日より配信チケット販売開始！！ストーリーとのお得なセットや定点カメラ映像も登場！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15470.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15470.html</guid>
+            <pubDate>Thu, 08 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/b2vW6QcgOjFTi7tg8MHNlLARZn35X8ou.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【公式】ドライブで聴きたいアイマスプレイリスト 公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15395.html</guid>
             <pubDate>Sun, 27 Apr 2025 05:56:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/fZCLbfYN0FFb5ngsnNOEzxKMLRlGzfx9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM　​10th Anniversary 超GREATEST PASSION!!!!!!!!!!​　特別ステージ」開催記念！出演キャストのサイン入り色紙プレゼント！ #SideM特別ステージ でポスト！]]></title>
-            <description><![CDATA[#SideM #SideM特別ステージ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15188.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15188.html</guid>
-            <pubDate>Sun, 27 Apr 2025 05:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/LLCZUOT28GrevlIP65cHglgLi9ZPG8WK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！！】【オケマス2025】公式グッズの事前物販は本日まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15405.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15405.html</guid>
-            <pubDate>Sun, 27 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
