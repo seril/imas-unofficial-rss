@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 May 2025 14:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 May 2025 02:39:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 May 2025 14:17:19 GMT</pubDate>
+        <pubDate>Fri, 09 May 2025 02:39:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】古今東西ちょちょいのちょいグッズ受注受付開始！！(6/1(日)まで)]]></title>
+            <description><![CDATA[#古今東西ちょちょいのちょい #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15507.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15507.html</guid>
+            <pubDate>Fri, 09 May 2025 01:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/QfDQqxyexzd978wwlUntbUOwwtQ1rhIn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【6/1(日)まで】「アイドルマスター ミリオンライブ！×BOOKOFF」本日より開催！📗✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15511.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15511.html</guid>
+            <pubDate>Fri, 09 May 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/iS83mK52oAuvVva5FLyI00gcz18V0XTc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ヴイアライヴ】【人気のコミュボイス販売シリーズ】「1stLIVE打ち上げ差し入れコミュ」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></title>
             <description><![CDATA[【ヴイアライヴ】【人気のコミュボイス販売シリーズ】「1stLIVE打ち上げ差し入れコミュ」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15399.html</guid>
             <pubDate>Sun, 27 Apr 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/dTLeazgCqqEw0yei6TC1XwgMMbI9kzff.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー東京公演DAY2のご鑑賞ありがとうございました！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー東京_day2]]></description>
-            <link>https://idolmaster-official.jp/news/01_15311.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15311.html</guid>
-            <pubDate>Sun, 27 Apr 2025 11:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/n7gQZt3o6cS6VY7YFJGwnjoFB8Rumshp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】アイマス20周年配信イベントのグッズの事前販売は本日まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15408.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15408.html</guid>
-            <pubDate>Sun, 27 Apr 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
