@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 May 2025 02:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 03:42:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 May 2025 02:43:50 GMT</pubDate>
+        <pubDate>Mon, 12 May 2025 03:42:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7th】現地チケットアソビストア一般会員先行のお申し込みは5月12日(月)12:00より受付スタート！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15439.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15439.html</guid>
+            <pubDate>Mon, 12 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/04/qJn7LYs1NHMeQlAdkHHUpsDJJIabKoIl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】本日締切！アソビストア会員先行抽選受付中！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_15517.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15517.html</guid>
+            <pubDate>Mon, 12 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/35hiSf3QHZ7C0au25fdc1nEkF5IKOqkM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】十王星南・秦谷美鈴 公式グッズ、受注開始！]]></title>
             <description><![CDATA[#学マス ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15361.html</guid>
             <pubDate>Wed, 30 Apr 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/LAwupFXaNapN5yR5NdOSDI7N1VEROWeG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【5/2(金)まで⏰】「アイドルマスター ミリオンライブ！×ANIMA」全39種類のコラボレーションイヤホンがASOBI STOREにて受注中！〆切をお見逃しなく！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15391.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15391.html</guid>
-            <pubDate>Wed, 30 Apr 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/jwLbPMk17tutJoSm1iOGs8X0LYaZhyYn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! 会場物販情報公開&開催記念グッズ発売決定！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
-            <link>https://idolmaster-official.jp/news/01_15362.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15362.html</guid>
-            <pubDate>Wed, 30 Apr 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/jceFkEK6Hfuvs4NagfT4TznoD6oE03f9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

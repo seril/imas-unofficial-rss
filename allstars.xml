@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 May 2025 02:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 03:42:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 May 2025 02:43:50 GMT</pubDate>
+        <pubDate>Mon, 12 May 2025 03:42:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】本日締切！アソビストア会員先行抽選受付中！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_15517.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15517.html</guid>
+            <pubDate>Mon, 12 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/35hiSf3QHZ7C0au25fdc1nEkF5IKOqkM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマス20周年イヤー】20th特別生配信　現地チケットのアソビストア一般会員2次先行が明日5月10日(土) 12:00よりスタート！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15016.html</guid>
             <pubDate>Fri, 21 Mar 2025 05:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/03/LfpYvmh4MisoK4coOBcEZYKi1NHs7W5A.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】コラボ限定グッズが当たる「モアクト推進ポスターコンテスト」が開催中！応募は3/24(月)11:59まで！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
-            <link>https://idolmaster-official.jp/news/01_14991.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14991.html</guid>
-            <pubDate>Tue, 18 Mar 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/NTRKusAt03zThEui0H3vHR7uplVoMbqk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
