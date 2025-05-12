@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 May 2025 06:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 May 2025 11:16:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 May 2025 06:28:40 GMT</pubDate>
+        <pubDate>Mon, 12 May 2025 11:16:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【公式】Uka,開催記念イルミネーションスターズ楽曲プレイリスト【シャニマス】 公開のお知らせ【アイドルマスター】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_15508.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15508.html</guid>
+            <pubDate>Mon, 12 May 2025 11:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/1kuhiwzHvVQnEnXGcqJWPW6UWUEy8Iuf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_Uka,】視聴コメント付きアーカイブ配信開始！開催記念商品は現在受注受付中！公演アンケートも実施中！]]></title>
+            <description><![CDATA[#イルミネ_Uka]]></description>
+            <link>https://idolmaster-official.jp/news/01_15504.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15504.html</guid>
+            <pubDate>Mon, 12 May 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/05/VDRFTWsPemCCqWmM6sR0ATtv96cecyZu.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【SideM】315 Production presents F＠NTASTIC COMBINATION LIVE ～CHOCOFFICERANGER!!～/～AtoZto!!～ 終了後感想会【アイドルマスター】]]></title>
+            <description><![CDATA[#アイマスch #SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15442.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15442.html</guid>
+            <pubDate>Mon, 12 May 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/Cw566Kdkrh4YcsIClyibuRKmGUqRwd63.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7th】現地チケットアソビストア一般会員先行のお申し込みは5月12日(月)12:00より受付スタート！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15353.html</guid>
             <pubDate>Thu, 01 May 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/Xs2Xrf4EGIoXznhPXpjoP9Kg6hgH5ftC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスターLOVELETSが新登場!!]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15402.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15402.html</guid>
-            <pubDate>Thu, 01 May 2025 01:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/ZVna5jBjm2uEyKmZ522uQPaWzoy98iX9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】藤田ことね×TRAVAS TOKYO コラボ 展開開始！]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15421.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15421.html</guid>
-            <pubDate>Thu, 01 May 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/04/sDSoGl5EsR9foEoINcb7cvSu3UUxV73p.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【デレステ】【有明アリーナ】10周年記念LIVEツアーの会場ができるまで【タイムラプス】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #デレステ10thツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15361.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15361.html</guid>
-            <pubDate>Wed, 30 Apr 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/LAwupFXaNapN5yR5NdOSDI7N1VEROWeG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
