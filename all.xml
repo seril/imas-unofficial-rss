@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 May 2025 06:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 11:16:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 May 2025 06:27:31 GMT</pubDate>
+        <pubDate>Wed, 14 May 2025 11:16:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「にゅ〜とろ」シリーズの予約が本日よりスタート！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15438.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15438.html</guid>
+            <pubDate>Wed, 14 May 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/04/BPhAmGKGgrxuYZhceXScWcjh52u6lhEf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!・AtoZto!! 各昼公演本編の冒頭無料生配信決定！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15541.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15541.html</guid>
+            <pubDate>Wed, 14 May 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/6qkfOYdNz12irFxWg8VOcB68I9Iu3Pqh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】大阪府高槻市の「ふたマス!!!!!! グッズ」が5月17日（土）から再販売決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
@@ -25,20 +41,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/BHTXElaWM7DwVT3zqHOHsZ18AF8pUwHm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[5月16日(金)発売、描き下ろしイラスト『ペインタースタイル』の新規グッズを追加発表！ラインナップをご紹介！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15500.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15500.html</guid>
-            <pubDate>Wed, 14 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/KhWluW5gRAfbyeJTW7PR9492ZsVYcRRt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! 本日5月14日(水)18:00より現地チケット一般発売2次(先着)受付開始！配信チケットも販売中！]]></title>
             <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
             <link>https://idolmaster-official.jp/news/01_15513.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15513.html</guid>
             <pubDate>Wed, 14 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/cCgXp76KBkYXOtwuBiWXfco6C1qImuxJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[5月16日(金)発売、描き下ろしイラスト『ペインタースタイル』の新規グッズを追加発表！ラインナップをご紹介！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15500.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15500.html</guid>
+            <pubDate>Wed, 14 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/aKSZlQx0Y973iJhTfHmvS1qX8FLax8Hk.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】『学園アイドルマスター』ローソンキャンペーン実施決定！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15469.html</guid>
             <pubDate>Fri, 02 May 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/05/UFwFSG4hQZGeqqCc9LVVwto4nfon68yQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【シャニマス】283 Production LIVE Performance Uka,終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #シャニマス  #イルミネ_Uka]]></description>
-            <link>https://idolmaster-official.jp/news/01_15348.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15348.html</guid>
-            <pubDate>Fri, 02 May 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/xr9quftg9DvE8SZKvTsUPh0zSI9R9CDA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】篠澤 広コラボのアパレルの雑貨が新登場！ 5月2日（金）より受注開始！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15458.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15458.html</guid>
-            <pubDate>Fri, 02 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/hYOoPcPB1bs7CtLtbXoAPdepmK7REUDZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
