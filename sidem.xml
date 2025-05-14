@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 May 2025 02:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 May 2025 03:40:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 May 2025 02:40:11 GMT</pubDate>
+        <pubDate>Wed, 14 May 2025 03:40:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! 本日5月14日(水)18:00より現地チケット一般発売2次(先着)受付開始！配信チケットも販売中！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15513.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15513.html</guid>
+            <pubDate>Wed, 14 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/cCgXp76KBkYXOtwuBiWXfco6C1qImuxJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】315!!!SHOP「スーパーウルトラ315!!!SHOP」物販・カフェコーナーの情報を公開！＆ASOBI STORE先行受注販売グッズが登場！ ]]></title>
             <description><![CDATA[#SideM ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15085.html</guid>
             <pubDate>Thu, 03 Apr 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/MqsjlliVMmhBeqOXgiu7wXvUu6wdoLjQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」第一期個人スポンサー募集開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスレーシングPJ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15131.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15131.html</guid>
-            <pubDate>Tue, 01 Apr 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/0UJxFME2gKSxWfYMAi7fkkDaG625O3XW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
