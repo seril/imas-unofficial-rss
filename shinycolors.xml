@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 May 2025 06:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 11:16:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 May 2025 06:28:00 GMT</pubDate>
+        <pubDate>Thu, 15 May 2025 11:16:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【アイマス20周年イヤー】「THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信」公式グッズの事前販売ファイナルがスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15575.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15575.html</guid>
+            <pubDate>Thu, 15 May 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/nY5bMXlQ3QSqhKVrH7oOzL0Ltnq542MH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】「THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS」公式グッズの事前販売ファイナル開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15576.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15576.html</guid>
+            <pubDate>Thu, 15 May 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/kGoJeWuuYzqFSybGGw3J113l8kiow8y0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】6月6日(金)より、西武園ゆうえんちでコラボイベント「『アイドルマスター』シリーズ レトロフェス」を開催！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #レトマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15292.html</guid>
             <pubDate>Fri, 18 Apr 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/04/gP551z4T0zI526FOZcsCYJV74nKXY0E4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism 裸足じゃイラレナイ / 明日もBeautiful Day / ハナムケのハナタバ / 青空」連動発売記念イベントグッズの一部事後通販決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15234.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15234.html</guid>
-            <pubDate>Fri, 18 Apr 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/04/Y6IcuTkwCLdc2kMiK5eCPKvMIGzT0yuD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【＃APラウンジ】【シャニマス7周年】アキバCOリポート＆黛 冬優子さんの新レアリティをプロデュース！ 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #シャニマス #283prosh_akb]]></description>
-            <link>https://idolmaster-official.jp/news/01_14943.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14943.html</guid>
-            <pubDate>Thu, 17 Apr 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/pKUnWc8x8KCUnoM121CkTqw1u3p97K9R.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
