@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 May 2025 06:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 May 2025 11:14:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 May 2025 06:25:09 GMT</pubDate>
+        <pubDate>Sat, 17 May 2025 11:14:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!! ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR]]></description>
+            <link>https://idolmaster-official.jp/news/01_15532.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15532.html</guid>
+            <pubDate>Sat, 17 May 2025 09:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/raTnMSbaHaZ7BjBT11rOPgU55lo8YbTA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】【明日まで！】8月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は5月18日(日)まで！グッズのサンプルをご紹介！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -15,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15573.html</guid>
             <pubDate>Sat, 17 May 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/8NhmdCB9e8r9pqZYS1JS9NW4sgooz6gW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!! LIVE Blu-ray 2025年11月12日(水) 発売決定！！本日より順次ご予約受付スタート！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR]]></description>
+            <link>https://idolmaster-official.jp/news/01_15528.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15528.html</guid>
+            <pubDate>Fri, 16 May 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/oKmc8J1bggkpA7Jul2JYjvD2nBrJ8ebr.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!!・AtoZto!! 開催記念グッズ & 一部イベント公式グッズ 販売スタート!!]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15219.html</guid>
             <pubDate>Sat, 12 Apr 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/jGieGcvDZgkyT0CoEorbPoaqgGjNMhxf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15220.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15220.html</guid>
-            <pubDate>Sat, 12 Apr 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」 SUPERGT2025 まもなく開幕！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15211.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15211.html</guid>
-            <pubDate>Fri, 11 Apr 2025 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/imBlcS9SCqisZy90QXLyaWOm7jlKJFmP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
