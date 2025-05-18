@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 May 2025 06:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 11:14:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 May 2025 06:26:21 GMT</pubDate>
+        <pubDate>Sun, 18 May 2025 11:14:09 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】AtoZto!!  ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_AZto #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_15536.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15536.html</guid>
+            <pubDate>Sun, 18 May 2025 09:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/05/m0z8Mhak2y0EJTnIR9VxFZJ2sJ11B6h0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】情報解禁！2025年10月4日(土)・5日(日) 幕張イベントホール＆2025年11月15日(土)・16日(日) オリックス劇場にて「315 Production presents F＠NTASTIC BATTLE FES ～Who goes first～」開催決定！！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_15580.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15580.html</guid>
+            <pubDate>Sun, 18 May 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/2LDq0SJNLVHWzr1Mz9wA139DjWPO1z92.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】AtoZto!! LIVE Blu-ray 2025年11月12日(水)  発売決定！！本日より順次ご予約受付スタート！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15531.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15531.html</guid>
+            <pubDate>Sun, 18 May 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/fr5c2zeIoMnN7c5hkvkfpETkDLs6T6o3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターツアービンゴ～Clash of Colors～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15509.html</guid>
             <pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/k9XmWMhC8YQpv1wHQ1bpAIUh1OIXl0FD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー】現地チケット情報｜沖縄公演【全席指定／スイート席】一般発売（先着,先着2次）／リセールの実施が決定！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15514.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15514.html</guid>
-            <pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/05/Lsc1Z5QRgiplGkehyD3nZOHONeuB7zKa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】古今東西ちょちょいのちょいグッズ受注受付開始！！(6/1(日)まで)]]></title>
-            <description><![CDATA[#古今東西ちょちょいのちょい #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15507.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15507.html</guid>
-            <pubDate>Fri, 09 May 2025 01:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/QfDQqxyexzd978wwlUntbUOwwtQ1rhIn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【6/1(日)まで】「アイドルマスター ミリオンライブ！×BOOKOFF」本日より開催！📗✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15511.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15511.html</guid>
-            <pubDate>Fri, 09 May 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/iS83mK52oAuvVva5FLyI00gcz18V0XTc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

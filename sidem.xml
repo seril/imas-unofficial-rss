@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 May 2025 06:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 11:14:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 May 2025 06:26:21 GMT</pubDate>
+        <pubDate>Sun, 18 May 2025 11:14:09 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】AtoZto!!  ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_AZto #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_15536.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15536.html</guid>
+            <pubDate>Sun, 18 May 2025 09:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/05/m0z8Mhak2y0EJTnIR9VxFZJ2sJ11B6h0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】情報解禁！2025年10月4日(土)・5日(日) 幕張イベントホール＆2025年11月15日(土)・16日(日) オリックス劇場にて「315 Production presents F＠NTASTIC BATTLE FES ～Who goes first～」開催決定！！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_15580.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15580.html</guid>
+            <pubDate>Sun, 18 May 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/2LDq0SJNLVHWzr1Mz9wA139DjWPO1z92.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】AtoZto!! LIVE Blu-ray 2025年11月12日(水)  発売決定！！本日より順次ご予約受付スタート！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15531.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15531.html</guid>
+            <pubDate>Sun, 18 May 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/fr5c2zeIoMnN7c5hkvkfpETkDLs6T6o3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!! ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
             <description><![CDATA[#SideM #SideMFANCOMLIVE_COR]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15231.html</guid>
             <pubDate>Tue, 15 Apr 2025 06:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/2020/09/15/アイマスブログ用SideMロゴ.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】4月15日(火)よりコトブキヤ限定商品「ヴォート」シリーズ第2弾が予約開始！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_15197.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15197.html</guid>
-            <pubDate>Tue, 15 Apr 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/04/w8SKVuGmDZqM5QI72k4ITZFKQsniLR3R.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15221.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15221.html</guid>
-            <pubDate>Sun, 13 Apr 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】【明日まで！】7月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は4月13日(日)まで！グッズのサンプルをご紹介！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_15219.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15219.html</guid>
-            <pubDate>Sat, 12 Apr 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/jGieGcvDZgkyT0CoEorbPoaqgGjNMhxf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
