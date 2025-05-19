@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 May 2025 03:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 May 2025 06:29:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 May 2025 03:46:50 GMT</pubDate>
+        <pubDate>Mon, 19 May 2025 06:29:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第6弾『イーリャンサンキュー』の発売が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第6弾『イーリャンサンキュー』の発売が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_15583.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15583.html</guid>
+            <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/Sq3TsSAnpf681EM6Q3VzDXaZllA85xJX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】ムービックより「学園アイドルマスター」のよりぬいミニが登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15492.html</guid>
             <pubDate>Fri, 09 May 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/05/13ttSze9LOsAuDJqHbkpqX6TmICicRON.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5月9日(金)整理券情報更新！【学マス1st】学園アイドルマスター The 1st Period Spotlight Star / Harmony Star「アニメイトカフェ出張版」＆「ばくだん焼本舗」出店決定！！]]></title>
-            <description><![CDATA[#学マス #学マス1st]]></description>
-            <link>https://idolmaster-official.jp/news/01_15356.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15356.html</guid>
-            <pubDate>Fri, 09 May 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/js8hpNYjILQfwz1ffUvXxjnH57WUvMbP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
