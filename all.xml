@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 May 2025 02:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 May 2025 03:41:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 May 2025 02:42:21 GMT</pubDate>
+        <pubDate>Tue, 20 May 2025 03:41:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション、ついに後半へ☆彡 第7弾「ふたご座」のアイドル17名がマニッシュでスマートな衣装で登場！受注は6/22(日)まで♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15574.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15574.html</guid>
+            <pubDate>Tue, 20 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/05/j8sJdbsPNatOZIhe0oy4vRT7kGFS8y65.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NCOMLIVE】AtoZto!! 正式版アーカイブ公開！公演アンケートも実施中！]]></title>
             <description><![CDATA[#SideM #SideMFANCOMLIVE_AZto]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15363.html</guid>
             <pubDate>Fri, 09 May 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/vNt6zSUNJ5FcVrDLSd1B0gXl3Hg9JyRr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】20th特別生配信　現地チケットのアソビストア一般会員2次先行が明日5月10日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15505.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15505.html</guid>
-            <pubDate>Fri, 09 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/XZeiMiPyawEOnE7Zk6T9lD4fV72GcfKU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
