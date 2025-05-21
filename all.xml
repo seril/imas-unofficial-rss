@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 May 2025 03:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 06:28:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 May 2025 03:41:21 GMT</pubDate>
+        <pubDate>Wed, 21 May 2025 06:28:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】★3 杜野 凛世が手に入るガシャ開催中！ さらに、コメティックのエピソード3を追加！]]></title>
+            <description><![CDATA[#シャニソン  #シャニソンハーフアニバ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15570.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15570.html</guid>
+            <pubDate>Wed, 21 May 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/05/IyAhXSTfaQsQrZBcuDjTjHoYLEwTByCL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】西城 樹里、郁田 はるきが登場するパラレルコレクションを開催中！コラボフェスの開催も！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15453.html</guid>
             <pubDate>Sat, 10 May 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/G1x4kg2fTaRbVIb6Zve7JjXZK5LnPbEV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】✩明日5月11日(日)まで✩「セレクトショップ プリヴェ」×PRアイドルグッズ第3弾が受注中！]]></title>
-            <description><![CDATA[#stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15343.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15343.html</guid>
-            <pubDate>Sat, 10 May 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/04/UQwpg4ihb0OvyyCUp7Tj02efvfKvdXPG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
