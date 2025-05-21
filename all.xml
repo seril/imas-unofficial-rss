@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 May 2025 06:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 11:16:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 May 2025 06:28:00 GMT</pubDate>
+        <pubDate>Wed, 21 May 2025 11:16:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】ローソンオリジナルグッズ販売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15518.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15518.html</guid>
+            <pubDate>Wed, 21 May 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/OaeAOFclirsWg9UngVaWMmytgjaEmw5U.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】★3 杜野 凛世が手に入るガシャ開催中！ さらに、コメティックのエピソード3を追加！]]></title>
             <description><![CDATA[#シャニソン  #シャニソンハーフアニバ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15499.html</guid>
             <pubDate>Sat, 10 May 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/04/SdIn8CgwjXSgJtSh0fmvjQa373VWmsWP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_Uka,】283 Production LIVE Performance Uka, Larva,1 ご来場・ご視聴いただきありがとうございました！！ 告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#SC_283Uka_Larva1 #イルミネ_Uka ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15453.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15453.html</guid>
-            <pubDate>Sat, 10 May 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/G1x4kg2fTaRbVIb6Zve7JjXZK5LnPbEV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
