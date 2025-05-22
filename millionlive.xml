@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 May 2025 06:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 11:16:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 May 2025 06:27:50 GMT</pubDate>
+        <pubDate>Thu, 22 May 2025 11:16:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》8月に向けて如月千早 ・萩原雪歩が登場！「花火」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル8月]]></description>
+            <link>https://idolmaster-official.jp/news/01_15571.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15571.html</guid>
+            <pubDate>Thu, 22 May 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/05/C95OwOpegUWw3qatWNDh3RC6jQIHPjPd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 「第1弾ツアーズレア」12種が2025年5月22日(木)より登場！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15131.html</guid>
             <pubDate>Tue, 01 Apr 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/0UJxFME2gKSxWfYMAi7fkkDaG625O3XW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、6月分予約受付中！ 特任プロデューサー就任キャンペーンも開催中♪]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15037.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15037.html</guid>
-            <pubDate>Tue, 01 Apr 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/x6cWRKeBvVL9XzEae8iYPxDc0egg0VYo.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
