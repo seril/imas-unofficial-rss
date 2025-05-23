@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 May 2025 02:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 03:41:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 May 2025 02:41:08 GMT</pubDate>
+        <pubDate>Fri, 23 May 2025 03:41:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】トレーディングカードゲーム『ヴァイスシュヴァルツ』でトライアルデッキ＆ブースターパック「学園アイドルマスター」が本日発売！！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15630.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15630.html</guid>
+            <pubDate>Fri, 23 May 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/uaxbm4EnipkJjO4av9rlWQoSLFkGRKWe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】カードゲーム用サプライ商品が新登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15631.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15631.html</guid>
+            <pubDate>Fri, 23 May 2025 03:31:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/Us6s63IVfVbnCkWw3BUeioxLPqMGbHkB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「学園アイドルマスター」の豪華なフレーム切手セットが5月23日（金）より発売!!]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15392.html</guid>
             <pubDate>Sat, 26 Apr 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[学园偶像大师 The 1st Period演唱会 上海上映会 票务信息解禁！4月28日18:00正式开售！]]></title>
-            <description><![CDATA[学园偶像大师 The 1st Period演唱会 上海上映会 票务信息解禁！4月28日18:00正式开售！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15384.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15384.html</guid>
-            <pubDate>Fri, 25 Apr 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/M6RzSZHS17jtLLba7nH833dFFyG4HWB7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】ゴールデンウィークもアイマスですよ！2025 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #GW]]></description>
-            <link>https://idolmaster-official.jp/news/01_15382.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15382.html</guid>
-            <pubDate>Fri, 25 Apr 2025 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/955hy4LsoGVx7TkFFl2aSAV0FFpUVUb4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
