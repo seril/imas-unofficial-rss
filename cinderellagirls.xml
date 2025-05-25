@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 May 2025 02:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 May 2025 03:46:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 May 2025 02:49:18 GMT</pubDate>
+        <pubDate>Sun, 25 May 2025 03:46:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[本日まで！ 【アイマス20周年イヤー】【オケマス2025】「THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS」公式グッズの事前販売ファイナル]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15660.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15660.html</guid>
+            <pubDate>Sun, 25 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/kGoJeWuuYzqFSybGGw3J113l8kiow8y0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】 ＼＼本日まで！／／おうし座14名は5/25(日)まで！星座にフィーチャーした190名のバースデーコレクション、第6弾「おうし座」＆第7弾「ふたご座」が受注中♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15673.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15673.html</guid>
+            <pubDate>Sun, 25 May 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/05/gGHVGZagsCek3qj1EGPBCbD4AQWkhlGC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】「THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS」公式グッズの事前販売ファイナルは5/25(日)まで！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15203.html</guid>
             <pubDate>Mon, 21 Apr 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/6heom6dI6thTgFnA2UvEXmYL3PLSoqnb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第5弾『スマイルファンタジー』の発売が決定！]]></title>
-            <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第5弾『スマイルファンタジー』の発売が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15294.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15294.html</guid>
-            <pubDate>Mon, 21 Apr 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/zItkl2piQdYMSXpefjbOXaTraR6JVHsu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー】現地チケット情報｜東京公演【見切れ席DAY2】一般販売2次（先着）の実施が決定！配信もございます♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15307.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15307.html</guid>
-            <pubDate>Mon, 21 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/dVd64u70VKX4WlxWNABo3O94P5ZteTx5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
