@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 May 2025 03:46:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 May 2025 06:25:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 May 2025 03:46:30 GMT</pubDate>
+        <pubDate>Sun, 25 May 2025 06:25:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[本日まで！【アイマス20周年イヤー】「THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信」公式グッズの事前販売ファイナル]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15661.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15661.html</guid>
+            <pubDate>Sun, 25 May 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/nY5bMXlQ3QSqhKVrH7oOzL0Ltnq542MH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日まで！ 【アイマス20周年イヤー】【オケマス2025】「THE IDOLM@STER 20th anniversary ORCHESTRA CONCERT SYMPHONY OF BRILLIANT STARS」公式グッズの事前販売ファイナル]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15043.html</guid>
             <pubDate>Tue, 25 Mar 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/Sg21XkKQ8yqQAGmaR0kjPXMRaSgKg6x1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】2026年1月24日(土) 如月千早武道館単独公演「OathONE」開催決定！アソビストアプレミアム会員最速先行は本日からスタート！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_15061.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15061.html</guid>
-            <pubDate>Tue, 25 Mar 2025 12:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/03/wpdWZ6Of12Ot3DVLfud8bB0la1sdjC8B.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
