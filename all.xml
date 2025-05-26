@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 May 2025 06:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 May 2025 11:15:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 May 2025 06:29:04 GMT</pubDate>
+        <pubDate>Mon, 26 May 2025 11:15:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Spotlight Star 視聴コメント付きアーカイブが本日より配信開始！公演アンケートも実施中！]]></title>
+            <description><![CDATA[#学マス1stSS_DAY1 #学マス1stSS_DAY2 #学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15678.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15678.html</guid>
+            <pubDate>Mon, 26 May 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/05/C252DwiBqKFLMZOWIAQaPd11jNaXXbRQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【学マス】The 1st Period Harmony Star 終了後感想会 決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #AP生配信 #学マス #学マス1st]]></description>
+            <link>https://idolmaster-official.jp/news/01_15543.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15543.html</guid>
+            <pubDate>Mon, 26 May 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/0u9swWjQsBXJZyP9aFaFoxx0joL7LuSl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』沖縄公演で会場オリジナルCDの発売が決定！]]></title>
             <description><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』沖縄公演で会場オリジナルCDの発売が決定！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15579.html</guid>
             <pubDate>Sat, 17 May 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/Ng5biRGC9TOXhMpRpZvjWh3bOiQ2VHhS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】CHOCOFFICERANGER!! ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR]]></description>
-            <link>https://idolmaster-official.jp/news/01_15532.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15532.html</guid>
-            <pubDate>Sat, 17 May 2025 09:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/raTnMSbaHaZ7BjBT11rOPgU55lo8YbTA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】【明日まで！】8月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は5月18日(日)まで！グッズのサンプルをご紹介！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_15573.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15573.html</guid>
-            <pubDate>Sat, 17 May 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/8NhmdCB9e8r9pqZYS1JS9NW4sgooz6gW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
