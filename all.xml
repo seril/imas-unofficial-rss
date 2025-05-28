@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 May 2025 14:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 May 2025 02:42:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 May 2025 14:18:43 GMT</pubDate>
+        <pubDate>Wed, 28 May 2025 02:42:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS “円環 -Halo around-” 01」ジャケット・INDEX・特典内容解禁！]]></title>
+            <description><![CDATA[#シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15677.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15677.html</guid>
+            <pubDate>Wed, 28 May 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/FCuokSBsOTh1oGRqyXWwmZcDj3g7zCXe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】フィギュア「花海咲季-Fighting My Way-」「花海佑芽-The Rolling Riceball-」ご予約受付中！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15580.html</guid>
             <pubDate>Sun, 18 May 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/2LDq0SJNLVHWzr1Mz9wA139DjWPO1z92.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】AtoZto!! LIVE Blu-ray 2025年11月12日(水)  発売決定！！本日より順次ご予約受付スタート！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_AZto]]></description>
-            <link>https://idolmaster-official.jp/news/01_15531.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15531.html</guid>
-            <pubDate>Sun, 18 May 2025 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/fr5c2zeIoMnN7c5hkvkfpETkDLs6T6o3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
