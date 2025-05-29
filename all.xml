@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 May 2025 03:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 May 2025 06:28:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 May 2025 03:43:41 GMT</pubDate>
+        <pubDate>Thu, 29 May 2025 06:28:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7th】≪愛知・青森公演≫のイベントグッズ事前販売ファイナルがスタート！！受注は6月8日(日)まで！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15717.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15717.html</guid>
+            <pubDate>Thu, 29 May 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/R3cVbRYOucoWc9eQ3NCz7t9SuuXQ9u22.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】5月30日(金)よりアソビストア会員2次先行抽選受付を開始！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_15692.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15692.html</guid>
+            <pubDate>Thu, 29 May 2025 05:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/05/tN0A0sXTtCXjJXPVSktkjvx7pj2Lwosy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレステ10thツアー】現地チケット情報｜福岡公演【全席指定】一般発売(先着）／リセールの実施が決定！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15583.html</guid>
             <pubDate>Mon, 19 May 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/Sq3TsSAnpf681EM6Q3VzDXaZllA85xJX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ムービックより「学園アイドルマスター」のよりぬいミニが登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15568.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15568.html</guid>
-            <pubDate>Mon, 19 May 2025 01:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/3pGKLG2AsngRC7tdc5iIfQhJ2G6tcU6H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】『学園アイドルマスター』eプリントブロマイド発売！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15170.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15170.html</guid>
-            <pubDate>Mon, 19 May 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/GT9oby7eNXAfMHn3Gus9oy33rAyvxz5s.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
