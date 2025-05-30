@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 May 2025 14:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 02:41:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 May 2025 14:18:26 GMT</pubDate>
+        <pubDate>Fri, 30 May 2025 02:41:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第５弾「学園アイドルマスター in 京都」情報解禁！]]></title>
+            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15651.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15651.html</guid>
+            <pubDate>Thu, 29 May 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/Www6BZ4nhXTTpgDEmUGBm3mDIafnkoY1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレステ10thツアー】現地チケット情報｜福岡公演【全席指定】一般発売(先着）／リセールの実施が決定！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15352.html</guid>
             <pubDate>Fri, 25 Apr 2025 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/XjhR02rExar27yLvdDhnejoqTXp8Hy1I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー東京】いよいよ今週末「Let's AMUSEMENT!!!」東京公演開催！盛りだくさんの当日企画・物販・配信情報を最終チェック！！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15309.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15309.html</guid>
-            <pubDate>Thu, 24 Apr 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/oo6DYDZcQReWQym7RpMy8zxYUMemBrNN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
