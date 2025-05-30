@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 May 2025 06:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 11:15:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 May 2025 06:27:23 GMT</pubDate>
+        <pubDate>Fri, 30 May 2025 11:15:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス1st】いよいよ明日！学園アイドルマスター The 1st Period Harmony Star は5月31日(土)・6月1日(日)開催！ 配信視聴チケット販売中！]]></title>
+            <description><![CDATA[#学マス1st #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15608.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15608.html</guid>
+            <pubDate>Fri, 30 May 2025 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/17phUyIFXFajnT4crufyt9nopgLPJLLj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】十王星南・秦谷美鈴 公式グッズ、受注〆切間近！]]></title>
+            <description><![CDATA[#学マス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15732.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15732.html</guid>
+            <pubDate>Fri, 30 May 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/u9gHgnV3EHfojhUO9MGKLIcNfzMg3xyO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ローソンオリジナルグッズ販売中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15737.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15737.html</guid>
+            <pubDate>Fri, 30 May 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/2VVyqUpSjsnQdlFJDtzxgEodOEZRIDOA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】PLUM PMOAより花海咲季・月村手毬のスケールフィギュア化が決定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15507.html</guid>
             <pubDate>Fri, 09 May 2025 01:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/QfDQqxyexzd978wwlUntbUOwwtQ1rhIn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】アイドル衣装を着た「有村麻央」「葛城リーリヤ」「倉本千奈」のちびぐるみが5月15日(木)よりクレーンゲームに登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15345.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15345.html</guid>
-            <pubDate>Thu, 08 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/dcFsq9Dbe99PQGZdUku1UIT7wVMiAbsi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【公式】ドライブで聴きたいアイマスプレイリスト 公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_15397.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15397.html</guid>
-            <pubDate>Wed, 07 May 2025 10:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/ZbNhM9jMieaIr7znxe6EwVCDydfTNORo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【＃APラウンジ】【学マス】1周年直前！誕生日記念Singleリリックビデオ鑑賞会 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15418.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15418.html</guid>
-            <pubDate>Wed, 07 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/iZqCLLMo6EX2ktCFtUx1OR5RoQoBzCaa.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

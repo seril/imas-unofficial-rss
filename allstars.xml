@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 May 2025 06:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 11:15:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 May 2025 06:27:23 GMT</pubDate>
+        <pubDate>Fri, 30 May 2025 11:15:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】2025年10月18日(土)・19日(日)「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」開催決定！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
+            <link>https://idolmaster-official.jp/news/01_15610.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15610.html</guid>
+            <pubDate>Fri, 30 May 2025 10:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/05/FgKRRa7WxXRtwlatFNqKZxcUxuhHPGwi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#パックマス】『パックマン』45周年 × 『アイドルマスター』20周年コラボ始動！フルバージョンコラボPV公開＆「Anime Expo 2025」展開決定！✈🌎✨]]></title>
             <description><![CDATA[#パックマス #pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15036.html</guid>
             <pubDate>Sat, 29 Mar 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/0EJHEKO3UuJY4SD73NE9qxzuqGkzPa7d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】20th特別生配信　現地チケットのアソビストア一般会員先行が明日3月29日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15096.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15096.html</guid>
-            <pubDate>Fri, 28 Mar 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/03/UpsVu1QSGkw95pxy9gRCp5Q0nIrYtfvq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

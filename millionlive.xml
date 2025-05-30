@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 May 2025 06:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 11:15:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 May 2025 06:27:23 GMT</pubDate>
+        <pubDate>Fri, 30 May 2025 11:15:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[765PRO ALLSTARS LIVE開催記念『NEVER END IDOL!!!!!!!!!!!!!応援セット』販売決定！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15572.html</guid>
             <pubDate>Thu, 29 May 2025 11:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/05/BTEXFuaZaMWz9aOrZHCfZ7OHat2ek0Ep.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】※6/8(日)まで※《SEASONAL SNAPSHOT》8月に向けて如月千早・萩原雪歩が登場！「花火」をイメージしたグッズが受注中！]]></title>
+            <description><![CDATA[#ミリオンシーズナル8月]]></description>
+            <link>https://idolmaster-official.jp/news/01_15706.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15706.html</guid>
+            <pubDate>Fri, 30 May 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/05/p3qa8E6yDamIZ07nZcXKtqQfyvYta4fL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「岩手競馬×アイドルマスター ミリオンライブ！」第2弾 開催決定！＆ 第1弾 コラボグッズの EC販売がスタート！【6/30(月)17:00まで】]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15632.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15632.html</guid>
+            <pubDate>Fri, 30 May 2025 08:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/CwwQ02XmnxgS9PFnzZxLK8aI207PmKI4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオン】【6/27(金)より】「アイドルマスター ミリオンライブ！ シアターデイズ 8th Anniversary in AKIHABARA ～秋葉原っぱフェスティバル～× カラオケの鉄人」開催決定🎤]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15282.html</guid>
             <pubDate>Sat, 19 Apr 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15281.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15281.html</guid>
-            <pubDate>Fri, 18 Apr 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスタートラストBOT～頂上決戦ヴィクトリー!!!!!!～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15236.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15236.html</guid>
-            <pubDate>Fri, 18 Apr 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/04/s7Nhci0xANtYudxLHFOYueZkw2860LEi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
