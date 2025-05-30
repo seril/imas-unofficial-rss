@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 May 2025 03:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 May 2025 06:27:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 May 2025 03:42:15 GMT</pubDate>
+        <pubDate>Fri, 30 May 2025 06:27:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[765PRO ALLSTARS LIVE開催記念『NEVER END IDOL!!!!!!!!!!!!!応援セット』販売決定！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15572.html</guid>
             <pubDate>Thu, 29 May 2025 11:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/05/BTEXFuaZaMWz9aOrZHCfZ7OHat2ek0Ep.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】PLUM PMOAより花海咲季・月村手毬のスケールフィギュア化が決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15731.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15731.html</guid>
+            <pubDate>Fri, 30 May 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/IeKsSUVvo45m3dTHA6v4zZcDFMdIBSxr.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】1/7スケールフィギュア「一ノ瀬 志希　ドルチェ・プエラVer.」がご予約受付中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15274.html</guid>
             <pubDate>Thu, 22 May 2025 12:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/05/YPd3MAPT7Xzr97wdi1nZy6ClYM8OJVPq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》8月に向けて如月千早 ・萩原雪歩が登場！「花火」をイメージしたグッズが受注開始！]]></title>
-            <description><![CDATA[#ミリオンシーズナル8月]]></description>
-            <link>https://idolmaster-official.jp/news/01_15571.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15571.html</guid>
-            <pubDate>Thu, 22 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/05/C95OwOpegUWw3qatWNDh3RC6jQIHPjPd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
