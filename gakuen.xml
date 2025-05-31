@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 May 2025 06:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 May 2025 11:14:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 May 2025 06:25:24 GMT</pubDate>
+        <pubDate>Sat, 31 May 2025 11:14:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 東京追加公演 2025年7月4日(金)に開催決定！！アソビストア会員先行(抽選)も開始！]]></title>
+            <description><![CDATA[ #学マス #学マスデビューライブツアー #学マス1stHS_DAY1]]></description>
+            <link>https://idolmaster-official.jp/news/01_15743.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15743.html</guid>
+            <pubDate>Sat, 31 May 2025 11:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/DcbpeCtVdktltbZNTW5JKDQ0Wyb51Rwg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス1st】いよいよ明日！学園アイドルマスター The 1st Period Harmony Star は5月31日(土)・6月1日(日)開催！ 配信視聴チケット販売中！]]></title>
             <description><![CDATA[#学マス1st #学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15509.html</guid>
             <pubDate>Fri, 09 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/k9XmWMhC8YQpv1wHQ1bpAIUh1OIXl0FD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】古今東西ちょちょいのちょいグッズ受注受付開始！！(6/1(日)まで)]]></title>
-            <description><![CDATA[#古今東西ちょちょいのちょい #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15507.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15507.html</guid>
-            <pubDate>Fri, 09 May 2025 01:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/QfDQqxyexzd978wwlUntbUOwwtQ1rhIn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

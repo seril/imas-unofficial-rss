@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 May 2025 06:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 May 2025 11:14:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 May 2025 06:25:24 GMT</pubDate>
+        <pubDate>Sat, 31 May 2025 11:14:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター DEBUT LIVE 初 TOUR -初陣公演- 東京追加公演 2025年7月4日(金)に開催決定！！アソビストア会員先行(抽選)も開始！]]></title>
+            <description><![CDATA[ #学マス #学マスデビューライブツアー #学マス1stHS_DAY1]]></description>
+            <link>https://idolmaster-official.jp/news/01_15743.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15743.html</guid>
+            <pubDate>Sat, 31 May 2025 11:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/DcbpeCtVdktltbZNTW5JKDQ0Wyb51Rwg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～U・N・M・E・I ライブ～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15364.html</guid>
             <pubDate>Sat, 24 May 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/qywpBoFJh7zwiRrTmHC3PJnyCW2ZurFY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】 ＼＼明日まで！／／おうし座14名は5/25(日)まで！星座にフィーチャーした190名のバースデーコレクション、第6弾「おうし座」＆第7弾「ふたご座」が受注中♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15671.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15671.html</guid>
-            <pubDate>Sat, 24 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/05/gGHVGZagsCek3qj1EGPBCbD4AQWkhlGC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
