@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Jun 2025 06:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 11:16:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Jun 2025 06:29:46 GMT</pubDate>
+        <pubDate>Mon, 02 Jun 2025 11:16:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズと沖縄サントリーアリーナとのコラボメニューの販売が決定✨]]></title>
+            <description><![CDATA[#imas_cg  #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15741.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15741.html</guid>
+            <pubDate>Mon, 02 Jun 2025 09:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/lcb5rA5W63EvzAa0oRuq0fK0zPAPfFqo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 沖縄公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15601.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15601.html</guid>
+            <pubDate>Mon, 02 Jun 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/uCHrsqhWuSqas96ldcfwBeg51sYglr6n.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「イーリャンサンキュー」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
             <description><![CDATA[【シンデレラ】「イーリャンサンキュー」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15382.html</guid>
             <pubDate>Fri, 25 Apr 2025 10:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/955hy4LsoGVx7TkFFl2aSAV0FFpUVUb4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー東京公演の開催記念グッズが受注開始！描き下ろしイラストも大公開！！協賛社グッズ販売もスタート♪]]></title>
-            <description><![CDATA[ #デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15308.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15308.html</guid>
-            <pubDate>Fri, 25 Apr 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/04/h6dIDLtQJJqtPX07NO5LZVbCOWBrGBrg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】いよいよ明日開催！デレステ10thツアー東京公演＜エントランスがオープン!!!＞冒頭無料配信やマルチアングルもございます♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15377.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15377.html</guid>
-            <pubDate>Fri, 25 Apr 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/04/AMxkDJb6lNfEQZy7BmitzPlQiarHRqQB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

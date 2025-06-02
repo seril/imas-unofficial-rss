@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Jun 2025 06:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jun 2025 11:16:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Jun 2025 06:29:46 GMT</pubDate>
+        <pubDate>Mon, 02 Jun 2025 11:16:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス1st】学園アイドルマスター The 1st Period Harmony Star 視聴コメント付きアーカイブが本日より配信開始！公演アンケートも実施中！]]></title>
+            <description><![CDATA[#学マス1st #学マス1stHS_DAY1 #学マス1stHS_DAY2]]></description>
+            <link>https://idolmaster-official.jp/news/01_15766.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15766.html</guid>
+            <pubDate>Mon, 02 Jun 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/06/zLdLKnNxPmHe9IHsKFPYxMKpNOQPxXfW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズと沖縄サントリーアリーナとのコラボメニューの販売が決定✨]]></title>
+            <description><![CDATA[#imas_cg  #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15741.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15741.html</guid>
+            <pubDate>Mon, 02 Jun 2025 09:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/lcb5rA5W63EvzAa0oRuq0fK0zPAPfFqo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】1周年を記念したケーキ缶が販売開始♪]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15735.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15735.html</guid>
+            <pubDate>Mon, 02 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/pL8J1YJYqds67KJZSZpKeirLcllTeR4R.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】『学園アイドルマスター』ドデカミンCPガール決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15686.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15686.html</guid>
+            <pubDate>Mon, 02 Jun 2025 08:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/t1pOtrc4VWZLVm9iJrPwvquOgXK6Jezt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 沖縄公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15601.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15601.html</guid>
+            <pubDate>Mon, 02 Jun 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/uCHrsqhWuSqas96ldcfwBeg51sYglr6n.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「イーリャンサンキュー」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
             <description><![CDATA[【シンデレラ】「イーリャンサンキュー」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
@@ -269,7 +309,7 @@
             <description><![CDATA[#ミリシタ #ミリオンライブ  #millionradio　#ミリシタUNMEI生配信]]></description>
             <link>https://idolmaster-official.jp/news/01_15275.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15275.html</guid>
-            <pubDate>Thu, 29 May 2025 12:00:00 GMT</pubDate>
+            <pubDate>Mon, 02 Jun 2025 07:37:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/05/H3zlM5pLWMKkfEZbnb2eCwwN3cbmMszD.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15543.html</guid>
             <pubDate>Mon, 26 May 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/0u9swWjQsBXJZyP9aFaFoxx0joL7LuSl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』沖縄公演で会場オリジナルCDの発売が決定！]]></title>
-            <description><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』沖縄公演で会場オリジナルCDの発売が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15655.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15655.html</guid>
-            <pubDate>Mon, 26 May 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/Qz0NcLZOmFOO3QxXZWtt9OxE2ofKWLU7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】[一つ踏み出した先に]のイラストをもとにした"葛城リーリヤ"のプライズフィギュアが登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15657.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15657.html</guid>
-            <pubDate>Mon, 26 May 2025 04:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/VlZicjPySCtLqgilWDGRYrWFv12eOSpw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】 「学園アイドルマスター　めじるしアクセサリー」がガシャポンに登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15654.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15654.html</guid>
-            <pubDate>Mon, 26 May 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/AwZNloqpJ4P3z0Q7yLvhsSnQsrK7A5pe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】PROOFより、クリアファイル4種セットが本日より予約スタート！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15612.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15612.html</guid>
-            <pubDate>Mon, 26 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/SE6It5RBt3EG62AZw04YqWDWpa9PgOb4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】毎年恒例の誕生日配信が3DLIVEでパワーアップ！「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」2025年7月1日(火) 開催決定！本日より配信チケット＆限定グッズ付き現地ライブビューイングチケット販売開始！]]></title>
-            <description><![CDATA[#愛夏誕生祭2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15674.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15674.html</guid>
-            <pubDate>Sun, 25 May 2025 12:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/05/G2xGKCZThlGem4wtSy8f9XPkb2oSn8AA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
