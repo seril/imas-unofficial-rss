@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Jun 2025 06:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 11:16:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 04 Jun 2025 06:28:26 GMT</pubDate>
+        <pubDate>Wed, 04 Jun 2025 11:16:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン12th】詳細情報公開！アソビストアプレミアム会員最速先行お申込み受付開始！]]></title>
+            <description><![CDATA[#ミリオン12th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15778.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15778.html</guid>
+            <pubDate>Wed, 04 Jun 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/06/U4R7jdxRPwHCt6yqWHtshtfl1e6WuR1K.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス1st】キャスト生出演オーコメ付き！学園アイドルマスター The 1st Period Spotlight Star アーカイブ同時視聴会の開催が決定！！配信視聴チケット販売中！]]></title>
+            <description><![CDATA[#学マス #学マス1st #学マス1stSS_DAY1 #学マス1stSS_DAY2]]></description>
+            <link>https://idolmaster-official.jp/news/01_15796.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15796.html</guid>
+            <pubDate>Wed, 04 Jun 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/yGP0Nk9w8WCXcFwzXJz0mRM5I5tGo1NG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】プロテインブランド「MY ROUTINE」からコラボレーションプロテインの発売が決定！「花海咲季」「花海佑芽」の2人のプロテインは6月11日(水)発売！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15690.html</guid>
             <pubDate>Wed, 28 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/05/QG1RMz5aloIQz6eTkj8ql8iXAINSxvpy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10周年記念ツアー「Let's AMUSEMENT!!!」福岡公演開演前企画「デレステFULLCOMBOチャレンジ@FUKUOKA」実施決定！参加者大募集♪]]></title>
-            <description><![CDATA[#stairs_to_10th #デレステ10thツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15506.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15506.html</guid>
-            <pubDate>Wed, 28 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/05/XzNAm0cqxFX5nFG2H16Fm4eyp4td1gvK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS “円環 -Halo around-” 01」ジャケット・INDEX・特典内容解禁！]]></title>
-            <description><![CDATA[#シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15677.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15677.html</guid>
-            <pubDate>Wed, 28 May 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/FCuokSBsOTh1oGRqyXWwmZcDj3g7zCXe.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
