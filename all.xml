@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Jun 2025 14:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jun 2025 02:44:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Jun 2025 14:19:10 GMT</pubDate>
+        <pubDate>Fri, 06 Jun 2025 02:44:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】ソル・インターナショナルより学マス1st先行販売商品の一般販売が決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15547.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15547.html</guid>
+            <pubDate>Fri, 06 Jun 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/C2QC6ibzrw5JZ2QQpBfr9hlcfuFrOflz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレステ10thツアー沖縄】いよいよ今週末「Let's AMUSEMENT!!!」沖縄公演開催！盛りだくさんの当日企画・物販・配信情報を最終チェック！！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15703.html</guid>
             <pubDate>Fri, 30 May 2025 03:04:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/PoWqMv4hiKa3tQ4pI4NDEH7Np97KVzkt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【6/27(金)より】「アイドルマスター ミリオンライブ！ シアターデイズ 8th Anniversary in AKIHABARA ～秋葉原っぱフェスティバル～× カラオケの鉄人」開催決定🎤]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン秋葉原っぱフェスティバル]]></description>
-            <link>https://idolmaster-official.jp/news/01_15724.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15724.html</guid>
-            <pubDate>Fri, 30 May 2025 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/sQ5sqV96VvcfxssvhaPenyrWCPramlhl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
