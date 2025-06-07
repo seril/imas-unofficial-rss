@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Jun 2025 03:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jun 2025 06:25:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Jun 2025 03:43:01 GMT</pubDate>
+        <pubDate>Sat, 07 Jun 2025 06:25:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】【明日まで！】CHOCOFFICERANGER!!・AtoZto!! 開催記念グッズの受注は6月8日(日)まで！一部商品サンプルもご紹介♪]]></title>
+            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
+            <link>https://idolmaster-official.jp/news/01_15793.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15793.html</guid>
+            <pubDate>Sat, 07 Jun 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/qWmvjk6rCvyhMlVTLoCpZEA4bRGwf4OO.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「Let’s AMUSEMENT!!! 沖縄公演」Cygamesフラワースタンド」出演キャストサインパネルを公開！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15706.html</guid>
             <pubDate>Fri, 30 May 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/05/p3qa8E6yDamIZ07nZcXKtqQfyvYta4fL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「岩手競馬×アイドルマスター ミリオンライブ！」第2弾 開催決定！＆ 第1弾 コラボグッズの EC販売がスタート！【6/30(月)17:00まで】]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15632.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15632.html</guid>
-            <pubDate>Fri, 30 May 2025 08:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/CwwQ02XmnxgS9PFnzZxLK8aI207PmKI4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
