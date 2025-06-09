@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Jun 2025 02:51:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jun 2025 03:51:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Jun 2025 02:51:00 GMT</pubDate>
+        <pubDate>Mon, 09 Jun 2025 03:51:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】『アイドルマスター SideM』とスイーツパラダイスのコラボカフェ第2弾が明日より開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_15800.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15800.html</guid>
+            <pubDate>Mon, 09 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/06/F7SFjb094sorWVsdKOdWRY43Dam47UxK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】2025年6月9日(月) 12:00より配信視聴チケットの販売がスタート！また現地チケット 着席指定席・見切れ席の先着販売も開始！「学園アイドルマスター 初星学園放送部公開録音2025 ～放送部の優雅で軽やかで大騒ぎな一日～」]]></title>
+            <description><![CDATA[#学マス #初星学園放送部]]></description>
+            <link>https://idolmaster-official.jp/news/01_15841.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15841.html</guid>
+            <pubDate>Mon, 09 Jun 2025 02:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/06/RZOCGsUnVRPQlwVNQDpTBCMupTRJLiTT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー沖縄公演DAY2のご鑑賞ありがとうございました！本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレステ10thツアー沖縄_day2]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15716.html</guid>
             <pubDate>Sat, 31 May 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/05/HaLGUmCsPv8Ulf6HcaSUhkwLXQzMyOtm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】★3 大崎 甘奈、七草 にちかが手に入るガシャ開催中！さらに、新衣装『ペールブランブライド』登場！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_15687.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15687.html</guid>
-            <pubDate>Fri, 30 May 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/05/zCJWzGKdmvoFkieflrvYx5fn4kQTPRcH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[765PRO ALLSTARS LIVE開催記念『NEVER END IDOL!!!!!!!!!!!!!応援セット』販売中！]]></title>
-            <description><![CDATA[#ミリシタ #ALLSTARS #765PRO]]></description>
-            <link>https://idolmaster-official.jp/news/01_15572.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15572.html</guid>
-            <pubDate>Thu, 29 May 2025 11:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/tH0dZeWVX83RHekVW5xbleu6aUnKvqVp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
