@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Jun 2025 06:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jun 2025 11:16:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Jun 2025 06:28:41 GMT</pubDate>
+        <pubDate>Tue, 10 Jun 2025 11:16:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[闪耀派对 in 上海 2025 活动售票今日已开启！]]></title>
+            <description><![CDATA[#シャニパ上海 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15846.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15846.html</guid>
+            <pubDate>Tue, 10 Jun 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/B5YLxdXLhqAKARSANAAmyGNOwoXOPFRX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】シャニパ上海のチケット販売が本日スタート！]]></title>
+            <description><![CDATA[#シャニパ上海 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15847.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15847.html</guid>
+            <pubDate>Tue, 10 Jun 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/QhG71S9ldmuW0SZNMPcU9Ym63wkQCTdP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】2025年8月23日(土)・24日(日)に幕張メッセにて開催！『ANICUL SONIC 2025』に「アイドルマスター SideM」が出演決定！！]]></title>
+            <description><![CDATA[#SideM #aniculsonic #アニカルソニック]]></description>
+            <link>https://idolmaster-official.jp/news/01_15786.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15786.html</guid>
+            <pubDate>Tue, 10 Jun 2025 09:11:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/jShPg3u8xJ0K7mgK07CpoKVkQAkNEF93.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】6/17(火) 19:00～ 学園アイドルマスター「初星学園HR #STEP3 紫雲清夏」生配信実施予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15797.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15797.html</guid>
+            <pubDate>Tue, 10 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/hyN9ivH65EJFWN0F6vR2Kcn7aadfGrxm.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】サントリー自販機で『学園アイドルマスター』オリジナルラベル缶を限定発売！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15845.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15845.html</guid>
+            <pubDate>Tue, 10 Jun 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/06/6gzodo7lkkAMHHGyuiPAsXzuKFSP4RxP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】★3 田中 摩美々、有栖川 夏葉が手に入るガシャ開催中！さらに、全体曲『Dye the sky.』が追加！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15735.html</guid>
             <pubDate>Mon, 02 Jun 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/pL8J1YJYqds67KJZSZpKeirLcllTeR4R.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】『学園アイドルマスター』ドデカミンCPガール決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15686.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15686.html</guid>
-            <pubDate>Mon, 02 Jun 2025 08:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/t1pOtrc4VWZLVm9iJrPwvquOgXK6Jezt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 沖縄公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15601.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15601.html</guid>
-            <pubDate>Mon, 02 Jun 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/ncPNvhuQllukosfJQifgqc7xSmb0Zeu3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「イーリャンサンキュー」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
-            <description><![CDATA[【シンデレラ】「イーリャンサンキュー」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15747.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15747.html</guid>
-            <pubDate>Mon, 02 Jun 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/ov7Kzj5RnPnUyeWVBuXqoFNhzSVKZH9r.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】COCOLLABOより1tst LIVE協賛商品の一般販売がスタート！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15662.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15662.html</guid>
-            <pubDate>Mon, 02 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/9rreWO2tYusXVpjSUYtszMGy8DJKnXXt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー】現地チケット情報｜沖縄公演【通常席】一般販売（先着2次）の実施が決定！配信もございます♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15745.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15745.html</guid>
-            <pubDate>Mon, 02 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/QYUKRfs8RVoJ1BCGYwQSyVHTonFoJnq4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
