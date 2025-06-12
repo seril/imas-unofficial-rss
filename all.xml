@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Jun 2025 11:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jun 2025 14:19:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Jun 2025 11:16:46 GMT</pubDate>
+        <pubDate>Thu, 12 Jun 2025 14:19:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
+            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
+            <link>https://idolmaster-official.jp/news/01_15682.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15682.html</guid>
+            <pubDate>Thu, 12 Jun 2025 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/C1YqwWJO0UA6AoigYtaWUgzUIkQXQiO2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs 』開催決定！アソビストアプレミアム会員最速先行は本日からスタート！ ]]></title>
             <description><![CDATA[#シンデレラガールズフェス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15617.html</guid>
             <pubDate>Wed, 04 Jun 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/05/9qX3bWIqJZdytEGPvnzmaCLr7X835MDV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】プロテインブランド「MY ROUTINE」からコラボレーションプロテインの発売が決定！「花海咲季」「花海佑芽」の2人のプロテインは6月11日(水)発売！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15542.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15542.html</guid>
-            <pubDate>Wed, 04 Jun 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/VCBKVgisBJ6Kf3hay0NXHCOP2dx37zNI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
