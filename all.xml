@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Jun 2025 02:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jun 2025 03:47:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Jun 2025 02:46:21 GMT</pubDate>
+        <pubDate>Fri, 13 Jun 2025 03:47:09 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】6月14日(土)12:00よりアイマスchにて開催決定！アイドルデビュー１周年記念24/7 LiveStreaming！あの最終オーディションLIVEや1stLIVEダイジェスト版を期間限定で公開！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】6月14日(土)12:00よりアイマスchにて開催決定！アイドルデビュー１周年記念24/7 LiveStreaming！あの最終オーディションLIVEや1stLIVEダイジェスト版を期間限定で公開！]]></description>
+            <link>https://idolmaster-official.jp/news/01_15891.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15891.html</guid>
+            <pubDate>Fri, 13 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/06/toJigODX9lGv3GZL1t8BC3g5QeTazpYO.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
             <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15796.html</guid>
             <pubDate>Wed, 04 Jun 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/yGP0Nk9w8WCXcFwzXJz0mRM5I5tGo1NG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#APラウンジ】【シンデレラガールズ】全国11箇所で開催！レジャフェス徹底紹介【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15617.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15617.html</guid>
-            <pubDate>Wed, 04 Jun 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/05/9qX3bWIqJZdytEGPvnzmaCLr7X835MDV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
