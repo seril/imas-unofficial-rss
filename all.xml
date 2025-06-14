@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Jun 2025 03:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jun 2025 06:25:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Jun 2025 03:42:50 GMT</pubDate>
+        <pubDate>Sat, 14 Jun 2025 06:25:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】【明日まで！】9月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は6月15日(日)まで！グッズのサンプルをご紹介♪]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_15705.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15705.html</guid>
+            <pubDate>Sat, 14 Jun 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/ZmW2H4n6YlljLjtVzNkPLDmHoRFY59mf.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】 ＼＼来週末まで！／／ふたご座17名は6/22(日)まで！星座にフィーチャーした190名のバースデーコレクション、第7弾「ふたご座」が受注中♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15818.html</guid>
             <pubDate>Thu, 05 Jun 2025 05:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/nuEZf6Oj6G5nDjuc0XTNveHB4CVkUJdT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニパ上海】THE IDOLM@STER SHINY COLORS -Shiny Party- in Shanghai 2025開催決定！]]></title>
-            <description><![CDATA[#シャニパ上海 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15814.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15814.html</guid>
-            <pubDate>Thu, 05 Jun 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/QhG71S9ldmuW0SZNMPcU9Ym63wkQCTdP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
