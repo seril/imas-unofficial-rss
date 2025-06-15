@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Jun 2025 02:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 03:51:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Jun 2025 02:53:53 GMT</pubDate>
+        <pubDate>Sun, 15 Jun 2025 03:51:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】本日締切！アソビストア会員2次先行抽選受付中！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_15909.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15909.html</guid>
+            <pubDate>Sun, 15 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/05/tN0A0sXTtCXjJXPVSktkjvx7pj2Lwosy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in ららぽーと磐田」開催決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス磐田]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15199.html</guid>
             <pubDate>Thu, 10 Apr 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765ミリオン】【さいたまスーパーアリーナ】ハッチポッチ2の会場ができるまで【タイムラプス】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ミリオンライブ #アイマスハッチポッチ2]]></description>
-            <link>https://idolmaster-official.jp/news/01_15171.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15171.html</guid>
-            <pubDate>Fri, 04 Apr 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/aPjw60ap0KFTCIk1jiZxgrfEryFPtlQN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
