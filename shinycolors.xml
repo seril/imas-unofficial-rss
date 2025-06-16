@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Jun 2025 03:51:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 06:30:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Jun 2025 03:51:39 GMT</pubDate>
+        <pubDate>Mon, 16 Jun 2025 06:30:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス＆学マス】アイドルマスターシリーズ 上海ポップアップストア2025梅影霓裳 開催決定！描きおろしイラストも公開♪]]></title>
+            <description><![CDATA[【シャニマス＆学マス】アイドルマスターシリーズ 上海ポップアップストア2025梅影霓裳 開催決定！描きおろしイラストも公開♪]]></description>
+            <link>https://idolmaster-official.jp/news/01_15886.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15886.html</guid>
+            <pubDate>Mon, 16 Jun 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/rfWyeFQUwuMPPAPsXcfAf120u70btiqe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【闪耀色彩 & 学园偶像大师】偶像大师系列 上海快闪店2025「梅影霓裳」举办决定！全新立绘同步公开♪]]></title>
+            <description><![CDATA[【闪耀色彩 & 学园偶像大师】偶像大师系列 上海快闪店2025「梅影霓裳」举办决定！全新立绘同步公开♪]]></description>
+            <link>https://idolmaster-official.jp/news/01_15889.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15889.html</guid>
+            <pubDate>Mon, 16 Jun 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/DEUIgTKnE8MlG6bAGwbY69xg29gfWBkH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】[バグ・ル]のイラストをもとに、樋口円香がプライズフィギュアに再登場！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15397.html</guid>
             <pubDate>Wed, 07 May 2025 10:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/ZbNhM9jMieaIr7znxe6EwVCDydfTNORo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アンサンブルスパークルのちびぐるみがナムコのお店で5月14日(水)より登場予定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15473.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15473.html</guid>
-            <pubDate>Wed, 07 May 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/iDc6qy7G430N8Dij9bgzWcGJfZqKvo51.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【24/7Stream】Uka,直前イルミネーションスターズ楽曲プレイリスト【シャニマス】【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマスch #イルミネ_Uka]]></description>
-            <link>https://idolmaster-official.jp/news/01_15466.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15466.html</guid>
-            <pubDate>Tue, 06 May 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/gV7LkznGMxxzyHAIgrGLH42DMhfEp2Mg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
