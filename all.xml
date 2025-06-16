@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Jun 2025 02:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 03:51:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Jun 2025 02:50:19 GMT</pubDate>
+        <pubDate>Mon, 16 Jun 2025 03:51:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』福岡公演で会場オリジナルCDの発売が決定！]]></title>
+            <description><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』福岡公演で会場オリジナルCDの発売が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_15900.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15900.html</guid>
+            <pubDate>Mon, 16 Jun 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/aca6qnkppNvoZSa4zTbkujgpCbWCQyhZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】[バグ・ル]のイラストをもとに、樋口円香がプライズフィギュアに再登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15567.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15567.html</guid>
+            <pubDate>Mon, 16 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/05/WP9CfI9e8VuHlV0Cp0uqiqNPSk1LSoxY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7th】愛知公演の現地チケットアソビストア一般会員先行が本日12時よりスタート！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15910.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15910.html</guid>
+            <pubDate>Mon, 16 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/i15IJBaLQljRodHHJEcgersNVJZE1OZS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】全種箔押しのインスタントフォト風カード！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15547.html</guid>
             <pubDate>Fri, 06 Jun 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/C2QC6ibzrw5JZ2QQpBfr9hlcfuFrOflz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー沖縄】いよいよ今週末「Let's AMUSEMENT!!!」沖縄公演開催！盛りだくさんの当日企画・物販・配信情報を最終チェック！！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15802.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15802.html</guid>
-            <pubDate>Thu, 05 Jun 2025 10:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/Fwz2Gekh85icSsWpMfzHCDKniLS4vj6S.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス大運動会】学園アイドルマスター クラス対抗初星大運動会 イベント公式グッズ事前販売 第1弾が本日6月5日(木) 19:00スタート！ 協賛社グッズも受注中！]]></title>
-            <description><![CDATA[#学マス #学マス大運動会 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15823.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15823.html</guid>
-            <pubDate>Thu, 05 Jun 2025 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/06/OpfDxwDv1MG2rgzwS1s9cOgC2P2hDYH4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】復刻！デレステ10th沖縄公演 開催記念！「アソビストア ガラポン」沖縄復刻スタート！全ピックアップ解放中♪]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15810.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15810.html</guid>
-            <pubDate>Thu, 05 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/f7s20B4JL2SLXnYjS9jNljZQzbdy4lry.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
