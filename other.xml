@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Jun 2025 06:30:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 11:17:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Jun 2025 06:30:34 GMT</pubDate>
+        <pubDate>Mon, 16 Jun 2025 11:17:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ヴイアライヴ】【最新ボイスシリーズ販売決定！】「vα-liv シチュエーションボイス2025　ジューンブライドボイス」BOOTHにて販売開始！ ライバーアイドル3名との様々なシチュエーションが楽しめる！#ヴイアラ]]></title>
+            <description><![CDATA[【ヴイアライヴ】【最新ボイスシリーズ販売決定！】「vα-liv シチュエーションボイス2025　ジューンブライドボイス」BOOTHにて販売開始！ ライバーアイドル3名との様々なシチュエーションが楽しめる！#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15921.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15921.html</guid>
+            <pubDate>Mon, 16 Jun 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/06/uRub4F7jaJuNjtCm1w9ijfc7Rp3Efm3p.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】6月14日(土)12:00よりアイマスchにて開催決定！アイドルデビュー１周年記念24/7 LiveStreaming！あの最終オーディションLIVEや1stLIVEダイジェスト版を期間限定で公開！]]></title>
             <description><![CDATA[【 #ヴイアラ 】6月14日(土)12:00よりアイマスchにて開催決定！アイドルデビュー１周年記念24/7 LiveStreaming！あの最終オーディションLIVEや1stLIVEダイジェスト版を期間限定で公開！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14502.html</guid>
             <pubDate>Sat, 08 Feb 2025 00:16:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/PR9UNwrTQWxVDrAxJiZN4k7e1JLSShEh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 ヴイアライヴ】【人気のコミュボイス販売シリーズ】「シーズナブルボイス 2024-2025 Winter」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></title>
-            <description><![CDATA[【 ヴイアライヴ】【人気のコミュボイス販売シリーズ】「シーズナブルボイス 2024-2025 Winter」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14482.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14482.html</guid>
-            <pubDate>Fri, 07 Feb 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/kOoD06yCI3Mq29xPvzxy9JXlXM2jQboi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
