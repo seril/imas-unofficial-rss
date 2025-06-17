@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Jun 2025 06:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jun 2025 11:16:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Jun 2025 06:28:55 GMT</pubDate>
+        <pubDate>Tue, 17 Jun 2025 11:16:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】三菱UFJ銀行「Buzz BANK」7月1日（火）アプリリリース＆「アイドルマスター」コラボキャンペーン開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #buzzbank #バズバンクアイドルマスターコラボ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15894.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15894.html</guid>
+            <pubDate>Tue, 17 Jun 2025 08:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/NLBR1o7ge4eNVx1sUilYYbt2YSR3g5SF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス765単独NEI】本日締切！アソビストア会員2次先行抽選受付中！]]></title>
             <description><![CDATA[#アイマス765単独NEI]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15200.html</guid>
             <pubDate>Thu, 10 Apr 2025 07:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】「THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信」公式グッズの事前販売がスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15199.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15199.html</guid>
-            <pubDate>Thu, 10 Apr 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/CslheEAeMlunqvdzZscMtuc4dDqDwT2g.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
