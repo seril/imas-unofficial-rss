@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 06:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 11:17:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jun 2025 06:28:56 GMT</pubDate>
+        <pubDate>Thu, 19 Jun 2025 11:17:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】「ASOBI STAGE」「YouTubeアイドルマスターチャンネル」にて福岡公演ライブ冒頭を【無料】配信！！配信チケットも販売中！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15941.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15941.html</guid>
+            <pubDate>Thu, 19 Jun 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/f23TNLBT7hdSOoJz83zbDywPK8ubYJVy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7th】≪横浜公演≫現地会場物販の実施が決定！！整理券受付は6月20日(金)13:00よりスタート♪現地物販でぬいぐるみポーチの販売決定！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15526.html</guid>
             <pubDate>Sun, 11 May 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/04/4O5yWcWRYK9e9r54ImsR3qpXSIkmFDdZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_Uka,】283 Production LIVE Performance Uka, Larva,1 ご来場・ご視聴いただきありがとうございました！！ 告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#SC_283Uka_Larva1 #イルミネ_Uka ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15453.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15453.html</guid>
-            <pubDate>Sat, 10 May 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/G1x4kg2fTaRbVIb6Zve7JjXZK5LnPbEV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

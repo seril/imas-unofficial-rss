@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 06:28:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 11:17:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jun 2025 06:28:56 GMT</pubDate>
+        <pubDate>Thu, 19 Jun 2025 11:17:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》9月に向けて菊地 真 ・四条貴音が登場！「洋館」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル9月]]></description>
+            <link>https://idolmaster-official.jp/news/01_15928.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15928.html</guid>
+            <pubDate>Thu, 19 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/06/xdAEGL80CvdkqAYjA9nhjeGr8wsZuHH2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン12th】イベント公式グッズの事前販売が本日よりスタート！アソビストアプレミアム会員最速先行も受付中！]]></title>
             <description><![CDATA[#ミリオン12th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15201.html</guid>
             <pubDate>Sat, 26 Apr 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/04/j2KIYHTWJcSWOQ67PTLYsiifDgMbJo76.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと1日！】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15392.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15392.html</guid>
-            <pubDate>Sat, 26 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
