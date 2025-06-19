@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 02:46:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 03:47:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jun 2025 02:46:41 GMT</pubDate>
+        <pubDate>Thu, 19 Jun 2025 03:47:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】PROOFより、にょきんとマスコットフィギュアVol.2が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15892.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15892.html</guid>
+            <pubDate>Thu, 19 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/1ptblb74biZHmkygSjd04a1kfFIgar4Q.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン12th】イベント公式グッズの事前販売が本日よりスタート！アソビストアプレミアム会員最速先行も受付中！]]></title>
+            <description><![CDATA[#ミリオン12th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15927.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15927.html</guid>
+            <pubDate>Thu, 19 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/06/2aL0MaxC31AlzaCqf8xASyWYhLxVifMp.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】初星学園放送部 公開録音2025 ～放送部の優雅で軽やかで大騒ぎな一日～ 視聴コメント付きアーカイブ配信中！公演アンケートも実施中！]]></title>
             <description><![CDATA[#初星学園放送部 #学マス放送部公録]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15843.html</guid>
             <pubDate>Mon, 09 Jun 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/B5YLxdXLhqAKARSANAAmyGNOwoXOPFRX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニパ上海のチケットは明日受付開始予定！特典グッズのデザインを公開✨]]></title>
-            <description><![CDATA[#シャニパ上海 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15844.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15844.html</guid>
-            <pubDate>Mon, 09 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/QhG71S9ldmuW0SZNMPcU9Ym63wkQCTdP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10周年記念ツアーLIVE「 Let's AMUSEMENT!!! 沖縄公演」 本日6月9日(月)より正式版アーカイブ開始！／アンケート実施のご案内]]></title>
-            <description><![CDATA[#stairs_to_10th #デレステ10thツアー #デレステ10thツアー沖縄_day1 #デレステ10thツアー沖縄_day2]]></description>
-            <link>https://idolmaster-official.jp/news/01_15792.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15792.html</guid>
-            <pubDate>Mon, 09 Jun 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/03/Q0PvwQPJMPs3Yp1oj8tisTGgSmV3Or9B.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
