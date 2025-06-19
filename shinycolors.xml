@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 03:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jun 2025 06:28:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jun 2025 03:47:30 GMT</pubDate>
+        <pubDate>Thu, 19 Jun 2025 06:28:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7th】≪横浜公演≫現地会場物販の実施が決定！！整理券受付は6月20日(金)13:00よりスタート♪現地物販でぬいぐるみポーチの販売決定！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15933.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15933.html</guid>
+            <pubDate>Thu, 19 Jun 2025 05:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/M2ES2fdigBCKsfwz0mNsQL4e4OZQNv43.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズ × 京王　コラボレーションキャンペーン　開催決定！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15453.html</guid>
             <pubDate>Sat, 10 May 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/05/G1x4kg2fTaRbVIb6Zve7JjXZK5LnPbEV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】20th特別生配信　現地チケットのアソビストア一般会員2次先行が明日5月10日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15505.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15505.html</guid>
-            <pubDate>Fri, 09 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/XZeiMiPyawEOnE7Zk6T9lD4fV72GcfKU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
