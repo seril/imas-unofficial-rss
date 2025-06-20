@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Jun 2025 14:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 02:45:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Jun 2025 14:18:44 GMT</pubDate>
+        <pubDate>Fri, 20 Jun 2025 02:45:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】コトブキヤくじ「アイドルマスター SideM Event Collection」第3弾が6月20日(金)より販売開始！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_15929.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15929.html</guid>
+            <pubDate>Fri, 20 Jun 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/zZrS4VCPJ1dEA9P3UD1VdDZMckug1VS8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】2025年6月30日(月)19:00～『ミリシタ8周年 百万祭∞生配信』配信予定！]]></title>
             <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信]]></description>
@@ -71,6 +79,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15927.html</guid>
             <pubDate>Thu, 19 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/06/2aL0MaxC31AlzaCqf8xASyWYhLxVifMp.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】キャラクターカードゲーム『ヴァイスシュヴァルツブラウ』より「アイドルマスター SideM BLAU NEW P@SSION!!!」が本日発売！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_15934.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15934.html</guid>
+            <pubDate>Fri, 20 Jun 2025 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/02/rs2raAaAFeymqgD2B9vMaYwf1lOnmxli.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】初星学園放送部 公開録音2025 ～放送部の優雅で軽やかで大騒ぎな一日～ 視聴コメント付きアーカイブ配信中！公演アンケートも実施中！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15846.html</guid>
             <pubDate>Tue, 10 Jun 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/B5YLxdXLhqAKARSANAAmyGNOwoXOPFRX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニパ上海のチケット販売が本日スタート！]]></title>
-            <description><![CDATA[#シャニパ上海 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15847.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15847.html</guid>
-            <pubDate>Tue, 10 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/QhG71S9ldmuW0SZNMPcU9Ym63wkQCTdP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】2025年8月23日(土)・24日(日)に幕張メッセにて開催！『ANICUL SONIC 2025』に「アイドルマスター SideM」が出演決定！！]]></title>
-            <description><![CDATA[#SideM #aniculsonic #アニカルソニック]]></description>
-            <link>https://idolmaster-official.jp/news/01_15786.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15786.html</guid>
-            <pubDate>Tue, 10 Jun 2025 09:11:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/jShPg3u8xJ0K7mgK07CpoKVkQAkNEF93.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
