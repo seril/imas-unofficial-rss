@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Jun 2025 03:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 06:28:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Jun 2025 03:46:36 GMT</pubDate>
+        <pubDate>Fri, 20 Jun 2025 06:28:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【雑談】アイマスchもうすぐ5周年なのでお知らせ5つ発表します！ 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ＃APラウンジ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15595.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15595.html</guid>
+            <pubDate>Fri, 20 Jun 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/06/hECz3yDNe2kI8DdyGmlU5tNoxQhWjwy9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ヴイアライヴ】【最新ボイスシリーズ販売決定！】「vα-liv シチュエーションボイス2025　ジューンブライドボイス」BOOTHにて販売開始！ ライバーアイドル3名との様々なシチュエーションが楽しめる！#ヴイアラ]]></title>
             <description><![CDATA[【ヴイアライヴ】【最新ボイスシリーズ販売決定！】「vα-liv シチュエーションボイス2025　ジューンブライドボイス」BOOTHにて販売開始！ ライバーアイドル3名との様々なシチュエーションが楽しめる！#ヴイアラ]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_14569.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14569.html</guid>
             <pubDate>Fri, 14 Feb 2025 10:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/PR9UNwrTQWxVDrAxJiZN4k7e1JLSShEh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【961】2月15日(土) ASOBISTAGEにて961 PRODUCTION presents 『Re:FLAME』 追加公演 [Re:FLAME/DUSK] 生オーディオコメンタリーの配信が決定！！！開催記念グッズの受注受付は2月16日(日)まで！]]></title>
-            <description><![CDATA[#reflame_961 #reflame_961_DUSK]]></description>
-            <link>https://idolmaster-official.jp/news/01_14502.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14502.html</guid>
-            <pubDate>Sat, 08 Feb 2025 00:16:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/PR9UNwrTQWxVDrAxJiZN4k7e1JLSShEh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
