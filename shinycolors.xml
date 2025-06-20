@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Jun 2025 06:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 11:16:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Jun 2025 06:28:34 GMT</pubDate>
+        <pubDate>Fri, 20 Jun 2025 11:16:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オケマス2025】現地チケットの一般販売(先着)とリセール販売が明日6月21日(土) よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_15951.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15951.html</guid>
+            <pubDate>Fri, 20 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/06/qCgr803t6w31sVMT9d5LP6jRFVnF8Hqe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】福岡公演はいよいよ明日から！配信チケット販売中♪ 一部イベントグッズの追加販売もスタート！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15856.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15856.html</guid>
+            <pubDate>Fri, 20 Jun 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/ckUAeYeTMmfo8j9R5F6dfkQaos95kTF2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【雑談】アイマスchもうすぐ5周年なのでお知らせ5つ発表します！ 配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch ＃APラウンジ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15508.html</guid>
             <pubDate>Mon, 12 May 2025 11:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/1kuhiwzHvVQnEnXGcqJWPW6UWUEy8Iuf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_Uka,】視聴コメント付きアーカイブ配信開始！開催記念商品は現在受注受付中！公演アンケートも実施中！]]></title>
-            <description><![CDATA[#イルミネ_Uka]]></description>
-            <link>https://idolmaster-official.jp/news/01_15504.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15504.html</guid>
-            <pubDate>Mon, 12 May 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/05/VDRFTWsPemCCqWmM6sR0ATtv96cecyZu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】現地チケットアソビストア一般会員先行のお申し込みは5月12日(月)12:00より受付スタート！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15439.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15439.html</guid>
-            <pubDate>Mon, 12 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/04/qJn7LYs1NHMeQlAdkHHUpsDJJIabKoIl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
