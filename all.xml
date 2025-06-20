@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Jun 2025 02:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jun 2025 03:46:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Jun 2025 02:45:51 GMT</pubDate>
+        <pubDate>Fri, 20 Jun 2025 03:46:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】【7/18(金)～】「アイドルマスター ミリオンライブ！×沖縄ダイニング琉歌～はいさい！さまーばけーしょん！～」詳細解禁🌺📢]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15940.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15940.html</guid>
+            <pubDate>Fri, 20 Jun 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/YsGQh4ZnuQQv9GgG3kefXTTDfHed9rCs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション☆彡 第8弾「かに座」のアイドル16名がレディライクで和モダンな衣装で登場！受注は7/27(日)まで♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15945.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15945.html</guid>
+            <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/HEcCGv4utEhByhKQa1Beki545xQfZDbO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アトレ秋葉原」物販・特典の情報を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15946.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15946.html</guid>
+            <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/pDUwzhHj6VXp9afHhA7WqiUXU2JbHHz4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アトレ秋葉原」開催！ 本日6/20(金)20時より、物販スペースの予約受付開始！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15947.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15947.html</guid>
+            <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/1QdjSRkI2wbCG6wG1d0Xfyfay4ZBZkV6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アキバ・トリム」開催！明日6/21(土)正午より、物販スペースの予約受付開始！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15948.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15948.html</guid>
+            <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/RdKNJnt0FsggwasLXYIAj9HOJ3FwtG97.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】コトブキヤくじ「アイドルマスター SideM Event Collection」第3弾が6月20日(金)より販売開始！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15871.html</guid>
             <pubDate>Thu, 12 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/pZo7sxd8y9FJh1f4bijUPK4MKYVzUNqb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】デレステ10thツアー「Let's AMUSEMENT!!!」福岡配信チケットの販売がスタート！！ライブ冒頭の無料生配信も実施予定♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15872.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15872.html</guid>
-            <pubDate>Thu, 12 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/zJKqMk13XTA2OYK7F2QgK6OeCiH58C7C.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in ららぽーと磐田」開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス磐田]]></description>
-            <link>https://idolmaster-official.jp/news/01_15865.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15865.html</guid>
-            <pubDate>Wed, 11 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】福岡公演　キャスト生出演オーコメ付き！アーカイブ同時視聴会の開催が決定！！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15866.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15866.html</guid>
-            <pubDate>Wed, 11 Jun 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/ED5HvHZjxZlaHAWBKARoBH3Iqm8k3vZ3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニ7th】福岡公演リセール情報＆横浜公演現地一般販売（先着）・配信チケット情報を公開！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15855.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15855.html</guid>
-            <pubDate>Wed, 11 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/wTY7uts1y6AsF7RHveeJao3kLRhIzpsE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[闪耀派对 in 上海 2025 活动售票今日已开启！]]></title>
-            <description><![CDATA[#シャニパ上海 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15846.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15846.html</guid>
-            <pubDate>Tue, 10 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/B5YLxdXLhqAKARSANAAmyGNOwoXOPFRX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
