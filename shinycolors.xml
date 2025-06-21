@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Jun 2025 06:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jun 2025 11:15:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Jun 2025 06:26:08 GMT</pubDate>
+        <pubDate>Sat, 21 Jun 2025 11:15:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】福岡公演DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_福岡_day1 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15858.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15858.html</guid>
+            <pubDate>Sat, 21 Jun 2025 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/0KycZbfUPcHyIA5iglEr2d1zx2Qen8ne.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS "円環 -Halo around-" 01」CD発売記念グッズの通販実施決定！]]></title>
             <description><![CDATA[#シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15515.html</guid>
             <pubDate>Thu, 15 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/05/7gJ1eHDHZB2N8zQ9SWWnd4c4kzxAepMl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】6月6日(金)より、西武園ゆうえんちでコラボイベント「『アイドルマスター』シリーズ レトロフェス」を開催！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #レトマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15548.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15548.html</guid>
-            <pubDate>Wed, 14 May 2025 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/BHTXElaWM7DwVT3zqHOHsZ18AF8pUwHm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
