@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Jun 2025 06:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 11:17:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Jun 2025 06:30:33 GMT</pubDate>
+        <pubDate>Mon, 23 Jun 2025 11:17:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】視聴コメント付きアーカイブ配信本日より開始！ / アンケート実施のご案内]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_福岡_day1 #シャニマス7th_福岡_day2 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15956.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15956.html</guid>
+            <pubDate>Mon, 23 Jun 2025 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/zkGLh1UratzpMoEoHDmp8feUBy8soOTK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター×ばくだん焼本舗」コラボ詳細公開！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15937.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15937.html</guid>
+            <pubDate>Mon, 23 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/t36q4rat0YJwculkiRufWmAWXiGlgfEt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 福岡公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15820.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15820.html</guid>
+            <pubDate>Mon, 23 Jun 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/06/CsqjlQLXaGGCM0Vlz241c1N452WSBlNJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレステ10thツアー】現地チケット情報｜福岡公演【通常席】一般販売（先着2次）の実施が決定！配信もございます♬]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15910.html</guid>
             <pubDate>Mon, 16 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/i15IJBaLQljRodHHJEcgersNVJZE1OZS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】全種箔押しのインスタントフォト風カード！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15849.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15849.html</guid>
-            <pubDate>Mon, 16 Jun 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/zIOPdtzJuRSTLJUJ7XMjlUO4kXD0zsn4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】初星学園放送部公開録音2025 ご参加ありがとうございました！ 本日の告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#学マス #学マス放送部公録_優雅 #学マス放送部公録_軽やか]]></description>
-            <link>https://idolmaster-official.jp/news/01_15906.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15906.html</guid>
-            <pubDate>Sun, 15 Jun 2025 12:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/06/p98uH7wlaHz7kQnPtWYMijlvPTjK8iCs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※本日締め切り！※【SideM10th】横浜公演 イベント公式グッズ直前販売は本日まで！10周年記念衣装「パッショネイトシンフォニー」を身にまとったアイドル達のグッズなどを数量限定販売！]]></title>
-            <description><![CDATA[#SideM #SideM10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15908.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15908.html</guid>
-            <pubDate>Sun, 15 Jun 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/06/4prJ5kMrvuIw8Vd30f9HtCXoYqYHtOby.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
