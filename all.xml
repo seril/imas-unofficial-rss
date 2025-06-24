@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Jun 2025 06:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 11:17:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Jun 2025 06:29:52 GMT</pubDate>
+        <pubDate>Tue, 24 Jun 2025 11:17:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アトレ秋葉原」開催！コラボフードの情報を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15975.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15975.html</guid>
+            <pubDate>Tue, 24 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/nq5lGBATcY65Xp0wl0BGlqwegkXJozng.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アキバ・トリム」コラボの詳細情報を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15976.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15976.html</guid>
+            <pubDate>Tue, 24 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/MrrmVJ7RiXgyVqYePBnu2Zhc6DfhFfhw.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[THE IDOLM@STERシリーズ 上海ポップアップストア2025梅影霓裳 注意事項や店舗予約などの詳細を公開！]]></title>
             <description><![CDATA[THE IDOLM@STERシリーズ 上海ポップアップストア2025梅影霓裳 注意事項や店舗予約などの詳細を公開！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15889.html</guid>
             <pubDate>Mon, 16 Jun 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/DEUIgTKnE8MlG6bAGwbY69xg29gfWBkH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス＆学マス】アイドルマスターシリーズ 上海ポップアップストア2025梅影霓裳 開催決定！描きおろしイラストも公開♪]]></title>
-            <description><![CDATA[【シャニマス＆学マス】アイドルマスターシリーズ 上海ポップアップストア2025梅影霓裳 開催決定！描きおろしイラストも公開♪]]></description>
-            <link>https://idolmaster-official.jp/news/01_15886.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15886.html</guid>
-            <pubDate>Mon, 16 Jun 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/rfWyeFQUwuMPPAPsXcfAf120u70btiqe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』福岡公演で会場オリジナルCDの発売が決定！]]></title>
-            <description><![CDATA[【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!!』福岡公演で会場オリジナルCDの発売が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15900.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15900.html</guid>
-            <pubDate>Mon, 16 Jun 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/aca6qnkppNvoZSa4zTbkujgpCbWCQyhZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

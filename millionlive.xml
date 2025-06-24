@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Jun 2025 06:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 11:17:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 24 Jun 2025 06:29:52 GMT</pubDate>
+        <pubDate>Tue, 24 Jun 2025 11:17:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アトレ秋葉原」開催！コラボフードの情報を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15975.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15975.html</guid>
+            <pubDate>Tue, 24 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/nq5lGBATcY65Xp0wl0BGlqwegkXJozng.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アキバ・トリム」コラボの詳細情報を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15976.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15976.html</guid>
+            <pubDate>Tue, 24 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/MrrmVJ7RiXgyVqYePBnu2Zhc6DfhFfhw.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン12th】本日締切！アソビストアプレミアム会員最速先行抽選受付中！イベント公式グッズも事前販売中！]]></title>
             <description><![CDATA[#ミリオン12th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15477.html</guid>
             <pubDate>Fri, 02 May 2025 12:55:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/05/PG2ljMf8xbrJmYCcjjuZKZ4YEXnh4f17.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【通販は5/18(日)まで】「アイドルマスター ミリオンライブ！×カラオケの鉄人～SAKURA PARTY～」ASOBI STOREにてグッズ通販開始🌸ここでしか買えない限定BIGアクリルスタンドもお見逃しなく！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15475.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15475.html</guid>
-            <pubDate>Fri, 02 May 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/oNSgZU6CfUReZxPFaHLYlS36B66xkX61.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】※5/11(日)まで※《SEASONAL SNAPSHOT》7月に向けて北沢志保・高山紗代子が登場！「夏の海」をイメージしたグッズが受注中！]]></title>
-            <description><![CDATA[#ミリオンシーズナル7月]]></description>
-            <link>https://idolmaster-official.jp/news/01_15325.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15325.html</guid>
-            <pubDate>Fri, 02 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/rsITcnaL1BF0VWGY5BQXCAis3fC5AuIx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
