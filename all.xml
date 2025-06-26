@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Jun 2025 03:48:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 06:29:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Jun 2025 03:48:34 GMT</pubDate>
+        <pubDate>Thu, 26 Jun 2025 06:29:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM × NewDays」コラボ開催決定！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_15996.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15996.html</guid>
+            <pubDate>Thu, 26 Jun 2025 05:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/bNOFhha4MaL3A5bNC14VcLgeviBETKwV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】初陣公演東京追加公演現地チケット一般販売（先着）は6月28日(土) 10:00～開始！]]></title>
             <description><![CDATA[#学マスライブツアー #学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15921.html</guid>
             <pubDate>Mon, 16 Jun 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/06/uRub4F7jaJuNjtCm1w9ijfc7Rp3Efm3p.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【シャニマス】THE IDOLM@STER SHINY COLORS 7th UNITLIVE TOUR 円環 -Halo around- first quadrant 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #シャニマス  #シャニマス7thUNITTOUR]]></description>
-            <link>https://idolmaster-official.jp/news/01_15720.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15720.html</guid>
-            <pubDate>Mon, 16 Jun 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/05/1wl6bMgMnalnmZk9GWm3tMoe2tyxtJfB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
