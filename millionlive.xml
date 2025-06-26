@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Jun 2025 11:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 14:18:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Jun 2025 11:17:05 GMT</pubDate>
+        <pubDate>Thu, 26 Jun 2025 14:18:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【#APラウンジ】【ミリシタ】8周年を∞にお祝いする配信のお知らせ【アイドルマスター】]]></title>
+            <description><![CDATA[#アイマスch ＃APラウンジ #ミリシタ #ミリオン秋葉原っぱフェスティバル]]></description>
+            <link>https://idolmaster-official.jp/news/01_15833.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15833.html</guid>
+            <pubDate>Thu, 26 Jun 2025 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/GAmes2R2eLtEihNTtICCUl41EtkOwBQ6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【明日6月27日(金)から！】アイドルマスター ミリオンライブ！ シアターデイズ 8th Anniversary in AKIHABARA ～秋葉原っぱフェスティバル～ ]]></title>
             <description><![CDATA[#ミリオンライブ　#ミリオン秋葉原っぱフェスティバル]]></description>
@@ -105,8 +113,8 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/RdKNJnt0FsggwasLXYIAj9HOJ3FwtG97.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリシタ】2025年6月30日(月)19:00～『ミリシタ8周年 百万祭∞生配信』配信予定！]]></title>
-            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信]]></description>
+            <title><![CDATA[≪2025.6.26(木)21:30更新≫【ミリシタ】2025年6月30日(月)19:00～『ミリシタ8周年 百万祭∞生配信』配信予定！]]></title>
+            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信 #祝ミリシタ8周年]]></description>
             <link>https://idolmaster-official.jp/news/01_15918.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15918.html</guid>
             <pubDate>Thu, 19 Jun 2025 12:15:00 GMT</pubDate>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15505.html</guid>
             <pubDate>Fri, 09 May 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/XZeiMiPyawEOnE7Zk6T9lD4fV72GcfKU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【6/1(日)まで】「アイドルマスター ミリオンライブ！×BOOKOFF」本日より開催！📗✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15511.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15511.html</guid>
-            <pubDate>Fri, 09 May 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/iS83mK52oAuvVva5FLyI00gcz18V0XTc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
