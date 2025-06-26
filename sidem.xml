@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Jun 2025 06:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 11:17:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Jun 2025 06:29:46 GMT</pubDate>
+        <pubDate>Thu, 26 Jun 2025 11:17:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 20周年前夜祭生配信おたより募集！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_15939.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15939.html</guid>
+            <pubDate>Thu, 26 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/GKq9PkvtuSdVW4MJTIYL9HJlTycPIRyO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】7月19日(土) 19:00～ 「アイドルマスター20周年前夜祭生配信」配信決定！さらにTVアニメ「アイドルマスター」がTOKYO MXにて7月より放送決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_15935.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15935.html</guid>
+            <pubDate>Thu, 26 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/zKV5FcZ9E5byarhXFHyCqzC9iyRhsmm6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM × NewDays」コラボ開催決定！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15537.html</guid>
             <pubDate>Tue, 13 May 2025 06:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/Btm8sP3oFbAnVH6f9SYB2v5gfqdQhFZP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM 10th ANNIVERSARY P@SSION 16 C.FIRST」CD情報！]]></title>
-            <description><![CDATA[#SideM #SideM10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15540.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15540.html</guid>
-            <pubDate>Tue, 13 May 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/2020/09/15/アイマスブログ用SideMロゴ.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【SideM】315 Production presents F＠NTASTIC COMBINATION LIVE ～CHOCOFFICERANGER!!～/～AtoZto!!～ 終了後感想会【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマスch #SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
-            <link>https://idolmaster-official.jp/news/01_15442.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15442.html</guid>
-            <pubDate>Mon, 12 May 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/Cw566Kdkrh4YcsIClyibuRKmGUqRwd63.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

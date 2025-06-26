@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Jun 2025 06:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 11:17:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Jun 2025 06:29:47 GMT</pubDate>
+        <pubDate>Thu, 26 Jun 2025 11:17:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 20周年前夜祭生配信おたより募集！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_15939.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15939.html</guid>
+            <pubDate>Thu, 26 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/GKq9PkvtuSdVW4MJTIYL9HJlTycPIRyO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】7月19日(土) 19:00～ 「アイドルマスター20周年前夜祭生配信」配信決定！さらにTVアニメ「アイドルマスター」がTOKYO MXにて7月より放送決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_15935.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15935.html</guid>
+            <pubDate>Thu, 26 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/zKV5FcZ9E5byarhXFHyCqzC9iyRhsmm6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[THE IDOLM@STERシリーズ 上海ポップアップストア2025梅影霓裳 注意事項や店舗予約などの詳細を公開！]]></title>
             <description><![CDATA[THE IDOLM@STERシリーズ 上海ポップアップストア2025梅影霓裳 注意事項や店舗予約などの詳細を公開！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15621.html</guid>
             <pubDate>Fri, 23 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/05/UbFRKOvg7EJ1ZVaEMgwnZwbbb9yfoBPA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】6月6日(金)から『事務的光空記録』『コヒーレントライト』のPOP UP SHOPが開催決定！]]></title>
-            <description><![CDATA[#シャニマス #ジムシャニ #コヒーレントライト]]></description>
-            <link>https://idolmaster-official.jp/news/01_15615.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15615.html</guid>
-            <pubDate>Thu, 22 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/BrxklAX54WX7p4XJmHwOAY1lG3HOn81t.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 「第1弾ツアーズレア」12種が2025年5月22日(木)より登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15614.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15614.html</guid>
-            <pubDate>Thu, 22 May 2025 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/O1biVcWIsdbFJz7sHVaraE4xV6XiO4Yp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

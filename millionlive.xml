@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Jun 2025 06:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jun 2025 11:17:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Jun 2025 06:29:46 GMT</pubDate>
+        <pubDate>Thu, 26 Jun 2025 11:17:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】【明日6月27日(金)から！】アイドルマスター ミリオンライブ！ シアターデイズ 8th Anniversary in AKIHABARA ～秋葉原っぱフェスティバル～ ]]></title>
+            <description><![CDATA[#ミリオンライブ　#ミリオン秋葉原っぱフェスティバル]]></description>
+            <link>https://idolmaster-official.jp/news/01_15980.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15980.html</guid>
+            <pubDate>Thu, 26 Jun 2025 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/rnBoBqOErrHYA96bqeXzKNBhahGttwPo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 20周年前夜祭生配信おたより募集！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_15939.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15939.html</guid>
+            <pubDate>Thu, 26 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/GKq9PkvtuSdVW4MJTIYL9HJlTycPIRyO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】7月19日(土) 19:00～ 「アイドルマスター20周年前夜祭生配信」配信決定！さらにTVアニメ「アイドルマスター」がTOKYO MXにて7月より放送決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_15935.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15935.html</guid>
+            <pubDate>Thu, 26 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/zKV5FcZ9E5byarhXFHyCqzC9iyRhsmm6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アトレ秋葉原」開催！コラボフードの情報を公開！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15511.html</guid>
             <pubDate>Fri, 09 May 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/03/iS83mK52oAuvVva5FLyI00gcz18V0XTc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【公式】ドライブで聴きたいアイマスプレイリスト 公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_15397.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15397.html</guid>
-            <pubDate>Wed, 07 May 2025 10:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/ZbNhM9jMieaIr7znxe6EwVCDydfTNORo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アンサンブルスパークルのちびぐるみがナムコのお店で5月14日(水)より登場予定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15473.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15473.html</guid>
-            <pubDate>Wed, 07 May 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/iDc6qy7G430N8Dij9bgzWcGJfZqKvo51.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「KIMCHIKURA Fes VOL.4」に「ミリオンライブ！」「シャイニーカラーズ」の出演が決定！]]></title>
-            <description><![CDATA[「KIMCHIKURA Fes VOL.4」に「ミリオンライブ！」「シャイニーカラーズ」の出演が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15477.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15477.html</guid>
-            <pubDate>Fri, 02 May 2025 12:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/05/PG2ljMf8xbrJmYCcjjuZKZ4YEXnh4f17.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
