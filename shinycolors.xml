@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Jun 2025 02:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 03:49:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Jun 2025 02:47:59 GMT</pubDate>
+        <pubDate>Fri, 27 Jun 2025 03:49:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】＜応募終了まであと3日！＞ 森永製菓「板チョコアイス」とのコラボキャンペーンが開催中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_15989.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15989.html</guid>
+            <pubDate>Fri, 27 Jun 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/lOnd2otyDrFtzyN9OZkFa4fuqwLy481L.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】7月7日(月) 19:00～ 声優陣3名が出演する生配信を実施予定！]]></title>
+            <description><![CDATA[#シャニマス #シャニソン #シャイニーカラーズ #シャニマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_15522.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15522.html</guid>
+            <pubDate>Fri, 27 Jun 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/06/QqIobQv5qFLkRI5YxNPoGbVCVYzU4CNk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 20周年前夜祭生配信おたより募集！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15646.html</guid>
             <pubDate>Sat, 24 May 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/nY5bMXlQ3QSqhKVrH7oOzL0Ltnq542MH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「アイドルマスター シャイニーカラーズ × サンリオキャラクターズ コラボフェア in アニメイト」が開催決定！]]></title>
-            <description><![CDATA[【シャニマス】「アイドルマスター シャイニーカラーズ × サンリオキャラクターズ コラボフェア in アニメイト」が開催決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15635.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15635.html</guid>
-            <pubDate>Fri, 23 May 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/05/1XdkduPZDGOdnTESvpzYbLKXcrD0aIA2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「ナガノアニエラフェスタ2025」にアンティーカとコメティックの出演が決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15621.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15621.html</guid>
-            <pubDate>Fri, 23 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/05/UbFRKOvg7EJ1ZVaEMgwnZwbbb9yfoBPA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
