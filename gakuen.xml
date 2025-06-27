@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Jun 2025 06:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jun 2025 11:16:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Jun 2025 06:29:22 GMT</pubDate>
+        <pubDate>Fri, 27 Jun 2025 11:16:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【アイマス20周年イヤー】20th特別生配信　現地チケットの一般販売(先着)とリセール販売が明日6月28日(土) よりスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16008.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16008.html</guid>
+            <pubDate>Fri, 27 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/06/OPb5h0VmeCPrDdxUh89XpzvVBgnqYgB1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】ローソンにて『学園アイドルマスター』オリジナルグッズ発売！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15608.html</guid>
             <pubDate>Fri, 30 May 2025 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/17phUyIFXFajnT4crufyt9nopgLPJLLj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】十王星南・秦谷美鈴 公式グッズ、受注〆切間近！]]></title>
-            <description><![CDATA[#学マス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15732.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15732.html</guid>
-            <pubDate>Fri, 30 May 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/u9gHgnV3EHfojhUO9MGKLIcNfzMg3xyO.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
