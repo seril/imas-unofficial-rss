@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 27 Jun 2025 14:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 02:42:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 27 Jun 2025 14:18:40 GMT</pubDate>
+        <pubDate>Sat, 28 Jun 2025 02:42:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「Let’s AMUSEMENT!!! 福岡公演」Cygamesフラワースタンド」出演キャストサインパネルを公開！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15970.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15970.html</guid>
+            <pubDate>Sat, 28 Jun 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/YDpE1xYuIsjRgZ2IRmIEeMQfFEEI24Bl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】復刻！デレステ10th福岡公演 開催記念！「アソビストア ガラポン」福岡復刻スタート！全ピックアップ解放中♪]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15671.html</guid>
             <pubDate>Sat, 24 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/05/gGHVGZagsCek3qj1EGPBCbD4AQWkhlGC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー「Let's AMUSEMENT!!!」沖縄配信チケットの販売がスタート！！ライブ冒頭の無料生配信も実施予定♬]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15611.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15611.html</guid>
-            <pubDate>Fri, 23 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/05/5B1xNO0yJ1vc8qCY7aWP2QeGRiHyW9wm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
