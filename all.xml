@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Jun 2025 06:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jun 2025 11:15:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Jun 2025 06:26:10 GMT</pubDate>
+        <pubDate>Sat, 28 Jun 2025 11:15:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー福岡公演DAY1のご鑑賞ありがとうございました！ 本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー福岡_day1]]></description>
+            <link>https://idolmaster-official.jp/news/01_15874.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15874.html</guid>
+            <pubDate>Sat, 28 Jun 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/g5yHNJ6A1lB9aw2GRm0Nc5cVo1eayHli.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】SSR出現率2倍！「ミリオンリンケージ　ギョーカイ×SisterS編」開催中！]]></title>
             <description><![CDATA[#ミリシタ #ミリリン]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15946.html</guid>
             <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/pDUwzhHj6VXp9afHhA7WqiUXU2JbHHz4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アトレ秋葉原」開催！ 本日6/20(金)20時より、物販スペースの予約受付開始！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15947.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15947.html</guid>
-            <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/1QdjSRkI2wbCG6wG1d0Xfyfay4ZBZkV6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
