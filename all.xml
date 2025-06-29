@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Jun 2025 14:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jun 2025 02:57:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Jun 2025 14:16:17 GMT</pubDate>
+        <pubDate>Sun, 29 Jun 2025 02:57:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】ミリシタ8周年特別PVを公開！明日、6月30日（月）19:00～は8周年を記念した生配信も！]]></title>
+            <description><![CDATA[#ミリシタ #祝ミリシタ8周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_16009.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16009.html</guid>
+            <pubDate>Sun, 29 Jun 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/06/tibCa0nvdmlyoh4BRFXNSfkavQ8qvqHO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】8周年特別PV公開記念！「#ミリシタ蝶々むすび」えらべるPayプレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#ミリシタ #えらべるPay #ミリシタ蝶々むすび #祝ミリシタ8周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_15924.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15924.html</guid>
+            <pubDate>Sat, 28 Jun 2025 15:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/06/bUHapireV5snKzRNUNgWVEGA2AgV4XDG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー福岡公演DAY1のご鑑賞ありがとうございました！ 本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレステ10thツアー福岡_day1]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15940.html</guid>
             <pubDate>Fri, 20 Jun 2025 03:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/YsGQh4ZnuQQv9GgG3kefXTTDfHed9rCs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション☆彡 第8弾「かに座」のアイドル16名がレディライクで和モダンな衣装で登場！受注は7/27(日)まで♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15945.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15945.html</guid>
-            <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/HEcCGv4utEhByhKQa1Beki545xQfZDbO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アトレ秋葉原」物販・特典の情報を公開！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15946.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15946.html</guid>
-            <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/pDUwzhHj6VXp9afHhA7WqiUXU2JbHHz4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
