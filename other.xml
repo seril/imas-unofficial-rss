@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Jun 2025 06:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 11:17:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Jun 2025 06:30:33 GMT</pubDate>
+        <pubDate>Mon, 30 Jun 2025 11:17:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」7月1日(火) 19:00より開催！ただいまチケット好評発売中！ 「限定グッズ付き現地ライブビューイングチケット」の販売は当日17:00まで！【  #愛夏誕生祭2025 】]]></title>
+            <description><![CDATA[【 #ヴイアラ 】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」7月1日(火) 19:00より開催！ただいまチケット好評発売中！ 「限定グッズ付き現地ライブビューイングチケット」の販売は当日17:00まで！【  #愛夏誕生祭2025 】]]></description>
+            <link>https://idolmaster-official.jp/news/01_16022.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16022.html</guid>
+            <pubDate>Mon, 30 Jun 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/06/XpTeqNRUIWDXLk0VQY8LYPrYtZGj1CXC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングに合わせて「vα-liv」グッズ各種が池袋本店にて先行発売決定！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14544.html</guid>
             <pubDate>Fri, 21 Feb 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/mzeretJm9MfKYJijUUEgZktJxbReRwxa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】ゲストは坂上陽三さん！‎本日2/21(金)20:00より公式番組「アイドル育成プロジェクト ヴイアライヴ」放送！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】ゲストは坂上陽三さん！‎本日2/21(金)20:00より公式番組「アイドル育成プロジェクト ヴイアライヴ」放送！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14645.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14645.html</guid>
-            <pubDate>Fri, 21 Feb 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/02/2PVVs6p6ZQgumHP0qHgxY3KdR95YtIPu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
