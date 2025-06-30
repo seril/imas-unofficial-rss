@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Jun 2025 03:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 06:30:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Jun 2025 03:53:48 GMT</pubDate>
+        <pubDate>Mon, 30 Jun 2025 06:30:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】★3 八宮 めぐる、斑鳩 ルカが手に入るガシャ開催中！ さらに、イルミネーションスターズの楽曲「KoiKyun！」を追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_15994.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15994.html</guid>
+            <pubDate>Mon, 30 Jun 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/06/gY6ocHwBpGnauAqI6aUdQ4sSg2GPAQlN.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】三峰 結華、鈴木 羽那が登場するパラレルコレクションを開催中！ プロデュースイベントの開催も！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15677.html</guid>
             <pubDate>Wed, 28 May 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/FCuokSBsOTh1oGRqyXWwmZcDj3g7zCXe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日まで！【アイマス20周年イヤー】「THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信」公式グッズの事前販売ファイナル]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15661.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15661.html</guid>
-            <pubDate>Sun, 25 May 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/nY5bMXlQ3QSqhKVrH7oOzL0Ltnq542MH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

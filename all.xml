@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Jun 2025 03:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 06:30:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Jun 2025 03:53:48 GMT</pubDate>
+        <pubDate>Mon, 30 Jun 2025 06:30:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】★3 八宮 めぐる、斑鳩 ルカが手に入るガシャ開催中！ さらに、イルミネーションスターズの楽曲「KoiKyun！」を追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_15994.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15994.html</guid>
+            <pubDate>Mon, 30 Jun 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/06/gY6ocHwBpGnauAqI6aUdQ4sSg2GPAQlN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第7弾『スターライトステージ』の発売が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第7弾『スターライトステージ』の発売が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16010.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16010.html</guid>
+            <pubDate>Mon, 30 Jun 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/pqCSkOKjkGVNOlDaL1HxZAFZaIsOfXxj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズ × アニメイトカフェ コラボ開催決定！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15951.html</guid>
             <pubDate>Fri, 20 Jun 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/06/qCgr803t6w31sVMT9d5LP6jRFVnF8Hqe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「315 Super SuMMer Market」開催決定！]]></title>
-            <description><![CDATA[#SideM #315ssm]]></description>
-            <link>https://idolmaster-official.jp/news/01_15911.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15911.html</guid>
-            <pubDate>Fri, 20 Jun 2025 08:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/pgdTd30qoiumseplXOY1uUfLXffBFB6d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】福岡公演はいよいよ明日から！配信チケット販売中♪ 一部イベントグッズの追加販売もスタート！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15856.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15856.html</guid>
-            <pubDate>Fri, 20 Jun 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/ckUAeYeTMmfo8j9R5F6dfkQaos95kTF2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
