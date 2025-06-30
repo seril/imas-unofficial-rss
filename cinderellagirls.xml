@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Jun 2025 14:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jun 2025 02:53:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Jun 2025 14:16:31 GMT</pubDate>
+        <pubDate>Mon, 30 Jun 2025 02:53:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズ × アニメイトカフェ コラボ開催決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15961.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15961.html</guid>
+            <pubDate>Mon, 30 Jun 2025 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/quaHWlyhXBUNIq8tlXiKGQLZhRK9OpEG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE」9月6日(土)・7日(日)出演者公開！公式サイトが変化＆現地チケット最速先行が19時よりスタート！]]></title>
             <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15660.html</guid>
             <pubDate>Sun, 25 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/kGoJeWuuYzqFSybGGw3J113l8kiow8y0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】 ＼＼本日まで！／／おうし座14名は5/25(日)まで！星座にフィーチャーした190名のバースデーコレクション、第6弾「おうし座」＆第7弾「ふたご座」が受注中♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15673.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15673.html</guid>
-            <pubDate>Sun, 25 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/05/gGHVGZagsCek3qj1EGPBCbD4AQWkhlGC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
