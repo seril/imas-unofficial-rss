@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Jun 2025 14:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 02:59:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Jun 2025 14:19:11 GMT</pubDate>
+        <pubDate>Tue, 01 Jul 2025 02:59:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、9月分予約受付中！ 特任プロデューサー就任キャンペーンも開催中♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15966.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15966.html</guid>
+            <pubDate>Tue, 01 Jul 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/spI8bLd82LKmLRQcsrb0udpyFrrb3WZI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】香水ブランド「Anideal」からコラボレーション香水の発売が決定！ 「姫崎莉波」「有村麻央」の２人の香水は７月１日（火）からAnidealオンラインストアで受注開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15850.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15850.html</guid>
+            <pubDate>Tue, 01 Jul 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/tDOR89H9QhuYplCbnty3M6q1VNgSzsO5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオンライブ】『ミリシタ8周年 百万祭∞生配信​』お知らせまとめ]]></title>
             <description><![CDATA[#ミリシタ #ミリオンライブ ＃ミリシタ8周年生配信  #ミリアニ #ミリアニOVA]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15956.html</guid>
             <pubDate>Mon, 23 Jun 2025 09:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/zkGLh1UratzpMoEoHDmp8feUBy8soOTK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター×ばくだん焼本舗」コラボ詳細公開！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15937.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15937.html</guid>
-            <pubDate>Mon, 23 Jun 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/t36q4rat0YJwculkiRufWmAWXiGlgfEt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 福岡公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15820.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15820.html</guid>
-            <pubDate>Mon, 23 Jun 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/06/CsqjlQLXaGGCM0Vlz241c1N452WSBlNJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

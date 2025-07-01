@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Jun 2025 14:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Jul 2025 02:59:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Jun 2025 14:19:11 GMT</pubDate>
+        <pubDate>Tue, 01 Jul 2025 02:59:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】香水ブランド「Anideal」からコラボレーション香水の発売が決定！ 「姫崎莉波」「有村麻央」の２人の香水は７月１日（火）からAnidealオンラインストアで受注開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15850.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15850.html</guid>
+            <pubDate>Tue, 01 Jul 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/tDOR89H9QhuYplCbnty3M6q1VNgSzsO5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマス20周年イヤー】20th特別生配信　現地チケットの一般販売(先着)とリセール販売が明日6月28日(土) よりスタート！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15743.html</guid>
             <pubDate>Sat, 31 May 2025 11:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/DcbpeCtVdktltbZNTW5JKDQ0Wyb51Rwg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス1st】いよいよ明日！学園アイドルマスター The 1st Period Harmony Star は5月31日(土)・6月1日(日)開催！ 配信視聴チケット販売中！]]></title>
-            <description><![CDATA[#学マス1st #学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15608.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15608.html</guid>
-            <pubDate>Fri, 30 May 2025 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/05/17phUyIFXFajnT4crufyt9nopgLPJLLj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
