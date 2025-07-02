@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Jul 2025 06:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Jul 2025 11:17:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Jul 2025 06:29:38 GMT</pubDate>
+        <pubDate>Wed, 02 Jul 2025 11:17:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽記念！「アソビストアガラポン」全190人全員の個別衣装の新規グッズでリニューアル♪]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #デレステ10thツアー千秋楽]]></description>
+            <link>https://idolmaster-official.jp/news/01_16057.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16057.html</guid>
+            <pubDate>Wed, 02 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/r6xRdLRyM2Ty46RhKHp428XPEwCTt61m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「10th MEMORIAL LIVE STARLIGHT STAGE」公式グッズ事前販売がスタート！受注期間は7/13(日)まで！豪華パンフレットや新規190名GOODSなど、お見逃しなく♪]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16058.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16058.html</guid>
+            <pubDate>Wed, 02 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/Z3TXLG6vo0e9fGr5wgAVKWUBm9YTFVn0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[アイドルマスター シンデレラガールズ スターライトステージ 運用体制変更のお知らせ]]></title>
             <description><![CDATA[アイドルマスター シンデレラガールズ スターライトステージ 運用体制変更のお知らせ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15616.html</guid>
             <pubDate>Fri, 30 May 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/78KYfb1cVljwAYaB4b6mVDIMamDuljaR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第５弾「学園アイドルマスター in 京都」情報解禁！]]></title>
-            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15651.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15651.html</guid>
-            <pubDate>Thu, 29 May 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/Www6BZ4nhXTTpgDEmUGBm3mDIafnkoY1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレステ10thツアー】現地チケット情報｜福岡公演【全席指定】一般発売(先着）／リセールの実施が決定！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15690.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15690.html</guid>
-            <pubDate>Wed, 28 May 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/05/QG1RMz5aloIQz6eTkj8ql8iXAINSxvpy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
