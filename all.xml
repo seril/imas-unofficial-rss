@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Jul 2025 03:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Jul 2025 06:29:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Jul 2025 03:52:24 GMT</pubDate>
+        <pubDate>Thu, 03 Jul 2025 06:29:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス大運動会】学園アイドルマスター クラス対抗初星大運動会 イベント公式グッズ事前販売ファイナルが本日7月3日(木) 15:00よりスタート！ 協賛社グッズも受注中！]]></title>
+            <description><![CDATA[#学マス #学マス大運動会 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_15986.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15986.html</guid>
+            <pubDate>Thu, 03 Jul 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/07/b12gS4lAcbOHi2vjJYKHfbia3m3WvN3r.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】8周年記念イベント「超々∞MUGEND@I!」開催中！]]></title>
+            <description><![CDATA[#ミリシタ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16007.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16007.html</guid>
+            <pubDate>Thu, 03 Jul 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/06/P3OAGzZ3L1RkdkSpkCFxlLMaOyt4u6ST.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売がスタート！！]]></title>
             <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15943.html</guid>
             <pubDate>Fri, 27 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/06/fS52zgQ0ABAs3Rfp3aGC4g4CQ5OhgJ1T.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#APラウンジ】【ミリシタ】8周年を∞にお祝いする配信のお知らせ【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #ミリシタ #ミリオン秋葉原っぱフェスティバル]]></description>
-            <link>https://idolmaster-official.jp/news/01_15833.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15833.html</guid>
-            <pubDate>Thu, 26 Jun 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/GAmes2R2eLtEihNTtICCUl41EtkOwBQ6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】vα-liv NEXT LIVEが2026年2月に日本工学院アリーナにて開催決定！デビュー1周年記念グッズの販売、1周年記念PVなどお知らせ盛りだくさん！「アイドルデビュー一周年記念配信」発表事項まとめ]]></title>
-            <description><![CDATA[【 #ヴイアラ 】vα-liv NEXT LIVEが2026年2月に日本工学院アリーナにて開催決定！デビュー1周年記念グッズの販売、1周年記念PVなどお知らせ盛りだくさん！「アイドルデビュー一周年記念配信」発表事項まとめ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16002.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16002.html</guid>
-            <pubDate>Thu, 26 Jun 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/06/9QnmFNLhRPnVl1a3XkZ7J4Ww4zdNB8Mj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
