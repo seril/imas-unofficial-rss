@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Jul 2025 03:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 06:29:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Jul 2025 03:49:27 GMT</pubDate>
+        <pubDate>Fri, 04 Jul 2025 06:29:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16081.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16081.html</guid>
+            <pubDate>Fri, 04 Jul 2025 04:11:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【偶像大师系列】偶像大师官方微博＆官方bilibili账号正式开设！]]></title>
+            <description><![CDATA[【偶像大师系列】偶像大师官方微博＆官方bilibili账号正式开设！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16078.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16078.html</guid>
+            <pubDate>Fri, 04 Jul 2025 04:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「花海 咲季」と「花海 佑芽」のサイクルジャージが登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16038.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16038.html</guid>
+            <pubDate>Fri, 04 Jul 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/Mkifvq3kglImMNOwZQ60I0tfGdr7MR4W.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シャニマス】アイドルマスター シャイニーカラーズ × 京王　コラボレーションキャンペーン　本日より開催中！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -337,14 +361,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/YDpE1xYuIsjRgZ2IRmIEeMQfFEEI24Bl.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】復刻！デレステ10th福岡公演 開催記念！「アソビストア ガラポン」福岡復刻スタート！全ピックアップ解放中♪]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15972.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15972.html</guid>
-            <pubDate>Fri, 27 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/FDQoQiDDTyfpYfEParchTXS2itDNQk4D.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】いよいよ明日開催！デレステ10thツアー福岡公演＜エントランスがオープン!!!＞冒頭無料配信やマルチアングルもございます♬]]></title>
             <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
             <link>https://idolmaster-official.jp/news/01_15973.html</link>
@@ -359,6 +375,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16003.html</guid>
             <pubDate>Fri, 27 Jun 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/eNQ7UF74VZqNEakHbiLqOWwCisANJmZH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】復刻！デレステ10th福岡公演 開催記念！「アソビストア ガラポン」福岡復刻スタート！全ピックアップ解放中♪]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_15972.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15972.html</guid>
+            <pubDate>Fri, 27 Jun 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/FDQoQiDDTyfpYfEParchTXS2itDNQk4D.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM10th】アイドルマスター SideMとKアリーナ横浜とのコラボドリンクの発売が決定！！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15930.html</guid>
             <pubDate>Fri, 27 Jun 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「アイドルマスター シャイニーカラーズ × サンリオキャラクターズ コラボフェア in アニメイト」が明日より開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15964.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15964.html</guid>
-            <pubDate>Fri, 27 Jun 2025 06:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/06/mg70HgZQ3QkGRjUHyh2eLjmWtrMXl09O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【お詫び】【ミリオン】6月25日発売CD「THE IDOLM@STER MILLION BATTLE OF THE＠TER OP 頂上決戦ヴィクトリー!!!!!!」におけるイラスト不備・ブックレット誤植に関するお詫びと交換対応について]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15988.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15988.html</guid>
-            <pubDate>Fri, 27 Jun 2025 06:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ローソンにて『学園アイドルマスター』オリジナルグッズ発売！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15623.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15623.html</guid>
-            <pubDate>Fri, 27 Jun 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/tdUTPkFj9Qt6ERYZ1rxxPJJNNae3VNg1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

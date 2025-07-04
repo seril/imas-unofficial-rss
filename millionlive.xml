@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Jul 2025 03:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 06:29:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Jul 2025 03:49:27 GMT</pubDate>
+        <pubDate>Fri, 04 Jul 2025 06:29:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16081.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16081.html</guid>
+            <pubDate>Fri, 04 Jul 2025 04:11:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【偶像大师系列】偶像大师官方微博＆官方bilibili账号正式开设！]]></title>
+            <description><![CDATA[【偶像大师系列】偶像大师官方微博＆官方bilibili账号正式开设！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16078.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16078.html</guid>
+            <pubDate>Fri, 04 Jul 2025 04:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】8周年記念イベント「超々∞MUGEND@I!」開催中！]]></title>
             <description><![CDATA[#ミリシタ ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15275.html</guid>
             <pubDate>Mon, 02 Jun 2025 07:37:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/05/H3zlM5pLWMKkfEZbnb2eCwwN3cbmMszD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオンライブ】『ミリシタ8周年直前！​ 偶然？必然？ ミリシタ＆ミリラジ“U・N・M・E・I”生配信！​』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
-            <description><![CDATA[#ミリシタ  #ミリシタUNMEI生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_15627.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15627.html</guid>
-            <pubDate>Thu, 29 May 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/05/yTKeZGVlElldCVzUaCACgo8Fjtuv81cC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第５弾「学園アイドルマスター in 京都」情報解禁！]]></title>
-            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15651.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15651.html</guid>
-            <pubDate>Thu, 29 May 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/Www6BZ4nhXTTpgDEmUGBm3mDIafnkoY1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

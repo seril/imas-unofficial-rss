@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Jul 2025 03:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 06:29:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Jul 2025 03:49:27 GMT</pubDate>
+        <pubDate>Fri, 04 Jul 2025 06:29:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16081.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16081.html</guid>
+            <pubDate>Fri, 04 Jul 2025 04:11:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【偶像大师系列】偶像大师官方微博＆官方bilibili账号正式开设！]]></title>
+            <description><![CDATA[【偶像大师系列】偶像大师官方微博＆官方bilibili账号正式开设！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16078.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16078.html</guid>
+            <pubDate>Fri, 04 Jul 2025 04:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売がスタート！！]]></title>
             <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15225.html</guid>
             <pubDate>Fri, 25 Apr 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』 2025年4月25日(金)よりGWキャンペーン開始！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15352.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15352.html</guid>
-            <pubDate>Fri, 25 Apr 2025 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/XjhR02rExar27yLvdDhnejoqTXp8Hy1I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「ミラシル by 第一生命×アイドルマスター特別コラボ企画」記事公開！限定アクリルスタンドのプレゼントキャンペーンも！🎁]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15142.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15142.html</guid>
-            <pubDate>Fri, 25 Apr 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/Kld6iIEJEbHy6kA7UKi7icZ6ccyNzwj7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
