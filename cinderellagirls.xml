@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Jul 2025 06:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Jul 2025 11:17:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Jul 2025 06:29:52 GMT</pubDate>
+        <pubDate>Fri, 04 Jul 2025 11:17:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】＜デレステ10thツアー＞アソビストアECサイト上購入者限定、キャストサイン入り法被プレゼントキャンペーン!!!]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16067.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16067.html</guid>
+            <pubDate>Fri, 04 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/cAou0PotpGvSw9AjSVmMwjr7CWYgXKDt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】＜デレステ10thツアー＞参加条件は法被＆ライト持ち込み！ツアー後半公演打ち上げDJイベント「SUPER! HAPPY! TRACKS!」が namco TOKYOにて開催決定!!!]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ #デレステ10thツアー_打ち上げDJ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16089.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16089.html</guid>
+            <pubDate>Fri, 04 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/hc1Ikwzs0nDFoRVWaN0DN5v7uSEjH9er.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15741.html</guid>
             <pubDate>Mon, 02 Jun 2025 09:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/lcb5rA5W63EvzAa0oRuq0fK0zPAPfFqo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE 10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! 沖縄公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15601.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15601.html</guid>
-            <pubDate>Mon, 02 Jun 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/ncPNvhuQllukosfJQifgqc7xSmb0Zeu3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「イーリャンサンキュー」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
-            <description><![CDATA[【シンデレラ】「イーリャンサンキュー」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15747.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15747.html</guid>
-            <pubDate>Mon, 02 Jun 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/ov7Kzj5RnPnUyeWVBuXqoFNhzSVKZH9r.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
