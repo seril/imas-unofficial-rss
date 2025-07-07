@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 07 Jul 2025 06:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 11:17:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 07 Jul 2025 06:31:00 GMT</pubDate>
+        <pubDate>Mon, 07 Jul 2025 11:17:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス大運動会】公演現地チケットアソビストア一般会員先行（抽選）が本日7月7日(月) 19:00よりスタート！]]></title>
+            <description><![CDATA[#学マス #学マス大運動会 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16079.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16079.html</guid>
+            <pubDate>Mon, 07 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/07/a5qfziPZF25sBT5hzgIYXmU2QuSNW1h8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】初陣公演 東京追加公演 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
+            <description><![CDATA[#学マスデビュー初陣_追加公演 #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15992.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15992.html</guid>
+            <pubDate>Mon, 07 Jul 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/07/0uvU0ZbjP1hkzyKrNRApGrLYttCiMLyW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オケマス2025】配信チケットの詳細公開＆販売開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16104.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16104.html</guid>
+            <pubDate>Mon, 07 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/6czUtGdVbnxjIbdaofyy5PqvNTrhZNSj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「スイーツパラダイス」とのコラボカフェ第3弾が開催決定！今回は江の島の海の家でもコラボカフェを開催！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15796.html</guid>
             <pubDate>Wed, 04 Jun 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/yGP0Nk9w8WCXcFwzXJz0mRM5I5tGo1NG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】プロテインブランド「MY ROUTINE」からコラボレーションプロテインの発売が決定！「花海咲季」「花海佑芽」の2人のプロテインは6月11日(水)発売！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15542.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15542.html</guid>
-            <pubDate>Wed, 04 Jun 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/VCBKVgisBJ6Kf3hay0NXHCOP2dx37zNI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】月村手毬×gladgarb コラボアパレルの登場が決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15719.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15719.html</guid>
-            <pubDate>Tue, 03 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/05/uBoX7ugt5436EbSlLGP8fMEfyoxutJ3U.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 学マス 】‎月村手毬誕生日記念セット2025 受注受付中♬［6/22(日)まで］]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15767.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15767.html</guid>
-            <pubDate>Tue, 03 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/06/g0ZBTS7MAcJ9FqmWiRtdBX2a8Gi3VJDL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
