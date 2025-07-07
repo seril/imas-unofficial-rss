@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Jul 2025 14:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 02:53:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Jul 2025 14:16:25 GMT</pubDate>
+        <pubDate>Mon, 07 Jul 2025 02:53:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[「THE IDOLM@STER SHINY COLORS “円環 -Halo around-” 03」ジャケット・INDEX・特典内容解禁]]></title>
+            <description><![CDATA[「THE IDOLM@STER SHINY COLORS “円環 -Halo around-” 03」ジャケット・INDEX・特典内容解禁]]></description>
+            <link>https://idolmaster-official.jp/news/01_16090.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16090.html</guid>
+            <pubDate>Mon, 07 Jul 2025 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/07/JGxhv1SDZvTinPJwrDcZataAqPGMhS2v.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7th】全8ユニットがKアリーナ横浜に集結！「7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”」開催決定！！本日より現地チケット最速先行＆イベントグッズ事前販売がスタート！]]></title>
             <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15843.html</guid>
             <pubDate>Mon, 09 Jun 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/B5YLxdXLhqAKARSANAAmyGNOwoXOPFRX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニパ上海のチケットは明日受付開始予定！特典グッズのデザインを公開✨]]></title>
-            <description><![CDATA[#シャニパ上海 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15844.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15844.html</guid>
-            <pubDate>Mon, 09 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/QhG71S9ldmuW0SZNMPcU9Ym63wkQCTdP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
