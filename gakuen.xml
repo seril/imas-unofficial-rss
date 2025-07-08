@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Jul 2025 11:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 14:18:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Jul 2025 11:17:20 GMT</pubDate>
+        <pubDate>Tue, 08 Jul 2025 14:18:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【特別生配信】和田一樹さん・椎名 豪さんと語る！オーケストラの魅力【オケマス2025】 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16064.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16064.html</guid>
+            <pubDate>Tue, 08 Jul 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/k6hWVo6zu6Fds1ZqcDV5YYXXpP5bGqJB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】 7月12日(土)より「アイドルマスター オフィシャルショップ」の抽選くじに学マスが登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15824.html</guid>
             <pubDate>Thu, 05 Jun 2025 06:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/06/Ny9xpUpqnic6Wqyv4WKyRu6RQgEcyoUm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】現地チケット 着席指定席・見切れ席の先着販売＆ASOBI STAGE配信が決定！「学園アイドルマスター 初星学園放送部公開録音2025 ～放送部の優雅で軽やかで大騒ぎな一日～」]]></title>
-            <description><![CDATA[#学マス #初星学園放送部]]></description>
-            <link>https://idolmaster-official.jp/news/01_15808.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15808.html</guid>
-            <pubDate>Wed, 04 Jun 2025 12:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/06/4Rzf9snfdy543kuhZ18tqCUNZtBSqeZd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
