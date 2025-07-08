@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Jul 2025 02:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Jul 2025 03:50:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Jul 2025 02:48:54 GMT</pubDate>
+        <pubDate>Tue, 08 Jul 2025 03:50:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】 7月12日(土)より「アイドルマスター オフィシャルショップ」の抽選くじに学マスが登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16107.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16107.html</guid>
+            <pubDate>Tue, 08 Jul 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/0TR40wLAa8EFg5PnzjTJisYiswFHQrox.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス大運動会】公演現地チケットアソビストア一般会員先行（抽選）が本日7月7日(月) 19:00よりスタート！]]></title>
             <description><![CDATA[#学マス #学マス大運動会 ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15808.html</guid>
             <pubDate>Wed, 04 Jun 2025 12:40:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/06/4Rzf9snfdy543kuhZ18tqCUNZtBSqeZd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス1st】キャスト生出演オーコメ付き！学園アイドルマスター The 1st Period Spotlight Star アーカイブ同時視聴会の開催が決定！！配信視聴チケット販売中！]]></title>
-            <description><![CDATA[#学マス #学マス1st #学マス1stSS_DAY1 #学マス1stSS_DAY2]]></description>
-            <link>https://idolmaster-official.jp/news/01_15796.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15796.html</guid>
-            <pubDate>Wed, 04 Jun 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/yGP0Nk9w8WCXcFwzXJz0mRM5I5tGo1NG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
