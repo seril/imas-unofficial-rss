@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Jul 2025 06:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 11:17:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Jul 2025 06:29:57 GMT</pubDate>
+        <pubDate>Wed, 09 Jul 2025 11:17:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】7/15(火) 18:30～ 学園アイドルマスター「初星学園HR #STEP3 篠澤 広」生配信実施予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター #川村玲奈 #篠澤広]]></description>
+            <link>https://idolmaster-official.jp/news/01_16032.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16032.html</guid>
+            <pubDate>Wed, 09 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/07/9U4ipOvPReQDQ9DIXKgSLb6IQNvUGHv5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】7月12日(土)12:00～ 現地チケット一般販売(先着)開始予定！公式リセールも同日受付開始！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16121.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16121.html</guid>
+            <pubDate>Wed, 09 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/rEMyXs4ZBbdP8Tc2ufF61Z4YyALzFht4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【特別生配信】和田一樹さん・椎名 豪さんと語る！オーケストラの魅力【オケマス2025】 配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #オケマス2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15966.html</guid>
             <pubDate>Tue, 01 Jul 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/spI8bLd82LKmLRQcsrb0udpyFrrb3WZI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】香水ブランド「Anideal」からコラボレーション香水の発売が決定！ 「姫崎莉波」「有村麻央」の２人の香水は７月１日（火）からAnidealオンラインストアで受注開始！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15850.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15850.html</guid>
-            <pubDate>Tue, 01 Jul 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/tDOR89H9QhuYplCbnty3M6q1VNgSzsO5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオンライブ】『ミリシタ8周年 百万祭∞生配信​』お知らせまとめ]]></title>
-            <description><![CDATA[#ミリシタ #ミリオンライブ ＃ミリシタ8周年生配信  #ミリアニ #ミリアニOVA]]></description>
-            <link>https://idolmaster-official.jp/news/01_15676.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15676.html</guid>
-            <pubDate>Mon, 30 Jun 2025 12:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/06/nLym0zTQhNBCSa9oMVACSZPl6r2r0EFy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

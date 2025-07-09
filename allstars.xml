@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Jul 2025 06:29:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Jul 2025 11:17:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Jul 2025 06:29:57 GMT</pubDate>
+        <pubDate>Wed, 09 Jul 2025 11:17:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】7月12日(土)12:00～ 現地チケット一般販売(先着)開始予定！公式リセールも同日受付開始！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16121.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16121.html</guid>
+            <pubDate>Wed, 09 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/rEMyXs4ZBbdP8Tc2ufF61Z4YyALzFht4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【特別生配信】和田一樹さん・椎名 豪さんと語る！オーケストラの魅力【オケマス2025】 配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #オケマス2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15201.html</guid>
             <pubDate>Sat, 26 Apr 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/04/j2KIYHTWJcSWOQ67PTLYsiifDgMbJo76.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと1日！】【オケマス2025】公式グッズの事前物販は4/27まで！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15392.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15392.html</guid>
-            <pubDate>Sat, 26 Apr 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/04/F3FoB2GH7wOva5Cv4id2ShfOEyCBBjt3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
