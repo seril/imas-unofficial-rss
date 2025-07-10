@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jul 2025 06:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 11:17:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Jul 2025 06:30:33 GMT</pubDate>
+        <pubDate>Thu, 10 Jul 2025 11:17:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×アトレ秋葉原開催決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16120.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16120.html</guid>
+            <pubDate>Thu, 10 Jul 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/C7BpVYL40lBifC4gAUmRaocN5Qno3cHI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の現地会場物販の実施が決定！！公式パンフレットや追加販売グッズの先行販売も決定！！]]></title>
             <description><![CDATA[オケマス2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15802.html</guid>
             <pubDate>Thu, 05 Jun 2025 10:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/Fwz2Gekh85icSsWpMfzHCDKniLS4vj6S.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】復刻！デレステ10th沖縄公演 開催記念！「アソビストア ガラポン」沖縄復刻スタート！全ピックアップ解放中♪]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15810.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15810.html</guid>
-            <pubDate>Thu, 05 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/f7s20B4JL2SLXnYjS9jNljZQzbdy4lry.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

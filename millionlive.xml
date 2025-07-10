@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jul 2025 06:30:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 11:17:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Jul 2025 06:30:33 GMT</pubDate>
+        <pubDate>Thu, 10 Jul 2025 11:17:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×アトレ秋葉原開催決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16120.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16120.html</guid>
+            <pubDate>Thu, 10 Jul 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/C7BpVYL40lBifC4gAUmRaocN5Qno3cHI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【明日7/11(金)より】「-World Wide Meal-　MILLION ANCIENT THE IDOLM@STER MILLION LIVE! × STELLAMAP CAFÉ」コラボグッズのEC販売開始！]]></title>
+            <description><![CDATA[#ミリオンライブ　#ミリオン秋葉原っぱフェスティバル]]></description>
+            <link>https://idolmaster-official.jp/news/01_16124.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16124.html</guid>
+            <pubDate>Thu, 10 Jul 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/Ags6yeLzQUZAgsVvszzFGCcZ4OrdB7hZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の現地会場物販の実施が決定！！公式パンフレットや追加販売グッズの先行販売も決定！！]]></title>
             <description><![CDATA[オケマス2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15632.html</guid>
             <pubDate>Fri, 30 May 2025 08:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/CwwQ02XmnxgS9PFnzZxLK8aI207PmKI4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【6/27(金)より】「アイドルマスター ミリオンライブ！ シアターデイズ 8th Anniversary in AKIHABARA ～秋葉原っぱフェスティバル～× カラオケの鉄人」開催決定🎤]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン秋葉原っぱフェスティバル]]></description>
-            <link>https://idolmaster-official.jp/news/01_15724.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15724.html</guid>
-            <pubDate>Fri, 30 May 2025 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/sQ5sqV96VvcfxssvhaPenyrWCPramlhl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「-World Wide Meal-　MILLION ANCIENT THE IDOLM@STER MILLION LIVE! × STELLAMAP CAFÉ」が6月19日(木)より開催！！]]></title>
-            <description><![CDATA[#ミリオンライブ　#ミリオン秋葉原っぱフェスティバル]]></description>
-            <link>https://idolmaster-official.jp/news/01_15722.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15722.html</guid>
-            <pubDate>Fri, 30 May 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/PvrjYGrXmKDFAeV0b97NDD8xeGbzxDAv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
