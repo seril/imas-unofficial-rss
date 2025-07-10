@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jul 2025 03:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 06:30:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Jul 2025 03:52:23 GMT</pubDate>
+        <pubDate>Thu, 10 Jul 2025 06:30:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の現地会場物販の実施が決定！！公式パンフレットや追加販売グッズの先行販売も決定！！]]></title>
+            <description><![CDATA[オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16127.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16127.html</guid>
+            <pubDate>Thu, 10 Jul 2025 06:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/ikTseLw9TsJTm7Svds2QoQcYW5u3Wel6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】★3 月岡 恋鐘、園田 智代子が手に入るガシャ開催中！ さらに、シーズのエピソード3を追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_16075.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16075.html</guid>
+            <pubDate>Thu, 10 Jul 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/5crVTPTxyeNZcjBfT4OGRHNGPXKAiavx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】7月11日(金)より『事務的光空記録』『コヒーレントライト』のPOP UP SHOPが大阪にて開催！]]></title>
             <description><![CDATA[#シャニマス #ジムシャニ #コヒーレントライト]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15886.html</guid>
             <pubDate>Mon, 16 Jun 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/rfWyeFQUwuMPPAPsXcfAf120u70btiqe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】[バグ・ル]のイラストをもとに、樋口円香がプライズフィギュアに再登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15567.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15567.html</guid>
-            <pubDate>Mon, 16 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/05/WP9CfI9e8VuHlV0Cp0uqiqNPSk1LSoxY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】愛知公演の現地チケットアソビストア一般会員先行が本日12時よりスタート！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15910.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15910.html</guid>
-            <pubDate>Mon, 16 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/06/i15IJBaLQljRodHHJEcgersNVJZE1OZS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

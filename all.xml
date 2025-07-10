@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Jul 2025 03:52:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Jul 2025 06:30:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Jul 2025 03:52:23 GMT</pubDate>
+        <pubDate>Thu, 10 Jul 2025 06:30:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の現地会場物販の実施が決定！！公式パンフレットや追加販売グッズの先行販売も決定！！]]></title>
+            <description><![CDATA[オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16127.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16127.html</guid>
+            <pubDate>Thu, 10 Jul 2025 06:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/ikTseLw9TsJTm7Svds2QoQcYW5u3Wel6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】★3 月岡 恋鐘、園田 智代子が手に入るガシャ開催中！ さらに、シーズのエピソード3を追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_16075.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16075.html</guid>
+            <pubDate>Thu, 10 Jul 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/5crVTPTxyeNZcjBfT4OGRHNGPXKAiavx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】7月11日(金)より『事務的光空記録』『コヒーレントライト』のPOP UP SHOPが大阪にて開催！]]></title>
             <description><![CDATA[#シャニマス #ジムシャニ #コヒーレントライト]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16053.html</guid>
             <pubDate>Tue, 01 Jul 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/MIRbVfqAkmXyA7YgmuIyjUTT9gXQFoEh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】三菱ＵＦＪ銀行「Buzz BANK」本日7月1日より、ついにアプリリリース＆「アイドルマスター」コラボキャンペーン開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #buzzbank #バズバンクアイドルマスターコラボ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15978.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15978.html</guid>
-            <pubDate>Tue, 01 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/820Q5zinjSAg69Hfhxy1ovk9zwMQq70N.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】アイドル衣装を着た「紫雲清夏」「篠澤 広」「姫崎莉波」のちびぐるみが2025年7月8日(火)よりクレーンゲームに登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16013.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16013.html</guid>
-            <pubDate>Tue, 01 Jul 2025 04:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/4y76hdkwZItUbA3HftXq2zgP5YH0yDHj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
