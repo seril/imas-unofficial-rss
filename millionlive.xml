@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Jul 2025 06:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Jul 2025 11:17:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Jul 2025 06:30:18 GMT</pubDate>
+        <pubDate>Fri, 11 Jul 2025 11:17:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「岩手競馬×アイドルマスター ミリオンライブ！2025」コラボ情報続報！描き下ろしイラスト・イベント詳細を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16138.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16138.html</guid>
+            <pubDate>Fri, 11 Jul 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/BDoX5W75ZGDJbh7ZgIh12iKU3nO3agz0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】東武動物公園コラボ【ANIM@L PARADISE in Tobu Zoo】 コラボイベント詳細発表！ キャストトークイベントも開催決定！！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15572.html</guid>
             <pubDate>Thu, 29 May 2025 11:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/tH0dZeWVX83RHekVW5xbleu6aUnKvqVp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】※6/8(日)まで※《SEASONAL SNAPSHOT》8月に向けて如月千早・萩原雪歩が登場！「花火」をイメージしたグッズが受注中！]]></title>
-            <description><![CDATA[#ミリオンシーズナル8月]]></description>
-            <link>https://idolmaster-official.jp/news/01_15706.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15706.html</guid>
-            <pubDate>Fri, 30 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/05/p3qa8E6yDamIZ07nZcXKtqQfyvYta4fL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
