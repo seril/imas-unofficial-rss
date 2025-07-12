@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Jul 2025 02:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 03:53:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Jul 2025 02:53:30 GMT</pubDate>
+        <pubDate>Sat, 12 Jul 2025 03:53:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[◆明日まで！◆【シャニマス7th】「7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”」イベントグッズ事前販売は明日7月13日(日)まで！]]></title>
+            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16130.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16130.html</guid>
+            <pubDate>Sat, 12 Jul 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/wK1iZuH7VdddbauPaPLiBF8e6eahCvfY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日12:00～【アイマス765単独NEI】現地チケット一般販売(先着)開始予定！公式リセールは15:00～開始予定]]></title>
             <description><![CDATA[#アイマス765単独NEI]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_16081.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16081.html</guid>
             <pubDate>Fri, 04 Jul 2025 04:11:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【偶像大师系列】偶像大师官方微博＆官方bilibili账号正式开设！]]></title>
-            <description><![CDATA[【偶像大师系列】偶像大师官方微博＆官方bilibili账号正式开设！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16078.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16078.html</guid>
-            <pubDate>Fri, 04 Jul 2025 04:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
