@@ -4,10 +4,58 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Jul 2025 11:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 14:17:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Jul 2025 11:16:25 GMT</pubDate>
+        <pubDate>Sat, 12 Jul 2025 14:17:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM10th】THE IDOLM@STER SideM 10th ANNIVERSARY ST@GE ～P@SSION-ING!!!～ DAY1 ご来場&ご視聴いただきありがとうございました！！本日の告知情報とセットリストはこちら！]]></title>
+            <description><![CDATA[#SideM #SideM10th_day1]]></description>
+            <link>https://idolmaster-official.jp/news/01_16096.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16096.html</guid>
+            <pubDate>Sat, 12 Jul 2025 13:18:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/tNYrWYfOITMmMQCwGFCjM1tI9DicguLI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】新たなバースデー記念グッズ「Supreme 49 Cakes!!!」発売決定！本日7月12日(土)21:30より10月にお誕生日を迎えるアイドルたちのバースデー記念グッズが受注開始！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_16051.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16051.html</guid>
+            <pubDate>Sat, 12 Jul 2025 11:42:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/h4hhDtW0T90q5pD2WEFQft5kwxi9SdMR.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】"パッション"と"煌めき"が 繋がる―！「アイドルマスター SideM」×「KING OF PRISM-Your Endless Call-み～んなきらめけ！プリズム☆ツアーズ」夢のコラボレーションが決定！！]]></title>
+            <description><![CDATA[#SideM #kinpri #キンツア ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16158.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16158.html</guid>
+            <pubDate>Sat, 12 Jul 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/U91iq76iO3b8WQqDf54WzhQJBPYUmsWN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】 ～Who goes first～ 新衣装「ブレイジングフォース」を身にまとったアイドル達が登場！本日21:30よりイベント公式グッズ事前販売スタート！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16050.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16050.html</guid>
+            <pubDate>Sat, 12 Jul 2025 11:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/KVC3ANHxljgnIBlyfbrR1eNLGlV4yDYd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NCOMLIVE】ファンコン完走記念！2025年9月より全国30か所のAEON CINEMAにて「チアリング上映会」開催決定！！7月12日(土)22:00よりチケット販売開始！]]></title>
+            <description><![CDATA[#SideM #SideMFANCOM完走記念チアリング上映会]]></description>
+            <link>https://idolmaster-official.jp/news/01_16100.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16100.html</guid>
+            <pubDate>Sat, 12 Jul 2025 11:51:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/8N4dGoqtQs2gATYTOIV06lAVXIw9wJxS.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】横浜公演 2026年5月27日(水) LIVE Blu-ray 発売決定！！本日より順次ご予約受付開始！！]]></title>
+            <description><![CDATA[#SideM #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_16135.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16135.html</guid>
+            <pubDate>Sat, 12 Jul 2025 11:39:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/W8QXmBeFMFRGICb6Q0qB88KyeGcCf7U9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売は明日まで！！]]></title>
             <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
@@ -359,54 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16060.html</guid>
             <pubDate>Sat, 05 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/7DkobjKFVbsTIocl6zB0rAu3sbXeVI84.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】※7/6(日)まで※《SEASONAL SNAPSHOT》9月に向けて菊地 真 ・四条貴音が登場！「洋館」をイメージしたグッズが受注開始！]]></title>
-            <description><![CDATA[#ミリオンシーズナル9月]]></description>
-            <link>https://idolmaster-official.jp/news/01_16094.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16094.html</guid>
-            <pubDate>Sat, 05 Jul 2025 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/06/xdAEGL80CvdkqAYjA9nhjeGr8wsZuHH2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】＜デレステ10thツアー＞アソビストアECサイト上購入者限定、キャストサイン入り法被プレゼントキャンペーン!!!]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16067.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16067.html</guid>
-            <pubDate>Fri, 04 Jul 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/02/cAou0PotpGvSw9AjSVmMwjr7CWYgXKDt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】＜デレステ10thツアー＞参加条件は法被＆ライト持ち込み！ツアー後半公演打ち上げDJイベント「SUPER! HAPPY! TRACKS!」が namco TOKYOにて開催決定!!!]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ #デレステ10thツアー_打ち上げDJ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16089.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16089.html</guid>
-            <pubDate>Fri, 04 Jul 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/hc1Ikwzs0nDFoRVWaN0DN5v7uSEjH9er.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「スイーツパラダイス」とのコラボカフェ第3弾が開催決定！今回は江の島の海の家でもコラボカフェを開催！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16069.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16069.html</guid>
-            <pubDate>Fri, 04 Jul 2025 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/2hPgKTAoQZ75jxWL9z0HQArKEXje8mSA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】横浜公演はいよいよ明日から！配信チケットも販売中！一部イベントグッズの追加販売もスタート！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15857.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15857.html</guid>
-            <pubDate>Fri, 04 Jul 2025 08:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/tmdRVEiAV0Amw3qWgHDMBOOQXZJhkcuX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】全国のサントリー自販機100台で、オリジナルラベルのウーロン茶を発売！7月12日(土)・13日(日) の2日間、10th ANNIVERSARY ST@GE会場にも専用自販機が登場！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_16004.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16004.html</guid>
-            <pubDate>Fri, 04 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/FHKXTr5v19ymp5aTL4X3nI4Emm9cVvVH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
