@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Jul 2025 03:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Jul 2025 06:27:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Jul 2025 03:53:17 GMT</pubDate>
+        <pubDate>Sat, 12 Jul 2025 06:27:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売は明日まで！！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
+            <link>https://idolmaster-official.jp/news/01_16154.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16154.html</guid>
+            <pubDate>Sat, 12 Jul 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/K7I9jaw2FwPbpK9aD4i9K1Ua3uceqras.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日12:00～【アイマス765単独NEI】現地チケット一般販売(先着)開始予定！公式リセールは15:00～開始予定]]></title>
             <description><![CDATA[#アイマス765単独NEI]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15452.html</guid>
             <pubDate>Sat, 03 May 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/05/r4sxS3aEg08tm8bKIul5EhxuWblG4MDy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『ふたマス!!!!!!』田中琴葉マンホールお披露目　イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15443.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15443.html</guid>
-            <pubDate>Thu, 01 May 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/04/gM1EomS6nDP0VDKmHPKbVDP5ElRvL250.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
