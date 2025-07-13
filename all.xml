@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Jul 2025 03:01:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 06:28:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Jul 2025 03:01:32 GMT</pubDate>
+        <pubDate>Sun, 13 Jul 2025 06:28:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【本日まで！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売は本日まで！！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
+            <link>https://idolmaster-official.jp/news/01_16156.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16156.html</guid>
+            <pubDate>Sun, 13 Jul 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/K7I9jaw2FwPbpK9aD4i9K1Ua3uceqras.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[◆本日まで！◆【シャニマス7th】「7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”」イベントグッズ事前販売は本日7月13日(日)まで！]]></title>
+            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16132.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16132.html</guid>
+            <pubDate>Sun, 13 Jul 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/880JHnlyoNYCxsF6FGYzIzImy4O5mF7i.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】＼本日まで！／デレステ10thツアー千秋楽「10th MEMORIAL LIVE STARLIGHT STAGE」現地チケット最速先行＆公式グッズ事前販売は7/13(日)まで！！]]></title>
             <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16090.html</guid>
             <pubDate>Mon, 07 Jul 2025 01:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/07/JGxhv1SDZvTinPJwrDcZataAqPGMhS2v.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】全8ユニットがKアリーナ横浜に集結！「7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”」開催決定！！本日より現地チケット最速先行＆イベントグッズ事前販売がスタート！]]></title>
-            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16086.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16086.html</guid>
-            <pubDate>Sun, 06 Jul 2025 11:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/rmG4uGzq6SDv0yRqMSiQEtCRCCmprMum.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】横浜公演DAY2ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_横浜_day2 #シャニマス #シャニソン #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16018.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16018.html</guid>
-            <pubDate>Sun, 06 Jul 2025 10:43:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/Wgwxt4A0xqwEGmh4DRc4srP8F4nmeTXn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
