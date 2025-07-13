@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Jul 2025 14:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 03:01:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Jul 2025 14:17:11 GMT</pubDate>
+        <pubDate>Sun, 13 Jul 2025 03:01:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】＼本日まで！／デレステ10thツアー千秋楽「10th MEMORIAL LIVE STARLIGHT STAGE」現地チケット最速先行＆公式グッズ事前販売は7/13(日)まで！！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16160.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16160.html</guid>
+            <pubDate>Sun, 13 Jul 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/b79DB8X34gHEVGgbFGTmMSF28GpNnIHp.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【本日まで！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売は本日まで！！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
+            <link>https://idolmaster-official.jp/news/01_16155.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16155.html</guid>
+            <pubDate>Sun, 13 Jul 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/K7I9jaw2FwPbpK9aD4i9K1Ua3uceqras.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM10th】THE IDOLM@STER SideM 10th ANNIVERSARY ST@GE ～P@SSION-ING!!!～ DAY1 ご来場&ご視聴いただきありがとうございました！！本日の告知情報とセットリストはこちら！]]></title>
             <description><![CDATA[#SideM #SideM10th_day1]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16018.html</guid>
             <pubDate>Sun, 06 Jul 2025 10:43:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/Wgwxt4A0xqwEGmh4DRc4srP8F4nmeTXn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】横浜公演DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_横浜_day1 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16017.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16017.html</guid>
-            <pubDate>Sat, 05 Jul 2025 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/kjC1BkA8zRnRqZ2pIQMg6BKy1FzxW9uM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】本日7月5日(土)よりアソビストア会員先行抽選受付を開始！イベントグッズ事前販売は明日まで！]]></title>
-            <description><![CDATA[#ミリオン12th]]></description>
-            <link>https://idolmaster-official.jp/news/01_16060.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16060.html</guid>
-            <pubDate>Sat, 05 Jul 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/7DkobjKFVbsTIocl6zB0rAu3sbXeVI84.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
