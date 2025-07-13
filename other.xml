@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Jul 2025 06:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 11:15:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Jul 2025 06:28:42 GMT</pubDate>
+        <pubDate>Sun, 13 Jul 2025 11:15:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【#ヴイアラ】vα-liv アイドルデビュー1周年記念公式セット 受注〆切間近！]]></title>
+            <description><![CDATA[#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16161.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16161.html</guid>
+            <pubDate>Sun, 13 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/06/VW5tdH0e9d1RXdk1FUcVVacKxz9sujoM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in ららぽーと磐田』イベントレポート]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス磐田]]></description>
+            <link>https://idolmaster-official.jp/news/01_16109.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16109.html</guid>
+            <pubDate>Sun, 13 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/07/nOKxuKtaMNFrlss4m31if3IduWuVK9WT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【 #ヴイアラ 】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」 セットリスト＆最新情報まとめ！ バースデー記念グッズセットが本日より受注販売開始！【  #愛夏誕生祭2025 】]]></title>
             <description><![CDATA[ 【 #ヴイアラ 】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」 セットリスト＆最新情報まとめ！ バースデー記念グッズセットが本日より受注販売開始！【  #愛夏誕生祭2025 】]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14700.html</guid>
             <pubDate>Wed, 26 Feb 2025 12:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/02/UOMHxt5AtzUBSiEoMwwMPcMBX57uw9Jg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「アイマス検定」イベントレポートを公開！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス検定]]></description>
-            <link>https://idolmaster-official.jp/news/01_14671.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14671.html</guid>
-            <pubDate>Mon, 24 Feb 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/02/NNHfdQ5FufUFQxXOlIVgcTMjTp5oNFug.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】ゲストアイドルが登場！「公式オーディオドラマVol.1&Vol.2」がBOOTHにて同時発売決定！購入特典に書き下ろし画像も！Vol.1はゲスト日高愛、Vol.2は天海春香&秋月律子が登場！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】ゲストアイドルが登場！「公式オーディオドラマVol.1&Vol.2」がBOOTHにて同時発売決定！購入特典に書き下ろし画像も！Vol.1はゲスト日高愛、Vol.2は天海春香&秋月律子が登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14676.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14676.html</guid>
-            <pubDate>Fri, 21 Feb 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/SoF6lr7ZgVnmSZx9LiXXnvsVt1yrxV0s.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
