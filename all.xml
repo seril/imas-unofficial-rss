@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Jul 2025 11:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 14:17:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Jul 2025 11:15:25 GMT</pubDate>
+        <pubDate>Sun, 13 Jul 2025 14:17:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM10th】THE IDOLM@STER SideM 10th ANNIVERSARY ST@GE ～P@SSION-ING!!!～ DAY2ご来場、ご視聴いただきありがとうございました！！本日の告知情報とセットリストはこちら！]]></title>
+            <description><![CDATA[#SideM #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_16099.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16099.html</guid>
+            <pubDate>Sun, 13 Jul 2025 14:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/B6e4B2LYwHhKePL92mwt9RN6GdBInKdn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】横浜公演 本日21:30より開催記念グッズ販売開始！『SUPREME STARS !!!』のメモリアルなオルゴールやアンコールTシャツを身にまとったアイドルたちのグッズが登場！！]]></title>
+            <description><![CDATA[#SideM #SideM10th ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16137.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16137.html</guid>
+            <pubDate>Sun, 13 Jul 2025 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/N5IgoBfEF03XlPxtDfE3FTOU2HrBUaRn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#ヴイアラ】vα-liv アイドルデビュー1周年記念公式セット 受注〆切間近！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16105.html</guid>
             <pubDate>Mon, 07 Jul 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/6Oh7taGupVqwMVusNIimxvgL8jNgJhde.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【SideM】10th ANNIVERSARY ST@GE ～P@SSION-ING!!!～ 終了後感想会【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマスch #SideM #SideM10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15958.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15958.html</guid>
-            <pubDate>Mon, 07 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/06/X1MvfZ2kF8f1AhG14RvtCKmQ03f0s0s4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】315!!!SHOPにて、7月10日(木)スーパーウルトラ315店長!!!＆16ユニットの新商品が登場！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16095.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16095.html</guid>
-            <pubDate>Mon, 07 Jul 2025 06:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/8vCHbsHVriIyHo5YiL0FvC29epX549rX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
