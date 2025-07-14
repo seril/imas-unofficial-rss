@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Jul 2025 06:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 11:18:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Jul 2025 06:32:16 GMT</pubDate>
+        <pubDate>Mon, 14 Jul 2025 11:18:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【YouTube】【AP生配信】【オケマス】ORCHESTRA CONCERTSYMPHONY OF BRILLIANT STARS 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16036.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16036.html</guid>
+            <pubDate>Mon, 14 Jul 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/zsLAvE4o1VOGCYkB5y2qbCpQcFHDM4D5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in ららぽーと磐田』イベントレポート]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス磐田]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15517.html</guid>
             <pubDate>Mon, 12 May 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/04/35hiSf3QHZ7C0au25fdc1nEkF5IKOqkM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】20th特別生配信　現地チケットのアソビストア一般会員2次先行が明日5月10日(土) 12:00よりスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15505.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15505.html</guid>
-            <pubDate>Fri, 09 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/XZeiMiPyawEOnE7Zk6T9lD4fV72GcfKU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
