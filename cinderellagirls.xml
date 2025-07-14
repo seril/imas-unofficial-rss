@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Jul 2025 03:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jul 2025 04:06:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Jul 2025 03:00:01 GMT</pubDate>
+        <pubDate>Mon, 14 Jul 2025 04:06:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「スターライトステージ」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「スターライトステージ」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16143.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16143.html</guid>
+            <pubDate>Mon, 14 Jul 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/59I5dwpmfSbffEcwgV6bynCp92wXHyEX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in ららぽーと磐田』イベントレポート]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス磐田]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15562.html</guid>
             <pubDate>Sun, 08 Jun 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/UiGq61buJjoHB8a1nmLQVDRl1fsUXs8M.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー沖縄公演DAY1のご鑑賞ありがとうございました！ 本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー沖縄_day1]]></description>
-            <link>https://idolmaster-official.jp/news/01_15561.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15561.html</guid>
-            <pubDate>Sat, 07 Jun 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/n1OOkOEUwYzXIqJKyBqN2So3jXNCrr9N.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
