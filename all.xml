@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Jul 2025 06:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Jul 2025 11:17:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Jul 2025 06:31:12 GMT</pubDate>
+        <pubDate>Wed, 16 Jul 2025 11:17:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「スイーツパラダイス」コラボカフェ第3弾と「海の家」　メニュー＆グッズ情報を公開！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16185.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16185.html</guid>
+            <pubDate>Wed, 16 Jul 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/nMBkTNTBwYZbUKIEyXDUi8wfettCHdM7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】バンダイ＆BANDAI SPIRITSより"ジョイフルマーチング"がテーマの描きおろしイラストを使用した商品が続々登場予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16136.html</guid>
             <pubDate>Thu, 10 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/1E29NbBQoSJNDWgm7XJwe4cbC2j3iQe2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】7/15(火) 18:30～ 学園アイドルマスター「初星学園HR #STEP3 篠澤 広」生配信実施予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #川村玲奈 #篠澤広]]></description>
-            <link>https://idolmaster-official.jp/news/01_16032.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16032.html</guid>
-            <pubDate>Wed, 09 Jul 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/07/9U4ipOvPReQDQ9DIXKgSLb6IQNvUGHv5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
