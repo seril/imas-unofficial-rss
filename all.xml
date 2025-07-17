@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Jul 2025 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 02:55:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Jul 2025 14:19:04 GMT</pubDate>
+        <pubDate>Thu, 17 Jul 2025 02:55:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】ソル・インターナショナルより、「トレーディングオーロラ缶バッジ Vol.2」が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16165.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16165.html</guid>
+            <pubDate>Thu, 17 Jul 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/yGcz3ZtcGbcZlcKTQ5N9qttvSf2QXlQS.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「にっぽん、グルメ街道」とのコラボ詳細解禁！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15968.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15968.html</guid>
+            <pubDate>Thu, 17 Jul 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/d74Nb0pAz6yFEj4qK6FYF5SJVBCKxqUa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「スイーツパラダイス」コラボカフェ第3弾と「海の家」　メニュー＆グッズ情報を公開！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16133.html</guid>
             <pubDate>Thu, 10 Jul 2025 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/05/BrxklAX54WX7p4XJmHwOAY1lG3HOn81t.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】～Who goes first～ 本日7月10日(木)12:00より現地チケットアソビストアプレミアム会員２次先行のお申込み受付がスタート！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_16098.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16098.html</guid>
-            <pubDate>Thu, 10 Jul 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/bdyf4dewfQ3vqPRSrA8EtWq3DGz9dgBk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】青森公演の会場を彩ろう！オリジナル応援幕プロデュース権の購入エントリー＆デザイン提出受付がスタート！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16136.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16136.html</guid>
-            <pubDate>Thu, 10 Jul 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/1E29NbBQoSJNDWgm7XJwe4cbC2j3iQe2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

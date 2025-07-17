@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Jul 2025 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 02:55:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Jul 2025 14:19:04 GMT</pubDate>
+        <pubDate>Thu, 17 Jul 2025 02:55:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】ソル・インターナショナルより、「トレーディングオーロラ缶バッジ Vol.2」が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16165.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16165.html</guid>
+            <pubDate>Thu, 17 Jul 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/yGcz3ZtcGbcZlcKTQ5N9qttvSf2QXlQS.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「にっぽん、グルメ街道」とのコラボ詳細解禁！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_15968.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15968.html</guid>
+            <pubDate>Thu, 17 Jul 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/d74Nb0pAz6yFEj4qK6FYF5SJVBCKxqUa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「スイーツパラダイス」コラボカフェ第3弾と「海の家」　メニュー＆グッズ情報を公開！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15886.html</guid>
             <pubDate>Mon, 16 Jun 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/06/rfWyeFQUwuMPPAPsXcfAf120u70btiqe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】全種箔押しのインスタントフォト風カード！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_15849.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15849.html</guid>
-            <pubDate>Mon, 16 Jun 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/zIOPdtzJuRSTLJUJ7XMjlUO4kXD0zsn4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】初星学園放送部公開録音2025 ご参加ありがとうございました！ 本日の告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#学マス #学マス放送部公録_優雅 #学マス放送部公録_軽やか]]></description>
-            <link>https://idolmaster-official.jp/news/01_15906.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15906.html</guid>
-            <pubDate>Sun, 15 Jun 2025 12:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/06/p98uH7wlaHz7kQnPtWYMijlvPTjK8iCs.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
