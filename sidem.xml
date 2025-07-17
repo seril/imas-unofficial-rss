@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Jul 2025 11:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 14:18:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Jul 2025 11:18:18 GMT</pubDate>
+        <pubDate>Thu, 17 Jul 2025 14:18:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【SideM】10th STAGEのステージを端から端までお届けします！【アイドルマスター】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_16148.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16148.html</guid>
+            <pubDate>Thu, 17 Jul 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/biIO0JcGkld0n9DMtarDSjbsv0F4FUex.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM 夏空超えて成層圏の向こうまで輝け！11周年特別生配信」告知まとめ]]></title>
+            <description><![CDATA[#SideM #SideM11周年生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_15825.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15825.html</guid>
+            <pubDate>Thu, 17 Jul 2025 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/07/yp68LGsohq0wNYRlj54Np9KGwrmVC17n.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】伊集院 北斗＆山下 次郎＆葛之葉 雨彦がプロデュースした食器の受注販売スタート！描きおろしイラストを使用した記念グッズも♪]]></title>
+            <description><![CDATA[#SideM #伊集院北斗 #山下次郎 #葛之葉雨彦]]></description>
+            <link>https://idolmaster-official.jp/news/01_16163.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16163.html</guid>
+            <pubDate>Thu, 17 Jul 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/oLGXZqUuirCdOvPsQNTznw3HChtjJ7FA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「アイドルマスター SideM 夏空超えて成層圏の向こうまで輝け！11周年特別生配信」開催記念！出演キャストのサイン入り色紙プレゼント！ #SideM11周年生配信 でポスト！]]></title>
             <description><![CDATA[#SideM #SideM11周年生配信]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15829.html</guid>
             <pubDate>Tue, 17 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/06/16nmFheAbqCc7qubJGsNHGSNtS1ZP79y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※本日締め切り！※【SideM10th】横浜公演 イベント公式グッズ直前販売は本日まで！10周年記念衣装「パッショネイトシンフォニー」を身にまとったアイドル達のグッズなどを数量限定販売！]]></title>
-            <description><![CDATA[#SideM #SideM10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15908.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15908.html</guid>
-            <pubDate>Sun, 15 Jun 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/06/4prJ5kMrvuIw8Vd30f9HtCXoYqYHtOby.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】【明日まで！】9月にお誕生日を迎えるアイドルたちのバースデー記念グッズの販売は6月15日(日)まで！グッズのサンプルをご紹介♪]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_15705.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15705.html</guid>
-            <pubDate>Sat, 14 Jun 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/ZmW2H4n6YlljLjtVzNkPLDmHoRFY59mf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【SideM10th】会場物販情報公開！イベント公式グッズ直前販売も受付中！]]></title>
-            <description><![CDATA[#SideM #SideM10th ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15896.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15896.html</guid>
-            <pubDate>Fri, 13 Jun 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/06/uT22LIXSBT8v982gncmSmLqja7j8WsGn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

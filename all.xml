@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Jul 2025 11:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Jul 2025 14:18:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Jul 2025 11:18:18 GMT</pubDate>
+        <pubDate>Thu, 17 Jul 2025 14:18:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【SideM】10th STAGEのステージを端から端までお届けします！【アイドルマスター】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_16148.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16148.html</guid>
+            <pubDate>Thu, 17 Jul 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/biIO0JcGkld0n9DMtarDSjbsv0F4FUex.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM 夏空超えて成層圏の向こうまで輝け！11周年特別生配信」告知まとめ]]></title>
+            <description><![CDATA[#SideM #SideM11周年生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_15825.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15825.html</guid>
+            <pubDate>Thu, 17 Jul 2025 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/07/yp68LGsohq0wNYRlj54Np9KGwrmVC17n.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】伊集院 北斗＆山下 次郎＆葛之葉 雨彦がプロデュースした食器の受注販売スタート！描きおろしイラストを使用した記念グッズも♪]]></title>
+            <description><![CDATA[#SideM #伊集院北斗 #山下次郎 #葛之葉雨彦]]></description>
+            <link>https://idolmaster-official.jp/news/01_16163.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16163.html</guid>
+            <pubDate>Thu, 17 Jul 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/oLGXZqUuirCdOvPsQNTznw3HChtjJ7FA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「アイドルマスター SideM 夏空超えて成層圏の向こうまで輝け！11周年特別生配信」開催記念！出演キャストのサイン入り色紙プレゼント！ #SideM11周年生配信 でポスト！]]></title>
             <description><![CDATA[#SideM #SideM11周年生配信]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16108.html</guid>
             <pubDate>Fri, 11 Jul 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/FrB9wasvzac65OMhdBdSwnN5kSFbWKqC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】東武動物公園コラボ【ANIM@L PARADISE in Tobu Zoo】 コラボイベント詳細発表！ キャストトークイベントも開催決定！！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16125.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16125.html</guid>
-            <pubDate>Fri, 11 Jul 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/0JA2Hu7yiUMeyMZNyhDfYpe3Zv7MuyMa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「アイドルマスター シャイニーカラーズ × サンリオキャラクターズ コラボフェア in アニメイト」が開催中！ミニキャライラスト商品が本日発売！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15965.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15965.html</guid>
-            <pubDate>Fri, 11 Jul 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/06/kGkF9p2SIeFk8lY3lbnMMWfZdP1jQgI3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[偶像大师 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～上海/广州上映会 决定举办！7月11日18:00正式开售！]]></title>
-            <description><![CDATA[偶像大师 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～上海/广州上映会 决定举办！7月11日18:00正式开售！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16129.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16129.html</guid>
-            <pubDate>Thu, 10 Jul 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/07/eYe5oBx8fdETRsnl7Q6VlYiAHjkOKUl6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
