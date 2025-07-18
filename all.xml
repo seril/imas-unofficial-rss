@@ -4,10 +4,74 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Jul 2025 06:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 11:17:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Jul 2025 06:30:52 GMT</pubDate>
+        <pubDate>Fri, 18 Jul 2025 11:17:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></title>
+            <description><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16251.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16251.html</guid>
+            <pubDate>Fri, 18 Jul 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/twkcCphKyU65DMFPOKfSSSZbXqgTrtpn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】【レトマス】「水瀬伊織さんが西武園ゆうえんちのレトロフェスをリポート！」本日07/18日(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #レトマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15726.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15726.html</guid>
+            <pubDate>Fri, 18 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/ExYeKIbbkFoD1jTv6Wlqlt9p393FhbrB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【7月21日(月・祝)より！】盛岡競馬場にて「岩手競馬×アイドルマスター ミリオンライブ！2025」が開催！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16194.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16194.html</guid>
+            <pubDate>Fri, 18 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/BDoX5W75ZGDJbh7ZgIh12iKU3nO3agz0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】配信チケット販売開始！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16234.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16234.html</guid>
+            <pubDate>Fri, 18 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/07/iK9b7Pi6QMZoLLr87LudPS3NVmhwFZ23.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「STARLIGHT STAGE」配信チケットの販売がスタート！！ライブ冒頭の無料生配信や同時視聴上映会も実施予定♬]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16201.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16201.html</guid>
+            <pubDate>Fri, 18 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/sO37jB5jOJm2eVIU1XPGipx3BcWulGbF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】中外鉱業より新商品がコミックマーケット106で販売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16169.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16169.html</guid>
+            <pubDate>Fri, 18 Jul 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/JMoB8mXZg63DV3Gcgk7bTycTgjLCFgKK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングにて先行販売された商品の通常販売が決定！]]></title>
+            <description><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングにて先行販売された商品の通常販売が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16113.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16113.html</guid>
+            <pubDate>Fri, 18 Jul 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/07/p6i0ZyV4urBi9OmDNyvQNIOiiWWXuopE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】月岡 恋鐘、桑山 千雪が登場するトワイライツコレクションを開催中！SSR2倍1連無料ガシャの開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16195.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16195.html</guid>
+            <pubDate>Fri, 18 Jul 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/zGe4JuOcslU3u9XPjZBmViUBprjfvcUp.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025のCDが発売決定！7/21(月・祝)受注開始予定！]]></title>
             <description><![CDATA[オケマス2025]]></description>
@@ -343,70 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16158.html</guid>
             <pubDate>Sat, 12 Jul 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/U91iq76iO3b8WQqDf54WzhQJBPYUmsWN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】 ～Who goes first～ 新衣装「ブレイジングフォース」を身にまとったアイドル達が登場！本日21:30よりイベント公式グッズ事前販売スタート！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_16050.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16050.html</guid>
-            <pubDate>Sat, 12 Jul 2025 11:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/KVC3ANHxljgnIBlyfbrR1eNLGlV4yDYd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】ファンコン完走記念！2025年9月より全国30か所のAEON CINEMAにて「チアリング上映会」開催決定！！7月12日(土)22:00よりチケット販売開始！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOM完走記念チアリング上映会]]></description>
-            <link>https://idolmaster-official.jp/news/01_16100.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16100.html</guid>
-            <pubDate>Sat, 12 Jul 2025 11:51:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/8N4dGoqtQs2gATYTOIV06lAVXIw9wJxS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】横浜公演 2026年5月27日(水) LIVE Blu-ray 発売決定！！本日より順次ご予約受付開始！！]]></title>
-            <description><![CDATA[#SideM #SideM10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_16135.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16135.html</guid>
-            <pubDate>Sat, 12 Jul 2025 11:39:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/W8QXmBeFMFRGICb6Q0qB88KyeGcCf7U9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売は明日まで！！]]></title>
-            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
-            <link>https://idolmaster-official.jp/news/01_16154.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16154.html</guid>
-            <pubDate>Sat, 12 Jul 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/K7I9jaw2FwPbpK9aD4i9K1Ua3uceqras.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】◆明日まで！◆アソビストアプレミアム会員最速先行『CINDERELLA GIRLS fes. Once Upon a St@rs 』のお申込みは7月13日(日)23:59まで！]]></title>
-            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_16159.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16159.html</guid>
-            <pubDate>Sat, 12 Jul 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/yI81t8leuTROSsZOCqIU12ai08xEwh76.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[◆明日まで！◆【シャニマス7th】「7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”」イベントグッズ事前販売は明日7月13日(日)まで！]]></title>
-            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16130.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16130.html</guid>
-            <pubDate>Sat, 12 Jul 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/wK1iZuH7VdddbauPaPLiBF8e6eahCvfY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日12:00～【アイマス765単独NEI】現地チケット一般販売(先着)開始予定！公式リセールは15:00～開始予定]]></title>
-            <description><![CDATA[#アイマス765単独NEI]]></description>
-            <link>https://idolmaster-official.jp/news/01_16157.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16157.html</guid>
-            <pubDate>Sat, 12 Jul 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/rEMyXs4ZBbdP8Tc2ufF61Z4YyALzFht4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売は明日まで！！]]></title>
-            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
-            <link>https://idolmaster-official.jp/news/01_16153.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16153.html</guid>
-            <pubDate>Sat, 12 Jul 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/K7I9jaw2FwPbpK9aD4i9K1Ua3uceqras.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

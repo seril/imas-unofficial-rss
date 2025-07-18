@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Jul 2025 06:30:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 11:17:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Jul 2025 06:30:52 GMT</pubDate>
+        <pubDate>Fri, 18 Jul 2025 11:17:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></title>
+            <description><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16251.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16251.html</guid>
+            <pubDate>Fri, 18 Jul 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/twkcCphKyU65DMFPOKfSSSZbXqgTrtpn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】【レトマス】「水瀬伊織さんが西武園ゆうえんちのレトロフェスをリポート！」本日07/18日(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #レトマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_15726.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15726.html</guid>
+            <pubDate>Fri, 18 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/ExYeKIbbkFoD1jTv6Wlqlt9p393FhbrB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】中外鉱業より新商品がコミックマーケット106で販売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16169.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16169.html</guid>
+            <pubDate>Fri, 18 Jul 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/JMoB8mXZg63DV3Gcgk7bTycTgjLCFgKK.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025のCDが発売決定！7/21(月・祝)受注開始予定！]]></title>
             <description><![CDATA[オケマス2025]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15892.html</guid>
             <pubDate>Thu, 19 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/1ptblb74biZHmkygSjd04a1kfFIgar4Q.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】初星学園放送部 公開録音2025 ～放送部の優雅で軽やかで大騒ぎな一日～ 視聴コメント付きアーカイブ配信中！公演アンケートも実施中！]]></title>
-            <description><![CDATA[#初星学園放送部 #学マス放送部公録]]></description>
-            <link>https://idolmaster-official.jp/news/01_15932.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15932.html</guid>
-            <pubDate>Wed, 18 Jun 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/06/LAEwIxxhnzYqNpKC0YmG0ztfl2PxAYZH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】6/17(火)学マス生配信「初星学園HR #STEP3 紫雲清夏」お知らせまとめ]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #紫雲清夏_学マスSTEP3]]></description>
-            <link>https://idolmaster-official.jp/news/01_15739.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15739.html</guid>
-            <pubDate>Tue, 17 Jun 2025 11:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/06/KbFKDZDObVoMaXNVpuLfAeq9Cgb7Jew0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「初星学園HR＃STEP3 紫雲清夏」配信記念！出演キャストとアイドルのサイン入り色紙プレゼントキャンペーン開催中！	]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター  #紫雲清夏_学マスSTEP3 #紫雲清夏 #湊みや]]></description>
-            <link>https://idolmaster-official.jp/news/01_15620.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15620.html</guid>
-            <pubDate>Tue, 17 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/06/KX8YIYsLUvzsrlt5DH1nWzx2jHHS7B0O.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
