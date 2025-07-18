@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Jul 2025 04:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Jul 2025 06:30:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Jul 2025 04:02:43 GMT</pubDate>
+        <pubDate>Fri, 18 Jul 2025 06:30:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025のCDが発売決定！7/21(月・祝)受注開始予定！]]></title>
+            <description><![CDATA[オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16243.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16243.html</guid>
+            <pubDate>Fri, 18 Jul 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/Tt0kVJAfiQhQiCsRraX97mwKm8Qze5R5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス765NEI】会場物販情報更新！物販整理券の受付は7月23日(水)まで！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16236.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16236.html</guid>
+            <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/07/c8qYztgaPwJLS4PmrRMGbeXXqlkinpWD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】7月27日(日) 19:00～ 声優陣3名が出演する生配信を実施予定！]]></title>
             <description><![CDATA[#シャニマス  #シャニソン]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16153.html</guid>
             <pubDate>Sat, 12 Jul 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/K7I9jaw2FwPbpK9aD4i9K1Ua3uceqras.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】＼明後日まで！／デレステ10thツアー千秋楽「10th MEMORIAL LIVE STARLIGHT STAGE」現地チケット最速先行＆公式グッズ事前販売は7/13(日)まで！！]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16152.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16152.html</guid>
-            <pubDate>Fri, 11 Jul 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/FJKwgIRnqFSUYPdf4xUGIYlfn9P3Ml7Z.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】ラジオ番組『教えて！シンデレラガールズフェス』お知らせまとめ！]]></title>
-            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_16151.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16151.html</guid>
-            <pubDate>Fri, 11 Jul 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/fhpvBze0KV3gTC6F0echxp03Nwdt1kuJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
