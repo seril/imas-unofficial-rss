@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Jul 2025 03:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 06:28:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Jul 2025 03:52:24 GMT</pubDate>
+        <pubDate>Sat, 19 Jul 2025 06:28:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスタートラストBOT～Hug a nice day!～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ #バトルオブシアター #百万水着祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_16196.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16196.html</guid>
+            <pubDate>Sat, 19 Jul 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/07/VFZln4IrTsj4coNJ7boWwZlrvqqD5brv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明後日7月21日(月･祝)まで！】【SideM】新たなバースデー記念グッズ「Supreme 49 Cakes!!!」10月にお誕生日を迎えるアイドルたちのバースデー記念グッズ販売中！一部サンプルをご紹介♪]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_16231.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16231.html</guid>
+            <pubDate>Sat, 19 Jul 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/h4hhDtW0T90q5pD2WEFQft5kwxi9SdMR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】本日7月19日(土)より 如月千早武道館単独公演「OathONE」アソビストア一般会員先行の受付がスタート！]]></title>
             <description><![CDATA[#如月千早武道館単独公演]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16160.html</guid>
             <pubDate>Sun, 13 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/b79DB8X34gHEVGgbFGTmMSF28GpNnIHp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売は本日まで！！]]></title>
-            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
-            <link>https://idolmaster-official.jp/news/01_16155.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16155.html</guid>
-            <pubDate>Sun, 13 Jul 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/K7I9jaw2FwPbpK9aD4i9K1Ua3uceqras.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】THE IDOLM@STER SideM 10th ANNIVERSARY ST@GE ～P@SSION-ING!!!～ DAY1 ご来場&ご視聴いただきありがとうございました！！本日の告知情報とセットリストはこちら！]]></title>
-            <description><![CDATA[#SideM #SideM10th_day1]]></description>
-            <link>https://idolmaster-official.jp/news/01_16096.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16096.html</guid>
-            <pubDate>Sat, 12 Jul 2025 13:18:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/tNYrWYfOITMmMQCwGFCjM1tI9DicguLI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
