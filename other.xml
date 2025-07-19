@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Jul 2025 11:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 14:17:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Jul 2025 11:16:24 GMT</pubDate>
+        <pubDate>Sat, 19 Jul 2025 14:17:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】『876 PRODUCTION FES.』2026年2月21-23日に東京・日本工学院アリーナにて3DAYS開催決定！！DAY2にはＤＳ声優3名による初のキャストミーティングも実施！]]></title>
+            <description><![CDATA[#876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16253.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16253.html</guid>
+            <pubDate>Sat, 19 Jul 2025 13:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/07/bKnARI6aAl3EtKmJYsBqrbLhfybMu5op.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター20周年前夜祭生配信」お知らせまとめ]]></title>
+            <description><![CDATA[#アイマス20周年イヤー 　#アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_16103.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16103.html</guid>
+            <pubDate>Sat, 19 Jul 2025 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/qsx7ZLTrzQDuS0r9LSjRGy4KdAcb4WsA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】7月26日(土) 18:00～ 「アイドルマスター20th特別生配信イベント」の無料配信が決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16244.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16244.html</guid>
+            <pubDate>Sat, 19 Jul 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/wir2Y8c4rMjd9BLh4kGDNTYRm9FxS5z4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】「20th anniversary special party 直前！夜までアイマス5時間生配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #夜までアイマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_16246.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16246.html</guid>
+            <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/6GqcIxYbvTZ8QDYXGdcsAyNLXcbvZRUu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングにて先行販売された商品の通常販売が決定！]]></title>
             <description><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングにて先行販売された商品の通常販売が決定！]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14809.html</guid>
             <pubDate>Tue, 04 Mar 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/dKOle3VNACSKKJo5qttdrQn6bS8cRbdT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】初の有観客ワンマンLIVE「1stLIVE -HERE WE ARE !!!-」一般販売(先着)チケットの受付は3月8日13時開始！協賛社グッズ・開催記念商品等会場物販情報も更新！CD/映像商品には会場限定特典も！ ]]></title>
-            <description><![CDATA[【 #ヴイアラ 】初の有観客ワンマンLIVE「1stLIVE -HERE WE ARE !!!-」一般販売(先着)チケットの受付は3月8日13時開始！協賛社グッズ・開催記念商品等会場物販情報も更新！CD/映像商品には会場限定特典も！ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14810.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14810.html</guid>
-            <pubDate>Tue, 04 Mar 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/MysS3NLqkLaDxuwwF61fE4Hzzm6BcZFd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】本日3/4(火)夜は”今からでも間に合うヴイアライヴ”特集！19時より3本立てでお届け！第一部はAPラウンジヴイアラ入門！第二部はASOBINOTES特別配信！そして第三部はアイマス給湯室ヴイアラゲスト回！]]></title>
-            <description><![CDATA[#アイマスch ＃アイマス給湯室]]></description>
-            <link>https://idolmaster-official.jp/news/01_14802.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14802.html</guid>
-            <pubDate>Tue, 04 Mar 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/03/7KYf4N7vbNLslQ8NhjMCuriewJM2G1MA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【今週末まで！】【961】「961 PRODUCTION presents 『Re:FLAME』 追加公演」視聴コメント付きアーカイブは今週末3月2日(日) 23:59まで！京都公演と併せて計5公演が収録されるBlu-ray BOXは現在受注受付中！]]></title>
-            <description><![CDATA[#reflame_961 #reflame_961_DAWN #reflame_961_DUSK]]></description>
-            <link>https://idolmaster-official.jp/news/01_14726.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14726.html</guid>
-            <pubDate>Fri, 28 Feb 2025 10:16:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/02/HgQW9lZQtPgPAVouwuOzpclEEpNtiWMj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【生配信】もうすぐ1stライブ！ヴイアライヴの3人を徹底特集！【アイマス給湯室】 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃アイマス給湯室 #ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_14718.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14718.html</guid>
-            <pubDate>Thu, 27 Feb 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/02/8CjZXAesFYRSF27ClOCKggP9wtlxu17f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

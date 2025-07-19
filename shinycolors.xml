@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Jul 2025 11:16:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 14:17:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Jul 2025 11:16:25 GMT</pubDate>
+        <pubDate>Sat, 19 Jul 2025 14:17:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター20周年前夜祭生配信」お知らせまとめ]]></title>
+            <description><![CDATA[#アイマス20周年イヤー 　#アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_16103.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16103.html</guid>
+            <pubDate>Sat, 19 Jul 2025 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/qsx7ZLTrzQDuS0r9LSjRGy4KdAcb4WsA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】7月26日(土) 18:00～ 「アイドルマスター20th特別生配信イベント」の無料配信が決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16244.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16244.html</guid>
+            <pubDate>Sat, 19 Jul 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/wir2Y8c4rMjd9BLh4kGDNTYRm9FxS5z4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター20周年前夜祭生配信」抽選で3名様にキャストのサイン色紙をプレゼント！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
@@ -15,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16147.html</guid>
             <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/xGCUiwEXbMb3ZatGbUG3657AMaP3qa5S.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】「20th anniversary special party 直前！夜までアイマス5時間生配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #夜までアイマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_16246.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16246.html</guid>
+            <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/6GqcIxYbvTZ8QDYXGdcsAyNLXcbvZRUu.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15930.html</guid>
             <pubDate>Fri, 27 Jun 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「アイドルマスター シャイニーカラーズ × サンリオキャラクターズ コラボフェア in アニメイト」が明日より開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15964.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15964.html</guid>
-            <pubDate>Fri, 27 Jun 2025 06:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/06/mg70HgZQ3QkGRjUHyh2eLjmWtrMXl09O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】＜応募終了まであと3日！＞ 森永製菓「板チョコアイス」とのコラボキャンペーンが開催中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15989.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15989.html</guid>
-            <pubDate>Fri, 27 Jun 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/lOnd2otyDrFtzyN9OZkFa4fuqwLy481L.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】7月7日(月) 19:00～ 声優陣3名が出演する生配信を実施予定！]]></title>
-            <description><![CDATA[#シャニマス #シャニソン #シャイニーカラーズ #シャニマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_15522.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15522.html</guid>
-            <pubDate>Fri, 27 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/06/QqIobQv5qFLkRI5YxNPoGbVCVYzU4CNk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
