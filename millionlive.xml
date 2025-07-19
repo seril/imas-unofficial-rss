@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Jul 2025 06:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 11:16:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Jul 2025 06:28:33 GMT</pubDate>
+        <pubDate>Sat, 19 Jul 2025 11:16:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスタートラストBOT～Hug a nice day!～」を開催中！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16196.html</guid>
             <pubDate>Sat, 19 Jul 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/07/VFZln4IrTsj4coNJ7boWwZlrvqqD5brv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター20周年前夜祭生配信」抽選で3名様にキャストのサイン色紙をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_16147.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16147.html</guid>
+            <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/xGCUiwEXbMb3ZatGbUG3657AMaP3qa5S.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15946.html</guid>
             <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/pDUwzhHj6VXp9afHhA7WqiUXU2JbHHz4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アトレ秋葉原」開催！ 本日6/20(金)20時より、物販スペースの予約受付開始！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15947.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15947.html</guid>
-            <pubDate>Fri, 20 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2025/06/1QdjSRkI2wbCG6wG1d0Xfyfay4ZBZkV6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Jul 2025 06:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jul 2025 11:16:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Jul 2025 06:28:33 GMT</pubDate>
+        <pubDate>Sat, 19 Jul 2025 11:16:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【765】本日7月19日(土)より 如月千早武道館単独公演「OathONE」アソビストア一般会員先行の受付がスタート！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16247.html</guid>
             <pubDate>Sat, 19 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/07/g0lCrVsPzVkFlVc7jriAgZ41g5ThKbjW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター20周年前夜祭生配信」抽選で3名様にキャストのサイン色紙をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_16147.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16147.html</guid>
+            <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/xGCUiwEXbMb3ZatGbUG3657AMaP3qa5S.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15647.html</guid>
             <pubDate>Sat, 24 May 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/kGoJeWuuYzqFSybGGw3J113l8kiow8y0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th anniversary special party アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信」公式グッズの事前販売ファイナルは明日5/25(日)まで！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15646.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15646.html</guid>
-            <pubDate>Sat, 24 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/05/nY5bMXlQ3QSqhKVrH7oOzL0Ltnq542MH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
