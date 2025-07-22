@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jul 2025 02:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 04:01:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Jul 2025 02:57:22 GMT</pubDate>
+        <pubDate>Tue, 22 Jul 2025 04:01:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】筑西市 × 『アイドルマスター』シリーズコラボが本年も開催決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16184.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16184.html</guid>
+            <pubDate>Tue, 22 Jul 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/qUizLxtu42bu90m5CW2bMUeoHiRxg4yw.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】ハウスウェルネスフーズ「ネルノダ」のアンバサダーに「白瀬咲耶」「桑山千雪」「鈴木羽那」が就任！ ]]></title>
             <description><![CDATA[#ネルノダ #シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16056.html</guid>
             <pubDate>Tue, 01 Jul 2025 10:28:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/MOIGqwc8nLUKRUANdx890JzQaaek9ZTm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】セブンネットショッピング限定オリジナルグッズ予約受付中！]]></title>
-            <description><![CDATA[ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16053.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16053.html</guid>
-            <pubDate>Tue, 01 Jul 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/MIRbVfqAkmXyA7YgmuIyjUTT9gXQFoEh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

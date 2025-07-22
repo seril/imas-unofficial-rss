@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 22 Jul 2025 02:57:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 04:01:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 22 Jul 2025 02:57:22 GMT</pubDate>
+        <pubDate>Tue, 22 Jul 2025 04:01:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】筑西市 × 『アイドルマスター』シリーズコラボが本年も開催決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16184.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16184.html</guid>
+            <pubDate>Tue, 22 Jul 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/qUizLxtu42bu90m5CW2bMUeoHiRxg4yw.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オケマス2025】昼公演・夜公演のご鑑賞ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
             <description><![CDATA[#オケマス2025   #オケマス2025昼公演　  #オケマス2025夜公演]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_15836.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15836.html</guid>
             <pubDate>Sun, 08 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/05/igqDe5tScOJFkkABUwlrH9xS85hiQoVG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス765単独NEI】イベントグッズ事前2次販売は6/8(日)まで！]]></title>
-            <description><![CDATA[#アイマス765単独NEI]]></description>
-            <link>https://idolmaster-official.jp/news/01_15835.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15835.html</guid>
-            <pubDate>Sat, 07 Jun 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/05/igqDe5tScOJFkkABUwlrH9xS85hiQoVG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
