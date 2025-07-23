@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Jul 2025 06:31:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jul 2025 11:18:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Jul 2025 06:31:39 GMT</pubDate>
+        <pubDate>Wed, 23 Jul 2025 11:18:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】アイドルマスター オフィシャルショップにヴイアライヴの新グッズが登場！7月25日(金)より取り扱い開始]]></title>
+            <description><![CDATA[【 #ヴイアラ】アイドルマスター オフィシャルショップにヴイアライヴの新グッズが登場！7月25日(金)より取り扱い開始]]></description>
+            <link>https://idolmaster-official.jp/news/01_16237.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16237.html</guid>
+            <pubDate>Wed, 23 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/07/KXxEmtIjBqfx4zKq55yZadYqBKPsYM1p.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】『876 PRODUCTION FES.』2026年2月21-23日に東京・日本工学院アリーナにて3DAYS開催決定！！DAY2にはＤＳ声優3名による初のキャストミーティングも実施！]]></title>
             <description><![CDATA[#876プロフェス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14819.html</guid>
             <pubDate>Fri, 07 Mar 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/34CVwUrlY0qBgIhROI6CJYyqWv0Efdxz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#ヴイアラ】ライバーアイドルソロ1stアルバムが4月2日(水)に発売決定！ASOBISTOREでは本日より予約受付開始！1st singleのMVも公開日が決定！]]></title>
-            <description><![CDATA[【#ヴイアラ】ライバーアイドルソロ1stアルバムが4月2日(水)に発売決定！ASOBISTOREでは本日より予約受付開始！1st singleのMVも公開日が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_14809.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14809.html</guid>
-            <pubDate>Tue, 04 Mar 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/dKOle3VNACSKKJo5qttdrQn6bS8cRbdT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
