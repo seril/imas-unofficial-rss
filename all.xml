@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Jul 2025 02:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 04:01:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Jul 2025 02:57:11 GMT</pubDate>
+        <pubDate>Thu, 24 Jul 2025 04:01:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】「アイドルマスター」20周年記念！「星井美希」新規録り下ろしボイス搭載ワイヤレスイヤホン登場！！「如月千早」ワイヤレスヘッドホンの再受注も決定！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #idolmaster]]></description>
+            <link>https://idolmaster-official.jp/news/01_16168.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16168.html</guid>
+            <pubDate>Thu, 24 Jul 2025 03:31:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/A6esr1tR1lIKNwQRAlEKoy2SfWOz666o.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】コトブキヤよりフィギュア「葛城リーリヤ-白線-」の商品化が決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16217.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16217.html</guid>
+            <pubDate>Thu, 24 Jul 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/3UG9oq9lrvGdHlupxJIxAtc7tX3ycuao.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】「THE IDOLM@STER SHINY COLORS Song for Prism 愛しき日々 / Fading Stars / Future Transit / KoiKyun！」ジャケット・INDEX解禁！]]></title>
+            <description><![CDATA[#シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16276.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16276.html</guid>
+            <pubDate>Thu, 24 Jul 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/PiOz11ZgW5y4rYVLVx2uQgGABAdiKABk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】本日7/24(木)20:00より開催「アイドルマスター楽曲縛り歌枠リレー配信」！各個人チャンネルにてライバーアイドルがアイマス楽曲をカバー歌唱！ #アイマス20周年イヤー]]></title>
+            <description><![CDATA[【 #ヴイアラ 】本日7/24(木)20:00より開催「アイドルマスター楽曲縛り歌枠リレー配信」！各個人チャンネルにてライバーアイドルがアイマス楽曲をカバー歌唱！ #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16304.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16304.html</guid>
+            <pubDate>Thu, 24 Jul 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/07/QU3OlZ1oCN8T5SFAZSPJ9ara3t82OVZq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 学マス 】‎葛城リーリヤ誕生日記念セット2025 受注受付中♬［8/17(日)まで］]]></title>
             <description><![CDATA[#学マス]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16148.html</guid>
             <pubDate>Thu, 17 Jul 2025 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/biIO0JcGkld0n9DMtarDSjbsv0F4FUex.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM 夏空超えて成層圏の向こうまで輝け！11周年特別生配信」告知まとめ]]></title>
-            <description><![CDATA[#SideM #SideM11周年生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_15825.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15825.html</guid>
-            <pubDate>Thu, 17 Jul 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/07/yp68LGsohq0wNYRlj54Np9KGwrmVC17n.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】伊集院 北斗＆山下 次郎＆葛之葉 雨彦がプロデュースした食器の受注販売スタート！描きおろしイラストを使用した記念グッズも♪]]></title>
-            <description><![CDATA[#SideM #伊集院北斗 #山下次郎 #葛之葉雨彦]]></description>
-            <link>https://idolmaster-official.jp/news/01_16163.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16163.html</guid>
-            <pubDate>Thu, 17 Jul 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/oLGXZqUuirCdOvPsQNTznw3HChtjJ7FA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM 夏空超えて成層圏の向こうまで輝け！11周年特別生配信」開催記念！出演キャストのサイン入り色紙プレゼント！ #SideM11周年生配信 でポスト！]]></title>
-            <description><![CDATA[#SideM #SideM11周年生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_15827.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15827.html</guid>
-            <pubDate>Thu, 17 Jul 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/07/kIxfAFINfXqp5o2siZSN2Crz3BT26GIP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！シアターデイズ×アトレ秋葉原」のグッズがASOBI STOREにて販売中！8月4日(月)まで]]></title>
-            <description><![CDATA[#ミリオンライブ #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_16220.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16220.html</guid>
-            <pubDate>Thu, 17 Jul 2025 09:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/IBP2TN8JJHrcWiAxBQ3azbZUpZAGucdm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
