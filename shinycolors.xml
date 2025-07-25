@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jul 2025 02:57:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 04:01:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Jul 2025 02:57:02 GMT</pubDate>
+        <pubDate>Fri, 25 Jul 2025 04:01:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ』ビックカメラグループグッズフェア　AMERICAN DINERが8月8日（金）より開催！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16301.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16301.html</guid>
+            <pubDate>Fri, 25 Jul 2025 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/Yx3g7syUXtcbbsxR5zTVYlEUfyCaa6Qi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】アイドルマスターチャンネル開設5周年！メンバーシップ開始＆切り抜きガイドライン公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16018.html</guid>
             <pubDate>Sun, 06 Jul 2025 10:43:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/Wgwxt4A0xqwEGmh4DRc4srP8F4nmeTXn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】横浜公演DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_横浜_day1 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16017.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16017.html</guid>
-            <pubDate>Sat, 05 Jul 2025 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/kjC1BkA8zRnRqZ2pIQMg6BKy1FzxW9uM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
