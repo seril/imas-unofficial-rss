@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jul 2025 06:32:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 11:17:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Jul 2025 06:32:01 GMT</pubDate>
+        <pubDate>Fri, 25 Jul 2025 11:17:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】本日19時より、PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」第二期個人スポンサー募集開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスレーシングPJ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16316.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16316.html</guid>
+            <pubDate>Fri, 25 Jul 2025 09:04:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/qLjDHifHr2bQ37G2SDdTiZOp5dkpL04O.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「『アイドルマスター』シリーズ×アトレ秋葉原」開催中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16322.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16322.html</guid>
+            <pubDate>Fri, 25 Jul 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/C7BpVYL40lBifC4gAUmRaocN5Qno3cHI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】アイドルマスターチャンネル開設5周年！メンバーシップ開始＆切り抜きガイドライン公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15988.html</guid>
             <pubDate>Fri, 27 Jun 2025 06:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】＜応募終了まであと3日！＞ 森永製菓「板チョコアイス」とのコラボキャンペーンが開催中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15989.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15989.html</guid>
-            <pubDate>Fri, 27 Jun 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/04/lOnd2otyDrFtzyN9OZkFa4fuqwLy481L.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#APラウンジ】【ミリシタ】8周年を∞にお祝いする配信のお知らせ【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #ミリシタ #ミリオン秋葉原っぱフェスティバル]]></description>
-            <link>https://idolmaster-official.jp/news/01_15833.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15833.html</guid>
-            <pubDate>Thu, 26 Jun 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/GAmes2R2eLtEihNTtICCUl41EtkOwBQ6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
