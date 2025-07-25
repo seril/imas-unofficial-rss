@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jul 2025 11:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 14:19:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Jul 2025 11:17:58 GMT</pubDate>
+        <pubDate>Fri, 25 Jul 2025 14:19:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
+            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
+            <link>https://idolmaster-official.jp/news/01_16263.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16263.html</guid>
+            <pubDate>Fri, 25 Jul 2025 12:12:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/GvccRwXRuD3MCTFSnYgdjlmg47tMBibw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズ×アニメイトカフェ コラボ詳細発表！]]></title>
+            <description><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズ×アニメイトカフェ コラボ詳細発表！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16245.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16245.html</guid>
+            <pubDate>Fri, 25 Jul 2025 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/BBxz7EJhcqJm624TyjbLU0D7fKN44mCC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ スターライトステージ」コラボ狩歌、8月1日に一般発売決定！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15873.html</guid>
             <pubDate>Sun, 29 Jun 2025 09:55:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/L4ZFiqk4O1rglX95ZYtYvqKfP1R4BDLf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー福岡公演DAY1のご鑑賞ありがとうございました！ 本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー福岡_day1]]></description>
-            <link>https://idolmaster-official.jp/news/01_15874.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15874.html</guid>
-            <pubDate>Sat, 28 Jun 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/06/g5yHNJ6A1lB9aw2GRm0Nc5cVo1eayHli.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「Let’s AMUSEMENT!!! 福岡公演」Cygamesフラワースタンド」出演キャストサインパネルを公開！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #stairs_to_10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_15970.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15970.html</guid>
-            <pubDate>Sat, 28 Jun 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/YDpE1xYuIsjRgZ2IRmIEeMQfFEEI24Bl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
