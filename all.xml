@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Jul 2025 04:01:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Jul 2025 06:32:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Jul 2025 04:01:02 GMT</pubDate>
+        <pubDate>Fri, 25 Jul 2025 06:32:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】315!!!SHOP「315 Super SuMMer Market」物販・ミニゲーム・フード・特典の情報を公開！]]></title>
+            <description><![CDATA[#SideM ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16306.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16306.html</guid>
+            <pubDate>Fri, 25 Jul 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/fA7JvcJn7mvMlLzY1EzWbdZ9dOPgFv7m.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】【明日7月26日(土)より】トレーディングカードゲーム『ヴァイスシュヴァルツ』でプレミアムブースター「アイドルマスター 765PRO ALLSTARS」が発売！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16218.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16218.html</guid>
+            <pubDate>Fri, 25 Jul 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/btpJQILNWUHjuz5bJIr6wLTJj4M1EPcD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ』ビックカメラグループグッズフェア　AMERICAN DINERが8月8日（金）より開催！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16201.html</guid>
             <pubDate>Fri, 18 Jul 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/sO37jB5jOJm2eVIU1XPGipx3BcWulGbF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】中外鉱業より新商品がコミックマーケット106で販売決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16169.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16169.html</guid>
-            <pubDate>Fri, 18 Jul 2025 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/JMoB8mXZg63DV3Gcgk7bTycTgjLCFgKK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングにて先行販売された商品の通常販売が決定！]]></title>
-            <description><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングにて先行販売された商品の通常販売が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16113.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16113.html</guid>
-            <pubDate>Fri, 18 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/07/p6i0ZyV4urBi9OmDNyvQNIOiiWWXuopE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
