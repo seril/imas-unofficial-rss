@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Jul 2025 06:29:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jul 2025 11:16:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Jul 2025 06:29:11 GMT</pubDate>
+        <pubDate>Sat, 26 Jul 2025 11:16:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「アイマス20th特別生配信イベント」実施記念！抽選で11名様にキャストのサイン色紙をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年おめでとう]]></description>
+            <link>https://idolmaster-official.jp/news/01_16317.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16317.html</guid>
+            <pubDate>Sat, 26 Jul 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/07/j7NeVGKQjAcO416OYowqfhlMQ1Gt1cSW.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[整理券受付開始！【シンデレラ】＜デレステ10thツアー＞参加条件は法被＆ライト持ち込み！ツアー後半公演打ち上げDJイベント「SUPER! HAPPY! TRACKS!」]]></title>
             <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ #デレステ10thツアー_打ち上げDJ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16103.html</guid>
             <pubDate>Sat, 19 Jul 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/qsx7ZLTrzQDuS0r9LSjRGy4KdAcb4WsA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【パックマス】【8/1(金)よりスタート！】愛知・名古屋を食べ尽くそう！遊び尽くそう！「旅ろっ！愛知」×「アイ MAKE IMP＠CT！」詳細情報公開💞]]></title>
-            <description><![CDATA[#パックマス #pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16205.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16205.html</guid>
-            <pubDate>Sat, 19 Jul 2025 12:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/3cbUSMBPbadLLSE3IjVigoTnE56iHNzY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
