@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Jul 2025 02:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jul 2025 03:57:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Jul 2025 02:51:36 GMT</pubDate>
+        <pubDate>Sat, 26 Jul 2025 03:57:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[整理券受付開始！【シンデレラ】＜デレステ10thツアー＞参加条件は法被＆ライト持ち込み！ツアー後半公演打ち上げDJイベント「SUPER! HAPPY! TRACKS!」]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ #デレステ10thツアー_打ち上げDJ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16319.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16319.html</guid>
+            <pubDate>Sat, 26 Jul 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/9NpNFtuxRkEae1cno6CQoZpjXlX4FqUm.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】 ＼＼明日7/27(日)まで！／／星座にフィーチャーした190名のバースデーコレクション、第8弾「かに座」が受注中♪ 第9弾「しし座」もお見逃しなく！！]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15961.html</guid>
             <pubDate>Mon, 30 Jun 2025 01:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/quaHWlyhXBUNIq8tlXiKGQLZhRK9OpEG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE」9月6日(土)・7日(日)出演者公開！公式サイトが変化＆現地チケット最速先行が19時よりスタート！]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15997.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15997.html</guid>
-            <pubDate>Sun, 29 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/06/auD7foQVp4LwmS8BqSjpSoZOeu6dtu8f.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
