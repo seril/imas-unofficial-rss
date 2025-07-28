@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Jul 2025 06:33:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Jul 2025 11:18:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Jul 2025 06:33:54 GMT</pubDate>
+        <pubDate>Mon, 28 Jul 2025 11:18:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】DJイベント「夏宵楽宴 ～サマーナイトパーティー！～」開催！]]></title>
+            <description><![CDATA[#シャニマス #シャニソン #夏に聴きたいシャニソング]]></description>
+            <link>https://idolmaster-official.jp/news/01_16325.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16325.html</guid>
+            <pubDate>Mon, 28 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/E2HwrRX4ebxT2SOXUmjmBelYJtTNmixF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【765プロ】765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～ 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16172.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16172.html</guid>
+            <pubDate>Mon, 28 Jul 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/9gg6z9UiXL9I1k1mqJilDuErMq9EBKSq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】ウェーブより篠澤 広が描き下ろしの水着衣装でスケールフィギュア化進行中！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -353,20 +369,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/07/LWKcwIH074zP4G9UE32J77FUqW3Y4CuS.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス7th】青森公演にて会場と新青森駅・青森駅・青森空港間で運行する往復アクセスバスツアーを実施決定！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16265.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16265.html</guid>
-            <pubDate>Wed, 23 Jul 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/f8iQEw8R1m3gUu2avmzZpk56kyhGvy00.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シャニマス7th】愛知公演公式リセールの受付が7月31日(木)よりスタート！現地チケット＆配信チケット販売中！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
             <link>https://idolmaster-official.jp/news/01_16266.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16266.html</guid>
             <pubDate>Wed, 23 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/qoQhHAOTr6PHCFgot0dmQj8ZVXea1X8i.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7th】青森公演にて会場と新青森駅・青森駅・青森空港間で運行する往復アクセスバスツアーを実施決定！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16265.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16265.html</guid>
+            <pubDate>Wed, 23 Jul 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/f8iQEw8R1m3gUu2avmzZpk56kyhGvy00.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第8弾『禍魂朧夜』の発売が決定！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16239.html</guid>
             <pubDate>Tue, 22 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/dnwnBl1HvUnkZzc76y9iMkIAvqpDRIce.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】ハウスウェルネスフーズ「ネルノダ」のアンバサダーに「白瀬咲耶」「桑山千雪」「鈴木羽那」が就任！ ]]></title>
-            <description><![CDATA[#ネルノダ #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16193.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16193.html</guid>
-            <pubDate>Tue, 22 Jul 2025 02:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/2m277CYWPSyCavrxX9RUdywrrcmEPAhe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】昨年に引き続きハウスウェルネスフーズ「メガシャキ」のアンバサダーに「田中摩美々」「黛 冬優子」「斑鳩ルカ」が就任！ ]]></title>
-            <description><![CDATA[#メガシャキ #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16188.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16188.html</guid>
-            <pubDate>Tue, 22 Jul 2025 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/50tZU4vr4YdYYclkb6BF6yBTHhS4Onyc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
