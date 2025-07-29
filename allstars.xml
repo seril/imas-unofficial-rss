@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Jul 2025 06:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 11:18:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Jul 2025 06:32:35 GMT</pubDate>
+        <pubDate>Tue, 29 Jul 2025 11:18:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の追加販売グッズの受注は8/3(日)まで！]]></title>
+            <description><![CDATA[#オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16341.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16341.html</guid>
+            <pubDate>Tue, 29 Jul 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【AP生配信】【765プロ】765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～ 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #アイマス765単独NEI]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16049.html</guid>
             <pubDate>Wed, 02 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/reWcwGjLuE2GJa3OR6ZRdlD7tXZgWCQw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】三菱ＵＦＪ銀行「Buzz BANK」本日7月1日より、ついにアプリリリース＆「アイドルマスター」コラボキャンペーン開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #buzzbank #バズバンクアイドルマスターコラボ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15978.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15978.html</guid>
-            <pubDate>Tue, 01 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/06/820Q5zinjSAg69Hfhxy1ovk9zwMQq70N.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
