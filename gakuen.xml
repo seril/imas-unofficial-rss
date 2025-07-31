@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 Jul 2025 06:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Jul 2025 11:18:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 31 Jul 2025 06:32:09 GMT</pubDate>
+        <pubDate>Thu, 31 Jul 2025 11:18:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【学マス】Begrazia登場記念！Begraziaのキャスト3名のサイン入り色紙プレゼントキャンペーン開催中！	]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター  #Begrazia　#Begrazia登場おめでとう]]></description>
+            <link>https://idolmaster-official.jp/news/01_16166.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16166.html</guid>
+            <pubDate>Thu, 31 Jul 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/EoSaY0wEYLeTjMfct6DO30rqWpmBBhz7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[あと3日！【アイマス20周年記念生配信イベント】開催記念 ティザービジュアルグッズ受注中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16378.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16378.html</guid>
+            <pubDate>Thu, 31 Jul 2025 09:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/b0E3CHkfoLxGjnnA9RP3iQtvUQDV0Uw4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】AVIOT ×『学園アイドルマスター』 渋谷モディPOP UP開催決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16313.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16313.html</guid>
+            <pubDate>Thu, 31 Jul 2025 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/yeTmOaBBCmuuSLNmzWhTdqqKphyrLD5y.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】二次元コスパより、アイドル3人の「アクリルスタンド」が新登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16278.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16278.html</guid>
+            <pubDate>Thu, 31 Jul 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/FsMV92T18oHfJOkcRGZiD0AwEqHlJUJd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】総額100万円分のえらべるPayが抽選で1000名様に当たる！『「#Begraziaユニットライブ実装」えらべるPayプレゼントキャンペーン』開催中！]]></title>
             <description><![CDATA[#学マス #えらべるPay #Begraziaユニットライブ実装]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16117.html</guid>
             <pubDate>Thu, 10 Jul 2025 06:56:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/PVQY9Rx403Tx3VF2exU4dxPJHv7emLZO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【闪耀色彩 & 学园偶像大师】7月上海活动日程表♪]]></title>
-            <description><![CDATA[#シャニマス #学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16118.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16118.html</guid>
-            <pubDate>Thu, 10 Jul 2025 06:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/PVQY9Rx403Tx3VF2exU4dxPJHv7emLZO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】7/15(火) 18:30～ 学園アイドルマスター「初星学園HR #STEP3 篠澤 広」生配信実施予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #川村玲奈 #篠澤広]]></description>
-            <link>https://idolmaster-official.jp/news/01_16032.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16032.html</guid>
-            <pubDate>Wed, 09 Jul 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/07/9U4ipOvPReQDQ9DIXKgSLb6IQNvUGHv5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【特別生配信】和田一樹さん・椎名 豪さんと語る！オーケストラの魅力【オケマス2025】 配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16064.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16064.html</guid>
-            <pubDate>Tue, 08 Jul 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/k6hWVo6zu6Fds1ZqcDV5YYXXpP5bGqJB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】 7月12日(土)より「アイドルマスター オフィシャルショップ」の抽選くじに学マスが登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16107.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16107.html</guid>
-            <pubDate>Tue, 08 Jul 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/0TR40wLAa8EFg5PnzjTJisYiswFHQrox.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
