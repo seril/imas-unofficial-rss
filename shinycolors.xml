@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 31 Jul 2025 14:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 03:12:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 31 Jul 2025 14:21:45 GMT</pubDate>
+        <pubDate>Fri, 01 Aug 2025 03:12:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】DJイベント「夏宵楽宴 ～サマーナイトパーティー！～」開催！]]></title>
+            <description><![CDATA[#シャニマス #シャニソン #夏に聴きたいシャニソング]]></description>
+            <link>https://idolmaster-official.jp/news/01_16325.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16325.html</guid>
+            <pubDate>Fri, 01 Aug 2025 02:59:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/E2HwrRX4ebxT2SOXUmjmBelYJtTNmixF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[あと3日！【アイマス20周年記念生配信イベント】開催記念 ティザービジュアルグッズ受注中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー ]]></description>
@@ -39,14 +47,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16341.html</guid>
             <pubDate>Tue, 29 Jul 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】DJイベント「夏宵楽宴 ～サマーナイトパーティー！～」開催！]]></title>
-            <description><![CDATA[#シャニマス #シャニソン #夏に聴きたいシャニソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_16325.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16325.html</guid>
-            <pubDate>Mon, 28 Jul 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/E2HwrRX4ebxT2SOXUmjmBelYJtTNmixF.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】『シャニソン生配信～このドキドキは、夏のせい……スペシャル～』enza対応ゲーム「シャニマス」＆その他告知情報まとめ]]></title>
