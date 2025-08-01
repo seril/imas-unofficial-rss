@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Aug 2025 06:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 11:18:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Aug 2025 06:33:19 GMT</pubDate>
+        <pubDate>Fri, 01 Aug 2025 11:18:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】いよいよ明日開催！765単独NEI＜エントランスがオープン!!!＞「ASOBI STAGE」「YouTubeアイドルマスターチャンネル」にてライブ冒頭を【無料】配信！配信チケットも販売中！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16356.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16356.html</guid>
+            <pubDate>Fri, 01 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/07/VvFobg6EPEyhm80Izqg3F0S1iVkrJbEw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「THE IDOLM@STER Series-M@STER's FESTA 2025-」の詳細が解禁！]]></title>
+            <description><![CDATA[#アイマス20周年おめでとう]]></description>
+            <link>https://idolmaster-official.jp/news/01_16350.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16350.html</guid>
+            <pubDate>Fri, 01 Aug 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/imeFKLNVwQnCvovgTzgf2R5dVUqUZT3F.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】30MS ×『アイドルマスター』シリーズより如月千早 (20th Anniv. YOU AND アイ！)のパッケージを初公開！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16064.html</guid>
             <pubDate>Tue, 08 Jul 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/k6hWVo6zu6Fds1ZqcDV5YYXXpP5bGqJB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オケマス2025】配信チケットの詳細公開＆販売開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16104.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16104.html</guid>
-            <pubDate>Mon, 07 Jul 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/6czUtGdVbnxjIbdaofyy5PqvNTrhZNSj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式Weibo＆bilibiliアカウント開設！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16081.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16081.html</guid>
-            <pubDate>Fri, 04 Jul 2025 04:11:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6NYwaebh9n2YSyr1iFiX0Y0vuCkU8BCF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
