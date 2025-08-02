@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 Aug 2025 11:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Aug 2025 14:18:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 Aug 2025 11:17:05 GMT</pubDate>
+        <pubDate>Sat, 02 Aug 2025 14:18:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【961】「THE IDOLM@STER」961 PRODUCTION DMM スクラッチが8月5日（火）より販売開始！]]></title>
+            <description><![CDATA[【961】「THE IDOLM@STER」961 PRODUCTION DMM スクラッチが8月5日（火）より販売開始！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16380.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16380.html</guid>
+            <pubDate>Sat, 02 Aug 2025 12:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/2c0hestt1oDnYl0w4PPrSLFjyZ0fX6tI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】10月31日まで開催中の三菱ＵＦＪ銀行「Buzz BANK」×「アイドルマスター」コラボキャンペーンよりマフラータオルがもらえる追加チャレンジを実施！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #buzzbank #バズバンクアイドルマスターコラボ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16379.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16379.html</guid>
+            <pubDate>Sat, 02 Aug 2025 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/HBeLyRnYUhoqm1iNuQ7KJJYCw57QyhKy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「いらすとや×アイドルマスター」　LINEスタンプ 発売開始🎉✨]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16345.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16345.html</guid>
+            <pubDate>Sat, 02 Aug 2025 12:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/4h2Lf9POHpi6LJ7xIDGN6McPd2Dnor2T.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】「THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～」DAY1ご来場・ご視聴いただきありがとうございました！！本日のセットリスト＆告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16365.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16365.html</guid>
+            <pubDate>Sat, 02 Aug 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/08/bKxLixFqvL4NhoeVhz0mgCZ6pIWeNA96.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】【SideM10th】横浜公演 開催記念グッズの受注は明日まで！『SUPREME STARS !!!』のメモリアルなオルゴールやアンコールTシャツを身にまとったアイドルたちのグッズが登場！！一部サンプルをご紹介♪]]></title>
             <description><![CDATA[#SideM #SideM10th ]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16324.html</guid>
             <pubDate>Fri, 25 Jul 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/04/8J3i0Z67AfKBARcH1gEYf980mtmvNUTK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】NHKラジオ特番 「今日ファミレスで駄弁らない？」に、双葉 杏・夢見りあむ出演決定！]]></title>
-            <description><![CDATA[#シンデレラガールズ　#NHKきょうだべ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16326.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16326.html</guid>
-            <pubDate>Fri, 25 Jul 2025 09:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/07/IKsHZe0haGdqW1EudldBwIP9ddqqgPqk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「STARLIGHT STAGE」公式グッズ事前販売ファイナル（数量限定販売）開始！190名のホログラムクリアチケットも数量限定で登場！10thツアーグッズも大解放中♪]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16318.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16318.html</guid>
-            <pubDate>Fri, 25 Jul 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/tWI8XZJW9RtTZWBsVJRkFa7HeJXHwRoY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】本日19時より、PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」第二期個人スポンサー募集開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスレーシングPJ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16316.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16316.html</guid>
-            <pubDate>Fri, 25 Jul 2025 09:04:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/qLjDHifHr2bQ37G2SDdTiZOp5dkpL04O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】【7/27(日)まで！】「DMMスクラッチ」好評販売中！商品写真を一部公開✨]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16286.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16286.html</guid>
-            <pubDate>Fri, 25 Jul 2025 09:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/kT35tOqVDVQiLZMu94N1xsxpWFfkNe1F.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
