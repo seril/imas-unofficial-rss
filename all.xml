@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Aug 2025 14:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Aug 2025 02:52:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Aug 2025 14:21:47 GMT</pubDate>
+        <pubDate>Sat, 02 Aug 2025 02:52:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】「アイドルマスター カードフォリオ」本日発売！！アソビストアと現地物販会場で販売開始！発売を記念したキャンペーンも開催中♪]]></title>
+            <description><![CDATA[#アイマス765単独NEI #アイマスカードフォリオ #アイマスカードフォリオ発売記念]]></description>
+            <link>https://idolmaster-official.jp/news/01_16359.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16359.html</guid>
+            <pubDate>Sat, 02 Aug 2025 01:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/X0v5pigtkd6qrmu5YsVZ7M8Co5Q2tag5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7th LIVE】愛知公演　キャスト生出演オーコメ付き！アーカイブ同時視聴会の開催が決定！！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16306.html</guid>
             <pubDate>Fri, 25 Jul 2025 06:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/fA7JvcJn7mvMlLzY1EzWbdZ9dOPgFv7m.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】【明日7月26日(土)より】トレーディングカードゲーム『ヴァイスシュヴァルツ』でプレミアムブースター「アイドルマスター 765PRO ALLSTARS」が発売！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16218.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16218.html</guid>
-            <pubDate>Fri, 25 Jul 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/btpJQILNWUHjuz5bJIr6wLTJj4M1EPcD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

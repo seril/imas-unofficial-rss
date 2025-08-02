@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 Aug 2025 14:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Aug 2025 02:52:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Aug 2025 14:21:46 GMT</pubDate>
+        <pubDate>Sat, 02 Aug 2025 02:52:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】「アイドルマスター カードフォリオ」本日発売！！アソビストアと現地物販会場で販売開始！発売を記念したキャンペーンも開催中♪]]></title>
+            <description><![CDATA[#アイマス765単独NEI #アイマスカードフォリオ #アイマスカードフォリオ発売記念]]></description>
+            <link>https://idolmaster-official.jp/news/01_16359.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16359.html</guid>
+            <pubDate>Sat, 02 Aug 2025 01:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/X0v5pigtkd6qrmu5YsVZ7M8Co5Q2tag5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】いよいよ明日開催！765単独NEI＜エントランスがオープン!!!＞「ASOBI STAGE」「YouTubeアイドルマスターチャンネル」にてライブ冒頭を【無料】配信！配信チケットも販売中！]]></title>
             <description><![CDATA[#アイマス765単独NEI]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16121.html</guid>
             <pubDate>Wed, 09 Jul 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/rEMyXs4ZBbdP8Tc2ufF61Z4YyALzFht4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【特別生配信】和田一樹さん・椎名 豪さんと語る！オーケストラの魅力【オケマス2025】 配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16064.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16064.html</guid>
-            <pubDate>Tue, 08 Jul 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/k6hWVo6zu6Fds1ZqcDV5YYXXpP5bGqJB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
