@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 Aug 2025 11:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Aug 2025 14:17:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 Aug 2025 11:17:37 GMT</pubDate>
+        <pubDate>Sun, 03 Aug 2025 14:17:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】「THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～」DAY2ご来場・ご視聴いただきありがとうございました！]]></title>
+            <description><![CDATA[#アイマス765単独NEI #アイマス765単独NEI_day2]]></description>
+            <link>https://idolmaster-official.jp/news/01_16399.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16399.html</guid>
+            <pubDate>Sun, 03 Aug 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/08/ZltJli5Dr73nNZt9tMpqr635kc7avwRP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の追加販売グッズの受注は本日まで！]]></title>
             <description><![CDATA[#オケマス2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16283.html</guid>
             <pubDate>Fri, 25 Jul 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/QSHuShknxjdIohEYEo2t7US99aAEMUJa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
-            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
-            <link>https://idolmaster-official.jp/news/01_16263.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16263.html</guid>
-            <pubDate>Fri, 25 Jul 2025 12:12:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/GvccRwXRuD3MCTFSnYgdjlmg47tMBibw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
