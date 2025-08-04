@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 Aug 2025 14:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 03:11:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 Aug 2025 14:17:44 GMT</pubDate>
+        <pubDate>Mon, 04 Aug 2025 03:11:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第6弾「アイドルマスター in 静岡」情報解禁！]]></title>
+            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16357.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16357.html</guid>
+            <pubDate>Mon, 04 Aug 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/xP3s6S5QIielfIFo4pt9gpTp72txFzV4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス765単独NEI】「THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～」DAY2ご来場・ご視聴いただきありがとうございました！]]></title>
             <description><![CDATA[#アイマス765単独NEI #アイマス765単独NEI_day2]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16109.html</guid>
             <pubDate>Sun, 13 Jul 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/07/nOKxuKtaMNFrlss4m31if3IduWuVK9WT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売は本日まで！！]]></title>
-            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
-            <link>https://idolmaster-official.jp/news/01_16156.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16156.html</guid>
-            <pubDate>Sun, 13 Jul 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/K7I9jaw2FwPbpK9aD4i9K1Ua3uceqras.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
