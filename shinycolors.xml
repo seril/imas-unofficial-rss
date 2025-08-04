@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 Aug 2025 06:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Aug 2025 11:18:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 Aug 2025 06:38:15 GMT</pubDate>
+        <pubDate>Mon, 04 Aug 2025 11:18:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】大崎 甘奈ささやきボイスサンプル先行試聴 開催！ ]]></title>
+            <description><![CDATA[【シャニマス】大崎 甘奈ささやきボイスサンプル先行試聴 開催！ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16410.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16410.html</guid>
+            <pubDate>Mon, 04 Aug 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/JcbirQOXJSY9RVuvfFEYSrLJCSeGcmfV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【シャニマス】THE IDOLM@STER SHINY COLORS 7th UNITLIVE TOUR 円環 -Halo around- third quadrant 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #シャニマス  #シャニマス7thUNITTOUR]]></description>
+            <link>https://idolmaster-official.jp/news/01_16284.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16284.html</guid>
+            <pubDate>Mon, 04 Aug 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/9DCGcGMftElEVVS7kwIi4OFQGMpc3uJL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第6弾「アイドルマスター in 静岡」情報解禁！]]></title>
             <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16171.html</guid>
             <pubDate>Wed, 16 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/wqX0qRujaj7wJ2eKQqrpbMhzi8DwsxlS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニソン楽曲のユニット衣装を着た「ちびぐるみ」がナムコ限定で9月から登場予定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16149.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16149.html</guid>
-            <pubDate>Tue, 15 Jul 2025 06:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/07/Eb6mjriO9gMB6i6awviYMZZPvgWYCa9D.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【YouTube】【AP生配信】【オケマス】ORCHESTRA CONCERTSYMPHONY OF BRILLIANT STARS 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16036.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16036.html</guid>
-            <pubDate>Mon, 14 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/zsLAvE4o1VOGCYkB5y2qbCpQcFHDM4D5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
