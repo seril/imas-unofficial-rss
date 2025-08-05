@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Aug 2025 11:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 14:24:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 Aug 2025 11:18:54 GMT</pubDate>
+        <pubDate>Tue, 05 Aug 2025 14:24:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『ふたマス!!!!!!』前川みくマンホールお披露目　イベントレポート]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16396.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16396.html</guid>
+            <pubDate>Tue, 05 Aug 2025 11:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/PO5dCIweby33CMO17qSfx5d3kA40GZbc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】「上水流宇宙 BIRTHDAY ONLINE LIVE 2025」2025年9月12日(金) 開催決定！本日より上水流宇宙描き下ろし限定グッズ付き現地ライブビューイングチケット販売開始！]]></title>
+            <description><![CDATA[#宇宙誕生祭2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16427.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16427.html</guid>
+            <pubDate>Tue, 05 Aug 2025 11:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/VRq1rMZd4s14ClQdC4wSLls9q2omPjy4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】「THE ISE-SHIM@STER」グッズなど最新情報解禁！ 8/9・10は近鉄名古屋駅でのうちわ配布も実施！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #イセシマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16172.html</guid>
             <pubDate>Mon, 28 Jul 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/9gg6z9UiXL9I1k1mqJilDuErMq9EBKSq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ウェーブより篠澤 広が描き下ろしの水着衣装でスケールフィギュア化進行中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16128.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16128.html</guid>
-            <pubDate>Mon, 28 Jul 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/gdEQqjjznjAF9UCOzavD6zxR4Sy1ygVe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『シャニソン生配信～このドキドキは、夏のせい……スペシャル～』enza対応ゲーム「シャニマス」＆その他告知情報まとめ]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニソン #シャニソンサマーナイト]]></description>
-            <link>https://idolmaster-official.jp/news/01_15520.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15520.html</guid>
-            <pubDate>Sun, 27 Jul 2025 11:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/07/v7tovYnlZnsnSQ9LuWLUn2iNk6V9PrH3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
