@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Aug 2025 06:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 11:18:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 Aug 2025 06:33:48 GMT</pubDate>
+        <pubDate>Tue, 05 Aug 2025 11:18:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「THE ISE-SHIM@STER」グッズなど最新情報解禁！ 8/9・10は近鉄名古屋駅でのうちわ配布も実施！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #イセシマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16373.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16373.html</guid>
+            <pubDate>Tue, 05 Aug 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6M0OspKvqTJ8HJKNvGyFgHozFtRamY08.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【MOIW2025】本日締切！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストアプレミアム会員先行抽選受付は8月5日(火)23:59まで！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16418.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16418.html</guid>
+            <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/3ri1dh9M61D1Tv8N8ciKHxsDNWcAWhZV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の第6弾「アイドルマスター in 静岡」情報解禁！]]></title>
             <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16158.html</guid>
             <pubDate>Sat, 12 Jul 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/U91iq76iO3b8WQqDf54WzhQJBPYUmsWN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】 ～Who goes first～ 新衣装「ブレイジングフォース」を身にまとったアイドル達が登場！本日21:30よりイベント公式グッズ事前販売スタート！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_16050.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16050.html</guid>
-            <pubDate>Sat, 12 Jul 2025 11:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/KVC3ANHxljgnIBlyfbrR1eNLGlV4yDYd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NCOMLIVE】ファンコン完走記念！2025年9月より全国30か所のAEON CINEMAにて「チアリング上映会」開催決定！！7月12日(土)22:00よりチケット販売開始！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOM完走記念チアリング上映会]]></description>
-            <link>https://idolmaster-official.jp/news/01_16100.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16100.html</guid>
-            <pubDate>Sat, 12 Jul 2025 11:51:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/8N4dGoqtQs2gATYTOIV06lAVXIw9wJxS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

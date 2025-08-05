@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Aug 2025 06:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 11:18:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 Aug 2025 06:33:48 GMT</pubDate>
+        <pubDate>Tue, 05 Aug 2025 11:18:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「THE ISE-SHIM@STER」グッズなど最新情報解禁！ 8/9・10は近鉄名古屋駅でのうちわ配布も実施！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #イセシマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16373.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16373.html</guid>
+            <pubDate>Tue, 05 Aug 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6M0OspKvqTJ8HJKNvGyFgHozFtRamY08.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【MOIW2025】本日締切！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストアプレミアム会員先行抽選受付は8月5日(火)23:59まで！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16418.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16418.html</guid>
+            <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/3ri1dh9M61D1Tv8N8ciKHxsDNWcAWhZV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス765単独NEI】開催記念グッズ受注中！]]></title>
             <description><![CDATA[#アイマス765単独NEI]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16243.html</guid>
             <pubDate>Fri, 18 Jul 2025 06:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/Tt0kVJAfiQhQiCsRraX97mwKm8Qze5R5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス765NEI】会場物販情報更新！物販整理券の受付は7月23日(水)まで！]]></title>
-            <description><![CDATA[#アイマス765単独NEI]]></description>
-            <link>https://idolmaster-official.jp/news/01_16236.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16236.html</guid>
-            <pubDate>Fri, 18 Jul 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/07/c8qYztgaPwJLS4PmrRMGbeXXqlkinpWD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】大阪府高槻市の「ふたマス!!!!!!」グッズが高槻市ふるさと寄附金の返礼品として提供開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス!!!!!!]]></description>
-            <link>https://idolmaster-official.jp/news/01_16221.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16221.html</guid>
-            <pubDate>Fri, 18 Jul 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/EPWZwUaMkiFWkmLsZK6zU3sGIF8OjPVi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

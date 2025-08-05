@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Aug 2025 06:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Aug 2025 11:18:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 Aug 2025 06:33:48 GMT</pubDate>
+        <pubDate>Tue, 05 Aug 2025 11:18:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「THE ISE-SHIM@STER」グッズなど最新情報解禁！ 8/9・10は近鉄名古屋駅でのうちわ配布も実施！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #イセシマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16373.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16373.html</guid>
+            <pubDate>Tue, 05 Aug 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6M0OspKvqTJ8HJKNvGyFgHozFtRamY08.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【MOIW2025】本日締切！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストアプレミアム会員先行抽選受付は8月5日(火)23:59まで！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16418.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16418.html</guid>
+            <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/3ri1dh9M61D1Tv8N8ciKHxsDNWcAWhZV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】大崎 甘奈ささやきボイスサンプル先行試聴 開催！ ]]></title>
             <description><![CDATA[【シャニマス】大崎 甘奈ささやきボイスサンプル先行試聴 開催！ ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16203.html</guid>
             <pubDate>Thu, 17 Jul 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/C7BpVYL40lBifC4gAUmRaocN5Qno3cHI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズ×アニメイトカフェ コラボ開催決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16200.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16200.html</guid>
-            <pubDate>Thu, 17 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/07/z7hOxrPqiixBVBzm8N5QWr713Uv8xICB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】愛知公演の現地チケット一般販売（先着）が7月19日(土)12時よりスタート！配信チケットの販売も本日から開始！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
-            <link>https://idolmaster-official.jp/news/01_16171.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16171.html</guid>
-            <pubDate>Wed, 16 Jul 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/wqX0qRujaj7wJ2eKQqrpbMhzi8DwsxlS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
