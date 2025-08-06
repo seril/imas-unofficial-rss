@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 Aug 2025 06:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 11:18:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 Aug 2025 06:34:08 GMT</pubDate>
+        <pubDate>Wed, 06 Aug 2025 11:18:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「憧れは、終わらないー「765PRO ALLSTARS+」20周年の集大成ステージをご紹介！」公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16339.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16339.html</guid>
+            <pubDate>Wed, 06 Aug 2025 11:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/G02hU3mvTMsl5aptCXNDUqt4I3fOQhSO.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』第2弾が8月6日稼働開始！『学園アイドルマスター』より花海咲季・月村手毬・藤田ことね 登場！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -41,20 +49,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/3ri1dh9M61D1Tv8N8ciKHxsDNWcAWhZV.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイマス765単独NEI】開催記念グッズ受注中！]]></title>
-            <description><![CDATA[#アイマス765単独NEI]]></description>
-            <link>https://idolmaster-official.jp/news/01_16401.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16401.html</guid>
-            <pubDate>Mon, 04 Aug 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/08/TkfmiiRMmeKWRGTd7g2GzmfTxTaPSyZw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【YouTube】「【アイマス給湯室】765プロ20年間の集大成ライブ『NEVER END IDOL!!!!!!!!!!!!!』を振り返ろう！」 配信決定のお知らせ【アイドルマスターチャンネル】 ]]></title>
             <description><![CDATA[#アイマスch #アイマス765単独NEI #アイマス給湯室]]></description>
             <link>https://idolmaster-official.jp/news/01_16407.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16407.html</guid>
             <pubDate>Mon, 04 Aug 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/l0CqV1UFHBFFfEIsy2BekEET42Ahpvzw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス765単独NEI】開催記念グッズ受注中！]]></title>
+            <description><![CDATA[#アイマス765単独NEI]]></description>
+            <link>https://idolmaster-official.jp/news/01_16401.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16401.html</guid>
+            <pubDate>Mon, 04 Aug 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/08/TkfmiiRMmeKWRGTd7g2GzmfTxTaPSyZw.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス765単独NEI】視聴コメント付きアーカイブ配信開始！アンケートも実施中！]]></title>
@@ -201,7 +209,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】【AP生配信】【765プロ】765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～ 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <title><![CDATA[【YouTube】【AP生配信】【アイマス】765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～ 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #アイマス765単独NEI]]></description>
             <link>https://idolmaster-official.jp/news/01_16172.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16172.html</guid>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16251.html</guid>
             <pubDate>Fri, 18 Jul 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/twkcCphKyU65DMFPOKfSSSZbXqgTrtpn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】【レトマス】「水瀬伊織さんが西武園ゆうえんちのレトロフェスをリポート！」本日07/18日(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #レトマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15726.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15726.html</guid>
-            <pubDate>Fri, 18 Jul 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/ExYeKIbbkFoD1jTv6Wlqlt9p393FhbrB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
