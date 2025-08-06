@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 Aug 2025 03:02:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 06:34:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 Aug 2025 03:02:31 GMT</pubDate>
+        <pubDate>Wed, 06 Aug 2025 06:34:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】FiFS イラスト展『スリー・ワン・ファイヴ』VOL.5 SAPPORO MiXが8月7日から開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_15798.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15798.html</guid>
+            <pubDate>Wed, 06 Aug 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/08/IvB7jBPasw7oyevks1lhUQdNQqchFlVd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』第2弾が8月6日稼働開始！『学園アイドルマスター』より花海咲季・月村手毬・藤田ことね 登場！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16109.html</guid>
             <pubDate>Sun, 13 Jul 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/07/nOKxuKtaMNFrlss4m31if3IduWuVK9WT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】THE IDOLM@STER SideM 10th ANNIVERSARY ST@GE ～P@SSION-ING!!!～ DAY1 ご来場&ご視聴いただきありがとうございました！！本日の告知情報とセットリストはこちら！]]></title>
-            <description><![CDATA[#SideM #SideM10th_day1]]></description>
-            <link>https://idolmaster-official.jp/news/01_16096.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16096.html</guid>
-            <pubDate>Sat, 12 Jul 2025 13:18:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/tNYrWYfOITMmMQCwGFCjM1tI9DicguLI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
