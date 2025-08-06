@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 Aug 2025 14:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Aug 2025 03:02:31 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 Aug 2025 14:24:43 GMT</pubDate>
+        <pubDate>Wed, 06 Aug 2025 03:02:31 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』第2弾が8月6日稼働開始！『学園アイドルマスター』より花海咲季・月村手毬・藤田ことね 登場！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16351.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16351.html</guid>
+            <pubDate>Wed, 06 Aug 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/AbTXukBuZXPiNswWo1zinVopVBXD552i.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】1/7スケールフィギュア「[ダンス・ダンス・ダンス]神崎蘭子＋」予約開始です！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16363.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16363.html</guid>
+            <pubDate>Wed, 06 Aug 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/Zzjyudgd3B7ZtdNbwlY6gfmC6pbtYfYg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『ふたマス!!!!!!』前川みくマンホールお披露目　イベントレポート]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16358.html</guid>
             <pubDate>Wed, 30 Jul 2025 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/bSfMMVZMUDECDdB2Npm7NetLPBNKmQYU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の追加販売グッズの受注は8/3(日)まで！]]></title>
-            <description><![CDATA[#オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16341.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16341.html</guid>
-            <pubDate>Tue, 29 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【765プロ】765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～ 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #アイマス765単独NEI]]></description>
-            <link>https://idolmaster-official.jp/news/01_16172.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16172.html</guid>
-            <pubDate>Mon, 28 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/9gg6z9UiXL9I1k1mqJilDuErMq9EBKSq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
