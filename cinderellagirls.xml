@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Aug 2025 03:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 06:33:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Aug 2025 03:02:44 GMT</pubDate>
+        <pubDate>Thu, 07 Aug 2025 06:33:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】マルイシティ横浜、あみあみ各店にて「アイドルマスター シンデレラガールズ POPUP SHOP -KAWAII♡ぱれーど-」 開催決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16340.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16340.html</guid>
+            <pubDate>Thu, 07 Aug 2025 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/N5xWrW1CVrGGYQbd4NsnM1yTnulhQL4g.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「【24/7Stream】デレステ狩歌発売記念！シンデレラガールズ楽曲プレイリスト【デレステ】」配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #デレステ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16143.html</guid>
             <pubDate>Mon, 14 Jul 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/59I5dwpmfSbffEcwgV6bynCp92wXHyEX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in ららぽーと磐田』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス磐田]]></description>
-            <link>https://idolmaster-official.jp/news/01_16109.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16109.html</guid>
-            <pubDate>Sun, 13 Jul 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/07/nOKxuKtaMNFrlss4m31if3IduWuVK9WT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Aug 2025 03:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 06:33:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Aug 2025 03:02:44 GMT</pubDate>
+        <pubDate>Thu, 07 Aug 2025 06:33:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【受注開始！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売ファイナルが本日よりスタート！！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
+            <link>https://idolmaster-official.jp/news/01_16438.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16438.html</guid>
+            <pubDate>Thu, 07 Aug 2025 06:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/eyVSmuxIRFkyayx1HR2S2Sg6o5bO9LAk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「憧れは、終わらないー「765PRO ALLSTARS+」20周年の集大成ステージをご紹介！」公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #アイマス765単独NEI]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16246.html</guid>
             <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/6GqcIxYbvTZ8QDYXGdcsAyNLXcbvZRUu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></title>
-            <description><![CDATA[【20周年生配信イベント】会場物販情報の詳細を公開しました！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16251.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16251.html</guid>
-            <pubDate>Fri, 18 Jul 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/twkcCphKyU65DMFPOKfSSSZbXqgTrtpn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
