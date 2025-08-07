@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Aug 2025 06:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 11:19:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Aug 2025 06:33:32 GMT</pubDate>
+        <pubDate>Thu, 07 Aug 2025 11:19:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】グレードフェス大規模リニューアルのお知らせ]]></title>
+            <description><![CDATA[【シャニマス】グレードフェス大規模リニューアルのお知らせ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16446.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16446.html</guid>
+            <pubDate>Thu, 07 Aug 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/LqecY6LnqOTrq08EH4f1XBESYawUVRxU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【受注開始！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売ファイナルが本日よりスタート！！]]></title>
             <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16262.html</guid>
             <pubDate>Fri, 01 Aug 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/bRqXnPxKQBu4aBSOxasl9QdBRpk0pFzh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 学マス 】‎倉本千奈誕生日記念セット2025 受注受付中♬［8/24(日)まで］]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16369.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16369.html</guid>
-            <pubDate>Thu, 31 Jul 2025 16:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/07/YheadFKMYBbD8I6uvvBpenbxW3VDraSL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
