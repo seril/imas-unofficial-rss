@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 Aug 2025 06:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Aug 2025 11:18:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 Aug 2025 06:33:14 GMT</pubDate>
+        <pubDate>Fri, 08 Aug 2025 11:18:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「岩手競馬×アイドルマスター ミリオンライブ！2025」描き下ろしグッズの情報公開！次回協賛レースは8月11日（月・祝）に開催！📢]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16434.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16434.html</guid>
+            <pubDate>Fri, 08 Aug 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/BDoX5W75ZGDJbh7ZgIh12iKU3nO3agz0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール熊本」開催決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス熊本]]></description>
+            <link>https://idolmaster-official.jp/news/01_16439.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16439.html</guid>
+            <pubDate>Fri, 08 Aug 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」コミックマーケット106に出展決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16036.html</guid>
             <pubDate>Mon, 14 Jul 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/zsLAvE4o1VOGCYkB5y2qbCpQcFHDM4D5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in ららぽーと磐田』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス磐田]]></description>
-            <link>https://idolmaster-official.jp/news/01_16109.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16109.html</guid>
-            <pubDate>Sun, 13 Jul 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/07/nOKxuKtaMNFrlss4m31if3IduWuVK9WT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリアニ】タイでのBlu-ray発売＆イベント開催お知らせ]]></title>
-            <description><![CDATA[#ミリアニ #ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16126.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16126.html</guid>
-            <pubDate>Fri, 11 Jul 2025 11:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/07/6hLy4WiB8WmfLpgFlF0PIDg8CZ0pIqHv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
