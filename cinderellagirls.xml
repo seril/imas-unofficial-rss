@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 Aug 2025 14:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Aug 2025 03:02:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Aug 2025 14:23:39 GMT</pubDate>
+        <pubDate>Fri, 08 Aug 2025 03:02:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ×レジャフェス」の事後通販が開催中！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16412.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16412.html</guid>
+            <pubDate>Fri, 08 Aug 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/QAh4tRqnbjIN2mq1rEsF6yh0oXo4B4LC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】マルイシティ横浜、あみあみ各店にて「アイドルマスター シンデレラガールズ POPUP SHOP -KAWAII♡ぱれーど-」 開催決定！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16036.html</guid>
             <pubDate>Mon, 14 Jul 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/zsLAvE4o1VOGCYkB5y2qbCpQcFHDM4D5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「スターライトステージ」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></title>
-            <description><![CDATA[【シンデレラ】「スターライトステージ」と「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT FANTASY Blu-ray BOX」の発売を記念した『もっと！デレステ★NIGHT』の放送が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16143.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16143.html</guid>
-            <pubDate>Mon, 14 Jul 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/59I5dwpmfSbffEcwgV6bynCp92wXHyEX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
