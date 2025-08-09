@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Aug 2025 06:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 11:16:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 Aug 2025 06:29:02 GMT</pubDate>
+        <pubDate>Sat, 09 Aug 2025 11:16:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【MOIW2025】受注受付中！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16466.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16466.html</guid>
+            <pubDate>Sat, 09 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「岩手競馬×アイドルマスター ミリオンライブ！2025」描き下ろしグッズの情報公開！次回協賛レースは8月11日（月・祝）に開催！📢]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16203.html</guid>
             <pubDate>Thu, 17 Jul 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/C7BpVYL40lBifC4gAUmRaocN5Qno3cHI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【YouTube】【AP生配信】【オケマス】ORCHESTRA CONCERTSYMPHONY OF BRILLIANT STARS 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16036.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16036.html</guid>
-            <pubDate>Mon, 14 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/zsLAvE4o1VOGCYkB5y2qbCpQcFHDM4D5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

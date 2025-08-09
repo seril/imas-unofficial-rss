@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Aug 2025 06:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 11:16:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 Aug 2025 06:29:02 GMT</pubDate>
+        <pubDate>Sat, 09 Aug 2025 11:16:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】アイドル達がお店屋さんをプロデュース♪  「283 PRODUCE SHOP Series」第3弾の受注がスタート！！アルストロメリアとコメティックが登場！]]></title>
+            <description><![CDATA[#283ProduceShop_Series #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16470.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16470.html</guid>
+            <pubDate>Sat, 09 Aug 2025 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/08/v3kJA9VG4zU25D41YPGX5dQi4JeApTch.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【MOIW2025】受注受付中！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16466.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16466.html</guid>
+            <pubDate>Sat, 09 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】水着アイドル登場記念！Mika Pikazoさんによる特別イラストを公開！]]></title>
             <description><![CDATA[#シャニソン ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16266.html</guid>
             <pubDate>Wed, 23 Jul 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/qoQhHAOTr6PHCFgot0dmQj8ZVXea1X8i.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】青森公演にて会場と新青森駅・青森駅・青森空港間で運行する往復アクセスバスツアーを実施決定！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16265.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16265.html</guid>
-            <pubDate>Wed, 23 Jul 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/f8iQEw8R1m3gUu2avmzZpk56kyhGvy00.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】筑西市 × 『アイドルマスター』シリーズコラボが本年も開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16184.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16184.html</guid>
-            <pubDate>Tue, 22 Jul 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/qUizLxtu42bu90m5CW2bMUeoHiRxg4yw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
