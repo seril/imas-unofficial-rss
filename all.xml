@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 Aug 2025 11:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 14:17:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 Aug 2025 11:16:17 GMT</pubDate>
+        <pubDate>Sat, 09 Aug 2025 14:17:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】愛知公演DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_愛知_day1 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16352.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16352.html</guid>
+            <pubDate>Sat, 09 Aug 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/sL4jCM83aYeiuzdmCf0OuHVGYq87UqkY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】アイドル達がお店屋さんをプロデュース♪  「283 PRODUCE SHOP Series」第3弾の受注がスタート！！アルストロメリアとコメティックが登場！]]></title>
             <description><![CDATA[#283ProduceShop_Series #シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16357.html</guid>
             <pubDate>Mon, 04 Aug 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/xP3s6S5QIielfIFo4pt9gpTp72txFzV4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス765単独NEI】「THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～」DAY2ご来場・ご視聴いただきありがとうございました！]]></title>
-            <description><![CDATA[#アイマス765単独NEI #アイマス765単独NEI_day2]]></description>
-            <link>https://idolmaster-official.jp/news/01_16399.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16399.html</guid>
-            <pubDate>Sun, 03 Aug 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/08/ZltJli5Dr73nNZt9tMpqr635kc7avwRP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
