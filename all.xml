@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 Aug 2025 14:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 02:46:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 Aug 2025 14:21:17 GMT</pubDate>
+        <pubDate>Tue, 12 Aug 2025 02:46:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】『8分でできる！菊地 真の身体作りのためのしっかりエクササイズ』公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_16315.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16315.html</guid>
+            <pubDate>Tue, 12 Aug 2025 01:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/w8ruXHelfWCfpMjRjTrtCPhBZMzqQtL9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7thLIVE】愛知公演　視聴コメント付きアーカイブ配信本日より開始！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16400.html</guid>
             <pubDate>Mon, 04 Aug 2025 10:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/08/xwvEXFtnLrx7g7IzyLUoMLw2hGfkWXUd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】大崎 甘奈ささやきボイスサンプル先行試聴 開催！ ]]></title>
-            <description><![CDATA[【シャニマス】大崎 甘奈ささやきボイスサンプル先行試聴 開催！ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16410.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16410.html</guid>
-            <pubDate>Mon, 04 Aug 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/JcbirQOXJSY9RVuvfFEYSrLJCSeGcmfV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
