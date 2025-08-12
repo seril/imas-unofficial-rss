@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 Aug 2025 02:46:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Aug 2025 03:48:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 Aug 2025 02:46:11 GMT</pubDate>
+        <pubDate>Tue, 12 Aug 2025 03:48:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】『AP活動5周年を迎えたので改めて自己紹介させていただきます！』配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_16430.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16430.html</guid>
+            <pubDate>Tue, 12 Aug 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/o5cjckL2OK7OnwYT4T9FKp04S7QmkaZF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7thLIVE】愛知公演　視聴コメント付きアーカイブ配信本日より開始！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16301.html</guid>
             <pubDate>Fri, 25 Jul 2025 03:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/Yx3g7syUXtcbbsxR5zTVYlEUfyCaa6Qi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】アイドルマスターチャンネル開設5周年！メンバーシップ開始＆切り抜きガイドライン公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16302.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16302.html</guid>
-            <pubDate>Thu, 24 Jul 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/07/a9NYod3JzS92FELP2FsS4xPxMg7yfkER.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
