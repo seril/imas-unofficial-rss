@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 Aug 2025 02:48:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Aug 2025 03:50:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 Aug 2025 02:48:15 GMT</pubDate>
+        <pubDate>Wed, 13 Aug 2025 03:50:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「デレステ狩歌発売記念！シンデレラガールズ楽曲プレイリスト【デレステ】」公開のお知らせ【アイドルマスター】]]></title>
+            <description><![CDATA[#アイマスch #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16393.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16393.html</guid>
+            <pubDate>Wed, 13 Aug 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/SzZclS1AX6jxY5YlIoQUIAqYUebo1Nva.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『夢見りあむは救いたい』夢見りあむ“生配信”番組！8月17日(日)17時30分～実施決定！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
+            <link>https://idolmaster-official.jp/news/01_16476.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16476.html</guid>
+            <pubDate>Wed, 13 Aug 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/TQcxqXyIb2XTO4XUcrREGWFHmivCf9oJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】『AP活動5周年を迎えたので改めて自己紹介させていただきます！』配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16373.html</guid>
             <pubDate>Tue, 05 Aug 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6M0OspKvqTJ8HJKNvGyFgHozFtRamY08.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】8/8(金) 19:00～ 学園アイドルマスター「初星学園HR #STEP3 藤田 ことね」生配信実施予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #飯田ヒカル #藤田ことね #陽高真白 #十王星南]]></description>
-            <link>https://idolmaster-official.jp/news/01_16338.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16338.html</guid>
-            <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/07/hvMfBEHAFVuF2qjc4yfmuc7KGUJmPGaI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【MOIW2025】本日締切！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストアプレミアム会員先行抽選受付は8月5日(火)23:59まで！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16418.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16418.html</guid>
-            <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/3ri1dh9M61D1Tv8N8ciKHxsDNWcAWhZV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
