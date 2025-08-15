@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 Aug 2025 06:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 11:16:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 Aug 2025 06:30:21 GMT</pubDate>
+        <pubDate>Fri, 15 Aug 2025 11:16:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[＼8/17(日)まで／【シンデレラ】デレステ10thツアー千秋楽の公式グッズ事前販売ファイナル（数量限定販売）実施中！190名のホログラムクリアチケットも☆10thツアーグッズも大解放中♪]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16478.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16478.html</guid>
+            <pubDate>Fri, 15 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/tWI8XZJW9RtTZWBsVJRkFa7HeJXHwRoY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ムービックより「vα-liv」の新商品が登場！]]></title>
+            <description><![CDATA[#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16460.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16460.html</guid>
+            <pubDate>Fri, 15 Aug 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/08/UXAsTFFEr2qJm6x4QOpYoZ7Yn3xFYNX3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「Cake.jp」から、アイドル49名のオリジナルケーキ缶が登場！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15798.html</guid>
             <pubDate>Wed, 06 Aug 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/08/IvB7jBPasw7oyevks1lhUQdNQqchFlVd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』第2弾が8月6日稼働開始！『学園アイドルマスター』より花海咲季・月村手毬・藤田ことね 登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16351.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16351.html</guid>
-            <pubDate>Wed, 06 Aug 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/AbTXukBuZXPiNswWo1zinVopVBXD552i.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】1/7スケールフィギュア「[ダンス・ダンス・ダンス]神崎蘭子＋」予約開始です！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16363.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16363.html</guid>
-            <pubDate>Wed, 06 Aug 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/Zzjyudgd3B7ZtdNbwlY6gfmC6pbtYfYg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

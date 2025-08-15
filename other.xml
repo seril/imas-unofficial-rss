@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 Aug 2025 06:30:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 11:16:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 Aug 2025 06:30:21 GMT</pubDate>
+        <pubDate>Fri, 15 Aug 2025 11:16:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】ムービックより「vα-liv」の新商品が登場！]]></title>
+            <description><![CDATA[#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16460.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16460.html</guid>
+            <pubDate>Fri, 15 Aug 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/08/UXAsTFFEr2qJm6x4QOpYoZ7Yn3xFYNX3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第三弾】「隣人ボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を9月7日まで期間限定販売！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15015.html</guid>
             <pubDate>Fri, 21 Mar 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/03/PZjz62VSKxuZpPGVgHMML2dYfZ2MwTFz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】本日発売！豪華コンポーザー陣によるロックテーマのユニット1st Album「彼方」がついにリリース！アソビストア＆各流通で販売中！ #ASOBINOTES]]></title>
-            <description><![CDATA[【 #ヴイアラ 】本日発売！豪華コンポーザー陣によるロックテーマのユニット1st Album「彼方」がついにリリース！アソビストア＆各流通で販売中！ #ASOBINOTES]]></description>
-            <link>https://idolmaster-official.jp/news/01_14999.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_14999.html</guid>
-            <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/02/TqckyhpgO4jVPhWoAYRr8RJJR4faqkZb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
