@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 Aug 2025 02:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Aug 2025 03:54:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 Aug 2025 02:54:34 GMT</pubDate>
+        <pubDate>Sun, 17 Aug 2025 03:54:09 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[◆本日まで！◆【シャニマス7th】「7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”」イベントグッズ事前販売ファイナル＆協賛社グッズの受注は本日8月17日(日)まで！]]></title>
+            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16453.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16453.html</guid>
+            <pubDate>Sun, 17 Aug 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/DTwpKdAtHpZf1e0HG6lELyIuCj1jv2Dc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[＼本日まで！！／【シンデレラ】開催迫るデレステ10thツアー千秋楽！公式グッズ事前販売ファイナル（数量限定販売）は8/17(日)まで！！！お見逃しなく♪]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16484.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16484.html</guid>
+            <pubDate>Sun, 17 Aug 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/tWI8XZJW9RtTZWBsVJRkFa7HeJXHwRoY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】「上水流宇宙 BIRTHDAY ONLINE LIVE 2025」LVチケット抽選販売締切は17日(日)まで！LV会場での「公演後お見送り会」も実施決定！一般先着販売も23日に決定！]]></title>
             <description><![CDATA[#宇宙誕生祭2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16446.html</guid>
             <pubDate>Thu, 07 Aug 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/LqecY6LnqOTrq08EH4f1XBESYawUVRxU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注開始！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売ファイナルが本日よりスタート！！]]></title>
-            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
-            <link>https://idolmaster-official.jp/news/01_16438.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16438.html</guid>
-            <pubDate>Thu, 07 Aug 2025 06:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/eyVSmuxIRFkyayx1HR2S2Sg6o5bO9LAk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】「7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”」イベントグッズ事前販売ファイナル＆協賛社グッズの受注が本日よりスタート！！]]></title>
-            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16426.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16426.html</guid>
-            <pubDate>Thu, 07 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/PeNfHGzqqRmZzC6wyYavUKVNs6DQSXdA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
