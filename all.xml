@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 Aug 2025 03:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Aug 2025 06:29:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 Aug 2025 03:41:11 GMT</pubDate>
+        <pubDate>Tue, 19 Aug 2025 06:29:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【シンデレラ】双葉 杏・夢見りあむが出演するNHKラジオ特番 「今日ファミレスで駄弁らない？」の放送日が9/14(日)にて決定！]]></title>
+            <description><![CDATA[#シンデレラガールズ　#NHKきょうだべ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16457.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16457.html</guid>
+            <pubDate>Tue, 19 Aug 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/07/IKsHZe0haGdqW1EudldBwIP9ddqqgPqk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～SHIMMER～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ #バトルオブシアター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16421.html</guid>
             <pubDate>Fri, 08 Aug 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/kMxPqVOol3zkdOogTX6OouOeXmhHMhGG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】6.5th Anniversary LIVE “Chapter 283” Blu-ray各店舗特典のデザインイメージを公開！受注受付は9月15日まで！]]></title>
-            <description><![CDATA[#シャニソン #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16456.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16456.html</guid>
-            <pubDate>Fri, 08 Aug 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/mDXD44N9ZJ6pg1wqJ9MbPk7YituMxq2t.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
