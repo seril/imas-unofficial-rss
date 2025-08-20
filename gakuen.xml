@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 Aug 2025 03:40:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Aug 2025 06:29:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 Aug 2025 03:40:01 GMT</pubDate>
+        <pubDate>Wed, 20 Aug 2025 06:29:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター クラス対抗初星大運動会 現地会場物販の実施が決定！整理券受付は8月22日(金)13:00～よりスタート！]]></title>
+            <description><![CDATA[#学マス #学マス大運動会 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16503.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16503.html</guid>
+            <pubDate>Wed, 20 Aug 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/ZnjyDb7SJFS37cwiWe6ZftIB7P28tSlL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】アイドル12名のちびぐるみ最新作が2026年1月より全国のクレーンゲームに登場予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16397.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16397.html</guid>
+            <pubDate>Wed, 20 Aug 2025 06:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/dA2EA48s0BOQ78QXG4UfNEkXmzBtM2dJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】[ハッピーミルフィーユ]のイラストをもとに、姫崎莉波・十王星南・篠澤 広のプライズフィギュアが2026年冬より順次登場予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16277.html</guid>
             <pubDate>Fri, 25 Jul 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/mX6KjU8pzMDzYxSBZCA5MGAU1WJXbGGv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】アイドルマスターチャンネル開設5周年！メンバーシップ開始＆切り抜きガイドライン公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16302.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16302.html</guid>
-            <pubDate>Thu, 24 Jul 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/07/a9NYod3JzS92FELP2FsS4xPxMg7yfkER.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】コトブキヤよりフィギュア「葛城リーリヤ-白線-」の商品化が決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16217.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16217.html</guid>
-            <pubDate>Thu, 24 Jul 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/3UG9oq9lrvGdHlupxJIxAtc7tX3ycuao.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
