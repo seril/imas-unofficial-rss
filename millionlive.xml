@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Aug 2025 06:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 11:16:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Aug 2025 06:38:01 GMT</pubDate>
+        <pubDate>Thu, 21 Aug 2025 11:16:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》1周年記念！これまでに登場したアイドルたちのグッズの一挙再販が決定！！]]></title>
+            <description><![CDATA[#ミリオンシーズナル1周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_16501.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16501.html</guid>
+            <pubDate>Thu, 21 Aug 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/Ra3UKXf1K08QlI3xeusO07b84nriD5Qn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》11月に向けて高坂海美・箱崎星梨花が登場！「イルミネーション」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル11月]]></description>
+            <link>https://idolmaster-official.jp/news/01_16493.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16493.html</guid>
+            <pubDate>Thu, 21 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/xgSih0Au0GHqYvf1HveYZ5fOlL1VZIkE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「岩手競馬×アイドルマスター ミリオンライブ！2025」追加情報のご案内！スペシャルトークショーが9月2日（火）にて開催！ 📢]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16251.html</guid>
             <pubDate>Fri, 18 Jul 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/twkcCphKyU65DMFPOKfSSSZbXqgTrtpn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】【レトマス】「水瀬伊織さんが西武園ゆうえんちのレトロフェスをリポート！」本日07/18日(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #レトマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_15726.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15726.html</guid>
-            <pubDate>Fri, 18 Jul 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/ExYeKIbbkFoD1jTv6Wlqlt9p393FhbrB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【7月21日(月・祝)より！】盛岡競馬場にて「岩手競馬×アイドルマスター ミリオンライブ！2025」が開催！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16194.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16194.html</guid>
-            <pubDate>Fri, 18 Jul 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/BDoX5W75ZGDJbh7ZgIh12iKU3nO3agz0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

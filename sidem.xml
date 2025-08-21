@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Aug 2025 06:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 11:16:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Aug 2025 06:38:01 GMT</pubDate>
+        <pubDate>Thu, 21 Aug 2025 11:16:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「サンシャインシティプリンスホテル」コラボ第２弾のグッズが受注販売受付中！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_16504.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16504.html</guid>
+            <pubDate>Thu, 21 Aug 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/08/K1VDwqIhEuBwqpUGfnm1upPXS7sPIpId.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NFES】～Who goes first～ 本日8月20日(水)12:00より現地チケット アソビストア一般会員先行のお申込み受付がスタート！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16231.html</guid>
             <pubDate>Sat, 19 Jul 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/h4hhDtW0T90q5pD2WEFQft5kwxi9SdMR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター20周年前夜祭生配信」抽選で3名様にキャストのサイン色紙をプレゼント！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_16147.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16147.html</guid>
-            <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/xGCUiwEXbMb3ZatGbUG3657AMaP3qa5S.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
