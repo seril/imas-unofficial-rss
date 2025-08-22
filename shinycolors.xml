@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 Aug 2025 14:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 02:38:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 Aug 2025 14:19:42 GMT</pubDate>
+        <pubDate>Fri, 22 Aug 2025 02:38:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】企業、自治体の皆さまからアイドルたちへのオファーお待ちしています！ パネルオファープロジェクト「オファマス」参加募集中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16513.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16513.html</guid>
+            <pubDate>Thu, 21 Aug 2025 22:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/4LERGIwXlrlHMO8haOngAxp0iGqKAtNf.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】斑鳩 ルカが登場するガシャを開催中！大崎 甘奈のささやきボイスガシャの開催も！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15520.html</guid>
             <pubDate>Sun, 27 Jul 2025 11:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/07/v7tovYnlZnsnSQ9LuWLUn2iNk6V9PrH3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】『シャニソン生配信～このドキドキは、夏のせい……スペシャル～』お知らせまとめ！]]></title>
-            <description><![CDATA[#シャニソン #シャニソンサマーナイト]]></description>
-            <link>https://idolmaster-official.jp/news/01_16321.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16321.html</guid>
-            <pubDate>Sun, 27 Jul 2025 11:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/07/kheFEaWol4P6ea0T00uC4JGScEgeSH5T.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
