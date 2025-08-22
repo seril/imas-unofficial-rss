@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Aug 2025 11:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 14:18:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Aug 2025 11:15:27 GMT</pubDate>
+        <pubDate>Fri, 22 Aug 2025 14:18:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】8/22(金)学マス生配信「学園アイドルマスター クラス対抗初星大運動会何するのスペシャル★」お知らせまとめはこちら！]]></title>
+            <description><![CDATA[#学マス #学マス大運動会 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16487.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16487.html</guid>
+            <pubDate>Fri, 22 Aug 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/qgomg6RU0m59LPxndIjxBiDnwovaTLbX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ラジオ】「2025年8月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #メン限定]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16316.html</guid>
             <pubDate>Fri, 25 Jul 2025 09:04:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/qLjDHifHr2bQ37G2SDdTiZOp5dkpL04O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】【7/27(日)まで！】「DMMスクラッチ」好評販売中！商品写真を一部公開✨]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16286.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16286.html</guid>
-            <pubDate>Fri, 25 Jul 2025 09:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/kT35tOqVDVQiLZMu94N1xsxpWFfkNe1F.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
