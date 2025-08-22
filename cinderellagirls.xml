@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Aug 2025 02:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 03:39:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Aug 2025 02:38:39 GMT</pubDate>
+        <pubDate>Fri, 22 Aug 2025 03:39:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市コラボオリジナルイラスト公開！ちくせい花火大会の「アイドルマスター応援席」は8月30日(土)10時より販売開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16499.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16499.html</guid>
+            <pubDate>Fri, 22 Aug 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/7pCC7TMjgZgZVD64fWnUHvoSBYLxNqFx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション☆彡 第10弾「おとめ座」のアイドル20名がハートフルでイノセントな衣装で登場！受注は9/28(日)まで♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16512.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16512.html</guid>
+            <pubDate>Fri, 22 Aug 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/4V4rzfGQrSr8LYKftZ7NX6aSvj2HrH28.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「市原仁奈」「大原みちる」「高垣 楓」が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16322.html</guid>
             <pubDate>Fri, 25 Jul 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/C7BpVYL40lBifC4gAUmRaocN5Qno3cHI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】アイドルマスターチャンネル開設5周年！メンバーシップ開始＆切り抜きガイドライン公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16302.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16302.html</guid>
-            <pubDate>Thu, 24 Jul 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/07/a9NYod3JzS92FELP2FsS4xPxMg7yfkER.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025のCDと追加販売グッズが受注受付中！]]></title>
-            <description><![CDATA[#オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16287.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16287.html</guid>
-            <pubDate>Wed, 23 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/eWKYi4PVn20x34KxddkKVZA1U6F0DIsb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

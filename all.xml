@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Aug 2025 02:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 03:39:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Aug 2025 02:38:39 GMT</pubDate>
+        <pubDate>Fri, 22 Aug 2025 03:39:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「京都国際マンガ・アニメフェア2025（京まふ）」にて「MILLIONSTARS Team6th」の新規描き下ろしイラストを使用したグッズの販売が決定🌸 グッズ情報も公開♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16515.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16515.html</guid>
+            <pubDate>Fri, 22 Aug 2025 03:31:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/wU4jNPzDS0XQsC6Ez3tPyPfCRkFoHUU0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市コラボオリジナルイラスト公開！ちくせい花火大会の「アイドルマスター応援席」は8月30日(土)10時より販売開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16499.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16499.html</guid>
+            <pubDate>Fri, 22 Aug 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/7pCC7TMjgZgZVD64fWnUHvoSBYLxNqFx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】「Shiny Runway 2025 フォトコンテスト」開催！]]></title>
+            <description><![CDATA[#シャニソン #シャニソンファッションショー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16001.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16001.html</guid>
+            <pubDate>Fri, 22 Aug 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/lO36vwQc1ONId2rurSjAZXsqCQWYFF2x.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション☆彡 第10弾「おとめ座」のアイドル20名がハートフルでイノセントな衣装で登場！受注は9/28(日)まで♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16512.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16512.html</guid>
+            <pubDate>Fri, 22 Aug 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/4V4rzfGQrSr8LYKftZ7NX6aSvj2HrH28.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「市原仁奈」「大原みちる」「高垣 楓」が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -374,38 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_16463.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16463.html</guid>
             <pubDate>Sun, 10 Aug 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/eyVSmuxIRFkyayx1HR2S2Sg6o5bO9LAk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】愛知公演DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_愛知_day1 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16352.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16352.html</guid>
-            <pubDate>Sat, 09 Aug 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/sL4jCM83aYeiuzdmCf0OuHVGYq87UqkY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】アイドル達がお店屋さんをプロデュース♪  「283 PRODUCE SHOP Series」第3弾の受注がスタート！！アルストロメリアとコメティックが登場！]]></title>
-            <description><![CDATA[#283ProduceShop_Series #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16470.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16470.html</guid>
-            <pubDate>Sat, 09 Aug 2025 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/08/v3kJA9VG4zU25D41YPGX5dQi4JeApTch.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【MOIW2025】受注受付中！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16466.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16466.html</guid>
-            <pubDate>Sat, 09 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注受付中！】【765】「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”」公式グッズ事前販売ファイナルが受注受付中！！]]></title>
-            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
-            <link>https://idolmaster-official.jp/news/01_16462.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16462.html</guid>
-            <pubDate>Sat, 09 Aug 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/eyVSmuxIRFkyayx1HR2S2Sg6o5bO9LAk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
