@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Aug 2025 06:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 11:15:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Aug 2025 06:29:13 GMT</pubDate>
+        <pubDate>Fri, 22 Aug 2025 11:15:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ラジオ】「2025年8月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #メン限定]]></description>
+            <link>https://idolmaster-official.jp/news/01_16518.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16518.html</guid>
+            <pubDate>Fri, 22 Aug 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/L4hgytcxhXTCNr1PhJ2F2pXyW6OxRmNf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】コラボカフェ&謎解きイベントが江の島にて開催決定！！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16502.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16502.html</guid>
+            <pubDate>Fri, 22 Aug 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/08/OVnCHGyYUGB7qynTXHgDQdSO6ZzaCdnF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【あと二日！！】【MOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16523.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16523.html</guid>
+            <pubDate>Fri, 22 Aug 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】Shiny Runway 2025開催中！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16361.html</guid>
             <pubDate>Fri, 01 Aug 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/kxXI3OoBUg16svBnv2vSmszgau5h3WuI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】DJイベント「夏宵楽宴 ～サマーナイトパーティー！～」開催！]]></title>
-            <description><![CDATA[#シャニマス #シャニソン #夏に聴きたいシャニソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_16325.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16325.html</guid>
-            <pubDate>Fri, 01 Aug 2025 02:59:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/E2HwrRX4ebxT2SOXUmjmBelYJtTNmixF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[あと3日！【アイマス20周年記念生配信イベント】開催記念 ティザービジュアルグッズ受注中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16378.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16378.html</guid>
-            <pubDate>Thu, 31 Jul 2025 09:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/b0E3CHkfoLxGjnnA9RP3iQtvUQDV0Uw4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】「『アイドルマスター』シリーズ×アトレ秋葉原、追加商品の情報を公開！！]]></title>
-            <description><![CDATA[#アイマス20周年おめでとう]]></description>
-            <link>https://idolmaster-official.jp/news/01_16346.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16346.html</guid>
-            <pubDate>Thu, 31 Jul 2025 03:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/C7BpVYL40lBifC4gAUmRaocN5Qno3cHI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Aug 2025 06:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 11:15:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Aug 2025 06:29:13 GMT</pubDate>
+        <pubDate>Fri, 22 Aug 2025 11:15:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ラジオ】「2025年8月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #メン限定]]></description>
+            <link>https://idolmaster-official.jp/news/01_16518.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16518.html</guid>
+            <pubDate>Fri, 22 Aug 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/L4hgytcxhXTCNr1PhJ2F2pXyW6OxRmNf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【あと二日！！】【MOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16523.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16523.html</guid>
+            <pubDate>Fri, 22 Aug 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市コラボオリジナルイラスト公開！ちくせい花火大会の「アイドルマスター応援席」は8月30日(土)10時より販売開始！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16258.html</guid>
             <pubDate>Mon, 21 Jul 2025 02:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/eWKYi4PVn20x34KxddkKVZA1U6F0DIsb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター20周年前夜祭生配信」お知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー 　#アイマス20周年前夜祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_16103.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16103.html</guid>
-            <pubDate>Sat, 19 Jul 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/qsx7ZLTrzQDuS0r9LSjRGy4KdAcb4WsA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】7月26日(土) 18:00～ 「アイドルマスター20th特別生配信イベント」の無料配信が決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16244.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16244.html</guid>
-            <pubDate>Sat, 19 Jul 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/wir2Y8c4rMjd9BLh4kGDNTYRm9FxS5z4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

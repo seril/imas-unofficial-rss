@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 Aug 2025 06:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Aug 2025 11:15:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Aug 2025 06:29:13 GMT</pubDate>
+        <pubDate>Fri, 22 Aug 2025 11:15:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ラジオ】「2025年8月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #メン限定]]></description>
+            <link>https://idolmaster-official.jp/news/01_16518.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16518.html</guid>
+            <pubDate>Fri, 22 Aug 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/L4hgytcxhXTCNr1PhJ2F2pXyW6OxRmNf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】コラボカフェ&謎解きイベントが江の島にて開催決定！！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16502.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16502.html</guid>
+            <pubDate>Fri, 22 Aug 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/08/OVnCHGyYUGB7qynTXHgDQdSO6ZzaCdnF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「スイーツパラダイス」「海の家」にてコラボカフェ 開催中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16519.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16519.html</guid>
+            <pubDate>Fri, 22 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/02w1X96Mhl7bNFOQw0is9cuZgSRvZBsK.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[【あと二日！！】【MOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16523.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16523.html</guid>
+            <pubDate>Fri, 22 Aug 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「STARLIGHT STAGE」会場物販の実施が決定！お披露目を完遂したばかりの「190人新規描きおろしビジュアル」グッズも登場！！！！！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16516.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16516.html</guid>
+            <pubDate>Fri, 22 Aug 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/08/3IQlFyOQIsyr8QHSXNKpKdv14eCx5ZWn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】Shiny Runway 2025開催中！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16430.html</guid>
             <pubDate>Tue, 12 Aug 2025 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/o5cjckL2OK7OnwYT4T9FKp04S7QmkaZF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】『8分でできる！菊地 真の身体作りのためのしっかりエクササイズ』公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_16315.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16315.html</guid>
-            <pubDate>Tue, 12 Aug 2025 01:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/w8ruXHelfWCfpMjRjTrtCPhBZMzqQtL9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】愛知公演　視聴コメント付きアーカイブ配信本日より開始！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16473.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16473.html</guid>
-            <pubDate>Mon, 11 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/61g2snYmYAWS1hJmwEpncMOyZTlyo5aS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】櫻木 真乃、有栖川 夏葉の登場するガシャを開催中！ さらに、放課後クライマックスガールズの楽曲 「クライマックスアイランド」を追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_16451.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16451.html</guid>
-            <pubDate>Mon, 11 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/hyqTr88SrCj1f6NzOII1cvWo4Fefxgqc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】愛知公演DAY2ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_愛知_day2 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16353.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16353.html</guid>
-            <pubDate>Sun, 10 Aug 2025 10:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/S7ZfAYRv9mN9CsCzg56I1KLFORpyNbcd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【MOIW2025】受注受付中！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16469.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16469.html</guid>
-            <pubDate>Sun, 10 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
