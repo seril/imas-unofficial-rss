@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 Aug 2025 03:34:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Aug 2025 06:25:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Aug 2025 03:34:20 GMT</pubDate>
+        <pubDate>Sat, 23 Aug 2025 06:25:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【オケマス2025】オケマス2025のCDの受注は8/24(日)まで！]]></title>
+            <description><![CDATA[#オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16526.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16526.html</guid>
+            <pubDate>Sat, 23 Aug 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/UPKWvNlUrqVf0URmg972s9YmXcQ2W6Zn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ラジオ】「2025年8月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #メン限定]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16350.html</guid>
             <pubDate>Fri, 01 Aug 2025 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/imeFKLNVwQnCvovgTzgf2R5dVUqUZT3F.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】シャニソン水着キャンペーン開催中！水着衣装のPアイドルが必ずもらえる！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_16361.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16361.html</guid>
-            <pubDate>Fri, 01 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/kxXI3OoBUg16svBnv2vSmszgau5h3WuI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
