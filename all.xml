@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 Aug 2025 02:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Aug 2025 03:34:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Aug 2025 02:25:02 GMT</pubDate>
+        <pubDate>Sat, 23 Aug 2025 03:34:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】 高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”　本日 8月23日(土)よりアソビストア一般会員先行の受付がスタート！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
+            <link>https://idolmaster-official.jp/news/01_16517.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16517.html</guid>
+            <pubDate>Sat, 23 Aug 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/08/2P7NHGMDo0bm5tbslLYeJSvb30ub1K8M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 学マス 】‎倉本千奈誕生日記念セット2025 受注〆切間近！［8/24(日)まで］]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16514.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16514.html</guid>
+            <pubDate>Sat, 23 Aug 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/ys5XTp54aLol38LBHYbcKPcVtyj7dYRQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【 #ヴイアラ 】「上水流宇宙 BIRTHDAY ONLINE LIVE 2025」ライブビューイングチケットの一般先着販売を開始！チケットは上水流宇宙描き下ろしグッズ付き！配信チケットも絶賛発売中！]]></title>
+            <description><![CDATA[#宇宙誕生祭2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16527.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16527.html</guid>
+            <pubDate>Sat, 23 Aug 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/Qtl5qaWpNB5N2ysBavyy9mgc9zKW7DHC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】8/22(金)学マス生配信「学園アイドルマスター クラス対抗初星大運動会何するのスペシャル★」お知らせまとめはこちら！]]></title>
             <description><![CDATA[#学マス #学マス大運動会 ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16477.html</guid>
             <pubDate>Fri, 15 Aug 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/WmA2fuiqlqWhwqTbBkf84ywKZMRiZ9uJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリアニ】特装版Blu-ray期間限定セール開催のお知らせ★]]></title>
-            <description><![CDATA[#ミリアニ #ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16461.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16461.html</guid>
-            <pubDate>Thu, 14 Aug 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/08/YnEjL1QpxTatcdBr9WGiwslMSuE28AA3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「デレステ狩歌発売記念！シンデレラガールズ楽曲プレイリスト【デレステ】」公開のお知らせ【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマスch #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16393.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16393.html</guid>
-            <pubDate>Wed, 13 Aug 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/SzZclS1AX6jxY5YlIoQUIAqYUebo1Nva.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『夢見りあむは救いたい』夢見りあむ“生配信”番組！8月17日(日)17時30分～実施決定！]]></title>
-            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_16476.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16476.html</guid>
-            <pubDate>Wed, 13 Aug 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/TQcxqXyIb2XTO4XUcrREGWFHmivCf9oJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
