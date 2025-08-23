@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 Aug 2025 11:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Aug 2025 14:15:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 Aug 2025 11:14:02 GMT</pubDate>
+        <pubDate>Sat, 23 Aug 2025 14:15:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【감사합니다!!】「KIMCHIKURA Fes VOL.4」ご来場ありがとうございました！「ミリオンライブ！」と「シャイニーカラーズ」が出演！「 #ヴイアラ 上水流宇宙」も影ナレ参加！]]></title>
+            <description><![CDATA[【감사합니다!!】「KIMCHIKURA Fes VOL.4」ご来場ありがとうございました！「ミリオンライブ！」と「シャイニーカラーズ」が出演！「 #ヴイアラ 上水流宇宙」も影ナレ参加！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16530.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16530.html</guid>
+            <pubDate>Sat, 23 Aug 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/08/TtXhAqF8tI5R6x3cRRt8kC3GflnfH9OL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_騎士団】2025年12月27日(土)・28日(日) Niterra日本特殊陶業市民会館 フォレストホール　283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order – 詳細発表！アソビストアプレミアム会員先行が開始されました！]]></title>
+            <description><![CDATA[#アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_16413.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16413.html</guid>
+            <pubDate>Sat, 23 Aug 2025 11:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/08/heiboaeuNcWRlr4PQWIHaYIwsg7tigZJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！！】【MOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16375.html</guid>
             <pubDate>Sat, 02 Aug 2025 04:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th LIVE】愛知公演　キャスト生出演オーコメ付き！アーカイブ同時視聴会の開催が決定！！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16354.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16354.html</guid>
-            <pubDate>Fri, 01 Aug 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/FXSEWUAAxITQaGNqQPX2mYGtxFaRXkvm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シャニソン】765プロコラボ第2弾開催中！お得情報＆初心者の方向け情報まとめ]]></title>
-            <description><![CDATA[#シャニソン #シャニソン765プロコラボ #アイマス20周年おめでとう #アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16199.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16199.html</guid>
-            <pubDate>Fri, 01 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/07/vrJznnrGJABXoRGEWs2C06bwHB3it05k.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
