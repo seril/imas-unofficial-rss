@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 Aug 2025 06:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Aug 2025 11:16:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 Aug 2025 06:31:05 GMT</pubDate>
+        <pubDate>Mon, 25 Aug 2025 11:16:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】 ～Who goes first～ イベント公式グッズ直前販売スタート！新衣装「ブレイジングフォース」を身にまとったアイドル達のグッズなどを数量限定販売！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16507.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16507.html</guid>
+            <pubDate>Mon, 25 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/08/HvEDoaYRlWgIILLsoA89N7GGLwxqsrtI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで！！】【MOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16306.html</guid>
             <pubDate>Fri, 25 Jul 2025 06:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/fA7JvcJn7mvMlLzY1EzWbdZ9dOPgFv7m.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】アイドルマスターチャンネル開設5周年！メンバーシップ開始＆切り抜きガイドライン公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16302.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16302.html</guid>
-            <pubDate>Thu, 24 Jul 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/07/a9NYod3JzS92FELP2FsS4xPxMg7yfkER.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
