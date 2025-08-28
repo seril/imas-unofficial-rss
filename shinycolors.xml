@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Aug 2025 02:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 03:34:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 Aug 2025 02:24:52 GMT</pubDate>
+        <pubDate>Thu, 28 Aug 2025 03:34:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』「第2弾ツアーズレア」18種が2025年8月28日(木)より登場！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16560.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16560.html</guid>
+            <pubDate>Thu, 28 Aug 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/BjXxyRY49ceLty1oKxyVNgCB1I1CP7HN.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS “円環 -Halo around-” 04」ジャケット・INDEX・特典内容解禁]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16418.html</guid>
             <pubDate>Tue, 05 Aug 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/3ri1dh9M61D1Tv8N8ciKHxsDNWcAWhZV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】大崎 甘奈ささやきボイスサンプル先行試聴 開催！ ]]></title>
-            <description><![CDATA[【シャニマス】大崎 甘奈ささやきボイスサンプル先行試聴 開催！ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16410.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16410.html</guid>
-            <pubDate>Mon, 04 Aug 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/JcbirQOXJSY9RVuvfFEYSrLJCSeGcmfV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
