@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Aug 2025 06:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 11:14:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Aug 2025 06:27:48 GMT</pubDate>
+        <pubDate>Fri, 29 Aug 2025 11:14:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】『学園アイドルマスターぬいぐるみシリーズ』新作＆再販 予約受付中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16532.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16532.html</guid>
+            <pubDate>Fri, 29 Aug 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/3kdefUbsbMRPuiFXBAy695cs8Mi5enUw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】【8/31 23時まで！】ちびぐるみ用のはつみちゃんポンチョ＆おなまえ入りポーチセットがプレミアムバンダイで予約受付中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16551.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16551.html</guid>
+            <pubDate>Fri, 29 Aug 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/oSVt8MmxhmGaMzcYpmz19nQy6RcjpepZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」本日8月29日(金)12:00よりアソビストア一般会員先行抽選受付開始！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16378.html</guid>
             <pubDate>Thu, 31 Jul 2025 09:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/b0E3CHkfoLxGjnnA9RP3iQtvUQDV0Uw4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】AVIOT ×『学園アイドルマスター』 渋谷モディPOP UP開催決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16313.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16313.html</guid>
-            <pubDate>Thu, 31 Jul 2025 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/yeTmOaBBCmuuSLNmzWhTdqqKphyrLD5y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】二次元コスパより、アイドル3人の「アクリルスタンド」が新登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16278.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16278.html</guid>
-            <pubDate>Thu, 31 Jul 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/07/FsMV92T18oHfJOkcRGZiD0AwEqHlJUJd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

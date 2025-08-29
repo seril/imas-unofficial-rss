@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Aug 2025 06:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 11:14:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Aug 2025 06:27:48 GMT</pubDate>
+        <pubDate>Fri, 29 Aug 2025 11:14:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】【#パックマス】「I MAKE IMPA@CT! in USA」コラボTシャツ事後通販のお知らせ⚡]]></title>
+            <description><![CDATA[#pacman #idolmaster #PACMAN45TH #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16553.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16553.html</guid>
+            <pubDate>Fri, 29 Aug 2025 09:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/WAqlBfSvLeaqfee0ilTI8NcWRoOw7YYZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」本日8月29日(金)12:00よりアソビストア一般会員先行抽選受付開始！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16378.html</guid>
             <pubDate>Thu, 31 Jul 2025 09:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/07/b0E3CHkfoLxGjnnA9RP3iQtvUQDV0Uw4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#パックマス】愛知・名古屋を食べ尽くそう！遊び尽くそう！「旅ろっ！愛知」×「アイ MAKE IMP＠CT！」明日8/1(金)よりスタート！👻🍪💞]]></title>
-            <description><![CDATA[#pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16342.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16342.html</guid>
-            <pubDate>Thu, 31 Jul 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/3cbUSMBPbadLLSE3IjVigoTnE56iHNzY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
