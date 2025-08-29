@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 29 Aug 2025 03:33:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Aug 2025 06:27:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 29 Aug 2025 03:33:43 GMT</pubDate>
+        <pubDate>Fri, 29 Aug 2025 06:27:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】2026年2月開催『876 PRODUCTION FES.』続報配信を9月1日(月)19時よりヴイアラ公式YoutTubeチャンネルで実施決定！早期限定グッズ付きチケットのグッズイラストも発表予定！]]></title>
+            <description><![CDATA[#876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16593.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16593.html</guid>
+            <pubDate>Fri, 29 Aug 2025 03:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/08/uVTlrHtgu3zJQ1Ir9YGTHEYW2wjhgvYx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【감사합니다!!】「KIMCHIKURA Fes VOL.4」ご来場ありがとうございました！「ミリオンライブ！」と「シャイニーカラーズ」が出演！「 #ヴイアラ 上水流宇宙」も影ナレ参加！]]></title>
             <description><![CDATA[【감사합니다!!】「KIMCHIKURA Fes VOL.4」ご来場ありがとうございました！「ミリオンライブ！」と「シャイニーカラーズ」が出演！「 #ヴイアラ 上水流宇宙」も影ナレ参加！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15082.html</guid>
             <pubDate>Wed, 26 Mar 2025 11:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/03/AAJkDEtZ1OTKApZYstENDfs2xyl6owtm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※3月27日追記 【アイマス20周年イヤー】 アイドルマスター × ゴゴスマBOX コラボが決定！全3回の特集動画を公開予定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_15043.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15043.html</guid>
-            <pubDate>Tue, 25 Mar 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/03/Sg21XkKQ8yqQAGmaR0kjPXMRaSgKg6x1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
