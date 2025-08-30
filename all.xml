@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 Aug 2025 06:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 11:13:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 Aug 2025 06:24:35 GMT</pubDate>
+        <pubDate>Sat, 30 Aug 2025 11:13:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ SP席･S席入場特典 撮りおろしチェキ風カードのデザインを公開！現地チケット アソビストア一般会員先行お申込み受付中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16604.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16604.html</guid>
+            <pubDate>Sat, 30 Aug 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/08/PITnduHc2jyN0s4fwhmLhf6vYwpTqWLC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】有栖川 夏葉、黛 冬優子が登場するトワイライツコレクションを開催中！ プロデュースイベントの開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16581.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16581.html</guid>
+            <pubDate>Sat, 30 Aug 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/1cUiYUGObrvt3sRw3BNF66ewhsW6wLAH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】【#パックマス】「I MAKE IMPA@CT! in USA」コラボTシャツ事後通販のお知らせ⚡]]></title>
             <description><![CDATA[#pacman #idolmaster #PACMAN45TH #アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16489.html</guid>
             <pubDate>Wed, 20 Aug 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/EJF9urXvVtBbF9gJaUzmRmL0d5eq4Zi4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター クラス対抗初星大運動会 現地会場物販の実施が決定！整理券受付は8月22日(金)13:00～よりスタート！]]></title>
-            <description><![CDATA[#学マス #学マス大運動会 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16503.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16503.html</guid>
-            <pubDate>Wed, 20 Aug 2025 06:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/ZnjyDb7SJFS37cwiWe6ZftIB7P28tSlL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】アイドル12名のちびぐるみ最新作が2026年1月より全国のクレーンゲームに登場予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16397.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16397.html</guid>
-            <pubDate>Wed, 20 Aug 2025 06:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/dA2EA48s0BOQ78QXG4UfNEkXmzBtM2dJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
