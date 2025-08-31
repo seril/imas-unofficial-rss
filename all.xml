@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 Aug 2025 03:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Aug 2025 06:25:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 Aug 2025 03:36:30 GMT</pubDate>
+        <pubDate>Sun, 31 Aug 2025 06:25:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～piece of cake～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16550.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16550.html</guid>
+            <pubDate>Sun, 31 Aug 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/08/okzMiNrt2rUv15utzE2tNaLbAuav2wzJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】白瀬 咲耶、西城 樹里が手に入るガシャ開催中！さらに、アンティーカの楽曲『QUEEN OF THE PIRATES』が追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_16562.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16562.html</guid>
+            <pubDate>Sun, 31 Aug 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/6TzxLYaLamm01nwlXI76YDW1CVxaaaHU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】#学マス夏コミ2025 C106グッズの受注〆切は本日！［8/31(日)まで］]]></title>
             <description><![CDATA[【学マス】#学マス夏コミ2025 C106グッズの受注〆切は本日！［8/31(日)まで］]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16493.html</guid>
             <pubDate>Thu, 21 Aug 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/xgSih0Au0GHqYvf1HveYZ5fOlL1VZIkE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「サンシャインシティプリンスホテル」コラボ第２弾のグッズが受注販売受付中！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_16504.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16504.html</guid>
-            <pubDate>Thu, 21 Aug 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/08/K1VDwqIhEuBwqpUGfnm1upPXS7sPIpId.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「STARLIGHT STAGE」現地チケット 一般先着販売＆リセール 開催決定！]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16500.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16500.html</guid>
-            <pubDate>Wed, 20 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/08/s7Lr0WXqtbf5G35bugos2ExsHr2UZYbs.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
