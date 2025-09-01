@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Sep 2025 06:31:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 11:15:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Sep 2025 06:31:05 GMT</pubDate>
+        <pubDate>Mon, 01 Sep 2025 11:15:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「STARLIGHT STAGE」DAY1現地チケット 一般販売先着2次＆当日券(全席指定)の開催決定！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16605.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16605.html</guid>
+            <pubDate>Mon, 01 Sep 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/08/soeWA8187APlGbDn5epHVPp3jlKpzcNm.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】京セラドーム大阪を彩ろう！ 合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」オリジナルのぼりプロデュース権発売決定！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16455.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16455.html</guid>
+            <pubDate>Mon, 01 Sep 2025 09:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/8pShF56VboJsZZWAkt3fyB8UBBjmB8JI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE」 会沢紗弥様（関裕美役）ご出演内容につきまして]]></title>
+            <description><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE」 会沢紗弥様（関裕美役）ご出演内容につきまして]]></description>
+            <link>https://idolmaster-official.jp/news/01_16613.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16613.html</guid>
+            <pubDate>Mon, 01 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE 神奈川公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16494.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16494.html</guid>
+            <pubDate>Mon, 01 Sep 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/SO89MOZyg3tXtERTYJNZ5cfpw90a9jxE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「京都国際マンガ・アニメフェア2025（京まふ）」にて描き下ろしリペイントイラストを使用したグッズの販売が決定🌸 グッズ情報も公開♪]]></title>
             <description><![CDATA[#デレマス]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16346.html</guid>
             <pubDate>Thu, 31 Jul 2025 03:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/C7BpVYL40lBifC4gAUmRaocN5Qno3cHI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の追加販売グッズの受注は8/3(日)まで！]]></title>
-            <description><![CDATA[#オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16341.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16341.html</guid>
-            <pubDate>Tue, 29 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th anniversary special party  アイ MUST GO ON!! これからもアイマスですよ！20th特別生配信」お知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年おめでとう #アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16204.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16204.html</guid>
-            <pubDate>Sat, 26 Jul 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/07/gRsbQVFfbzjPQAyuinloWsuftV8GnxH2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【MOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」開催決定！アソビストアプレミアム会員先行＆公式グッズ事前販売開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマス20周年イヤー #アイマス20周年おめでとう]]></description>
-            <link>https://idolmaster-official.jp/news/01_16329.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16329.html</guid>
-            <pubDate>Sat, 26 Jul 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/IHlZiJTllS2la8s5mHIIxAJUJwu8bbEm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】企業、自治体の皆さまからアイドルたちへのオファーお待ちしています！ パネルオファープロジェクト「オファマス」始動！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16327.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16327.html</guid>
-            <pubDate>Sat, 26 Jul 2025 11:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/4LERGIwXlrlHMO8haOngAxp0iGqKAtNf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
