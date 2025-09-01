@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Sep 2025 02:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Sep 2025 03:50:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Sep 2025 02:51:09 GMT</pubDate>
+        <pubDate>Mon, 01 Sep 2025 03:50:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】『事務的光空記録』『コヒーレントライト』商品のEC販売が開始！]]></title>
+            <description><![CDATA[#ジムシャニ #コヒーレントライト]]></description>
+            <link>https://idolmaster-official.jp/news/01_16601.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16601.html</guid>
+            <pubDate>Mon, 01 Sep 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/PbqCUX8OoqQ3S2SIJVUDrvAIX5lMhOYm.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】7th UNTLIVE TOUR 青森公演の配信チケットが販売スタート！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16561.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16561.html</guid>
+            <pubDate>Mon, 01 Sep 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/ZMyczyfNUdvvTWsQnHSWiGKKWYnZR2Cr.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】白瀬 咲耶、西城 樹里が手に入るガシャ開催中！さらに、アンティーカの楽曲『QUEEN OF THE PIRATES』が追加！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16426.html</guid>
             <pubDate>Thu, 07 Aug 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/PeNfHGzqqRmZzC6wyYavUKVNs6DQSXdA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】明日8/8(金)より、愛知・名古屋の事業者とのコラボレーション企画「でらます」が開催！]]></title>
-            <description><![CDATA[#でらます #でらますシャニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16409.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16409.html</guid>
-            <pubDate>Thu, 07 Aug 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/KcSwS1f5eaOlrEJb5H9aEGfzn5p1EBwg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】「ASOBI STAGE」「YouTubeアイドルマスターチャンネル」にて愛知公演ライブ冒頭を【無料】配信！！配信チケットも販売中！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16429.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16429.html</guid>
-            <pubDate>Wed, 06 Aug 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/NfdTYQ7n16UUKxadAIqkV1s9VemXjRB0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
