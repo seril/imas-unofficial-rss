@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Sep 2025 06:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Sep 2025 11:15:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Sep 2025 06:28:59 GMT</pubDate>
+        <pubDate>Tue, 02 Sep 2025 11:15:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「アイマス給湯室 　学マス大運動会に向けて準備しようスペシャル！」配信決定のお知らせ【アイドルマスターチャンネル】 ]]></title>
+            <description><![CDATA[#アイマスch #アイマス給湯室 #学マス #学マス大運動会]]></description>
+            <link>https://idolmaster-official.jp/news/01_16565.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16565.html</guid>
+            <pubDate>Tue, 02 Sep 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/08/2cjEhqgD8KzkmzNzEgrChXgoIsjz43on.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズとKアリーナ横浜とのコラボドリンク発売が決定！！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16611.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16611.html</guid>
+            <pubDate>Tue, 02 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/RdAzQxpzBPc3pvPQmmG2gwUjrWJ7Hp7i.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×アトレ秋葉原にて取り扱ったグッズがASOBI STORE(アソビストア)にて販売中！9月15日(月・祝)まで]]></title>
             <description><![CDATA[#アイマス20周年イヤー ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16527.html</guid>
             <pubDate>Sat, 23 Aug 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/Qtl5qaWpNB5N2ysBavyy9mgc9zKW7DHC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】8/22(金)学マス生配信「学園アイドルマスター クラス対抗初星大運動会何するのスペシャル★」お知らせまとめはこちら！]]></title>
-            <description><![CDATA[#学マス #学マス大運動会 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16487.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16487.html</guid>
-            <pubDate>Fri, 22 Aug 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/qgomg6RU0m59LPxndIjxBiDnwovaTLbX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ラジオ】「2025年8月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #メン限定]]></description>
-            <link>https://idolmaster-official.jp/news/01_16518.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16518.html</guid>
-            <pubDate>Fri, 22 Aug 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/L4hgytcxhXTCNr1PhJ2F2pXyW6OxRmNf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
