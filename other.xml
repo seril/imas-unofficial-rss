@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Sep 2025 14:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Sep 2025 02:18:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Sep 2025 14:19:54 GMT</pubDate>
+        <pubDate>Wed, 03 Sep 2025 02:18:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】9月12日開催「上水流宇宙 BIRTHDAY ONLINE LIVE 2025」バースデー記念ボイスの販売を開始！現地LVチケットは完売御礼！ただいま配信チケット好評発売中！]]></title>
+            <description><![CDATA[#宇宙誕生祭2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16620.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16620.html</guid>
+            <pubDate>Wed, 03 Sep 2025 00:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/MGECMCXi4tXaQKBk6Ko7Sjh8egrDDYx6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「ざっくりわかる『アイドルマスター』シリーズ」公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15166.html</guid>
             <pubDate>Wed, 02 Apr 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/04/eTmyCEbwM2Jg2oLGUoaz65xSTpJztKLp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】 【＃APラウンジ】【ヴイアライヴ】PROJECT IM@S vα-liv 1st LIVE-HERE WE ARE!!!- 打ち上げ感想会 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ＃APラウンジ #ヴイアラ1stLIVE]]></description>
-            <link>https://idolmaster-official.jp/news/01_15140.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15140.html</guid>
-            <pubDate>Tue, 01 Apr 2025 12:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/04/exL27P8dUOQf1qG9eatuVtZE0KI9WGjT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
