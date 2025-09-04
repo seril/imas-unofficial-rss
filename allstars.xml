@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Sep 2025 06:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 11:14:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Sep 2025 06:27:02 GMT</pubDate>
+        <pubDate>Thu, 04 Sep 2025 11:14:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注開始！受注期間は9/21(日)まで！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16679.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16679.html</guid>
+            <pubDate>Thu, 04 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「ざっくりわかる『アイドルマスター』シリーズ」公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16359.html</guid>
             <pubDate>Sat, 02 Aug 2025 01:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/X0v5pigtkd6qrmu5YsVZ7M8Co5Q2tag5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】いよいよ明日開催！765単独NEI＜エントランスがオープン!!!＞「ASOBI STAGE」「YouTubeアイドルマスターチャンネル」にてライブ冒頭を【無料】配信！配信チケットも販売中！]]></title>
-            <description><![CDATA[#アイマス765単独NEI]]></description>
-            <link>https://idolmaster-official.jp/news/01_16356.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16356.html</guid>
-            <pubDate>Fri, 01 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/07/VvFobg6EPEyhm80Izqg3F0S1iVkrJbEw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
