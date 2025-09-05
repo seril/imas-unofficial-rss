@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Sep 2025 06:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Sep 2025 11:14:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Sep 2025 06:27:20 GMT</pubDate>
+        <pubDate>Fri, 05 Sep 2025 11:14:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「オファマス」応募期間を10/31(金)まで延長決定！「シンデレラガールズ」190名全員のイラストも公開！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16691.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16691.html</guid>
+            <pubDate>Fri, 05 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注開始！受注期間は9/21(日)まで！！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16375.html</guid>
             <pubDate>Sat, 02 Aug 2025 04:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「アイドルマスター カードフォリオ」本日発売！！アソビストアと現地物販会場で販売開始！発売を記念したキャンペーンも開催中♪]]></title>
-            <description><![CDATA[#アイマス765単独NEI #アイマスカードフォリオ #アイマスカードフォリオ発売記念]]></description>
-            <link>https://idolmaster-official.jp/news/01_16359.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16359.html</guid>
-            <pubDate>Sat, 02 Aug 2025 01:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/07/X0v5pigtkd6qrmu5YsVZ7M8Co5Q2tag5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
