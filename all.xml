@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Sep 2025 06:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 11:13:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Sep 2025 06:24:21 GMT</pubDate>
+        <pubDate>Sat, 06 Sep 2025 11:13:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_騎士団】◆今週日曜日まで！◆　アソビストアプレミアム会員先行「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」のお申込みは9月7日(日)23:59まで！]]></title>
+            <description><![CDATA[#アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_16685.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16685.html</guid>
+            <pubDate>Sat, 06 Sep 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/09/KUQIjmpjgmMrRqZdmKtTKaxl9nYKaMW2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】トレーニング服 第3弾 受注締切間近！【9/7(日)まで】]]></title>
+            <description><![CDATA[　　　　　　　　　#学マス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16693.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16693.html</guid>
+            <pubDate>Sat, 06 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/09/rCL1GXBiz35WDkKwgQpZiIhpuJvtq9V5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】【SideMF@NFES】 ～Who goes first～ イベント公式グッズ直前販売は9月7日(日)まで！新衣装「ブレイジングフォース」を身にまとったアイドルたちのグッズなどを数量限定販売！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16562.html</guid>
             <pubDate>Sun, 31 Aug 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/6TzxLYaLamm01nwlXI76YDW1CVxaaaHU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】#学マス夏コミ2025 C106グッズの受注〆切は本日！［8/31(日)まで］]]></title>
-            <description><![CDATA[【学マス】#学マス夏コミ2025 C106グッズの受注〆切は本日！［8/31(日)まで］]]></description>
-            <link>https://idolmaster-official.jp/news/01_16612.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16612.html</guid>
-            <pubDate>Sun, 31 Aug 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/8fG5EA8NmxVWsn3TXv2s4MOVEngIxBXd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「Animelo Summer Live 2025 "ThanXX!"」DAY2ご来場ありがとうございました！「ミリオンライブ！」が出演！]]></title>
-            <description><![CDATA[#アニサマ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16603.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16603.html</guid>
-            <pubDate>Sat, 30 Aug 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/08/CV6D348BeYb3XGtgtM1XBOvgS1jgVs0T.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
