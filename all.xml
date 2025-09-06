@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Sep 2025 11:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 14:14:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Sep 2025 11:13:13 GMT</pubDate>
+        <pubDate>Sat, 06 Sep 2025 14:14:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】渋谷凛がqdcイヤホンのアンバサダーに！タイアップモデル『FRONTIER Next Black』限定発売決定♪]]></title>
+            <description><![CDATA[#デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16656.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16656.html</guid>
+            <pubDate>Sat, 06 Sep 2025 12:16:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/38vjmkwj0sUvgryEYPfelUPiWAeThagH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】「アイドルマスター シンデレラガールズ×SEIKO」デレステ10周年記念腕時計が登場。本日より受注開始！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー千秋楽_day1 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16683.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16683.html</guid>
+            <pubDate>Sat, 06 Sep 2025 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/WK4WsKETLzTuiR2KWs3fFufq27DLKKNt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽DAY1のご鑑賞ありがとうございました！ 本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー千秋楽_day1]]></description>
+            <link>https://idolmaster-official.jp/news/01_16415.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16415.html</guid>
+            <pubDate>Sat, 06 Sep 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/09/Tyx7Y31qQ823rUQmfQ6mEEbMgawZukkK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「Cygamesフラワースタンド」特別映像のDay2スケジュール公開！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー千秋楽_day1#デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16681.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16681.html</guid>
+            <pubDate>Sat, 06 Sep 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/09/9svhofaKnV9IivOQXu4KCga8SFmxNLTv.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_騎士団】◆今週日曜日まで！◆　アソビストアプレミアム会員先行「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」のお申込みは9月7日(日)23:59まで！]]></title>
             <description><![CDATA[#アンティーカ_騎士団]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16567.html</guid>
             <pubDate>Mon, 01 Sep 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/BDoX5W75ZGDJbh7ZgIh12iKU3nO3agz0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第9弾、11月分予約受付中！ 特任プロデューサー就任キャンペーンも開催中♪]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16485.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16485.html</guid>
-            <pubDate>Mon, 01 Sep 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/08/VUWd6iebp5PTQOFLT1zlZUUVk6BS8LoI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「Animelo Summer Live 2025 "ThanXX!"」DAY3ご来場ありがとうございました！SideMが出演！セットリストはこちら！]]></title>
-            <description><![CDATA[#アニサマ #SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_16610.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16610.html</guid>
-            <pubDate>Sun, 31 Aug 2025 13:19:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/08/ziARL6tXH6HRi4fVDwR3EXKYEGXQJoVS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～piece of cake～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16550.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16550.html</guid>
-            <pubDate>Sun, 31 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/08/okzMiNrt2rUv15utzE2tNaLbAuav2wzJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】白瀬 咲耶、西城 樹里が手に入るガシャ開催中！さらに、アンティーカの楽曲『QUEEN OF THE PIRATES』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_16562.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16562.html</guid>
-            <pubDate>Sun, 31 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/6TzxLYaLamm01nwlXI76YDW1CVxaaaHU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
