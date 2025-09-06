@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Sep 2025 14:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 02:17:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Sep 2025 14:16:32 GMT</pubDate>
+        <pubDate>Sat, 06 Sep 2025 02:17:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「カードフォリオ シンデレラガールズver. vol.1」本日発売！！アソビストアと現地物販会場で販売開始！MRビジュアルをまとめてチェック♬]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー千秋楽_day1 #アイマスカードフォリオ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16606.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16606.html</guid>
+            <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/08/aj7WvNsuFNNg3d2B2KaG43HKowuRdalH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「STARLIGHT STAGE」「Cygamesフラワースタンド」出演キャストサインパネルを公開！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー千秋楽_day1#デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16677.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16677.html</guid>
+            <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/09/Xz6sg8Jwk0CxYmsgm3PnzYjuHkAy0AUA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】✦新規190人グッズ登場✦ デレステ10thツアー千秋楽の開催記念グッズが受注開始！カスタムアクスタに200P超えメモリアルブックも！「協賛社グッズ」も登場です！]]></title>
             <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16466.html</guid>
             <pubDate>Sat, 09 Aug 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール熊本」開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス熊本]]></description>
-            <link>https://idolmaster-official.jp/news/01_16439.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16439.html</guid>
-            <pubDate>Fri, 08 Aug 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】PACIFIC RACING TEAM 2025SUPER GTとのタイアップ「PACIFIC×THE IDOLM@STER Series RACING PROJECT」コミックマーケット106に出展決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16444.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16444.html</guid>
-            <pubDate>Fri, 08 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/5nEnejeSK70HdakfFrhH6wQqzMjJDMj1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

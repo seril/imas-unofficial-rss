@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Sep 2025 14:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 02:17:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Sep 2025 14:16:32 GMT</pubDate>
+        <pubDate>Sat, 06 Sep 2025 02:17:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「カードフォリオ シンデレラガールズver. vol.1」本日発売！！アソビストアと現地物販会場で販売開始！MRビジュアルをまとめてチェック♬]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー千秋楽_day1 #アイマスカードフォリオ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16606.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16606.html</guid>
+            <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/08/aj7WvNsuFNNg3d2B2KaG43HKowuRdalH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽「STARLIGHT STAGE」「Cygamesフラワースタンド」出演キャストサインパネルを公開！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー千秋楽_day1#デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16677.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16677.html</guid>
+            <pubDate>Sat, 06 Sep 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/09/Xz6sg8Jwk0CxYmsgm3PnzYjuHkAy0AUA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】✦新規190人グッズ登場✦ デレステ10thツアー千秋楽の開催記念グッズが受注開始！カスタムアクスタに200P超えメモリアルブックも！「協賛社グッズ」も登場です！]]></title>
             <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16604.html</guid>
             <pubDate>Sat, 30 Aug 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/08/PITnduHc2jyN0s4fwhmLhf6vYwpTqWLC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】有栖川 夏葉、黛 冬優子が登場するトワイライツコレクションを開催中！ プロデュースイベントの開催も！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16581.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16581.html</guid>
-            <pubDate>Sat, 30 Aug 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/1cUiYUGObrvt3sRw3BNF66ewhsW6wLAH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】【#パックマス】「I MAKE IMPA@CT! in USA」コラボTシャツ事後通販のお知らせ⚡]]></title>
-            <description><![CDATA[#pacman #idolmaster #PACMAN45TH #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16553.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16553.html</guid>
-            <pubDate>Fri, 29 Aug 2025 09:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/WAqlBfSvLeaqfee0ilTI8NcWRoOw7YYZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
