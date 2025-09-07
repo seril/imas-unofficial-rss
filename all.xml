@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Sep 2025 11:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Sep 2025 14:14:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Sep 2025 11:12:38 GMT</pubDate>
+        <pubDate>Sun, 07 Sep 2025 14:14:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽DAY2のご鑑賞ありがとうございました！本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー千秋楽_day2 #シンデレラガールズフェス #シンデレラガールズ15周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_16416.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16416.html</guid>
+            <pubDate>Sun, 07 Sep 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/ZUP7w8Q1HqUhFUH1MDOfNZ3yYcG75YrL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】CONCEPT xR LIVEの開催決定！！]]></title>
+            <description><![CDATA[#シンデレラxRライブ2026 #シンデレラガールズ15周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_16664.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16664.html</guid>
+            <pubDate>Sun, 07 Sep 2025 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/G4eHYg7zafETQ2pXrNR1ek0WWb9DBYEi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』公式グッズ受注開始！イベントKVの豪華アイテムをお見逃しなく♪ 受注は9/28(日)まで！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー千秋楽_day2]]></description>
+            <link>https://idolmaster-official.jp/news/01_16700.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16700.html</guid>
+            <pubDate>Sun, 07 Sep 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/nBVaXii59vemZGmVDekbGVHqJcN6HOMi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】渋谷凛がqdcイヤホンのアンバサダーに！タイアップモデル『FRONTIER Next Black』限定発売決定♪]]></title>
             <description><![CDATA[#デレマス]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16494.html</guid>
             <pubDate>Mon, 01 Sep 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/SO89MOZyg3tXtERTYJNZ5cfpw90a9jxE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『事務的光空記録』『コヒーレントライト』商品のEC販売が開始！]]></title>
-            <description><![CDATA[#ジムシャニ #コヒーレントライト]]></description>
-            <link>https://idolmaster-official.jp/news/01_16601.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16601.html</guid>
-            <pubDate>Mon, 01 Sep 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/PbqCUX8OoqQ3S2SIJVUDrvAIX5lMhOYm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】7th UNTLIVE TOUR 青森公演の配信チケットが販売スタート！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16561.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16561.html</guid>
-            <pubDate>Mon, 01 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/ZMyczyfNUdvvTWsQnHSWiGKKWYnZR2Cr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【いよいよ明日9月2日(火)！】「岩手競馬×アイドルマスター ミリオンライブ！2025」キャストによるスペシャルトークショーとコラボ記念抽選会が開催されます！✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16567.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16567.html</guid>
-            <pubDate>Mon, 01 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/BDoX5W75ZGDJbh7ZgIh12iKU3nO3agz0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
