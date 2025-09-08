@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Sep 2025 06:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 11:15:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Sep 2025 06:29:05 GMT</pubDate>
+        <pubDate>Mon, 08 Sep 2025 11:15:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【シンデレラ】デレステ10周年記念ツアー千秋楽「STARLIGHT STAGE」 本日9月8日(月)より正式版アーカイブ開始！／アンケート実施のご案内]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー千秋楽_day1 #デレステ10thツアー千秋楽_day2]]></description>
+            <link>https://idolmaster-official.jp/news/01_16703.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16703.html</guid>
+            <pubDate>Mon, 08 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/09/7pvziLkZr3vmB9Qmf3rlh61dJqHUhLw2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】9/13(土)・9/14(日)開催の「30MLフェス」にて山崎はるかさんによるスペシャルトークショー開催！]]></title>
+            <description><![CDATA[#ミリオンライブ #30MLFES]]></description>
+            <link>https://idolmaster-official.jp/news/01_16699.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16699.html</guid>
+            <pubDate>Mon, 08 Sep 2025 08:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/OEqJfGYjNxJNcK2KqJmujokEcUY4S9Hj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM×DAIMARU TOKYO」 ポップアップショップが9/17(水)より大丸東京店にて開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_16673.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16673.html</guid>
+            <pubDate>Mon, 08 Sep 2025 07:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/wUhc6ZSPwlQek0dXtSOvQhKPJJgWYmXm.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】総額100万円分のえらべるPayが抽選で1000名様に当たる！『「#今日から学マス最大100連ガシャ無料」えらべるPayプレゼントキャンペーン』開催中！]]></title>
             <description><![CDATA[#学マス #えらべるPay #今日から学マス最大100連ガシャ無料]]></description>
@@ -175,14 +199,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16659.html</guid>
             <pubDate>Fri, 05 Sep 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/09/Vp3CUOnglC8KIeqJuHaniQSKcMRRhvFd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM×DAIMARU TOKYO」 ポップアップショップが9/17(水)より大丸東京店にて開催！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_16673.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16673.html</guid>
-            <pubDate>Fri, 05 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/wUhc6ZSPwlQek0dXtSOvQhKPJJgWYmXm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「オファマス」応募期間を10/31(金)まで延長決定！「シンデレラガールズ」190名全員のイラストも公開！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16632.html</guid>
             <pubDate>Tue, 02 Sep 2025 02:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LKV3o1HAK6StwUKsTtGHLO3UQbDRvMlS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】アイドルマスター オフィシャルショップの抽選くじに新柄18種が登場！9月5日(金)から秋葉原・名古屋・大阪・博多・仙台で取り扱い開始！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16614.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16614.html</guid>
-            <pubDate>Tue, 02 Sep 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/tRXCEj2zF3NwsNvIVYupVs96yrZ15OYc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】9月5日(金)、アイドルフォトパネルに新柄が登場！同日よりアイドルマスター オフィシャルショップ各店にて取り扱い開始！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16615.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16615.html</guid>
-            <pubDate>Tue, 02 Sep 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/Vdec4VEZ6mp0fOy6mI0vHmrS8TFGj5l0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
