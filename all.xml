@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Sep 2025 14:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 02:27:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Sep 2025 14:14:45 GMT</pubDate>
+        <pubDate>Mon, 08 Sep 2025 02:27:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】イオン限定ハロウィン商品が発売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16510.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16510.html</guid>
+            <pubDate>Mon, 08 Sep 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/UakJ3iLg3IXYF39HJH9MGvEhPO2ypDnN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ゆらりん缶バッジのご予約が本日よりスタート！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16563.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16563.html</guid>
+            <pubDate>Mon, 08 Sep 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/O2PZxsHbHAEsQ81IZtZ7NMcumcNbcRKL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽DAY2のご鑑賞ありがとうございました！本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレステ10thツアー千秋楽_day2 #シンデレラガールズフェス #シンデレラガールズ15周年]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16455.html</guid>
             <pubDate>Mon, 01 Sep 2025 09:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/8pShF56VboJsZZWAkt3fyB8UBBjmB8JI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE」 会沢紗弥様（関裕美役）ご出演内容につきまして]]></title>
-            <description><![CDATA[「THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE」 会沢紗弥様（関裕美役）ご出演内容につきまして]]></description>
-            <link>https://idolmaster-official.jp/news/01_16613.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16613.html</guid>
-            <pubDate>Mon, 01 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【AP生配信】【シンデレラガールズ】THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE 神奈川公演 終了後感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #imas_cg #デレステ10thツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16494.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16494.html</guid>
-            <pubDate>Mon, 01 Sep 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/SO89MOZyg3tXtERTYJNZ5cfpw90a9jxE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
