@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Sep 2025 02:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Sep 2025 03:37:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Sep 2025 02:27:29 GMT</pubDate>
+        <pubDate>Mon, 08 Sep 2025 03:37:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】特別企画展 「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE  WITH ～キミと歩んだ輝きの軌跡～」の開催が決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス #デレステWITH]]></description>
+            <link>https://idolmaster-official.jp/news/01_16657.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16657.html</guid>
+            <pubDate>Mon, 08 Sep 2025 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/kI07B1RET5qo62OgKrZyizCaudsxLhE3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽DAY2のご鑑賞ありがとうございました！本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
             <description><![CDATA[#デレステ10thツアー #デレステ10thツアー千秋楽_day2 #シンデレラガールズフェス #シンデレラガールズ15周年]]></description>
@@ -246,7 +254,7 @@
             <link>https://idolmaster-official.jp/news/01_16494.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16494.html</guid>
             <pubDate>Mon, 01 Sep 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/SO89MOZyg3tXtERTYJNZ5cfpw90a9jxE.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/Ch4itTqcxMfZ14GgFRXAF7o6S2fiIQuA.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】「京都国際マンガ・アニメフェア2025（京まふ）」にて描き下ろしリペイントイラストを使用したグッズの販売が決定🌸 グッズ情報も公開♪]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16482.html</guid>
             <pubDate>Sun, 17 Aug 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[＼本日まで！！／【シンデレラ】開催迫るデレステ10thツアー千秋楽！公式グッズ事前販売ファイナル（数量限定販売）は8/17(日)まで！！！お見逃しなく♪]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16484.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16484.html</guid>
-            <pubDate>Sun, 17 Aug 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/07/tWI8XZJW9RtTZWBsVJRkFa7HeJXHwRoY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
