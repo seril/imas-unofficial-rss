@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Sep 2025 06:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Sep 2025 11:15:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Sep 2025 06:28:35 GMT</pubDate>
+        <pubDate>Tue, 09 Sep 2025 11:15:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】 「学園アイドルマスター めじるしアクセサリー」がガシャポンに登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16670.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16670.html</guid>
+            <pubDate>Tue, 09 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/kwccZX9VwjnGi9fQjl9kt13GpKKBdSHg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】和泉 愛依が登場するガシャを開催中！ 秋のアイドル強化週間も開催！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16676.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16676.html</guid>
+            <pubDate>Tue, 09 Sep 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/09/8sxfSCGCLmfHGdlpgpZlfNWXlIa75Yxx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「デレラジ☆スペシャル」お知らせまとめ！『CINDERELLA GIRLS fes. Once Upon a St@rs』全てのプロデューサーが集まる祭典「STARLIGHT ALLIANCE」詳細公開！]]></title>
             <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16260.html</guid>
             <pubDate>Tue, 02 Sep 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/WlYSfkw4haOikzt9uj05RzIIyFW96D4e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「アイマス給湯室 　学マス大運動会に向けて準備しようスペシャル！」配信決定のお知らせ【アイドルマスターチャンネル】 ]]></title>
-            <description><![CDATA[#アイマスch #アイマス給湯室 #学マス #学マス大運動会]]></description>
-            <link>https://idolmaster-official.jp/news/01_16565.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16565.html</guid>
-            <pubDate>Tue, 02 Sep 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/08/2cjEhqgD8KzkmzNzEgrChXgoIsjz43on.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズとKアリーナ横浜とのコラボドリンク発売が決定！！]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16611.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16611.html</guid>
-            <pubDate>Tue, 02 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/RdAzQxpzBPc3pvPQmmG2gwUjrWJ7Hp7i.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
