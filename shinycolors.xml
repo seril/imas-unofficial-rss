@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Sep 2025 14:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 02:22:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Sep 2025 14:17:07 GMT</pubDate>
+        <pubDate>Thu, 11 Sep 2025 02:22:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】高級感ただようインテリア「パーソナルパブミラー」シリーズに「斑鳩ルカ」が登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16726.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16726.html</guid>
+            <pubDate>Thu, 11 Sep 2025 02:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/jxkVk19QM0xJ9tgYOo5IXL4dQ2YILlUw.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】大崎 甜花、黛 冬優子が手に入るガシャ開催中！ さらに、アルストロメリアの楽曲『パステルカラー パスカラカラー』が追加！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16466.html</guid>
             <pubDate>Sat, 09 Aug 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】水着アイドル登場記念！Mika Pikazoさんによる特別イラストを公開！]]></title>
-            <description><![CDATA[#シャニソン ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16468.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16468.html</guid>
-            <pubDate>Fri, 08 Aug 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/08/HGPFu49iHFQZiMb9J3KfvPN1XTAuzR9m.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
