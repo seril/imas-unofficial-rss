@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Sep 2025 06:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Sep 2025 11:14:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Sep 2025 06:27:30 GMT</pubDate>
+        <pubDate>Fri, 12 Sep 2025 11:14:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【偶像大师系列】「偶像大师」系列将于第51届IDO动漫游戏嘉年华中出展！]]></title>
+            <description><![CDATA[【偶像大师系列】「偶像大师」系列将于第51届IDO动漫游戏嘉年华中出展！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16744.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16744.html</guid>
+            <pubDate>Fri, 12 Sep 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/CZ3uZ6kqUmdflWn4fKbQq9PpA3byLWyE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「IDO ACG EXPO 51st」に『アイドルマスター』シリーズがブース出展決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】「IDO ACG EXPO 51st」に『アイドルマスター』シリーズがブース出展決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_16746.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16746.html</guid>
+            <pubDate>Fri, 12 Sep 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/tCdPyfG3hrtwQN28nkxVNLqDsxJGMifQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】伊勢・鳥羽・志摩をぐるっと巡る！「THE ISE-SHIM@STER」が明日9/13（土）からスタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #イセシマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16719.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16719.html</guid>
+            <pubDate>Fri, 12 Sep 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6M0OspKvqTJ8HJKNvGyFgHozFtRamY08.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】『四条貴音さんが密着♪オーケストラコンサートの裏側！』公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16589.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16589.html</guid>
+            <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/N3rRB7XA2hWW1djtzz7m23IeDbZUbisX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前二次販売が本日9月11日(木)よりスタート！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16377.html</guid>
             <pubDate>Sun, 03 Aug 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】『8分でできる！菊地 真の健康な毎日のための簡単エクササイズ』公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_16298.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16298.html</guid>
-            <pubDate>Sun, 03 Aug 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/qIxEsBgijusINLsvHYEg9RFhNC8R6vHb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【961】「THE IDOLM@STER」961 PRODUCTION DMM スクラッチが8月5日（火）より販売開始！]]></title>
-            <description><![CDATA[【961】「THE IDOLM@STER」961 PRODUCTION DMM スクラッチが8月5日（火）より販売開始！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16380.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16380.html</guid>
-            <pubDate>Sat, 02 Aug 2025 12:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/2c0hestt1oDnYl0w4PPrSLFjyZ0fX6tI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】10月31日まで開催中の三菱ＵＦＪ銀行「Buzz BANK」×「アイドルマスター」コラボキャンペーンよりマフラータオルがもらえる追加チャレンジを実施！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #buzzbank #バズバンクアイドルマスターコラボ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16379.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16379.html</guid>
-            <pubDate>Sat, 02 Aug 2025 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/HBeLyRnYUhoqm1iNuQ7KJJYCw57QyhKy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「いらすとや×アイドルマスター」　LINEスタンプ 発売開始🎉✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16345.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16345.html</guid>
-            <pubDate>Sat, 02 Aug 2025 12:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/4h2Lf9POHpi6LJ7xIDGN6McPd2Dnor2T.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
