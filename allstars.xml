@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Sep 2025 02:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Sep 2025 03:20:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Sep 2025 02:12:33 GMT</pubDate>
+        <pubDate>Sat, 13 Sep 2025 03:20:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ツアマスchコラボ】「袖屋璃空さんに教わったコツを実践！スコア爆伸び？！」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16650.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16650.html</guid>
+            <pubDate>Sat, 13 Sep 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/tcTBRsa608Q5hSC1Ny2wkcIvFRuR281s.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【偶像大师系列】「偶像大师」系列将于第51届IDO动漫游戏嘉年华中出展！]]></title>
             <description><![CDATA[【偶像大师系列】「偶像大师」系列将于第51届IDO动漫游戏嘉年华中出展！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16399.html</guid>
             <pubDate>Sun, 03 Aug 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2025/08/ZltJli5Dr73nNZt9tMpqr635kc7avwRP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】【オケマス2025】オケマス2025の追加販売グッズの受注は本日まで！]]></title>
-            <description><![CDATA[#オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16377.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16377.html</guid>
-            <pubDate>Sun, 03 Aug 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/07/URNe8ldFlOaX0eXZBiWxHt9AU3a3ZqwL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
