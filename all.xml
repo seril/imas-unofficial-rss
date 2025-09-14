@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Sep 2025 03:32:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Sep 2025 06:24:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Sep 2025 03:32:06 GMT</pubDate>
+        <pubDate>Sun, 14 Sep 2025 06:24:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[9/21(日)まで！！【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16753.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16753.html</guid>
+            <pubDate>Sun, 14 Sep 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】◆明日まで！◆アソビストア一般会員先行『CINDERELLA GIRLS fes. Once Upon a St@rs 』のお申込みは9月15日(月・祝)23:59まで！]]></title>
             <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16664.html</guid>
             <pubDate>Sun, 07 Sep 2025 12:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/G4eHYg7zafETQ2pXrNR1ek0WWb9DBYEi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』公式グッズ受注開始！イベントKVの豪華アイテムをお見逃しなく♪ 受注は9/28(日)まで！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー千秋楽_day2]]></description>
-            <link>https://idolmaster-official.jp/news/01_16700.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16700.html</guid>
-            <pubDate>Sun, 07 Sep 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/nBVaXii59vemZGmVDekbGVHqJcN6HOMi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
