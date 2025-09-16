@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Sep 2025 14:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 02:19:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Sep 2025 14:18:32 GMT</pubDate>
+        <pubDate>Tue, 16 Sep 2025 02:19:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター×セブン-イレブン コラボキャンペーン開催決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16720.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16720.html</guid>
+            <pubDate>Tue, 16 Sep 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/09/LIYRF24Z8DzKhfpvi9eX2fEKpEl8fIgj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日締切！【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストア一般会員先行抽選は本日9月15日(月･祝)23:59まで！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16563.html</guid>
             <pubDate>Mon, 08 Sep 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/O2PZxsHbHAEsQ81IZtZ7NMcumcNbcRKL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽DAY2のご鑑賞ありがとうございました！本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー千秋楽_day2 #シンデレラガールズフェス #シンデレラガールズ15周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_16416.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16416.html</guid>
-            <pubDate>Sun, 07 Sep 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/ZUP7w8Q1HqUhFUH1MDOfNZ3yYcG75YrL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
