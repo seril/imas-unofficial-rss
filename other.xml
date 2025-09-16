@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Sep 2025 11:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 14:18:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Sep 2025 11:14:55 GMT</pubDate>
+        <pubDate>Tue, 16 Sep 2025 14:18:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【 #ヴイアラ 】「レトラ BIRTHDAY ONLINE LIVE 2025」2025年11月11日(火) 開催決定！本日より限定グッズ付き現地ライブビューイングチケット販売開始！]]></title>
+            <description><![CDATA[#レトラ誕生祭2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16781.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16781.html</guid>
+            <pubDate>Tue, 16 Sep 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/WN4c7YmvywCOCP0j0UaZxiGKRO6nIcLh.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【ラジオ】「2025年9月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #メン限定]]></description>
+            <link>https://idolmaster-official.jp/news/01_16637.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16637.html</guid>
+            <pubDate>Tue, 16 Sep 2025 11:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/egUsJUu3bKdP8nbagL7UzDcETfGomqHI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール熊本』イベントレポート]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス熊本]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15832.html</guid>
             <pubDate>Fri, 06 Jun 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/06/HS6CDzAfAxwB5cGZ5BELj2SmJXl2Cfy1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】毎年恒例の誕生日配信が3DLIVEでパワーアップ！「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」2025年7月1日(火) 開催決定！本日より配信チケット＆限定グッズ付き現地ライブビューイングチケット販売開始！]]></title>
-            <description><![CDATA[#愛夏誕生祭2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_15674.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15674.html</guid>
-            <pubDate>Sun, 25 May 2025 12:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/05/G2xGKCZThlGem4wtSy8f9XPkb2oSn8AA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ヴイアライヴ】【人気のコミュボイス販売シリーズ】「1stLIVE打ち上げ差し入れコミュ」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></title>
-            <description><![CDATA[【ヴイアライヴ】【人気のコミュボイス販売シリーズ】「1stLIVE打ち上げ差し入れコミュ」メンバーに差し入れしてコミュボイスをゲット！ #ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15493.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15493.html</guid>
-            <pubDate>Thu, 08 May 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/05/0fQqUf06P8Aa71O5oeYLdY3lAYeOzskP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
