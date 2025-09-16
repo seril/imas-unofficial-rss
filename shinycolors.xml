@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Sep 2025 06:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Sep 2025 11:14:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Sep 2025 06:27:52 GMT</pubDate>
+        <pubDate>Tue, 16 Sep 2025 11:14:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール熊本』イベントレポート]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス熊本]]></description>
+            <link>https://idolmaster-official.jp/news/01_16759.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16759.html</guid>
+            <pubDate>Tue, 16 Sep 2025 07:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/09/hPcXGq7I2xGKkgucWmNk8ck0gXXPnXJh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日締切！【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストア一般会員先行抽選は本日9月15日(月･祝)23:59まで！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16453.html</guid>
             <pubDate>Sun, 17 Aug 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/DTwpKdAtHpZf1e0HG6lELyIuCj1jv2Dc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注中！】【MOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16481.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16481.html</guid>
-            <pubDate>Sat, 16 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
