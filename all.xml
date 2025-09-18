@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Sep 2025 03:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 06:27:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Sep 2025 03:29:24 GMT</pubDate>
+        <pubDate>Thu, 18 Sep 2025 06:27:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスタートラストBOT～鉄の羽のエクソダス～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ #バトルオブシアター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16771.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16771.html</guid>
+            <pubDate>Thu, 18 Sep 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/09/TfhbiNhf7CqFdvn6Fsoz0SwqbwW3PXkT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_騎士団】「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」公式グッズ事前販売が本日スタート！！受注は9月28日(日)まで！]]></title>
+            <description><![CDATA[#アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_16782.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16782.html</guid>
+            <pubDate>Thu, 18 Sep 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/atB0g0onO2I4UkYCzBOd0j5pOg64RNbr.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】青森市内を巡る企画「ようこそ、青森へ‼」が、9/26(金)～11/3(月)に開催！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16670.html</guid>
             <pubDate>Tue, 09 Sep 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/kwccZX9VwjnGi9fQjl9kt13GpKKBdSHg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】和泉 愛依が登場するガシャを開催中！ 秋のアイドル強化週間も開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16676.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16676.html</guid>
-            <pubDate>Tue, 09 Sep 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/09/8sxfSCGCLmfHGdlpgpZlfNWXlIa75Yxx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「デレラジ☆スペシャル」お知らせまとめ！『CINDERELLA GIRLS fes. Once Upon a St@rs』全てのプロデューサーが集まる祭典「STARLIGHT ALLIANCE」詳細公開！]]></title>
-            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_16701.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16701.html</guid>
-            <pubDate>Mon, 08 Sep 2025 12:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/09/uU7jjBjUfXz8LiY0xzi3hr4PEBwbKCCY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

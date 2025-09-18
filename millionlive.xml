@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Sep 2025 03:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 06:27:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Sep 2025 03:29:24 GMT</pubDate>
+        <pubDate>Thu, 18 Sep 2025 06:27:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスタートラストBOT～鉄の羽のエクソダス～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ #バトルオブシアター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16771.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16771.html</guid>
+            <pubDate>Thu, 18 Sep 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/09/TfhbiNhf7CqFdvn6Fsoz0SwqbwW3PXkT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【ミリオンライブ！】『東武動物公園でアイドルさんと動物たちに癒されてきた！』配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #ミリオンライブ #東武動物公園]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16444.html</guid>
             <pubDate>Fri, 08 Aug 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/5nEnejeSK70HdakfFrhH6wQqzMjJDMj1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】『【ラジオ】『アイドルマスター』シリーズ 私の想い出の1曲｜24/7 Live Stream』配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #夜までアイマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_16421.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16421.html</guid>
-            <pubDate>Fri, 08 Aug 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/kMxPqVOol3zkdOogTX6OouOeXmhHMhGG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
