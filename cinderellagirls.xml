@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Sep 2025 11:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Sep 2025 14:18:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Sep 2025 11:14:39 GMT</pubDate>
+        <pubDate>Thu, 18 Sep 2025 14:18:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
+            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
+            <link>https://idolmaster-official.jp/news/01_16738.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16738.html</guid>
+            <pubDate>Thu, 18 Sep 2025 12:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/fuXIe3Zrho4D1q1JgoRc22Pr9STDkrmz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10周年記念商品＆「アイドルマスター シンデレラガールズ POPUP SHOP -KAWAII♡ぱれーど-」事後通販が本日より開始！]]></title>
             <description><![CDATA[#デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16605.html</guid>
             <pubDate>Mon, 01 Sep 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/08/soeWA8187APlGbDn5epHVPp3jlKpzcNm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】京セラドーム大阪を彩ろう！ 合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」オリジナルのぼりプロデュース権発売決定！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16455.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16455.html</guid>
-            <pubDate>Mon, 01 Sep 2025 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/8pShF56VboJsZZWAkt3fyB8UBBjmB8JI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
