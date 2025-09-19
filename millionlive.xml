@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Sep 2025 11:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 14:17:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Sep 2025 11:15:17 GMT</pubDate>
+        <pubDate>Fri, 19 Sep 2025 14:17:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】北海道壮瞥町の「壮瞥町りんご大使」に「木下ひなた」が本年も就任！ 10月10日（金）より壮瞥町にて「そうべつりんごめぐり」開催！🍎🍏]]></title>
+            <description><![CDATA[#ミリオンライブ #壮瞥町りんご大使 #そうべつりんごまつり #そうべつりんごめぐり]]></description>
+            <link>https://idolmaster-official.jp/news/01_16776.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16776.html</guid>
+            <pubDate>Fri, 19 Sep 2025 12:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/fUTZCBsRBSnfDDxTGuntlQ4C9dcQqysh.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『すべてのプロデューサーに捧ぐ ミリシタ秋の生配信！～Merci pour l'amour！～』お知らせまとめ]]></title>
+            <description><![CDATA[#ミリシタ　#ミリオンライブ　#秋のミリシタ生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_16390.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16390.html</guid>
+            <pubDate>Fri, 19 Sep 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/09/yPdsCrF4y9coRDgcnVeZs8EjfpusF1HX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】『すべてのプロデューサーに捧ぐ ミリシタ秋の生配信！～Merci pour l'amour！～​』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
             <description><![CDATA[#ミリシタ  #秋のミリシタ生配信]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16430.html</guid>
             <pubDate>Tue, 12 Aug 2025 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/o5cjckL2OK7OnwYT4T9FKp04S7QmkaZF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【MOIW2025】受注受付中！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16469.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16469.html</guid>
-            <pubDate>Sun, 10 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【MOIW2025】受注受付中！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前販売は8月24日(日)23:59まで！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16466.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16466.html</guid>
-            <pubDate>Sat, 09 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
