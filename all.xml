@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Sep 2025 02:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Sep 2025 03:26:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Sep 2025 02:17:11 GMT</pubDate>
+        <pubDate>Sat, 20 Sep 2025 03:26:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」12月にお誕生日を迎えるアイドルたちのバースデー記念グッズ販売中！一部サンプルをご紹介♪]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_16591.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16591.html</guid>
+            <pubDate>Sat, 20 Sep 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/mHbwJdfJqBTuhUoxtnRg4uzjED47zQ6t.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第10弾、制作決定！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16745.html</guid>
             <pubDate>Fri, 12 Sep 2025 09:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/dXmeaXvjkb68Y5oSQKrgC2iU0YMcgiDB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】伊勢・鳥羽・志摩をぐるっと巡る！「THE ISE-SHIM@STER」が明日9/13（土）からスタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #イセシマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16719.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16719.html</guid>
-            <pubDate>Fri, 12 Sep 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6M0OspKvqTJ8HJKNvGyFgHozFtRamY08.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
