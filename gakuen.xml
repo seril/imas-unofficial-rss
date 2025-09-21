@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Sep 2025 11:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Sep 2025 14:14:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Sep 2025 11:13:01 GMT</pubDate>
+        <pubDate>Sun, 21 Sep 2025 14:14:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】総額100万円分のえらべるPayが抽選で1000名様に当たる！『「#雨夜燕実装決定」えらべるPayプレゼントキャンペーン』開催中！]]></title>
+            <description><![CDATA[#学マス #えらべるPay #雨夜燕実装決定]]></description>
+            <link>https://idolmaster-official.jp/news/01_16704.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16704.html</guid>
+            <pubDate>Sun, 21 Sep 2025 13:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/gzVwXpzm6if769lC75w1ZUgDYjx490RU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス大運動会】学マス クラス対抗初星大運動会 DAY2 のご鑑賞ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#学マス #学マス大運動会 #初星音楽祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_16742.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16742.html</guid>
+            <pubDate>Sun, 21 Sep 2025 11:47:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/09/5yOMZvRawLoYPOc8Vh3N6sekXP0n4dJR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前二次販売が9/28(日)まで実施中！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16455.html</guid>
             <pubDate>Mon, 01 Sep 2025 09:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/8pShF56VboJsZZWAkt3fyB8UBBjmB8JI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】#学マス夏コミ2025 C106グッズの受注〆切は本日！［8/31(日)まで］]]></title>
-            <description><![CDATA[【学マス】#学マス夏コミ2025 C106グッズの受注〆切は本日！［8/31(日)まで］]]></description>
-            <link>https://idolmaster-official.jp/news/01_16612.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16612.html</guid>
-            <pubDate>Sun, 31 Aug 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/08/8fG5EA8NmxVWsn3TXv2s4MOVEngIxBXd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】『学園アイドルマスターぬいぐるみシリーズ』新作＆再販 予約受付中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16532.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16532.html</guid>
-            <pubDate>Fri, 29 Aug 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/3kdefUbsbMRPuiFXBAy695cs8Mi5enUw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
