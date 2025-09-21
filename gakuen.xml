@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Sep 2025 02:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Sep 2025 03:37:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Sep 2025 02:38:16 GMT</pubDate>
+        <pubDate>Sun, 21 Sep 2025 03:37:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[本日まで！！【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16815.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16815.html</guid>
+            <pubDate>Sun, 21 Sep 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス大運動会】学マス クラス対抗初星大運動会 DAY1 のご鑑賞ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
             <description><![CDATA[#学マス #学マス大運動会 ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16551.html</guid>
             <pubDate>Fri, 29 Aug 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/08/oSVt8MmxhmGaMzcYpmz19nQy6RcjpepZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」本日8月29日(金)12:00よりアソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16535.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16535.html</guid>
-            <pubDate>Fri, 29 Aug 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/85dqPuLuzo1SXKoGveKNzGjkPgo9HySQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Sep 2025 02:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Sep 2025 03:37:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Sep 2025 02:38:16 GMT</pubDate>
+        <pubDate>Sun, 21 Sep 2025 03:37:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[本日まで！！【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16815.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16815.html</guid>
+            <pubDate>Sun, 21 Sep 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽の開催記念グッズが受注中！200P超えメモリアルブック、3兆通りのカスタムアクスタ♪ぜひお見逃しなく！]]></title>
             <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16757.html</guid>
             <pubDate>Sat, 13 Sep 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/kcKaUfwzMMj4rgj8xVEgrdFenFSksh2M.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】総額100万円分のえらべるPayが抽選で1,000名様に当たる！「#あさり先生の100連無料」開催中！]]></title>
-            <description><![CDATA[#学マス #えらべるPay #あさり先生の100連無料]]></description>
-            <link>https://idolmaster-official.jp/news/01_16534.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16534.html</guid>
-            <pubDate>Sat, 13 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/iu23Vinr0pri9Si1J6p85NbzdNIgXD8R.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
