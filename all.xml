@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Sep 2025 06:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Sep 2025 11:15:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Sep 2025 06:27:42 GMT</pubDate>
+        <pubDate>Wed, 24 Sep 2025 11:15:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「『アイドルマスター SideM』ビックカメラグループグッズフェア Gothic Vampire」が10月3日(金)より開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_16787.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16787.html</guid>
+            <pubDate>Wed, 24 Sep 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/AzIFvV5vZX7Z64BtYKj0mXeyTxZm2SA8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】COCOLLABOよりクラス対抗初星大運動会協賛商品の一般販売がスタート！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16781.html</guid>
             <pubDate>Tue, 16 Sep 2025 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/WN4c7YmvywCOCP0j0UaZxiGKRO6nIcLh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ラジオ】「2025年9月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #メン限定]]></description>
-            <link>https://idolmaster-official.jp/news/01_16637.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16637.html</guid>
-            <pubDate>Tue, 16 Sep 2025 11:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/egUsJUu3bKdP8nbagL7UzDcETfGomqHI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
