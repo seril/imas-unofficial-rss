@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Sep 2025 11:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Sep 2025 14:21:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Sep 2025 11:15:06 GMT</pubDate>
+        <pubDate>Wed, 24 Sep 2025 14:21:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【SideM】「『アイドルマスター SideM』ビックカメラグループグッズフェア Gothic Vampire」が10月3日(金)より開催！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16787.html</guid>
             <pubDate>Wed, 24 Sep 2025 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/AzIFvV5vZX7Z64BtYKj0mXeyTxZm2SA8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【YouTube】【＃APラウンジ】【シャニマス】7th UNITLIVE TOUR 「円環」の世界で起きた事象を考察してみよう！配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #APラウンジ #シャニマス #シャニマス7thUNITTOUR]]></description>
+            <link>https://idolmaster-official.jp/news/01_16625.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16625.html</guid>
+            <pubDate>Wed, 24 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/09/obG14kYuYaGC2pxrQ0ctwHRLONFmwOwz.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】COCOLLABOよりクラス対抗初星大運動会協賛商品の一般販売がスタート！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16598.html</guid>
             <pubDate>Tue, 16 Sep 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/OueiZiThT3VZSu57mE9rAS30uEZnyZTL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【 #ヴイアラ 】「レトラ BIRTHDAY ONLINE LIVE 2025」2025年11月11日(火) 開催決定！本日より限定グッズ付き現地ライブビューイングチケット販売開始！]]></title>
-            <description><![CDATA[#レトラ誕生祭2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16781.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16781.html</guid>
-            <pubDate>Tue, 16 Sep 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/WN4c7YmvywCOCP0j0UaZxiGKRO6nIcLh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
