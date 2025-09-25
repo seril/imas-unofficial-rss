@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Sep 2025 06:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 11:16:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Sep 2025 06:28:11 GMT</pubDate>
+        <pubDate>Thu, 25 Sep 2025 11:16:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【受注開始】【765】如月千早武道館単独公演「OathONE」公式グッズ事前販売が本日9月25日(木)より開始]]></title>
+            <description><![CDATA[#如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_16851.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16851.html</guid>
+            <pubDate>Thu, 25 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7sxlTxiu3til0jNfxcBhnXcItlLkhbvf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」オリジナルのぼりプロデュース権の申込みが本日より開始！！さらに「打ち上げ＆大忘年会付きホテルプラン」や「アイ車展示企画」の情報も公開♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16848.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16848.html</guid>
+            <pubDate>Thu, 25 Sep 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/Hiz9thUkASD8P1GGTRLhlPZwiHbe3qiv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「岡崎泰葉」「久川 颯」が登場！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16849.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16849.html</guid>
+            <pubDate>Thu, 25 Sep 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/k0OFPz7srE6reHiSTbyYldhcQxjcUxDk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】シャニソン楽曲のユニット衣装を着た「ちびぐるみ」がナムコ限定で9月26日(金)より登場予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16865.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16865.html</guid>
+            <pubDate>Thu, 25 Sep 2025 06:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/KUx5EvhANHHQEzPx3YTo3rteZqHSESXr.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 本日より配信チケット販売開始！！ストーリーとのお得なセットや定点カメラ映像も登場！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16788.html</guid>
             <pubDate>Thu, 18 Sep 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/hc1Ikwzs0nDFoRVWaN0DN5v7uSEjH9er.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニ7th】青森公演の現地チケット一般2次販売（先着）がスタート！当日券の販売も決定！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16796.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16796.html</guid>
-            <pubDate>Thu, 18 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/gItkmxPxDoGpsbXeiO0PDy2H7GvIpAsw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスタートラストBOT～鉄の羽のエクソダス～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ #バトルオブシアター]]></description>
-            <link>https://idolmaster-official.jp/news/01_16771.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16771.html</guid>
-            <pubDate>Thu, 18 Sep 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/09/TfhbiNhf7CqFdvn6Fsoz0SwqbwW3PXkT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_騎士団】「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」公式グッズ事前販売が本日スタート！！受注は9月28日(日)まで！]]></title>
-            <description><![CDATA[#アンティーカ_騎士団]]></description>
-            <link>https://idolmaster-official.jp/news/01_16782.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16782.html</guid>
-            <pubDate>Thu, 18 Sep 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/atB0g0onO2I4UkYCzBOd0j5pOg64RNbr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】青森市内を巡る企画「ようこそ、青森へ‼」が、9/26(金)～11/3(月)に開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16760.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16760.html</guid>
-            <pubDate>Thu, 18 Sep 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/je53jfRE4ae8sxhjwOYna0UDscNE7c4J.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
