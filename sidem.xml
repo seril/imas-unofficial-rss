@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Sep 2025 02:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Sep 2025 03:33:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Sep 2025 02:23:11 GMT</pubDate>
+        <pubDate>Thu, 25 Sep 2025 03:33:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 本日より配信チケット販売開始！！ストーリーとのお得なセットや定点カメラ映像も登場！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16820.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16820.html</guid>
+            <pubDate>Thu, 25 Sep 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/HZvC00sIeKrJZZCVcpYuZ7rMNtIVqzUx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】11月1日(土)より、静岡県袋井市と「S.E.M」のコラボ「Welcome to ふくろい～315（サイコー）な思い出、2961（フクロイ）で～」が開催★]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_16837.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16837.html</guid>
+            <pubDate>Thu, 25 Sep 2025 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/kOpf5ANeZ4ZdNmUWKj5sWFt2U8FtgnE3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「『アイドルマスター SideM』ビックカメラグループグッズフェア Gothic Vampire」が10月3日(金)より開催！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16524.html</guid>
             <pubDate>Sat, 23 Aug 2025 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【オケマス2025】オケマス2025のCDの受注は8/24(日)まで！]]></title>
-            <description><![CDATA[#オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16526.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16526.html</guid>
-            <pubDate>Sat, 23 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/UPKWvNlUrqVf0URmg972s9YmXcQ2W6Zn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ラジオ】「2025年8月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #メン限定]]></description>
-            <link>https://idolmaster-official.jp/news/01_16518.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16518.html</guid>
-            <pubDate>Fri, 22 Aug 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/08/L4hgytcxhXTCNr1PhJ2F2pXyW6OxRmNf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
