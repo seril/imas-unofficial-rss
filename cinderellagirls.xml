@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Sep 2025 02:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 03:30:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Sep 2025 02:21:57 GMT</pubDate>
+        <pubDate>Fri, 26 Sep 2025 03:30:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】1/7スケールフィギュア「城ヶ崎 美嘉　ハロウィンラブ★ナースVer.」がご予約受付中！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16858.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16858.html</guid>
+            <pubDate>Fri, 26 Sep 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/fu0eEg8AfV6x1XBR5wzv7M4WZxTJnUAm.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【今週末まで！】デレステ10thツアー千秋楽の開催記念グッズが受注中！カスタムアクスタ、BIGアクスタ、メモリアルブックなどなど…！ぜひお見逃しなく！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16871.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16871.html</guid>
+            <pubDate>Fri, 26 Sep 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/H8QZhsKEATI5JjY4JmDJGQdvlHfAyvk0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」オリジナルのぼりプロデュース権の申込みが本日より開始！！さらに「打ち上げ＆大忘年会付きホテルプラン」や「アイ車展示企画」の情報も公開♪]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16608.html</guid>
             <pubDate>Thu, 04 Sep 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/08/sfQvYC3dMGYW3I36alus1BEZP8bWycCS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】デレステ10thツアー千秋楽記念！「アソビストアガラポン」全190人の個別衣装ミニミニアクスタが手に入るのは今だけ♪]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ #デレステ10thツアー千秋楽]]></description>
-            <link>https://idolmaster-official.jp/news/01_16607.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16607.html</guid>
-            <pubDate>Thu, 04 Sep 2025 09:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/r6xRdLRyM2Ty46RhKHp428XPEwCTt61m.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】久川凪/久川颯のスケールフィギュア が再販決定！]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16672.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16672.html</guid>
-            <pubDate>Thu, 04 Sep 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/BnMLimYzbw6SjjIZFMlTvvx7fnXxWao6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
