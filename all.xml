@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Sep 2025 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 02:21:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Sep 2025 14:19:04 GMT</pubDate>
+        <pubDate>Fri, 26 Sep 2025 02:21:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】プライズ情報「ちびぐるみ」シリーズ新作と「おなまえバッジ」が10月と11月に登場です！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_16850.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16850.html</guid>
+            <pubDate>Fri, 26 Sep 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/sQSPVT9mNT9MDuFH26KsJTOEMQkIIj7H.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【受注開始】【765】如月千早武道館単独公演「OathONE」公式グッズ事前販売が本日9月25日(木)より開始]]></title>
             <description><![CDATA[#如月千早武道館単独公演]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16752.html</guid>
             <pubDate>Thu, 18 Sep 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/EFkC9WBDfL6R9bbRpW86OwMZyCSHsa95.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[いよいよ明日！【シンデレラ】＜デレステ10thツアー＞参加条件は法被＆ライト持ち込み！ツアー後半公演打ち上げDJイベント「SUPER! HAPPY! TRACKS!」]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー_打ち上げDJ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16788.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16788.html</guid>
-            <pubDate>Thu, 18 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/hc1Ikwzs0nDFoRVWaN0DN5v7uSEjH9er.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
