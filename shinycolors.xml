@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Sep 2025 06:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 11:14:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Sep 2025 06:27:16 GMT</pubDate>
+        <pubDate>Fri, 26 Sep 2025 11:14:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7th青森】THE IDOLM@STER SHINY COLORS 7th UNITLIVE TOUR 円環 -Halo around- fourth quadrant へお越しいただくみなさまへ]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16866.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16866.html</guid>
+            <pubDate>Fri, 26 Sep 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【あと２日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16877.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16877.html</guid>
+            <pubDate>Fri, 26 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】🍎青森公演🍏はいよいよ明日から！配信チケットも販売中！一部イベントグッズの追加販売もスタート！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16846.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16846.html</guid>
+            <pubDate>Fri, 26 Sep 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/QTj6YixK5FGnO1lpjfxIpEkhzqZGWVwT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】ヴァイスシュヴァルツより「プレミアムブースター アイドルマスター シャイニーカラーズ」が本日発売！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16581.html</guid>
             <pubDate>Sat, 30 Aug 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/1cUiYUGObrvt3sRw3BNF66ewhsW6wLAH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】≪青森公演≫整理券受付が本日13:00よりスタート♪ぬいぐるみポーチの写真を公開！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #円環りんごぬいポーチ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16580.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16580.html</guid>
-            <pubDate>Fri, 29 Aug 2025 04:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/08/JNKiLPGM5iz6syV6bLxyz80PMZT4ltUZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」本日8月29日(金)12:00よりアソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16535.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16535.html</guid>
-            <pubDate>Fri, 29 Aug 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/85dqPuLuzo1SXKoGveKNzGjkPgo9HySQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』「第2弾ツアーズレア」18種が2025年8月28日(木)より登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16560.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16560.html</guid>
-            <pubDate>Thu, 28 Aug 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/BjXxyRY49ceLty1oKxyVNgCB1I1CP7HN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
