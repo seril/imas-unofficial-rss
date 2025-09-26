@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Sep 2025 11:14:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Sep 2025 14:16:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Sep 2025 11:14:51 GMT</pubDate>
+        <pubDate>Fri, 26 Sep 2025 14:16:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM　燃ゆる紅葉 バトルの季節！ファンタスティック！生配信 」告知まとめ]]></title>
+            <description><![CDATA[#SideM #SideM生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_16642.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16642.html</guid>
+            <pubDate>Fri, 26 Sep 2025 12:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/09/mTzTlbMYjjJdyBDwvvpjLQUScb0byOIo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】アイドル達の『あの時の思い出』を描いたFiFS描き下ろしイラストがグッズで登場！本日20:30よりASOBI STOREにて受注開始！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_16833.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16833.html</guid>
+            <pubDate>Fri, 26 Sep 2025 11:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/gyPnbbCVGCk1p3b8iVIwyeUc2vwCjfNT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　本日より1月にお誕生日を迎えるアイドルたちのバースデー記念グッズが受注開始！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_16840.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16840.html</guid>
+            <pubDate>Fri, 26 Sep 2025 11:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/HbJMce44R8zf6sj71SESBJRdBExO4amn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演開催記念！アパレルステッカー専門店 『STIQ STORE SHINSAIBASHI』とのコラボレーションが決定！本日よりASOBI STOREにて受注開始！店舗コラボも実施予定！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16886.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16886.html</guid>
+            <pubDate>Fri, 26 Sep 2025 11:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/2QPxdZhYkDQSQ9o7TblhblbXVggEpC0P.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「アイドルマスター SideM　燃ゆる紅葉 バトルの季節！ファンタスティック！生配信 」開催記念！出演キャストのサイン入り色紙プレゼント！ #SideM生配信 でポスト！]]></title>
             <description><![CDATA[#SideM #SideM生配信]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16584.html</guid>
             <pubDate>Fri, 29 Aug 2025 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/TIqDbxhxlXVhICofGwALRkBMp1uwosun.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】9月6日（土）より、福島県磐梯町と「DRAMATIC STARS」のコラボが開催！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_16594.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16594.html</guid>
-            <pubDate>Fri, 29 Aug 2025 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/4pi0ANG8preMEvrUb9CHu732xKZXLBjE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」本日8月29日(金)12:00よりアソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16535.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16535.html</guid>
-            <pubDate>Fri, 29 Aug 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/85dqPuLuzo1SXKoGveKNzGjkPgo9HySQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM 315 Super SuMMer Market in アニメイト」が明日より開催！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16568.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16568.html</guid>
-            <pubDate>Fri, 29 Aug 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/iPPYAssptpbYkYei4a65Of8MxXhVdl3M.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』「第2弾ツアーズレア」18種が2025年8月28日(木)より登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16560.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16560.html</guid>
-            <pubDate>Thu, 28 Aug 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/08/BjXxyRY49ceLty1oKxyVNgCB1I1CP7HN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
