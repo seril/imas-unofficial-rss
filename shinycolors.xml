@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Sep 2025 14:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 02:16:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Sep 2025 14:16:38 GMT</pubDate>
+        <pubDate>Sat, 27 Sep 2025 02:16:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと１日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16878.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16878.html</guid>
+            <pubDate>Sat, 27 Sep 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7th青森】THE IDOLM@STER SHINY COLORS 7th UNITLIVE TOUR 円環 -Halo around- fourth quadrant へお越しいただくみなさまへ]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16562.html</guid>
             <pubDate>Sun, 31 Aug 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/6TzxLYaLamm01nwlXI76YDW1CVxaaaHU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】有栖川 夏葉、黛 冬優子が登場するトワイライツコレクションを開催中！ プロデュースイベントの開催も！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16581.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16581.html</guid>
-            <pubDate>Sat, 30 Aug 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/08/1cUiYUGObrvt3sRw3BNF66ewhsW6wLAH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
