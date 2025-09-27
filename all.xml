@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Sep 2025 11:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 14:14:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Sep 2025 11:12:44 GMT</pubDate>
+        <pubDate>Sat, 27 Sep 2025 14:14:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】『CINDERELLA GIRLS fes. Once Upon a St@rs』公式グッズ受注中！ゆらゆらアクスタに応援うちわなど必見です♪]]></title>
+            <description><![CDATA[#シンデレラガールズフェス #シンデレラxR]]></description>
+            <link>https://idolmaster-official.jp/news/01_16888.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16888.html</guid>
+            <pubDate>Sat, 27 Sep 2025 14:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/nBVaXii59vemZGmVDekbGVHqJcN6HOMi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明日まで！】デレステ10thツアー千秋楽の開催記念グッズが受注中！カスタムアクスタ、BIGアクスタ、メモリアルブックなどなど…！ぜひお見逃しなく！]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16887.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16887.html</guid>
+            <pubDate>Sat, 27 Sep 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/H8QZhsKEATI5JjY4JmDJGQdvlHfAyvk0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7thLIVE】青森公演DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス7th_青森_day1 #シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16812.html</guid>
             <pubDate>Sat, 20 Sep 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/nBVaXii59vemZGmVDekbGVHqJcN6HOMi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】北海道壮瞥町の「壮瞥町りんご大使」に「木下ひなた」が本年も就任！ 10月10日（金）より壮瞥町にて「そうべつりんごめぐり」開催！🍎🍏]]></title>
-            <description><![CDATA[#ミリオンライブ #壮瞥町りんご大使 #そうべつりんごまつり #そうべつりんごめぐり]]></description>
-            <link>https://idolmaster-official.jp/news/01_16776.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16776.html</guid>
-            <pubDate>Fri, 19 Sep 2025 12:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/fUTZCBsRBSnfDDxTGuntlQ4C9dcQqysh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】【#パックマス】「PIZZA-LA」×「アイ MAKE IMP@CT！」コラボキャンペーン決定！🍕💞 【ミリオン12th】キッチンカー出店も✨🚚💨]]></title>
-            <description><![CDATA[#pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16769.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16769.html</guid>
-            <pubDate>Fri, 19 Sep 2025 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/coCnAuIgIFHaONLW7oY7FlTSNP2uWR53.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
