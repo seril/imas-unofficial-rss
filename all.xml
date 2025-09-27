@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 27 Sep 2025 03:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 06:24:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 27 Sep 2025 03:26:51 GMT</pubDate>
+        <pubDate>Sat, 27 Sep 2025 06:24:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】SSR出現率2倍！「ミリオンリンケージ　 オペラセリア・きらめきの幼馴染編」開催中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリリン]]></description>
+            <link>https://idolmaster-official.jp/news/01_16854.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16854.html</guid>
+            <pubDate>Sat, 27 Sep 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/09/rSg96fxQWkVR4qcteXNMhBFXDbT24BIF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【あと１日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16881.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16881.html</guid>
+            <pubDate>Sat, 27 Sep 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【あと１日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16390.html</guid>
             <pubDate>Fri, 19 Sep 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/09/yPdsCrF4y9coRDgcnVeZs8EjfpusF1HX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】コトブキヤ秋葉原館にて「765PRO ALLSTARS 2025⇒2026 大忘年会×新年会 in KOTOBUKIY@」が開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16707.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16707.html</guid>
-            <pubDate>Fri, 19 Sep 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/csopZnHliusFhsfHVWlvDHVtoVOFtnMb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】【#パックマス】「名鉄観光サービス」×「アイ MAKE IMP@CT！」名古屋弁・三河弁のコラボLINEスタンプが登場👻💞 【期間限定】]]></title>
-            <description><![CDATA[#pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16786.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16786.html</guid>
-            <pubDate>Fri, 19 Sep 2025 11:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/5x5ao32S4yksH5X2uVbJMmzUsJsqpfOD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
