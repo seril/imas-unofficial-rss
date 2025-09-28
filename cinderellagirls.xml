@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Sep 2025 03:37:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Sep 2025 06:25:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Sep 2025 03:37:32 GMT</pubDate>
+        <pubDate>Sun, 28 Sep 2025 06:25:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【本日まで！！！】【アイマスMOIW2025】公式グッズ事前二次販売は本日9/28(日)まで！！実物サンプルも！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16880.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16880.html</guid>
+            <pubDate>Sun, 28 Sep 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで！！！】【アイマスMOIW2025】公式グッズ事前二次販売は本日9/28(日)まで！！実物サンプルも！！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -39,6 +47,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16881.html</guid>
             <pubDate>Sat, 27 Sep 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【本日まで！】『CINDERELLA GIRLS fes. Once Upon a St@rs』公式グッズ受注中！描きおろしイラストの34名のアイドルグッズを見逃さないでくださいね！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス #シンデレラxR]]></description>
+            <link>https://idolmaster-official.jp/news/01_16889.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16889.html</guid>
+            <pubDate>Sun, 28 Sep 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/nBVaXii59vemZGmVDekbGVHqJcN6HOMi.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【あと１日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16683.html</guid>
             <pubDate>Sat, 06 Sep 2025 12:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/WK4WsKETLzTuiR2KWs3fFufq27DLKKNt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレステ10thツアー千秋楽DAY1のご鑑賞ありがとうございました！ 本日の「告知内容まとめ」と「セットリスト」はこちら！！！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレステ10thツアー千秋楽_day1]]></description>
-            <link>https://idolmaster-official.jp/news/01_16415.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16415.html</guid>
-            <pubDate>Sat, 06 Sep 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/09/Tyx7Y31qQ823rUQmfQ6mEEbMgawZukkK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「Cygamesフラワースタンド」特別映像のDay2スケジュール公開！]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー千秋楽_day1#デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16681.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16681.html</guid>
-            <pubDate>Sat, 06 Sep 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/09/9svhofaKnV9IivOQXu4KCga8SFmxNLTv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
