@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Sep 2025 02:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Sep 2025 03:37:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Sep 2025 02:39:06 GMT</pubDate>
+        <pubDate>Sun, 28 Sep 2025 03:37:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[◆本日まで◆【283_騎士団】「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」公式グッズ事前販売の受注は本日9月28日(日)まで！]]></title>
+            <description><![CDATA[#アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_16853.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16853.html</guid>
+            <pubDate>Sun, 28 Sep 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/atB0g0onO2I4UkYCzBOd0j5pOg64RNbr.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで！！！】【アイマスMOIW2025】公式グッズ事前二次販売は本日9/28(日)まで！！実物サンプルも！！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16632.html</guid>
             <pubDate>Tue, 02 Sep 2025 02:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LKV3o1HAK6StwUKsTtGHLO3UQbDRvMlS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】京セラドーム大阪を彩ろう！ 合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」オリジナルのぼりプロデュース権発売決定！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16455.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16455.html</guid>
-            <pubDate>Mon, 01 Sep 2025 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/8pShF56VboJsZZWAkt3fyB8UBBjmB8JI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
