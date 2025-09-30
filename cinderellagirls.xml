@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Sep 2025 11:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 14:18:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Sep 2025 11:15:29 GMT</pubDate>
+        <pubDate>Tue, 30 Sep 2025 14:18:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【生配信】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 キックオフ生ラジオ配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16831.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16831.html</guid>
+            <pubDate>Tue, 30 Sep 2025 12:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/09/qfj7yRGXP0rHMAxD7cFyzRG6S13Vosze.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】「THE IDOLM@STER Series-M@STER's FESTA 2025-」が開催中&全国アニメイトにてディスプレイコンテストが本日よりスタート！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】「THE IDOLM@STER Series-M@STER's FESTA 2025-」が開催中&全国アニメイトにてディスプレイコンテストが本日よりスタート！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16416.html</guid>
             <pubDate>Sun, 07 Sep 2025 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/ZUP7w8Q1HqUhFUH1MDOfNZ3yYcG75YrL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】CONCEPT xR LIVEの開催決定！！]]></title>
-            <description><![CDATA[#シンデレラxRライブ2026 #シンデレラガールズ15周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_16664.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16664.html</guid>
-            <pubDate>Sun, 07 Sep 2025 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/G4eHYg7zafETQ2pXrNR1ek0WWb9DBYEi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
