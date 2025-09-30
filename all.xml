@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Sep 2025 06:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Sep 2025 11:15:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Sep 2025 06:28:33 GMT</pubDate>
+        <pubDate>Tue, 30 Sep 2025 11:15:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 10月1日(水)18:00より現地チケット 一般発売2次(先着)の受付がスタート！＆当日券の発売も決定！配信チケットも販売中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16892.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16892.html</guid>
+            <pubDate>Tue, 30 Sep 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/jsmVJmCbVa4J9oK3oPQmLQ8Zsl0KZgDy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】つくりより『クラス対抗初星大運動会』協賛商品を一般販売中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16799.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16799.html</guid>
+            <pubDate>Tue, 30 Sep 2025 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/y8XdPh8exGRJ7CtC6GVFSB6x2OxQKZfn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】和泉 愛依、園田 智代子が手に入るガシャ開催中！さらに、放課後クライマックスガールズの楽曲『キラピコ.exe 』が追加！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16736.html</guid>
             <pubDate>Wed, 24 Sep 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/9BiLJ0g6KGAuTFj13SMydapAsZ4pSa91.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】クラス対抗初星大運動会 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
-            <description><![CDATA[#学マス #学マス大運動会 #学マス大運動会_DAY1 #学マス大運動会_DAY2]]></description>
-            <link>https://idolmaster-official.jp/news/01_16818.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16818.html</guid>
-            <pubDate>Mon, 22 Sep 2025 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/09/tteWJrKBQKkJAEnzMjmulnC1sIw7bHXL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【シャニマス】THE IDOLM@STER SHINY COLORS 7th UNITLIVE TOUR 円環 -Halo around- fourth quadrant 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #シャニマス  #シャニマス7thUNITTOUR]]></description>
-            <link>https://idolmaster-official.jp/news/01_16711.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16711.html</guid>
-            <pubDate>Mon, 22 Sep 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/uBhYP9LU1LbYj8kMFJiwzK5RfJAKI9Do.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
