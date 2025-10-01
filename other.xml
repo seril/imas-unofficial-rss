@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Oct 2025 02:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Oct 2025 03:41:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Oct 2025 02:41:42 GMT</pubDate>
+        <pubDate>Wed, 01 Oct 2025 03:41:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第1弾］　応募期間は10/31(金)まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16861.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16861.html</guid>
+            <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【生配信】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 キックオフ生ラジオ配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15921.html</guid>
             <pubDate>Mon, 16 Jun 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/06/uRub4F7jaJuNjtCm1w9ijfc7Rp3Efm3p.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】6月14日(土)12:00よりアイマスchにて開催決定！アイドルデビュー１周年記念24/7 LiveStreaming！あの最終オーディションLIVEや1stLIVEダイジェスト版を期間限定で公開！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】6月14日(土)12:00よりアイマスchにて開催決定！アイドルデビュー１周年記念24/7 LiveStreaming！あの最終オーディションLIVEや1stLIVEダイジェスト版を期間限定で公開！]]></description>
-            <link>https://idolmaster-official.jp/news/01_15891.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15891.html</guid>
-            <pubDate>Fri, 13 Jun 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/06/toJigODX9lGv3GZL1t8BC3g5QeTazpYO.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
