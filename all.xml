@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Oct 2025 06:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Oct 2025 11:15:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Oct 2025 06:28:32 GMT</pubDate>
+        <pubDate>Wed, 01 Oct 2025 11:15:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM×DAIMARU TOKYO」 事後通販が10/8(水)よりスタート！大丸梅田店の詳細も解禁！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_16922.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16922.html</guid>
+            <pubDate>Wed, 01 Oct 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/L2PSPd4gxJ2XnQEdmoPyghy7TqIdImcs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン12th】配信チケット販売開始！！物販整理券のお申込み受付は本日10月1日(水)まで！！]]></title>
+            <description><![CDATA[#ミリオン12th]]></description>
+            <link>https://idolmaster-official.jp/news/01_16925.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16925.html</guid>
+            <pubDate>Wed, 01 Oct 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/JyN1sPqiLrfFQb1UOlEBAKOTpvOy7Fxu.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 DAY1昼公演 冒頭無料生配信決定！現地チケット＆配信チケットも販売中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16893.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16893.html</guid>
+            <pubDate>Wed, 01 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/iXFFU2d4ATesf3tk5yVqkrTBNemI74AJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターチューン～My Evolution～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16848.html</guid>
             <pubDate>Thu, 25 Sep 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/Hiz9thUkASD8P1GGTRLhlPZwiHbe3qiv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「岡崎泰葉」「久川 颯」が登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16849.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16849.html</guid>
-            <pubDate>Thu, 25 Sep 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/k0OFPz7srE6reHiSTbyYldhcQxjcUxDk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニソン楽曲のユニット衣装を着た「ちびぐるみ」がナムコ限定で9月26日(金)より登場予定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16865.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16865.html</guid>
-            <pubDate>Thu, 25 Sep 2025 06:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/KUx5EvhANHHQEzPx3YTo3rteZqHSESXr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 本日より配信チケット販売開始！！ストーリーとのお得なセットや定点カメラ映像も登場！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_16820.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16820.html</guid>
-            <pubDate>Thu, 25 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/HZvC00sIeKrJZZCVcpYuZ7rMNtIVqzUx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
