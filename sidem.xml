@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Oct 2025 06:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 11:14:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Oct 2025 06:27:49 GMT</pubDate>
+        <pubDate>Thu, 02 Oct 2025 11:14:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【SideMF@NFES】～Who goes first～ 大阪公演開催記念！アパレルステッカー専門店 『STIQ STORE SHINSAIBASHI』との店舗コラボ情報を公開！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16944.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16944.html</guid>
+            <pubDate>Thu, 02 Oct 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/CJGYC520g094g8RCFoNy8POcz61jy8Nf.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM×DAIMARU TOKYO」 事後通販が10/8(水)よりスタート！大丸梅田店の詳細も解禁！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16730.html</guid>
             <pubDate>Fri, 12 Sep 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/YYRx9djT8oW2ML4bSBXBTFsqdvhvCC3j.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　本日より12月にお誕生日を迎えるアイドルたちのバースデー記念グッズが受注開始！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_16592.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16592.html</guid>
-            <pubDate>Thu, 11 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/6sq31O1cyoFuMEVeaS9y3ioi3CBauXRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
