@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Oct 2025 03:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 06:27:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Oct 2025 03:28:29 GMT</pubDate>
+        <pubDate>Fri, 03 Oct 2025 06:27:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「木下ひなた」が「壮瞥町りんご大使」を務めるイベント「そうべつりんごめぐり」の詳細を発表🍎🍏]]></title>
+            <description><![CDATA[#ミリオンライブ #壮瞥町りんご大使 #そうべつりんごまつり #そうべつりんごめぐり]]></description>
+            <link>https://idolmaster-official.jp/news/01_16935.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16935.html</guid>
+            <pubDate>Fri, 03 Oct 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/PtHbR9aEFONAeuXxBJt21EDmWf3Pdkzh.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】本日10月3日(金)より 如月千早武道館単独公演「OathONE」アソビストア一般会員2次先行の受付がスタート！]]></title>
+            <description><![CDATA[#如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_16960.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16960.html</guid>
+            <pubDate>Fri, 03 Oct 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/10/FjqZ54k1RR7dazxBRP0zB7ZujH8z32Yh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』“デレラジ☆公開収録”と“スペシャルDJ”の出演者情報公開！会場物販も実施決定！現地チケット一般会員2次先行も受付開始！]]></title>
             <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16873.html</guid>
             <pubDate>Fri, 26 Sep 2025 09:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/6ImksH4lqOLNuRDzJqGwP7JcSHRov8Zk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと２日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16877.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16877.html</guid>
-            <pubDate>Fri, 26 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】コトブキヤ秋葉原館にて「アイドルマスター シンデレラガールズ POP UP SHOP in コトブキヤ ～和洋可憐～」 開催決定！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16860.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16860.html</guid>
-            <pubDate>Fri, 26 Sep 2025 08:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/r3vWTBpoeml04dtLVE4tXRdb28QPAONZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

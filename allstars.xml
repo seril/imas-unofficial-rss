@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Oct 2025 03:28:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 06:27:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Oct 2025 03:28:29 GMT</pubDate>
+        <pubDate>Fri, 03 Oct 2025 06:27:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】本日10月3日(金)より 如月千早武道館単独公演「OathONE」アソビストア一般会員2次先行の受付がスタート！]]></title>
+            <description><![CDATA[#如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_16960.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16960.html</guid>
+            <pubDate>Fri, 03 Oct 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/10/FjqZ54k1RR7dazxBRP0zB7ZujH8z32Yh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市コラボがいよいよ来週末の開催！未公開情報を一挙公開！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16524.html</guid>
             <pubDate>Sat, 23 Aug 2025 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/xy7McDtZbwuh4cWBprzTlZ6N7BSK8S7G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【オケマス2025】オケマス2025のCDの受注は8/24(日)まで！]]></title>
-            <description><![CDATA[#オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16526.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16526.html</guid>
-            <pubDate>Sat, 23 Aug 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/UPKWvNlUrqVf0URmg972s9YmXcQ2W6Zn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
