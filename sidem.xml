@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Oct 2025 06:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 11:14:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Oct 2025 06:27:02 GMT</pubDate>
+        <pubDate>Fri, 03 Oct 2025 11:14:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 いよいよ明日開催！展示・物販など現地施策情報を要チェック＆現地チケット・配信チケットも販売中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16970.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16970.html</guid>
+            <pubDate>Fri, 03 Oct 2025 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/Vu5xzzr4z1o4DB4dD6mZZGcpSl0l6Avv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」DECOR@TION CAR MEETINGプロデュース権の申込みが本日より開始！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16961.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16961.html</guid>
+            <pubDate>Fri, 03 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/zeFqRou4uoTRmL56mESJwNOJfxEN4cNx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市コラボがいよいよ来週末の開催！未公開情報を一挙公開！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16589.html</guid>
             <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/N3rRB7XA2hWW1djtzz7m23IeDbZUbisX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM TRANSCENDENT T@LES 02」CD情報！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16739.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16739.html</guid>
-            <pubDate>Fri, 12 Sep 2025 07:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/Kq0azRtaIOFaqkxhO5AJOSJU4vMn9Dhd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【9/19追記】【SideM】2025年9月26日 (金) 19:00～「アイドルマスター SideM　燃ゆる紅葉 バトルの季節！ファンタスティック！生配信 」配信予定！]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_16644.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16644.html</guid>
-            <pubDate>Fri, 12 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/09/nXnvNRQJS1oFGmtl3mPYpHLoZt2t4UZY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

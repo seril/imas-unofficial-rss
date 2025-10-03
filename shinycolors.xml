@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Oct 2025 06:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 11:14:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Oct 2025 06:27:02 GMT</pubDate>
+        <pubDate>Fri, 03 Oct 2025 11:14:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】シャニアニ2nd season放送開始1周年記念！ Over the prismのライブBlu-ray情報も！ みんなでまったり秋の夜長トーーク！！！ 生配信実施決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16959.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16959.html</guid>
+            <pubDate>Fri, 03 Oct 2025 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/fXWid7trqSh6B8Xm71y8lICbHO7oUMFy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」DECOR@TION CAR MEETINGプロデュース権の申込みが本日より開始！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_16961.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16961.html</guid>
+            <pubDate>Fri, 03 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/zeFqRou4uoTRmL56mESJwNOJfxEN4cNx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市コラボがいよいよ来週末の開催！未公開情報を一挙公開！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16719.html</guid>
             <pubDate>Fri, 12 Sep 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/6M0OspKvqTJ8HJKNvGyFgHozFtRamY08.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】9/13(土)に「30MS」シリーズより和泉愛依・オプションボディパーツ アルファシスターズファンタズム2[カラーC]が発売！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16714.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16714.html</guid>
-            <pubDate>Fri, 12 Sep 2025 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LHGLaVgGXlcztCW38mbZDPBnFyk93Dng.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】『四条貴音さんが密着♪オーケストラコンサートの裏側！』公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16589.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16589.html</guid>
-            <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/N3rRB7XA2hWW1djtzz7m23IeDbZUbisX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
