@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Oct 2025 11:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 14:17:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Oct 2025 11:14:45 GMT</pubDate>
+        <pubDate>Fri, 03 Oct 2025 14:17:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】オサレカンパニー×如月千早 特別対談【コラボ商品発売記念】]]></title>
+            <description><![CDATA[#如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_16955.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16955.html</guid>
+            <pubDate>Fri, 03 Oct 2025 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/6Z1TQ76X2fU9bmjsfP5yapQMNQ5UcJIK.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第1弾］　応募期間は10/31(金)まで！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15595.html</guid>
             <pubDate>Fri, 20 Jun 2025 06:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/06/hECz3yDNe2kI8DdyGmlU5tNoxQhWjwy9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ヴイアライヴ】【最新ボイスシリーズ販売決定！】「vα-liv シチュエーションボイス2025　ジューンブライドボイス」BOOTHにて販売開始！ ライバーアイドル3名との様々なシチュエーションが楽しめる！#ヴイアラ]]></title>
-            <description><![CDATA[【ヴイアライヴ】【最新ボイスシリーズ販売決定！】「vα-liv シチュエーションボイス2025　ジューンブライドボイス」BOOTHにて販売開始！ ライバーアイドル3名との様々なシチュエーションが楽しめる！#ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_15921.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15921.html</guid>
-            <pubDate>Mon, 16 Jun 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/06/uRub4F7jaJuNjtCm1w9ijfc7Rp3Efm3p.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
