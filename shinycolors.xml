@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Oct 2025 02:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Oct 2025 03:28:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Oct 2025 02:19:26 GMT</pubDate>
+        <pubDate>Fri, 03 Oct 2025 03:28:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市コラボがいよいよ来週末の開催！未公開情報を一挙公開！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_16953.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16953.html</guid>
+            <pubDate>Fri, 03 Oct 2025 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/OLQsVWLBcTN6SaWCRT2RESh3mTEzqyv0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニ7th螺旋】フラワースタンド・楽屋花・プレゼントについてのご案内]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
+            <link>https://idolmaster-official.jp/news/01_16962.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16962.html</guid>
+            <pubDate>Fri, 03 Oct 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/fFnWkVP2tOZw07h8r1rsIgYdZsVZoZqy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第1弾］　応募期間は10/31(金)まで！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16589.html</guid>
             <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/N3rRB7XA2hWW1djtzz7m23IeDbZUbisX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前二次販売が本日9月11日(木)よりスタート！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16721.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16721.html</guid>
-            <pubDate>Thu, 11 Sep 2025 06:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS "円環 -Halo around-" 02」CD発売記念グッズの通販実施決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16506.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16506.html</guid>
-            <pubDate>Thu, 11 Sep 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/X3v3GtvZ2JLpYgSLTQKYTRKpsOhsi24i.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
