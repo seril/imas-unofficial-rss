@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Oct 2025 11:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Oct 2025 14:14:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Oct 2025 11:12:40 GMT</pubDate>
+        <pubDate>Sun, 05 Oct 2025 14:14:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】Who goes first 幕張公演 ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_16924.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16924.html</guid>
+            <pubDate>Sun, 05 Oct 2025 11:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/QwtNXhwohA821IuJLfLFZI8wMwWxs9cx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】Who goes first LIVE Blu-ray 2026年7月15日(水)  発売決定！！本日より順次ご予約受付スタート！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/ufoKI7KgI7O9RkzH.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/ufoKI7KgI7O9RkzH.html</guid>
+            <pubDate>Sun, 05 Oct 2025 11:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/2a3LnnRxDZyohEPwvL7uVKkhaW8VaxQm.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 いよいよ明日開催！展示・物販など現地施策情報を要チェック＆現地チケット・配信チケットも販売中！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16674.html</guid>
             <pubDate>Fri, 12 Sep 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/YC1jmslGwrf3dirSHF51hZDgcjIX5UjD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【SideMF@NCOMLIVE】CHOCOFFICERANGER!!＆AtoZto!! LIVE Blu-ray ダイジェスト映像＆店舗特典デザイン公開！！ASOBI STOREでのご予約は9月15日(月･祝)まで！]]></title>
-            <description><![CDATA[#SideM #SideMFANCOMLIVE_COR #SideMFANCOMLIVE_AZto]]></description>
-            <link>https://idolmaster-official.jp/news/01_16749.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16749.html</guid>
-            <pubDate>Fri, 12 Sep 2025 08:32:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/5RFK0diXurvm9q6VeT6CRMbsxdl3Lqhp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】『四条貴音さんが密着♪オーケストラコンサートの裏側！』公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #オケマス2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16589.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16589.html</guid>
-            <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/N3rRB7XA2hWW1djtzz7m23IeDbZUbisX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
