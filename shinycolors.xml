@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Oct 2025 03:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 06:29:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Oct 2025 03:33:33 GMT</pubDate>
+        <pubDate>Mon, 06 Oct 2025 06:29:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】全国の温浴5施設とのコラボイベント「ほっと、ひと息湯ったり気分。」詳細情報解禁！]]></title>
+            <description><![CDATA[#ほっとひと息湯ったり気分 ＃レジャフェス #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16941.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16941.html</guid>
+            <pubDate>Mon, 06 Oct 2025 06:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/DncFA0P6WUpR5oCCsDJ9C9NQlDpGJ6Wg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】シャニソン楽曲のユニット衣装を着たノクチルとシーズの「ちびぐるみ」がナムコ限定で10月10日(金)より登場予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16928.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16928.html</guid>
+            <pubDate>Mon, 06 Oct 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/yF8qCXEdGE2lvvxd6mR6dG7T3tfpXSST.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】関西電力の社会貢献活動推進サービス「モアクト」 とのコラボキャンペーンが復刻決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16734.html</guid>
             <pubDate>Mon, 15 Sep 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/85dqPuLuzo1SXKoGveKNzGjkPgo9HySQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[9/21(日)まで！！【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16753.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16753.html</guid>
-            <pubDate>Sun, 14 Sep 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ツアマスchコラボ】「袖屋璃空さんに教わったコツを実践！スコア爆伸び？！」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16650.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16650.html</guid>
-            <pubDate>Sat, 13 Sep 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/tcTBRsa608Q5hSC1Ny2wkcIvFRuR281s.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
