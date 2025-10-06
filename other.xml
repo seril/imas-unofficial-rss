@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Oct 2025 02:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Oct 2025 03:33:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Oct 2025 02:22:49 GMT</pubDate>
+        <pubDate>Mon, 06 Oct 2025 03:33:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第2弾］　応募期間は10/31(金)まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16913.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16913.html</guid>
+            <pubDate>Mon, 06 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#ヴイアラ】vα-liv 上水流宇宙バースデー記念グッズセット2025 受注〆切間近！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15983.html</guid>
             <pubDate>Thu, 26 Jun 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/06/VW5tdH0e9d1RXdk1FUcVVacKxz9sujoM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】7月19日(土) 19:00～ 「アイドルマスター20周年前夜祭生配信」配信決定！さらにTVアニメ「アイドルマスター」がTOKYO MXにて7月より放送決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年前夜祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_15935.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_15935.html</guid>
-            <pubDate>Thu, 26 Jun 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/06/zKV5FcZ9E5byarhXFHyCqzC9iyRhsmm6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
