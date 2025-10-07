@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Oct 2025 03:29:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Oct 2025 06:28:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Oct 2025 03:29:55 GMT</pubDate>
+        <pubDate>Tue, 07 Oct 2025 06:28:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】アイドルマスター オフィシャルショップの抽選くじに新柄6種が登場！ 10月10日(金)から秋葉原・名古屋・大阪・博多で取り扱い開始♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16954.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16954.html</guid>
+            <pubDate>Tue, 07 Oct 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/QTJXbR8vPZDBw5E8oTK0pvL6tA54Xavi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【10月10日(金)より】アイドルフォトパネルに新柄が登場！同日よりアイドルマスター オフィシャルショップ各店にて取り扱い予定♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16952.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16952.html</guid>
+            <pubDate>Tue, 07 Oct 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/TYfUMmyOW91NOZtqTwC81FyDZKvcs3hx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】『MOIW2025まであと2ヶ月！コールが楽しい楽曲&過去ライブの名場面をオススメし合おう！』配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16691.html</guid>
             <pubDate>Fri, 05 Sep 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】9月13日(土)13:00より現地チケット一般販売(先着)開始予定！公式リセールも同時受付開始！]]></title>
-            <description><![CDATA[#ミリオン12th]]></description>
-            <link>https://idolmaster-official.jp/news/01_16582.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16582.html</guid>
-            <pubDate>Fri, 05 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/08/RSs2NB2wK7BDn4WMkVLWdhXH95b6OZOg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】開場時間変更についてのご案内]]></title>
-            <description><![CDATA[#ミリオン12th]]></description>
-            <link>https://idolmaster-official.jp/news/01_16678.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16678.html</guid>
-            <pubDate>Fri, 05 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
