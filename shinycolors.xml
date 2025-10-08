@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Oct 2025 02:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 03:29:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Oct 2025 02:20:03 GMT</pubDate>
+        <pubDate>Wed, 08 Oct 2025 03:29:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】10月29日(水)より、「アイドルマスター シャイニーカラーズ Collaboration with めばち」がアイドルマスター オフィシャルショップ各店にて開催決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16968.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16968.html</guid>
+            <pubDate>Wed, 08 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/FjjG7DhsNrSZt5mvR4D36CiMvssEDsKX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】『MOIW2025まであと2ヶ月！コールが楽しい楽曲&過去ライブの名場面をオススメし合おう！』配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16760.html</guid>
             <pubDate>Thu, 18 Sep 2025 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/je53jfRE4ae8sxhjwOYna0UDscNE7c4J.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ラジオ】「2025年9月メンバーシップ限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #メン限定]]></description>
-            <link>https://idolmaster-official.jp/news/01_16637.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16637.html</guid>
-            <pubDate>Tue, 16 Sep 2025 11:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/egUsJUu3bKdP8nbagL7UzDcETfGomqHI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
