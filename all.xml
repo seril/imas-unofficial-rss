@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Oct 2025 03:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Oct 2025 06:28:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Oct 2025 03:29:38 GMT</pubDate>
+        <pubDate>Wed, 08 Oct 2025 06:28:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニ7th螺旋】現地会場物販の実施＆カードフォリオ シャイニーカラーズver.の展開が決定！！物販整理券受付は10月10日(金)13:00よりスタート♪]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋 #アイマスカードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16991.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16991.html</guid>
+            <pubDate>Wed, 08 Oct 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/ZlKzmxcnVydmvMQCVf2wqQF5i7nXwuzq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7th】螺旋公演の現地チケット一般販売（先着）が10/11(土)12時よりスタート！公式リセールも10/16(木)より開始予定！SPラウンジ特典も公開！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
+            <link>https://idolmaster-official.jp/news/01_17011.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17011.html</guid>
+            <pubDate>Wed, 08 Oct 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/J1Tv7jBUnsOzqbihSNOeCsfukU1Y7GA7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】10月29日(水)より、「アイドルマスター シャイニーカラーズ Collaboration with めばち」がアイドルマスター オフィシャルショップ各店にて開催決定！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16831.html</guid>
             <pubDate>Tue, 30 Sep 2025 12:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/09/qfj7yRGXP0rHMAxD7cFyzRG6S13Vosze.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 10月1日(水)18:00より現地チケット 一般発売2次(先着)の受付がスタート！＆当日券の発売も決定！配信チケットも販売中！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_16892.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16892.html</guid>
-            <pubDate>Tue, 30 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/jsmVJmCbVa4J9oK3oPQmLQ8Zsl0KZgDy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】つくりより『クラス対抗初星大運動会』協賛商品を一般販売中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16799.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16799.html</guid>
-            <pubDate>Tue, 30 Sep 2025 08:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/y8XdPh8exGRJ7CtC6GVFSB6x2OxQKZfn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
