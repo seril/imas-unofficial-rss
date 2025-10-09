@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Oct 2025 06:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 11:15:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Oct 2025 06:28:54 GMT</pubDate>
+        <pubDate>Thu, 09 Oct 2025 11:15:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン12th】【#パックマス】「PIZZA-LA」×「アイ MAKE IMP@CT！」10/11(土)12(日) ピザーラキッチンカー出店情報🍕🚚💞]]></title>
+            <description><![CDATA[#ミリオン12th #pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17022.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17022.html</guid>
+            <pubDate>Thu, 09 Oct 2025 10:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/QEklVz7wps25UyMoCH4f6EmrUy4xAjK4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】百鬼夜行 POP UP SHOPが有楽町マルイ7Fにて開催決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17013.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17013.html</guid>
+            <pubDate>Thu, 09 Oct 2025 09:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/3IVJFYdkvoobNAdmScoJjvjiRRiYZZEH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_騎士団】「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」公式グッズ事前販売ファイナルが本日よりスタート！]]></title>
             <description><![CDATA[#アンティーカ_騎士団]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16922.html</guid>
             <pubDate>Wed, 01 Oct 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/L2PSPd4gxJ2XnQEdmoPyghy7TqIdImcs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】配信チケット販売開始！！物販整理券のお申込み受付は本日10月1日(水)まで！！]]></title>
-            <description><![CDATA[#ミリオン12th]]></description>
-            <link>https://idolmaster-official.jp/news/01_16925.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16925.html</guid>
-            <pubDate>Wed, 01 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/JyN1sPqiLrfFQb1UOlEBAKOTpvOy7Fxu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】～Who goes first～ 幕張公演 DAY1昼公演 冒頭無料生配信決定！現地チケット＆配信チケットも販売中！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_16893.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16893.html</guid>
-            <pubDate>Wed, 01 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/iXFFU2d4ATesf3tk5yVqkrTBNemI74AJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

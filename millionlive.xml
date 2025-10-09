@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Oct 2025 06:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Oct 2025 11:15:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Oct 2025 06:28:54 GMT</pubDate>
+        <pubDate>Thu, 09 Oct 2025 11:15:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン12th】【#パックマス】「PIZZA-LA」×「アイ MAKE IMP@CT！」10/11(土)12(日) ピザーラキッチンカー出店情報🍕🚚💞]]></title>
+            <description><![CDATA[#ミリオン12th #pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17022.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17022.html</guid>
+            <pubDate>Thu, 09 Oct 2025 10:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/QEklVz7wps25UyMoCH4f6EmrUy4xAjK4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【10/20(月)23:59まで】高級感ただようインテリア「パーソナルパブミラー」シリーズに「双海真美」が登場！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16589.html</guid>
             <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/N3rRB7XA2hWW1djtzz7m23IeDbZUbisX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前二次販売が本日9月11日(木)よりスタート！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16721.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16721.html</guid>
-            <pubDate>Thu, 11 Sep 2025 06:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
