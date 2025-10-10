@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Oct 2025 03:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 06:28:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Oct 2025 03:32:04 GMT</pubDate>
+        <pubDate>Fri, 10 Oct 2025 06:28:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】西武園ゆうえんちとのコラボイベント『レトローズ🌹パーティ』の詳細解禁！]]></title>
+            <description><![CDATA[#SideM #レトローズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16855.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16855.html</guid>
+            <pubDate>Fri, 10 Oct 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/10/aLVdqGeM1QPcVzCue8TAzn30VPDaFx6B.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』会場物販情報公開！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
+            <link>https://idolmaster-official.jp/news/01_17041.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17041.html</guid>
+            <pubDate>Fri, 10 Oct 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/DRoQJG9WEn7HVPYkleIRV9gtjXeJfZt7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】風野 灯織、市川 雛菜が手に入るガシャ開催中！ さらに、イルミネーションスターズの楽曲『PRISISM』が追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_16987.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16987.html</guid>
+            <pubDate>Fri, 10 Oct 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/10/DtBdBzv4MKnegr4whVV4NjG3OfAKgQ9p.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第10弾『オトメゴコロ更新中』の発売が決定！]]></title>
+            <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第10弾『オトメゴコロ更新中』の発売が決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_17009.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17009.html</guid>
+            <pubDate>Fri, 10 Oct 2025 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/VIm9Vf6CZj03BmDSOjpd6Fwwk65XU0MU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【10/24(金) より】POP UP SHOP「夜想令嬢 -GRAC&E NOCTURNE-」の詳細情報を公開🌕]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16935.html</guid>
             <pubDate>Fri, 03 Oct 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/PtHbR9aEFONAeuXxBJt21EDmWf3Pdkzh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】本日10月3日(金)より 如月千早武道館単独公演「OathONE」アソビストア一般会員2次先行の受付がスタート！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_16960.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16960.html</guid>
-            <pubDate>Fri, 03 Oct 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/10/FjqZ54k1RR7dazxBRP0zB7ZujH8z32Yh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』“デレラジ☆公開収録”と“スペシャルDJ”の出演者情報公開！会場物販も実施決定！現地チケット一般会員2次先行も受付開始！]]></title>
-            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_16936.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16936.html</guid>
-            <pubDate>Fri, 03 Oct 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/10/uRQPppmKZfyug4LfKsdNH94rHddP4txB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市コラボがいよいよ来週末の開催！未公開情報を一挙公開！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16953.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16953.html</guid>
-            <pubDate>Fri, 03 Oct 2025 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/OLQsVWLBcTN6SaWCRT2RESh3mTEzqyv0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニ7th螺旋】フラワースタンド・楽屋花・プレゼントについてのご案内]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
-            <link>https://idolmaster-official.jp/news/01_16962.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16962.html</guid>
-            <pubDate>Fri, 03 Oct 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/fFnWkVP2tOZw07h8r1rsIgYdZsVZoZqy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
