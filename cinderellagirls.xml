@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Oct 2025 02:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Oct 2025 03:32:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Oct 2025 02:22:00 GMT</pubDate>
+        <pubDate>Fri, 10 Oct 2025 03:32:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第3弾］　応募期間は10/31(金)まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16983.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16983.html</guid>
+            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」本日10月10日(金)12:00よりアソビストア一般会員2次先行抽選受付開始！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17036.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17036.html</guid>
+            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/qHmZ5NinXLirmvpJNZV1R2mJHIcvGZav.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】全国の「ナムコ」のお店で、11月21日(金)より『アイドルマスター』シリーズとのコラボ「チアフルアンサンブルキャンペーン」開催決定！新規衣装の限定景品やグッズが登場！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】全国の「ナムコ」のお店で、11月21日(金)より『アイドルマスター』シリーズとのコラボ「チアフルアンサンブルキャンペーン」開催決定！新規衣装の限定景品やグッズが登場！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16555.html</guid>
             <pubDate>Fri, 12 Sep 2025 11:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/09/c9M3DwCaK9YVEmIXFpKrnhBTMSJEuvHC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【偶像大师系列】「偶像大师」系列将于第51届IDO动漫游戏嘉年华中出展！]]></title>
-            <description><![CDATA[【偶像大师系列】「偶像大师」系列将于第51届IDO动漫游戏嘉年华中出展！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16744.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16744.html</guid>
-            <pubDate>Fri, 12 Sep 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/U1dzipw2sQQoTcz7lUiVSabCC61Ht5fU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】「IDO ACG EXPO 51st」に『アイドルマスター』シリーズがブース出展決定！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】「IDO ACG EXPO 51st」に『アイドルマスター』シリーズがブース出展決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16746.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16746.html</guid>
-            <pubDate>Fri, 12 Sep 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/cacgOViWpdY6FOLwQ7Xq9cWgxAbxNUju.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
