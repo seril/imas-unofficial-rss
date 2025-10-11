@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Oct 2025 14:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Oct 2025 02:17:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Oct 2025 14:18:18 GMT</pubDate>
+        <pubDate>Sat, 11 Oct 2025 02:17:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【ミリオン】「アイドルマスター カードフォリオ ミリオンライブver.」本日発売！！アソビストアと現地物販会場で販売開始！]]></title>
+            <description><![CDATA[#ミリオン12th #アイマスカードフォリオ #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17052.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17052.html</guid>
+            <pubDate>Sat, 11 Oct 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/7XO21NloTGV14UYXYYtnyG1948DriQC3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】【10/28（火）より開催】「アイドルマスター ミリオンライブ！×天然温泉湯～ねる」コラボの詳細情報を公開✨]]></title>
             <description><![CDATA[#ミリオンライブ #湯～ねる]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16940.html</guid>
             <pubDate>Sun, 05 Oct 2025 11:55:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/10/6ReDQf7izOhpD0AHuhGXWd0NzjnTSUhP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】Who goes first 幕張公演 ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_16924.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16924.html</guid>
-            <pubDate>Sun, 05 Oct 2025 11:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/QwtNXhwohA821IuJLfLFZI8wMwWxs9cx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
