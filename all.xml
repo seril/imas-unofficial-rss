@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Oct 2025 11:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Oct 2025 14:15:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Oct 2025 11:13:38 GMT</pubDate>
+        <pubDate>Sun, 12 Oct 2025 14:15:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】環境省「リチウムイオン電池による火災防止強化キャンペーン」 LiBパートナーに周防桃子と北沢志保が就任！お仕事の詳細内容を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16965.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16965.html</guid>
+            <pubDate>Sun, 12 Oct 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/6T3a90GyLdUrBtRmIKGu4ES22GczVYq8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】2025年11月10日(月)20:00～『REALIZE！！！実装記念！ミリシタ生配信 出張SP』配信予定＆観覧チケット抽選申込受付中！]]></title>
             <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信 ]]></description>
@@ -23,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16841.html</guid>
             <pubDate>Sun, 12 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/6FywHCjXzDnlS9R0BR6WK0LKjdWeUerB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン12th】「THE IDOLM@STER MILLION LIVE! 12thLIVE DAY2 Let’s Sing!」ご来場・ご視聴いただきありがとうございました！！本日のセットリスト&告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#ミリオン12th #ミリオン12th_day2]]></description>
+            <link>https://idolmaster-official.jp/news/01_17008.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17008.html</guid>
+            <pubDate>Sat, 11 Oct 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/10/UmZfS3q0BxACrqQaFSdduLHjdMXwsXt7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリシタ】ミリオン12thありがとうキャンペーン実施中！サイン入り等身大パネルが抽選で当たる！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16982.html</guid>
             <pubDate>Tue, 07 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/VMiuJVtTtW5vRMJyLi10OBCBt07QkzC5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「THE IDOLM@STER MILLION LIVE! 12thLIVE Collaboration Café」出店決定！！]]></title>
-            <description><![CDATA[【ミリオン】「THE IDOLM@STER MILLION LIVE! 12thLIVE Collaboration Café」出店決定！！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16975.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16975.html</guid>
-            <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/ULo1SBkqxXa1WJiHQDxDxX9HuHqXJwSe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】現地チケット一般販売2次(先着)販売決定！一般販売2次(先着)の受付は明日10月7日(火)18:00スタート！]]></title>
-            <description><![CDATA[#ミリオン12th]]></description>
-            <link>https://idolmaster-official.jp/news/01_16977.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16977.html</guid>
-            <pubDate>Mon, 06 Oct 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/jPlmqTTWVEPb5SxgmroGs2NgwQlhcVcU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
