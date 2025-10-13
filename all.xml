@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Oct 2025 11:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 14:19:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Oct 2025 11:16:13 GMT</pubDate>
+        <pubDate>Mon, 13 Oct 2025 14:19:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】シャニアニ2nd season放送開始1周年記念！ Over the prismのライブBlu-ray情報も！ みんなでまったり秋の夜長トーーク！！！ お知らせまとめ！]]></title>
+            <description><![CDATA[#シャニアニ2期_１周年記念生配信 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17049.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17049.html</guid>
+            <pubDate>Mon, 13 Oct 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/PrF8eYz1PItwtjgmNzeOk0aEBRNX4WOs.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン12th】視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
             <description><![CDATA[#ミリオンライブ #ミリオン12th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16954.html</guid>
             <pubDate>Tue, 07 Oct 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/QTJXbR8vPZDBw5E8oTK0pvL6tA54Xavi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【10月10日(金)より】アイドルフォトパネルに新柄が登場！同日よりアイドルマスター オフィシャルショップ各店にて取り扱い予定♪]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16952.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16952.html</guid>
-            <pubDate>Tue, 07 Oct 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/TYfUMmyOW91NOZtqTwC81FyDZKvcs3hx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
