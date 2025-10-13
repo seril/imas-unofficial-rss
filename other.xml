@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Oct 2025 06:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 11:16:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Oct 2025 06:29:53 GMT</pubDate>
+        <pubDate>Mon, 13 Oct 2025 11:16:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【 #ヴイアラ 】本日10/13(月・祝)投票締切！5分以内ですぐ完了！＜第二 四半期＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの投票結果がライバーアイドルの公式能力値に！]]></title>
+            <description><![CDATA[ 【 #ヴイアラ 】本日10/13(月・祝)投票締切！5分以内ですぐ完了！＜第二 四半期＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの投票結果がライバーアイドルの公式能力値に！]]></description>
+            <link>https://idolmaster-official.jp/news/01_17057.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17057.html</guid>
+            <pubDate>Mon, 13 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/KFf3KFqxpWcFAjtsxM7YB2fao6WkmbLL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール成田」開催決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス成田]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16109.html</guid>
             <pubDate>Sun, 13 Jul 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/07/nOKxuKtaMNFrlss4m31if3IduWuVK9WT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【 #ヴイアラ 】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」 セットリスト＆最新情報まとめ！ バースデー記念グッズセットが本日より受注販売開始！【  #愛夏誕生祭2025 】]]></title>
-            <description><![CDATA[ 【 #ヴイアラ 】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」 セットリスト＆最新情報まとめ！ バースデー記念グッズセットが本日より受注販売開始！【  #愛夏誕生祭2025 】]]></description>
-            <link>https://idolmaster-official.jp/news/01_16040.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16040.html</guid>
-            <pubDate>Tue, 01 Jul 2025 12:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/07/QIbNTrpH2shfPNGLycQnvnmvl5pGPtFq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

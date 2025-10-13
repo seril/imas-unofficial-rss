@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Oct 2025 06:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Oct 2025 11:16:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Oct 2025 06:29:53 GMT</pubDate>
+        <pubDate>Mon, 13 Oct 2025 11:16:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン12th】視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオン12th]]></description>
+            <link>https://idolmaster-official.jp/news/01_17032.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17032.html</guid>
+            <pubDate>Mon, 13 Oct 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/3MBsaAK9f5gdNEaPAeHcTyHGftTLH3AA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【 #ヴイアラ 】本日10/13(月・祝)投票締切！5分以内ですぐ完了！＜第二 四半期＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの投票結果がライバーアイドルの公式能力値に！]]></title>
+            <description><![CDATA[ 【 #ヴイアラ 】本日10/13(月・祝)投票締切！5分以内ですぐ完了！＜第二 四半期＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの投票結果がライバーアイドルの公式能力値に！]]></description>
+            <link>https://idolmaster-official.jp/news/01_17057.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17057.html</guid>
+            <pubDate>Mon, 13 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/KFf3KFqxpWcFAjtsxM7YB2fao6WkmbLL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】環境省「リチウムイオン電池による火災防止強化キャンペーン」 LiBパートナーに周防桃子と北沢志保が就任！お仕事の詳細内容を公開！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16952.html</guid>
             <pubDate>Tue, 07 Oct 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/TYfUMmyOW91NOZtqTwC81FyDZKvcs3hx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】『MOIW2025まであと2ヶ月！コールが楽しい楽曲&過去ライブの名場面をオススメし合おう！』配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16636.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16636.html</guid>
-            <pubDate>Tue, 07 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/3FquYIHYyHhNgqe6IShWguT81zCZMVe6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】10/11(土)に「30MS」シリーズより芹沢あさひ・オプションボディパーツ アルファシスターズファンタズム3[カラーB]が発売！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16982.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16982.html</guid>
-            <pubDate>Tue, 07 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/VMiuJVtTtW5vRMJyLi10OBCBt07QkzC5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
