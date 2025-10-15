@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Oct 2025 02:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 03:36:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Oct 2025 02:25:31 GMT</pubDate>
+        <pubDate>Wed, 15 Oct 2025 03:36:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】12月20日(土)より『アイドルマスター SideM』グッズフェア in アニメイトの開催が決定！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_17019.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17019.html</guid>
+            <pubDate>Wed, 15 Oct 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/EYI5ENRk18gBdll1ZrU1bzOx2LkMfNHy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】【#パックマス】「PIZZA-LA」×「アイ MAKE IMP@CT！」」コラボキャンペーン 本日よりスタート！🍕👻💞【11/30(日)まで！】]]></title>
+            <description><![CDATA[#パックマスピザーラ#pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17046.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17046.html</guid>
+            <pubDate>Wed, 15 Oct 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/lu4ia9OsEyBA4kEBXcSM4GACaCZ6HPgN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】アイドルマスター × 三越のおせち の描き下ろしイラスト公開！商品の販売情報も🎍♪]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_16835.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16835.html</guid>
+            <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/g6q9P64bcWIbC89Xarwwn9se6BpU6jcg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第4弾］　応募期間は10/31(金)まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17014.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17014.html</guid>
+            <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】本日より毎週水曜日にて各個人チャンネルにてライバーアイドルのシングル4th MVをプレミア公開にて連続投稿開始！【 #ASOBINOTESはヴイアラを届けたい 】]]></title>
+            <description><![CDATA[【 #ヴイアラ 】本日より毎週水曜日にて各個人チャンネルにてライバーアイドルのシングル4th MVをプレミア公開にて連続投稿開始！【 #ASOBINOTESはヴイアラを届けたい 】]]></description>
+            <link>https://idolmaster-official.jp/news/01_17065.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17065.html</guid>
+            <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/SZi5MG52Q8fgOTsIP69CJfagT2YDm4qn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】10/20(月) 19:00～ 学園アイドルマスター「初星学園HR #STEP3 倉本 千奈」生配信実施予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター  #STEP3 #伊藤舞音 #倉本千奈]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17022.html</guid>
             <pubDate>Thu, 09 Oct 2025 10:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/QEklVz7wps25UyMoCH4f6EmrUy4xAjK4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】百鬼夜行 POP UP SHOPが有楽町マルイ7Fにて開催決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17013.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17013.html</guid>
-            <pubDate>Thu, 09 Oct 2025 09:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/3IVJFYdkvoobNAdmScoJjvjiRRiYZZEH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_騎士団】「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」公式グッズ事前販売ファイナルが本日よりスタート！]]></title>
-            <description><![CDATA[#アンティーカ_騎士団]]></description>
-            <link>https://idolmaster-official.jp/news/01_16999.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16999.html</guid>
-            <pubDate>Thu, 09 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/bHY5Z4nrzwK0XwcOG7fcrmneWPnsCVpK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【10/20(月)23:59まで】高級感ただようインテリア「パーソナルパブミラー」シリーズに「双海真美」が登場！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16964.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16964.html</guid>
-            <pubDate>Thu, 09 Oct 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/NKQvqU1F65a5rqzKTw26gbIuzpadHWOC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」延期開催日程に関するご案内]]></title>
-            <description><![CDATA[#ミリオン11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_16660.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16660.html</guid>
-            <pubDate>Wed, 08 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/10/27Uxz7FgJLODgjTUxPO9aIk9mIlgtR0f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】バンダイより、"ジョイフルマーチング"がテーマの描きおろしイラストを使用した商品が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17010.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17010.html</guid>
-            <pubDate>Wed, 08 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/bbG3VsQ9zRdARnFocQLnD7464eqhjy1s.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

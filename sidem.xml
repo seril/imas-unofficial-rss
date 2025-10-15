@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Oct 2025 02:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Oct 2025 03:36:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Oct 2025 02:25:31 GMT</pubDate>
+        <pubDate>Wed, 15 Oct 2025 03:36:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】12月20日(土)より『アイドルマスター SideM』グッズフェア in アニメイトの開催が決定！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_17019.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17019.html</guid>
+            <pubDate>Wed, 15 Oct 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/EYI5ENRk18gBdll1ZrU1bzOx2LkMfNHy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第4弾］　応募期間は10/31(金)まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17014.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17014.html</guid>
+            <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 01 S.E.M」CD情報！]]></title>
             <description><![CDATA[#SideM ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16791.html</guid>
             <pubDate>Mon, 22 Sep 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/W5HfjiXABneyCdWKuaAii6QDGfKsR6Hb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式グッズ事前二次販売が9/28(日)まで実施中！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16808.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16808.html</guid>
-            <pubDate>Sun, 21 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日まで！！【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16815.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16815.html</guid>
-            <pubDate>Sun, 21 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
