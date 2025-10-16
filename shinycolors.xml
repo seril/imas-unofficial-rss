@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Oct 2025 06:28:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 11:16:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Oct 2025 06:28:25 GMT</pubDate>
+        <pubDate>Thu, 16 Oct 2025 11:16:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニ7th螺旋】シャニマス7th螺旋公演直前！BASE Takayama生放送！10/24(金)19時より配信決定！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
+            <link>https://idolmaster-official.jp/news/01_17082.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17082.html</guid>
+            <pubDate>Thu, 16 Oct 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/YSpyyhqyUn0MS6yM7MlspgAwhqQ44juh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】狭山スキー場で「アイドルマスター シャイニーカラーズ」のコラボイベント『狭山スキー場のスノー・マジック！』が10月31日より開催決定！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16816.html</guid>
             <pubDate>Sat, 27 Sep 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/YJH1PvM9SYXSPOyFnsWEjbNxaRkoCkeS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと１日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16881.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16881.html</guid>
-            <pubDate>Sat, 27 Sep 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
