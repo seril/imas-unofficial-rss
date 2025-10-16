@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Oct 2025 02:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Oct 2025 03:35:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Oct 2025 02:24:04 GMT</pubDate>
+        <pubDate>Thu, 16 Oct 2025 03:35:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】高級感ただようインテリア「パーソナルパブミラー」シリーズに「鈴木羽那」が登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17040.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17040.html</guid>
+            <pubDate>Thu, 16 Oct 2025 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/WG1QCkRD0PO25d7lxv1ajfzmSjh1DbHY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第4弾］　応募期間は10/31(金)まで！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16878.html</guid>
             <pubDate>Sat, 27 Sep 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th青森】THE IDOLM@STER SHINY COLORS 7th UNITLIVE TOUR 円環 -Halo around- fourth quadrant へお越しいただくみなさまへ]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16866.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16866.html</guid>
-            <pubDate>Fri, 26 Sep 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
