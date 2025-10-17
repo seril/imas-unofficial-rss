@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Oct 2025 02:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 03:33:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Oct 2025 02:23:34 GMT</pubDate>
+        <pubDate>Fri, 17 Oct 2025 03:33:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】2025年11月5日 (水) 19:00～「アイドルマスター SideM　冬浅し、情熱！超絶！！白熱BATTLEでSideM！生配信」配信予定！]]></title>
+            <description><![CDATA[#SideM #SideM生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_16996.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16996.html</guid>
+            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/10/MLh5UxcQp4bIdcDLNsoiE6pJ11n2jTHu.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17090.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
+            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】11月7日(金)より、兵庫県の阪神尼崎駅周辺エリアにて「アイドルマスター SideM×はんあま」コラボ開催決定！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16820.html</guid>
             <pubDate>Thu, 25 Sep 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/HZvC00sIeKrJZZCVcpYuZ7rMNtIVqzUx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】11月1日(土)より、静岡県袋井市と「S.E.M」のコラボ「Welcome to ふくろい～315（サイコー）な思い出、2961（フクロイ）で～」が開催★]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_16837.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16837.html</guid>
-            <pubDate>Thu, 25 Sep 2025 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/kOpf5ANeZ4ZdNmUWKj5sWFt2U8FtgnE3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「『アイドルマスター SideM』ビックカメラグループグッズフェア Gothic Vampire」が10月3日(金)より開催！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_16787.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16787.html</guid>
-            <pubDate>Wed, 24 Sep 2025 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/AzIFvV5vZX7Z64BtYKj0mXeyTxZm2SA8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
