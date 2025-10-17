@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Oct 2025 11:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 14:18:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Oct 2025 11:15:16 GMT</pubDate>
+        <pubDate>Fri, 17 Oct 2025 14:18:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【 #ヴイアラ 】【ディアリースターズ】『876 PRODUCTION FES.』現地チケットのアソビストア一般会員2次先行＆イベントグッズ事前物販開始！]]></title>
+            <description><![CDATA[#876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17091.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17091.html</guid>
+            <pubDate>Fri, 17 Oct 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/09/NLAbKwz6L7T6jUsp4HFezfPtGGDKzUFd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16246.html</guid>
             <pubDate>Fri, 18 Jul 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/07/6GqcIxYbvTZ8QDYXGdcsAyNLXcbvZRUu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングにて先行販売された商品の通常販売が決定！]]></title>
-            <description><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2025」アニメイトシアターライブビューイングにて先行販売された商品の通常販売が決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16113.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16113.html</guid>
-            <pubDate>Fri, 18 Jul 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/07/p6i0ZyV4urBi9OmDNyvQNIOiiWWXuopE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Oct 2025 11:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 14:18:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Oct 2025 11:15:16 GMT</pubDate>
+        <pubDate>Fri, 17 Oct 2025 14:18:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【 #ヴイアラ 】【ディアリースターズ】『876 PRODUCTION FES.』現地チケットのアソビストア一般会員2次先行＆イベントグッズ事前物販開始！]]></title>
+            <description><![CDATA[#876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17091.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17091.html</guid>
+            <pubDate>Fri, 17 Oct 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/09/NLAbKwz6L7T6jUsp4HFezfPtGGDKzUFd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】生配信『アイドルマスター シンデレラガールズ　15周年イヤー直前！生配信』が10/24(金)に配信決定！]]></title>
             <description><![CDATA[#デレマス15周年イヤー直前生配信 #デレマス #デレステ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17021.html</guid>
             <pubDate>Fri, 10 Oct 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/GkEdUQJQRMqrdbdcgdzyCefqn3cx1KUQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】プロミ幕張公演  EVENT Blu-ray ダイジェスト＆ジャケットデザイン＆店舗特典デザイン公開！ご予約受付中！]]></title>
-            <description><![CDATA[#SideM #SideM10th幕張]]></description>
-            <link>https://idolmaster-official.jp/news/01_17031.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17031.html</guid>
-            <pubDate>Fri, 10 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/OxflxMX0mzZNqUBpk7Wa01JM1g6nEp2l.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
