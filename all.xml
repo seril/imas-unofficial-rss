@@ -4,10 +4,58 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Oct 2025 06:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 11:15:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Oct 2025 06:27:38 GMT</pubDate>
+        <pubDate>Fri, 17 Oct 2025 11:15:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】生配信『アイドルマスター シンデレラガールズ　15周年イヤー直前！生配信』が10/24(金)に配信決定！]]></title>
+            <description><![CDATA[#デレマス15周年イヤー直前生配信 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16868.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16868.html</guid>
+            <pubDate>Fri, 17 Oct 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/B0zbzQXeOpsnS4WrRnfH8ZRPNSy2nwjL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「Symphonic Chiffon　POP UP SHOP」詳細が解禁‼🎷✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17012.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17012.html</guid>
+            <pubDate>Fri, 17 Oct 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/8r8RthdHTjMRltDNtejBrQFFD61SZPZU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】【11/1(土) 10:00チケット販売開始！】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE WITH ～キミと歩んだ輝きの軌跡～ 開催決定！]]></title>
+            <description><![CDATA[#デレマス #デレステWITH]]></description>
+            <link>https://idolmaster-official.jp/news/01_17081.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17081.html</guid>
+            <pubDate>Fri, 17 Oct 2025 09:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/vKUY2sRqD3RJaIsvjhcSew6WWy7UFVxV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニ7th螺旋】アイドルマスター シャイニーカラーズとKアリーナ横浜とのコラボドリンク発売が決定！！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17039.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17039.html</guid>
+            <pubDate>Fri, 17 Oct 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/OX6dRnB9LQwLDsa4X8rZmcwyDyD8SrVN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】つくりより「White Night! White Wish!」新規グッズ受注販売開始!!]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17024.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17024.html</guid>
+            <pubDate>Fri, 17 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/lTBR88a3usdOIgJw1DsULBKT8j7Apj8y.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】 ～Who goes first～ イベント公式グッズ大阪公演直前販売が数量限定でスタート！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_17088.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17088.html</guid>
+            <pubDate>Fri, 17 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/b3hk7iwgf3hTEwKHv09YtOIQ7H0iDCYK.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】ムービックより「学園アイドルマスター」のよりぬいミニ 第3弾が登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -359,54 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17031.html</guid>
             <pubDate>Fri, 10 Oct 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/OxflxMX0mzZNqUBpk7Wa01JM1g6nEp2l.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】「THE IDOLM@STER Series-M@STER's FESTA 2025-」が開催中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16966.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16966.html</guid>
-            <pubDate>Fri, 10 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/imeFKLNVwQnCvovgTzgf2R5dVUqUZT3F.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「びっくらたまご つむまる 学園アイドルマスター」が2026年2月に発売決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16995.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16995.html</guid>
-            <pubDate>Fri, 10 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/lPcfP3T9H0UcKNEXA2bX7hxaNGSwErAe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール成田」開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス成田]]></description>
-            <link>https://idolmaster-official.jp/news/01_16911.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16911.html</guid>
-            <pubDate>Fri, 10 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】茨城県筑西市「ふたマス!!!!!!」渡辺みのりマンホールお披露目会中止のお知らせ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17045.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17045.html</guid>
-            <pubDate>Fri, 10 Oct 2025 07:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM TRANSCENDENT T@LES 03」CD情報！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17016.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17016.html</guid>
-            <pubDate>Fri, 10 Oct 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/evwtT72OWOqCR6pBhJ8Vhxr1vViTDX16.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】西武園ゆうえんちとのコラボイベント『レトローズ🌹パーティ』の詳細解禁！]]></title>
-            <description><![CDATA[#SideM #レトローズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16855.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16855.html</guid>
-            <pubDate>Fri, 10 Oct 2025 06:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/10/aLVdqGeM1QPcVzCue8TAzn30VPDaFx6B.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

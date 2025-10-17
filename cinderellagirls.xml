@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Oct 2025 06:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Oct 2025 11:15:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Oct 2025 06:27:38 GMT</pubDate>
+        <pubDate>Fri, 17 Oct 2025 11:15:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】生配信『アイドルマスター シンデレラガールズ　15周年イヤー直前！生配信』が10/24(金)に配信決定！]]></title>
+            <description><![CDATA[#デレマス15周年イヤー直前生配信 #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16868.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16868.html</guid>
+            <pubDate>Fri, 17 Oct 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/B0zbzQXeOpsnS4WrRnfH8ZRPNSy2nwjL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】【11/1(土) 10:00チケット販売開始！】THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE WITH ～キミと歩んだ輝きの軌跡～ 開催決定！]]></title>
+            <description><![CDATA[#デレマス #デレステWITH]]></description>
+            <link>https://idolmaster-official.jp/news/01_17081.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17081.html</guid>
+            <pubDate>Fri, 17 Oct 2025 09:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/vKUY2sRqD3RJaIsvjhcSew6WWy7UFVxV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16752.html</guid>
             <pubDate>Thu, 18 Sep 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/EFkC9WBDfL6R9bbRpW86OwMZyCSHsa95.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[いよいよ明日！【シンデレラ】＜デレステ10thツアー＞参加条件は法被＆ライト持ち込み！ツアー後半公演打ち上げDJイベント「SUPER! HAPPY! TRACKS!」]]></title>
-            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ10thツアー_打ち上げDJ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16788.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16788.html</guid>
-            <pubDate>Thu, 18 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2025/07/hc1Ikwzs0nDFoRVWaN0DN5v7uSEjH9er.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】💙音楽と、さらにその先へ💙『渋谷凛』が「qdc」の有線イヤホンの限定生産モデル「FRONTIER Next Black」のアンバサダーに就任！さらにTOKYO GAME SHOW 2025でのクリアファイル配布も決定✨️]]></title>
-            <description><![CDATA[#デレマス #qdc]]></description>
-            <link>https://idolmaster-official.jp/news/01_16732.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16732.html</guid>
-            <pubDate>Thu, 18 Sep 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/YPS4UeayaKbV3cbVdskbsaEiPkYnbepg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
