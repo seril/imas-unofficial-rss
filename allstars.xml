@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Oct 2025 11:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Oct 2025 14:15:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Oct 2025 11:13:41 GMT</pubDate>
+        <pubDate>Sat, 18 Oct 2025 14:15:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】 『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』DAY1 のご来場・ご視聴ありがとうございました！本日のセットリスト＆各種まとめはこちら！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinlive #やよいいおり_えがおだね]]></description>
+            <link>https://idolmaster-official.jp/news/01_17099.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17099.html</guid>
+            <pubDate>Sat, 18 Oct 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/yTlAIsb9rOpeyifcZ5A2DeT5eCo61W5a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16786.html</guid>
             <pubDate>Fri, 19 Sep 2025 11:55:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/5x5ao32S4yksH5X2uVbJMmzUsJsqpfOD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】茨城県筑西市「ふたマス!!!!!!」渡辺みのりマンホールお披露目会の開催＆グッズの発売が決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16798.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16798.html</guid>
-            <pubDate>Fri, 19 Sep 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/YkprWzlCe9M8Gevzxk64YJNUSqRJey1D.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
