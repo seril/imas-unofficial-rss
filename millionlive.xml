@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Oct 2025 03:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Oct 2025 06:25:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Oct 2025 03:27:31 GMT</pubDate>
+        <pubDate>Sat, 18 Oct 2025 06:25:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～不思議発見ラボ！～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ #バトルオブシアター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17060.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17060.html</guid>
+            <pubDate>Sat, 18 Oct 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/10/lygOtg9IATuCUC7xpnOfwB7tyIqrTOUb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「Symphonic Chiffon　POP UP SHOP」詳細が解禁‼🎷✨]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_16881.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16881.html</guid>
             <pubDate>Sat, 27 Sep 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと１日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16878.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16878.html</guid>
-            <pubDate>Sat, 27 Sep 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
