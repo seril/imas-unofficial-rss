@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Oct 2025 02:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Oct 2025 03:44:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Oct 2025 02:45:13 GMT</pubDate>
+        <pubDate>Sun, 19 Oct 2025 03:44:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[◆本日まで◆【283_騎士団】「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」公式グッズ事前販売ファイナルは本日10月19日(日)まで！]]></title>
+            <description><![CDATA[#アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_17080.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17080.html</guid>
+            <pubDate>Sun, 19 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/bHY5Z4nrzwK0XwcOG7fcrmneWPnsCVpK.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】 『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』DAY1 のご来場・ご視聴ありがとうございました！本日のセットリスト＆各種まとめはこちら！]]></title>
             <description><![CDATA[#高槻やよい_水瀬伊織_twinlive #やよいいおり_えがおだね]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17053.html</guid>
             <pubDate>Sat, 11 Oct 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/10/YHNLimJTGEnNGXajda6b3oEzjKIkVkB2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【ミリオン】「アイドルマスター カードフォリオ ミリオンライブver.」本日発売！！アソビストアと現地物販会場で販売開始！]]></title>
-            <description><![CDATA[#ミリオン12th #アイマスカードフォリオ #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17052.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17052.html</guid>
-            <pubDate>Sat, 11 Oct 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/7XO21NloTGV14UYXYYtnyG1948DriQC3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
