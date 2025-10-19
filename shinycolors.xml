@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Oct 2025 11:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Oct 2025 14:15:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Oct 2025 11:13:30 GMT</pubDate>
+        <pubDate>Sun, 19 Oct 2025 14:15:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】765プロコラボ第3弾が開催！ 高槻 やよい＆水瀬 伊織が登場！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17061.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17061.html</guid>
+            <pubDate>Sun, 19 Oct 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/10/v6wBOhrIqXJCqf4zhgibsgMoK9LMSWXe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』DAY2のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
             <description><![CDATA[#やよいいおり_ひゃくねんさきも #やよいいおり_きみと #アイマス20周年イヤー ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16883.html</guid>
             <pubDate>Sun, 28 Sep 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】2026年2月14日(土)・15日(日)京王アリーナTOKYOにて「シャニマス大感謝祭！～283スポーツフェスティバル～を開催決定！]]></title>
-            <description><![CDATA[#シャニマス大感謝祭 #シャニマス7thUNITTOUR #シャニマス7th_青森_day2 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16891.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16891.html</guid>
-            <pubDate>Sun, 28 Sep 2025 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/09/a3XAeFFMmu4rMVwJcBsEVzdWhz0zlAby.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
