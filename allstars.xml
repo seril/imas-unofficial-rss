@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Oct 2025 02:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 03:47:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Oct 2025 02:44:14 GMT</pubDate>
+        <pubDate>Mon, 20 Oct 2025 03:47:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】コラボ内容詳細発表！関西電力の社会貢献活動推進サービス「モアクト」 とのコラボキャンペーンが復刻決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_17094.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17094.html</guid>
+            <pubDate>Mon, 20 Oct 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/2A6gw63I3HR3jCOFqlk3Z2qFG2yltNip.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』DAY2のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
             <description><![CDATA[#やよいいおり_ひゃくねんさきも #やよいいおり_きみと #アイマス20周年イヤー ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16769.html</guid>
             <pubDate>Fri, 19 Sep 2025 12:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/coCnAuIgIFHaONLW7oY7FlTSNP2uWR53.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】コトブキヤ秋葉原館にて「765PRO ALLSTARS 2025⇒2026 大忘年会×新年会 in KOTOBUKIY@」が開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16707.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16707.html</guid>
-            <pubDate>Fri, 19 Sep 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/csopZnHliusFhsfHVWlvDHVtoVOFtnMb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
