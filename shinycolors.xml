@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Oct 2025 06:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 11:16:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Oct 2025 06:28:38 GMT</pubDate>
+        <pubDate>Tue, 21 Oct 2025 11:16:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7th】螺旋公演の現地チケット一般発売2次（先着）が21日(火)18:00より開始！当日券の販売も決定！]]></title>
+            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17124.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17124.html</guid>
+            <pubDate>Tue, 21 Oct 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/HaTQQKZc7ibHhUYtCkUVhbQLKUqapXKg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】三峰 結華が手に入るガシャ開催中！さらに、イルミネーションスターズの楽曲『スマイルシンフォニア』が追加！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16953.html</guid>
             <pubDate>Fri, 03 Oct 2025 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/OLQsVWLBcTN6SaWCRT2RESh3mTEzqyv0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニ7th螺旋】フラワースタンド・楽屋花・プレゼントについてのご案内]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
-            <link>https://idolmaster-official.jp/news/01_16962.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16962.html</guid>
-            <pubDate>Fri, 03 Oct 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/fFnWkVP2tOZw07h8r1rsIgYdZsVZoZqy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
