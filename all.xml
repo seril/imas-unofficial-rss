@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Oct 2025 03:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 06:28:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Oct 2025 03:37:35 GMT</pubDate>
+        <pubDate>Tue, 21 Oct 2025 06:28:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】三峰 結華が手に入るガシャ開催中！さらに、イルミネーションスターズの楽曲『スマイルシンフォニア』が追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17062.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17062.html</guid>
+            <pubDate>Tue, 21 Oct 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/10/ljwMObqg8O4VglW8DBd9t0tuCoM8lgsj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】10/24(金)より『アイドルマスター シャイニーカラーズ×みなとみらい線コラボ』開催！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17015.html</guid>
             <pubDate>Tue, 14 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2025/10/tsYIJQ9BbYQCaGfl0dkFrGLiiHAlw5fI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】11/29(土)&30(日)開催♡ 『CINDERELLA GIRLS fes. Once Upon a St@rs』公式グッズの数量限定販売が開始！描きおろしイラストの34名の豪華アイドルグッズ、ぜひお見逃しなく♪]]></title>
-            <description><![CDATA[#シンデレラガールズフェス #シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_17037.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17037.html</guid>
-            <pubDate>Tue, 14 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/10/BSy7bnjywxGRxHJDDvglfmXRX82lVQIj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
