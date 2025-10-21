@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Oct 2025 02:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Oct 2025 03:37:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Oct 2025 02:27:06 GMT</pubDate>
+        <pubDate>Tue, 21 Oct 2025 03:37:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】10/24(金)より『アイドルマスター シャイニーカラーズ×みなとみらい線コラボ』開催！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17078.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17078.html</guid>
+            <pubDate>Tue, 21 Oct 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/1f1GAfQocj8q8r3AaX7gbqJB0w70CBkv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】倉本千奈のスケールフィギュア が製品化決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17064.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17064.html</guid>
+            <pubDate>Tue, 21 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/10/zY8TmA1e13z1ABeUmtKvtKtJnggc9Vdm.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】花海咲季×gladgarbコラボアパレルが登場！ご予約受付中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17113.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17113.html</guid>
+            <pubDate>Tue, 21 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/f5SR2Q3Sto9fB43u7G2OewuE8wXKsjYe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】10/20(月)学マス生配信「初星学園HR #STEP3 倉本 千奈」お知らせまとめ]]></title>
             <description><![CDATA[ #学マス #学園アイドルマスター #倉本千奈_学マスSTEP3]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17037.html</guid>
             <pubDate>Tue, 14 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/10/BSy7bnjywxGRxHJDDvglfmXRX82lVQIj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】🌸狙え！公式宣材写真🌸「高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ” 」配信プロデュースショット投稿キャンペーン📷　のご案内]]></title>
-            <description><![CDATA[#高槻やよい_水瀬伊織_twinLive]]></description>
-            <link>https://idolmaster-official.jp/news/01_17059.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17059.html</guid>
-            <pubDate>Tue, 14 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/10/ODlODTqv9HU2H5d3kFSpsKlVzevRfrhL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニアニ2nd season放送開始1周年記念！ Over the prismのライブBlu-ray情報も！ みんなでまったり秋の夜長トーーク！！！ お知らせまとめ！]]></title>
-            <description><![CDATA[#シャニアニ2期_１周年記念生配信 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17049.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17049.html</guid>
-            <pubDate>Mon, 13 Oct 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/PrF8eYz1PItwtjgmNzeOk0aEBRNX4WOs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン12th]]></description>
-            <link>https://idolmaster-official.jp/news/01_17032.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17032.html</guid>
-            <pubDate>Mon, 13 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/3MBsaAK9f5gdNEaPAeHcTyHGftTLH3AA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
