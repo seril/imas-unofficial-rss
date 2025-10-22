@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Oct 2025 06:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 11:16:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Oct 2025 06:29:45 GMT</pubDate>
+        <pubDate>Wed, 22 Oct 2025 11:16:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』アーカイブ同時視聴上映会  実施決定！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
+            <link>https://idolmaster-official.jp/news/01_17139.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17139.html</guid>
+            <pubDate>Wed, 22 Oct 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/10/sP3XddWEYHgpCutjgmZSBqgfU6dZOSEZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism 愛しき日々 / Fading Stars / Future Transit / KoiKyun！」発売記念イベント 会場物販のお知らせ]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17120.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17120.html</guid>
+            <pubDate>Wed, 22 Oct 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/47sFh6Fr3R2TxknuMtGTCLvtwACRbLuj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ハッチポッチ2】「THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2」Blu-ray受注期間延長のお知らせ！]]></title>
+            <description><![CDATA[#アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_17070.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17070.html</guid>
+            <pubDate>Wed, 22 Oct 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/lxVIqArlXXuN22kf7LGl26h40Jxq3fY5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】PROOFより「クラス対抗初星大運動会」協賛商品の一般販売が開始！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17065.html</guid>
             <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/SZi5MG52Q8fgOTsIP69CJfagT2YDm4qn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】10/20(月) 19:00～ 学園アイドルマスター「初星学園HR #STEP3 倉本 千奈」生配信実施予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター  #STEP3 #伊藤舞音 #倉本千奈]]></description>
-            <link>https://idolmaster-official.jp/news/01_16988.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16988.html</guid>
-            <pubDate>Tue, 14 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/10/S3KBYQHkdbr1UWG812T5SGUeC6NLM5vM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 01 S.E.M」CD情報！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17043.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17043.html</guid>
-            <pubDate>Tue, 14 Oct 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/MIfueHmYcK9iuicC2xis27Qw0qQjhbN2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[偶像大师闪耀色彩 7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”上海/广州/武汉上映会 决定举办，10月14日（星期二）18:00正式开售！]]></title>
-            <description><![CDATA[偶像大师闪耀色彩 7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”上海/广州/武汉上映会 决定举办，10月14日（星期二）18:00正式开售！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17058.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17058.html</guid>
-            <pubDate>Tue, 14 Oct 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/10/1kiOg76WDwK8TFHw4KuJge9X9d3GxfRy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Oct 2025 06:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Oct 2025 11:16:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Oct 2025 06:29:45 GMT</pubDate>
+        <pubDate>Wed, 22 Oct 2025 11:16:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ハッチポッチ2】「THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2」Blu-ray受注期間延長のお知らせ！]]></title>
+            <description><![CDATA[#アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_17070.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17070.html</guid>
+            <pubDate>Wed, 22 Oct 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/lxVIqArlXXuN22kf7LGl26h40Jxq3fY5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン12th】「THE IDOLM@STER MILLION LIVE! 12thLIVE」開催記念グッズが受注受付中！総勢26人分を新規描き下ろし！]]></title>
             <description><![CDATA[#ミリオン12th ]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_16883.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16883.html</guid>
             <pubDate>Sun, 28 Sep 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！！！】【アイマスMOIW2025】公式グッズ事前二次販売は本日9/28(日)まで！！実物サンプルも！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16880.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16880.html</guid>
-            <pubDate>Sun, 28 Sep 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
