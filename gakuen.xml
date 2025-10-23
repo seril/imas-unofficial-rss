@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Oct 2025 03:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 06:28:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Oct 2025 03:35:23 GMT</pubDate>
+        <pubDate>Thu, 23 Oct 2025 06:28:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭 イベント公式グッズ事前販売 第1弾が本日10月23日(木) 15:00スタート！ ]]></title>
+            <description><![CDATA[#学マス #学マス音楽祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_17153.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17153.html</guid>
+            <pubDate>Thu, 23 Oct 2025 06:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/10/n4aaPlPY8oiwKrm2AdHn6PMu9iAKuA2U.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】2月28日(土)・3月1日(日)開催！「学園アイドルマスター 初星音楽祭」の会場を彩ろう！オリジナルのぼりプロデュース権の購入エントリー＆デザイン提出受付がスタート！]]></title>
+            <description><![CDATA[#学マス #学マス音楽祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_17132.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17132.html</guid>
+            <pubDate>Thu, 23 Oct 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2025/10/yh5sYpt8agJU6aeR7GJIAHFeyz1kmtwi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「学園アイドルマスター ちびぐるみ」vol.3～4がナムコオンラインクレーンに再登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16842.html</guid>
             <pubDate>Thu, 25 Sep 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/09/fJWoyPdoeCo28srZx9tdr3FxIRz0xt3q.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】COCOLLABOよりクラス対抗初星大運動会協賛商品の一般販売がスタート！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16736.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16736.html</guid>
-            <pubDate>Wed, 24 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/09/9BiLJ0g6KGAuTFj13SMydapAsZ4pSa91.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】クラス対抗初星大運動会 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
-            <description><![CDATA[#学マス #学マス大運動会 #学マス大運動会_DAY1 #学マス大運動会_DAY2]]></description>
-            <link>https://idolmaster-official.jp/news/01_16818.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16818.html</guid>
-            <pubDate>Mon, 22 Sep 2025 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/09/tteWJrKBQKkJAEnzMjmulnC1sIw7bHXL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
