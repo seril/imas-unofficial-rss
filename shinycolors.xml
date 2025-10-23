@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Oct 2025 06:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Oct 2025 11:16:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Oct 2025 06:28:34 GMT</pubDate>
+        <pubDate>Thu, 23 Oct 2025 11:16:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】「ASOBI STAGE」「YouTubeアイドルマスターチャンネル」にて7th螺旋公演のライブ冒頭を【無料】配信！！現地/配信チケットも販売中！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
+            <link>https://idolmaster-official.jp/news/01_17157.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17157.html</guid>
+            <pubDate>Thu, 23 Oct 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/mOTicGJPdXylKQAFhSdtxHgezvUQt9FT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】全国の温浴5施設とのコラボイベント「ほっと、ひと息湯ったり気分。」が本日よりスタート！]]></title>
             <description><![CDATA[#ほっとひと息湯ったり気分 ＃レジャフェス #シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16949.html</guid>
             <pubDate>Sat, 04 Oct 2025 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/10/B4fr0idj8PeFU5nfyrG7jpvufKjz1wMd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニアニ2nd season放送開始1周年記念！ Over the prismのライブBlu-ray情報も！ みんなでまったり秋の夜長トーーク！！！ 生配信実施決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16959.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16959.html</guid>
-            <pubDate>Fri, 03 Oct 2025 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/fXWid7trqSh6B8Xm71y8lICbHO7oUMFy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
