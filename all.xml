@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Oct 2025 14:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 02:21:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Oct 2025 14:19:49 GMT</pubDate>
+        <pubDate>Fri, 24 Oct 2025 02:21:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】【本日 10/24(金)より】POP UP SHOP「夜想令嬢 -GRAC&E NOCTURNE-」開催🦇11/9(土)まで🌕]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17145.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17145.html</guid>
+            <pubDate>Fri, 24 Oct 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/YDtGvL5VQejQMAS6bFeJ698agqiqqT5L.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】10月24日でサービス開始から7.5周年！SSR7.5倍10連無料ガシャの開催や、フェザージュエル×3000をプレゼント！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17121.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17121.html</guid>
+            <pubDate>Thu, 23 Oct 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/10/IFCE2o5v88P12Tvz99gZ970JmT6WjqyT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラガールズフェス】『 #ボクはぁと新曲 お披露目記念』抽選で4名様に輿水幸子＆佐藤心のサイン色紙をプレゼント！]]></title>
             <description><![CDATA[#ボクはぁと新曲 #シンデレラガールズフェス #デレマス15周年イヤー直前生配信]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17089.html</guid>
             <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/10/zc7KTD8QITbfMKBzfgrfwadjNWp1ax3H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニ7th螺旋】シャニマス7th螺旋公演直前！BASE Takayama生放送！10/24(金)19時より配信決定！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
-            <link>https://idolmaster-official.jp/news/01_17082.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17082.html</guid>
-            <pubDate>Thu, 16 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/YSpyyhqyUn0MS6yM7MlspgAwhqQ44juh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター ウエハース3　2026年2月発売決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17068.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17068.html</guid>
-            <pubDate>Thu, 16 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/BF0ek3QD5gGtqoZF9FJEZXI4kICEG5gC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
