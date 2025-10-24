@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Oct 2025 11:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 14:19:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Oct 2025 11:16:28 GMT</pubDate>
+        <pubDate>Fri, 24 Oct 2025 14:19:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7th】シャニマス7th LIVE TOUR開催記念！「シャニマスBorderless DJ Night」が11/26(水)に開催決定！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
+            <link>https://idolmaster-official.jp/news/01_17156.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17156.html</guid>
+            <pubDate>Fri, 24 Oct 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/wgHqfotRRegm6CkGyaNYnvluSq0arUDn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス7thLIVE】螺旋公演はいよいよ明日から！現地/配信チケットも販売中！一部イベントグッズの追加販売もスタート！]]></title>
             <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16941.html</guid>
             <pubDate>Mon, 06 Oct 2025 06:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/DncFA0P6WUpR5oCCsDJ9C9NQlDpGJ6Wg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニソン楽曲のユニット衣装を着たノクチルとシーズの「ちびぐるみ」がナムコ限定で10月10日(金)より登場予定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16928.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16928.html</guid>
-            <pubDate>Mon, 06 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/yF8qCXEdGE2lvvxd6mR6dG7T3tfpXSST.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
