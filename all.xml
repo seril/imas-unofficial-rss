@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Oct 2025 03:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 06:27:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Oct 2025 03:32:20 GMT</pubDate>
+        <pubDate>Fri, 24 Oct 2025 06:27:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」10月27日(月)より「打ち上げ＆大忘年会付きホテルプラン」の2次募集(先着)が決定！！「ホテルプラン専用の特典」も公開♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17167.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17167.html</guid>
+            <pubDate>Fri, 24 Oct 2025 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/pOIcZ4WwAgd1W7zgJ1EIaU2Lp6XHcCbv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】≪10月25日(土)12:00～≫業務連絡：如月千早武道館単独公演「OathONE」のグッズサンプルチェックについて]]></title>
+            <description><![CDATA[#如月千早武道館単独公演 #765プロ勤務中]]></description>
+            <link>https://idolmaster-official.jp/news/01_17142.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17142.html</guid>
+            <pubDate>Fri, 24 Oct 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/10/izOpZWkDx3DNVOiEOuT5unN93lFrmpX2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シンデレラ】190名のバースデーグッズ企画！「星座」にフィーチャーしたコレクション☆彡 第12弾「さそり座」のアイドル16名が妖艶でエレガントな衣装で登場！受注は11/24(月・祝)まで♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16967.html</guid>
             <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/dKh4bUyXSOjRExKKxPUwub6xyAOb9ucE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】2025年11月5日 (水) 19:00～「アイドルマスター SideM　冬浅し、情熱！超絶！！白熱BATTLEでSideM！生配信」配信予定！]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_16996.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16996.html</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/10/MLh5UxcQp4bIdcDLNsoiE6pJ11n2jTHu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17090.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
