@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Oct 2025 06:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 11:16:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Oct 2025 06:27:49 GMT</pubDate>
+        <pubDate>Fri, 24 Oct 2025 11:16:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 会場物販情報公開&開催記念グッズも一部先行販売決定！さらに大阪公演の開催を記念して、UHA味覚糖のUHAグミサプリとコラボが決定！！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF #グミサプリ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17130.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17130.html</guid>
+            <pubDate>Fri, 24 Oct 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/xW8dhaRQTH80E8ChqPngkYFxySHWOGP3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」10月27日(月)より「打ち上げ＆大忘年会付きホテルプラン」の2次募集(先着)が決定！！「ホテルプラン専用の特典」も公開♪]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16708.html</guid>
             <pubDate>Fri, 26 Sep 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/09/xNGc5yiV952xX3rQNj3oHcHxQHFU3624.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと２日！！】【アイマスMOIW2025】公式グッズ事前二次販売は9/28(日)まで！！実物サンプルも！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16877.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16877.html</guid>
-            <pubDate>Fri, 26 Sep 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

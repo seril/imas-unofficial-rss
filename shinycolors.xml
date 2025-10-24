@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Oct 2025 06:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Oct 2025 11:16:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Oct 2025 06:27:49 GMT</pubDate>
+        <pubDate>Fri, 24 Oct 2025 11:16:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】螺旋公演はいよいよ明日から！現地/配信チケットも販売中！一部イベントグッズの追加販売もスタート！]]></title>
+            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
+            <link>https://idolmaster-official.jp/news/01_17160.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17160.html</guid>
+            <pubDate>Fri, 24 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/xtVSfFaNjxSGKLMf2EgOAwaJ9Ns4kngh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」10月27日(月)より「打ち上げ＆大忘年会付きホテルプラン」の2次募集(先着)が決定！！「ホテルプラン専用の特典」も公開♪]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16928.html</guid>
             <pubDate>Mon, 06 Oct 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/yF8qCXEdGE2lvvxd6mR6dG7T3tfpXSST.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】関西電力の社会貢献活動推進サービス「モアクト」 とのコラボキャンペーンが復刻決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
-            <link>https://idolmaster-official.jp/news/01_16938.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16938.html</guid>
-            <pubDate>Mon, 06 Oct 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/BO1fWPEKFOb4yRkEw8fiXsGJvTLsWCVF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
