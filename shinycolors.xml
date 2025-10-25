@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Oct 2025 11:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 14:15:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Oct 2025 11:13:55 GMT</pubDate>
+        <pubDate>Sat, 25 Oct 2025 14:15:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス衣装展】283PRODUCTION COSTUME G＠LLERY ～MY F＠VORITE COLLECTION～ が大丸東京店にて2026年3月に開催決定！]]></title>
+            <description><![CDATA[#シャニマス衣装展東京 #シャニマス7th_螺旋_day1 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17171.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17171.html</guid>
+            <pubDate>Sat, 25 Oct 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/caXYx8uV8Itz6ijyt4pgm88yv6DmtTwV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】螺旋公演DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス7th_螺旋_day1 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17097.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17097.html</guid>
+            <pubDate>Sat, 25 Oct 2025 11:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/cC0IKoVZJcp05IRuqU8Th3AW7j7CD2uD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】「カードフォリオ シャイニーカラーズver.」本日発売！！アソビストアと「シャニマス7thTOUR螺旋」現地物販会場で販売開始！発売を記念した「パシャっとチャレンジキャンペーン」も開催中♪]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ #カードフォリオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16968.html</guid>
             <pubDate>Wed, 08 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/FjjG7DhsNrSZt5mvR4D36CiMvssEDsKX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】『MOIW2025まであと2ヶ月！コールが楽しい楽曲&過去ライブの名場面をオススメし合おう！』配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16636.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16636.html</guid>
-            <pubDate>Tue, 07 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/3FquYIHYyHhNgqe6IShWguT81zCZMVe6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】10/11(土)に「30MS」シリーズより芹沢あさひ・オプションボディパーツ アルファシスターズファンタズム3[カラーB]が発売！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16982.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16982.html</guid>
-            <pubDate>Tue, 07 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/VMiuJVtTtW5vRMJyLi10OBCBt07QkzC5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
