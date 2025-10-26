@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Oct 2025 11:13:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 14:15:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Oct 2025 11:13:58 GMT</pubDate>
+        <pubDate>Sun, 26 Oct 2025 14:15:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス8th】2026年4月「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」開催決定！！本日より現地チケット最速先行がスタート！]]></title>
+            <description><![CDATA[#シャニマス8th #シャニマス7th_螺旋_day2 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17180.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17180.html</guid>
+            <pubDate>Sun, 26 Oct 2025 12:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/5iuDdlPxuMZLVCKXRRF4x2tYnsbvMsP7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】螺旋公演DAY2ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス7th_螺旋_day2 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17098.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17098.html</guid>
+            <pubDate>Sun, 26 Oct 2025 12:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/H8FvTSlRpiPzCy61BsZYRbO8A9g36hQi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【あと3時間！！】【ミリオン12th】開催記念グッズの受注は本日まで！！総勢26人分を新規描き下ろし！！]]></title>
+            <description><![CDATA[#ミリオン12th ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17179.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17179.html</guid>
+            <pubDate>Sun, 26 Oct 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/qsImPDNNah9Sokk8xljNqhin3cewtNVf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス7thLIVE】開催記念グッズの受注がスタート！！開催記念描きおろしイラストのグッズや28名全員分のユニット衣装イラストグッズが登場✨]]></title>
+            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス7th_螺旋_day1 #シャニマス7th_螺旋_day2 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17181.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17181.html</guid>
+            <pubDate>Sun, 26 Oct 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/10/OyRqPdiPZjktVbMR6sV29D0zCJY9jaYi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[◆本日まで◆【765】如月千早武道館単独公演「OathONE」公式グッズ事前二次販売は本日10月26日(日)まで。]]></title>
             <description><![CDATA[#如月千早武道館単独公演]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16985.html</guid>
             <pubDate>Thu, 23 Oct 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/mvnEkK1q296FLhxhScy9nhPrF52BMc8r.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】全国の温浴5施設とのコラボイベント「ほっと、ひと息湯ったり気分。」が本日よりスタート！]]></title>
-            <description><![CDATA[#ほっとひと息湯ったり気分 ＃レジャフェス #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17076.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17076.html</guid>
-            <pubDate>Thu, 23 Oct 2025 01:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/DncFA0P6WUpR5oCCsDJ9C9NQlDpGJ6Wg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】全国のイオングループ店舗でサントリーフーズ株式会社とのタイアップキャンペーンが決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17007.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17007.html</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/GyJIR6fvyTqoN6Umf8uCWDen81Kl9aqR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』アーカイブ同時視聴上映会  実施決定！]]></title>
-            <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
-            <link>https://idolmaster-official.jp/news/01_17139.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17139.html</guid>
-            <pubDate>Wed, 22 Oct 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/10/sP3XddWEYHgpCutjgmZSBqgfU6dZOSEZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism 愛しき日々 / Fading Stars / Future Transit / KoiKyun！」発売記念イベント 会場物販のお知らせ]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17120.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17120.html</guid>
-            <pubDate>Wed, 22 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/47sFh6Fr3R2TxknuMtGTCLvtwACRbLuj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
