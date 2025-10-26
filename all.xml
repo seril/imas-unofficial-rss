@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Oct 2025 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 02:40:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Oct 2025 14:15:26 GMT</pubDate>
+        <pubDate>Sun, 26 Oct 2025 02:40:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】 ＼＼本日まで！／／てんびん座16名は10/26(日)まで！星座にフィーチャーした190名のバースデーコレクション、第11弾「てんびん座」＆第12弾「さそり座」が受注中♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17174.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17174.html</guid>
+            <pubDate>Sun, 26 Oct 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/PazulmLDRwAkpAQd18KEeI67cm3UKvdG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【本日まで！！】【ミリオン12th】開催記念グッズの受注は本日まで！！総勢26人分を新規描き下ろし！！]]></title>
+            <description><![CDATA[#ミリオン12th ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17178.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17178.html</guid>
+            <pubDate>Sun, 26 Oct 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/NA0rWAjLyomkYdIaI9jTy5GROh0WD6rC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！！】【ミリオン12th】開催記念グッズが受注受付中！総勢26人分を新規描き下ろし！！]]></title>
             <description><![CDATA[#ミリオン12th ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17070.html</guid>
             <pubDate>Wed, 22 Oct 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/lxVIqArlXXuN22kf7LGl26h40Jxq3fY5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】PROOFより「クラス対抗初星大運動会」協賛商品の一般販売が開始！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17122.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17122.html</guid>
-            <pubDate>Tue, 21 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/jqLQVV4bybesK8oJOOv5OZLhsa0r7oL0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】螺旋公演の現地チケット一般発売2次（先着）が21日(火)18:00より開始！当日券の販売も決定！]]></title>
-            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17124.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17124.html</guid>
-            <pubDate>Tue, 21 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/HaTQQKZc7ibHhUYtCkUVhbQLKUqapXKg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

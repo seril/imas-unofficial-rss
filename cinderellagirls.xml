@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Oct 2025 14:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Oct 2025 02:40:15 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Oct 2025 14:15:26 GMT</pubDate>
+        <pubDate>Sun, 26 Oct 2025 02:40:15 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】 ＼＼本日まで！／／てんびん座16名は10/26(日)まで！星座にフィーチャーした190名のバースデーコレクション、第11弾「てんびん座」＆第12弾「さそり座」が受注中♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17174.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17174.html</guid>
+            <pubDate>Sun, 26 Oct 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/PazulmLDRwAkpAQd18KEeI67cm3UKvdG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ　15周年イヤー直前！生配信」ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
             <description><![CDATA[#デレマス15周年イヤー直前生配信　#シンデレラガールズフェス　#デレマス　]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16831.html</guid>
             <pubDate>Tue, 30 Sep 2025 12:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/09/qfj7yRGXP0rHMAxD7cFyzRG6S13Vosze.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】「THE IDOLM@STER Series-M@STER's FESTA 2025-」が開催中&全国アニメイトにてディスプレイコンテストが本日よりスタート！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】「THE IDOLM@STER Series-M@STER's FESTA 2025-」が開催中&全国アニメイトにてディスプレイコンテストが本日よりスタート！]]></description>
-            <link>https://idolmaster-official.jp/news/01_16884.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16884.html</guid>
-            <pubDate>Mon, 29 Sep 2025 00:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/sVIcR2frEMhxlkBCG42Kf6CB7ZnmqMr4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
