@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Oct 2025 14:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 02:48:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Oct 2025 14:15:49 GMT</pubDate>
+        <pubDate>Mon, 27 Oct 2025 02:48:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism Borderline / クローバー / Summer Night Paradise」ジャケット・INDEX・特典内容解禁]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17175.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17175.html</guid>
+            <pubDate>Mon, 27 Oct 2025 01:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/l20AQk0uAvZuA2KdB8IlOhaby1bDWjND.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ Song for Prism』2nd Anniversary SHOP ～めろきゅん♡モノクローム～ の開催が決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17137.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17137.html</guid>
+            <pubDate>Mon, 27 Oct 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/3EeaM0w7lbycKwggm0iTDFHpj33Hu5vp.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス8th】2026年4月「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」開催決定！！本日より現地チケット最速先行がスタート！]]></title>
             <description><![CDATA[#シャニマス8th #シャニマス7th_螺旋_day2 #シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17013.html</guid>
             <pubDate>Thu, 09 Oct 2025 09:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/3IVJFYdkvoobNAdmScoJjvjiRRiYZZEH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_騎士団】「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」公式グッズ事前販売ファイナルが本日よりスタート！]]></title>
-            <description><![CDATA[#アンティーカ_騎士団]]></description>
-            <link>https://idolmaster-official.jp/news/01_16999.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16999.html</guid>
-            <pubDate>Thu, 09 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/bHY5Z4nrzwK0XwcOG7fcrmneWPnsCVpK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】杜野 凛世、大崎 甜花が登場するガシャを開催中！ 1日1回10連無料ガシャの開催も！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16986.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16986.html</guid>
-            <pubDate>Wed, 08 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/10/uvHwjvifdtp4FziihO1iSobRL7ablloN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
