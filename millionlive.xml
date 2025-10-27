@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Oct 2025 02:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 03:51:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Oct 2025 02:48:17 GMT</pubDate>
+        <pubDate>Mon, 27 Oct 2025 03:51:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】本日よりスタート！関西電力の社会貢献活動推進サービス「モアクト」 とのコラボキャンペーンが復刻開催中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_17165.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17165.html</guid>
+            <pubDate>Mon, 27 Oct 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/TL0Du3kZBb0EUVUbOqhTg6lkMt7OgfEU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【あと3時間！！】【ミリオン12th】開催記念グッズの受注は本日まで！！総勢26人分を新規描き下ろし！！]]></title>
             <description><![CDATA[#ミリオン12th ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16915.html</guid>
             <pubDate>Thu, 02 Oct 2025 09:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/4A9j0kMUB9INCvMQ3nk3hd8bJqRke86W.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】配信チケット販売開始！！物販整理券のお申込み受付は本日10月1日(水)まで！！]]></title>
-            <description><![CDATA[#ミリオン12th]]></description>
-            <link>https://idolmaster-official.jp/news/01_16925.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16925.html</guid>
-            <pubDate>Wed, 01 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/JyN1sPqiLrfFQb1UOlEBAKOTpvOy7Fxu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

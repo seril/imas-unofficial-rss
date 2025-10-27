@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Oct 2025 02:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Oct 2025 03:51:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Oct 2025 02:48:17 GMT</pubDate>
+        <pubDate>Mon, 27 Oct 2025 03:51:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】本日よりスタート！関西電力の社会貢献活動推進サービス「モアクト」 とのコラボキャンペーンが復刻開催中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_17165.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17165.html</guid>
+            <pubDate>Mon, 27 Oct 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/TL0Du3kZBb0EUVUbOqhTg6lkMt7OgfEU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】 ＼＼本日まで！／／てんびん座16名は10/26(日)まで！星座にフィーチャーした190名のバースデーコレクション、第11弾「てんびん座」＆第12弾「さそり座」が受注中♪]]></title>
             <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16861.html</guid>
             <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【生配信】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 キックオフ生ラジオ配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16831.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16831.html</guid>
-            <pubDate>Tue, 30 Sep 2025 12:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/09/qfj7yRGXP0rHMAxD7cFyzRG6S13Vosze.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
