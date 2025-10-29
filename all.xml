@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Oct 2025 06:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Oct 2025 11:16:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Oct 2025 06:30:44 GMT</pubDate>
+        <pubDate>Wed, 29 Oct 2025 11:16:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】『シャニマス生配信～祝7.5周年！アニバーサリー情報2週連続大放出SP 前編！～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_16689.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16689.html</guid>
+            <pubDate>Wed, 29 Oct 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/MHcAPpDaXuEmH51vcHzGva05f8MBwPFd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の「特別企画」情報解禁！]]></title>
+            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17194.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17194.html</guid>
+            <pubDate>Wed, 29 Oct 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/xP3s6S5QIielfIFo4pt9gpTp72txFzV4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス大感謝祭】「シャニマス大感謝祭！〜283スポーツフェスティバル〜」オリジナル応援幕プロデュース権購入者限定！サイン入り応援幕プレゼントキャンペーンの実施が決定！]]></title>
+            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17204.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17204.html</guid>
+            <pubDate>Wed, 29 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2025/10/jMeccCV8AUPDGNHuEhYbPTN66Pc6IqW7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】10/30(木) 19:00～ 学園アイドルマスター「初星学園HR #STEP3 有村 麻央」生配信実施予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター  #STEP3 #七瀬つむぎ #有村麻央]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17143.html</guid>
             <pubDate>Fri, 24 Oct 2025 11:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/jT9HLOlE1RzBfLeOYbawk5JC7KIRhrBp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『アイドルマスター シンデレラガールズ　15周年イヤー直前！生配信』配信記念！サイン色紙プレゼントキャンペーン]]></title>
-            <description><![CDATA[#デレマス15周年イヤー直前生配信 #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17110.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17110.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:04:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/Rx9N5eBJRGvs6UOa4QOLZf9buCADxdnM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】シャニマス7th LIVE TOUR開催記念！「シャニマスBorderless DJ Night」が11/26(水)に開催決定！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
-            <link>https://idolmaster-official.jp/news/01_17156.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17156.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/wgHqfotRRegm6CkGyaNYnvluSq0arUDn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】株式会社テンヨーより「学園アイドルマスター/金バッジ vol.1」が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17020.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17020.html</guid>
-            <pubDate>Fri, 24 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/4QBoRgC9cmNuQbSxp2aBFgvqa7OoTOX1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
