@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Oct 2025 02:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 03:42:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Oct 2025 02:41:22 GMT</pubDate>
+        <pubDate>Thu, 30 Oct 2025 03:42:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 本日より配信チケット販売開始！！ストーリーとのお得なセットや定点カメラ映像も登場！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_17187.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17187.html</guid>
+            <pubDate>Thu, 30 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/gNpVzEv5wWrwIRUAwlNKgvTf5edtsB97.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】『シャニマス生配信～祝7.5周年！アニバーサリー情報2週連続大放出SP 前編！～』お知らせまとめ]]></title>
             <description><![CDATA[#シャニマス生配信 #シャニマス #シャニソン #シャイニーカラーズ ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17133.html</guid>
             <pubDate>Fri, 24 Oct 2025 11:18:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/xO2mEPVKn7Gf3HOnlVGVNg38x0kmlnLC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】フレグランスブランドのAnidealより、『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』とのコラボレーション香水受注発売が決定✨]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17134.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17134.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:18:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/S0iJOTYFmNQ3D0NIBh0tWCXgemsEPhNf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

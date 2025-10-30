@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Oct 2025 02:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Oct 2025 03:42:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Oct 2025 02:41:22 GMT</pubDate>
+        <pubDate>Thu, 30 Oct 2025 03:42:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 本日より配信チケット販売開始！！ストーリーとのお得なセットや定点カメラ映像も登場！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_17187.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17187.html</guid>
+            <pubDate>Thu, 30 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/gNpVzEv5wWrwIRUAwlNKgvTf5edtsB97.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】JR東海×『アイドルマスター』シリーズのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の「特別企画」情報解禁！]]></title>
             <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
@@ -97,20 +105,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/b3hk7iwgf3hTEwKHv09YtOIQ7H0iDCYK.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideM】2025年11月5日 (水) 19:00～「アイドルマスター SideM　冬浅し、情熱！超絶！！白熱BATTLEでSideM！生配信」配信予定！]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_16996.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16996.html</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/10/MLh5UxcQp4bIdcDLNsoiE6pJ11n2jTHu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
             <link>https://idolmaster-official.jp/news/01_17090.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
             <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【10/30追記】【SideM】2025年11月5日 (水) 19:00～「アイドルマスター SideM　冬浅し、情熱！超絶！！白熱BATTLEでSideM！生配信」配信予定！]]></title>
+            <description><![CDATA[#SideM #SideM生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_16996.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16996.html</guid>
+            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/10/MLh5UxcQp4bIdcDLNsoiE6pJ11n2jTHu.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】11月7日(金)より、兵庫県の阪神尼崎駅周辺エリアにて「アイドルマスター SideM×はんあま」コラボ開催決定！]]></title>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_16880.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16880.html</guid>
             <pubDate>Sun, 28 Sep 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！！！】【アイマスMOIW2025】公式グッズ事前二次販売は本日9/28(日)まで！！実物サンプルも！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16879.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16879.html</guid>
-            <pubDate>Sun, 28 Sep 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
