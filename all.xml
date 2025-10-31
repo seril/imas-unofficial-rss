@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Oct 2025 02:40:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 03:43:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Oct 2025 02:40:01 GMT</pubDate>
+        <pubDate>Fri, 31 Oct 2025 03:43:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】PROOFよりカードゲームサプライ商品の第5弾と新アイテムが登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17195.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17195.html</guid>
+            <pubDate>Fri, 31 Oct 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/10/ULs0FKovGA25loop84LkKFVJsZZDwrvG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭 公演現地チケットアソビストア一般会員先行（抽選）が本日10月31日(金)12:00よりスタート！]]></title>
+            <description><![CDATA[#学マス #学マス音楽祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_17188.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17188.html</guid>
+            <pubDate>Fri, 31 Oct 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/dUYtyPL6oMwNFLfacyyExvP5DafeeShD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】本日まで！ 企業、自治体の皆さまからアイドルたちへのオファーお待ちしています！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17159.html</guid>
             <pubDate>Fri, 24 Oct 2025 11:26:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/plKdkVZdwV3RlfPdDK5FXOiFUN2qrmiR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「ミラシル by 第一生命」の『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』でのコラボ内容が発表！各公演入場で限定ポストカード配布、特別な告知も♪]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17154.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17154.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/vYp4gmLQ4xw8tZvuXoGLkmALtcY9Mbtz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】ひろめ堂より、『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』にて「柊志乃と輿水幸子の山梨観光アドバイザー』コラボ商品の再販が決定✨]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17158.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17158.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:24:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/K1INlg9E71OsOwPORpsu5wSfIzCUhyLv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
