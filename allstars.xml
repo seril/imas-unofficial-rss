@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Oct 2025 06:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 11:16:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Oct 2025 06:29:22 GMT</pubDate>
+        <pubDate>Fri, 31 Oct 2025 11:16:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』開催記念公式グッズの受注は11/3(日)まで！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
+            <link>https://idolmaster-official.jp/news/01_17207.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17207.html</guid>
+            <pubDate>Fri, 31 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/kbCFxMtT4atHRuzzhjBfe9xEMu4gQcZi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】本日まで！ 企業、自治体の皆さまからアイドルたちへのオファーお待ちしています！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_16883.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16883.html</guid>
             <pubDate>Sun, 28 Sep 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！！！】【アイマスMOIW2025】公式グッズ事前二次販売は本日9/28(日)まで！！実物サンプルも！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16880.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16880.html</guid>
-            <pubDate>Sun, 28 Sep 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/09/7FO1ivY9yMDxfDIVaf9RymAiOC36HO0H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>

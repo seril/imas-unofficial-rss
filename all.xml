@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Oct 2025 06:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Oct 2025 11:16:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Oct 2025 06:29:22 GMT</pubDate>
+        <pubDate>Fri, 31 Oct 2025 11:16:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM」くじメイト第3弾　11月7日(金)より発売開始！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_17221.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17221.html</guid>
+            <pubDate>Fri, 31 Oct 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/4jYal0jBFez8oN4FqMQnhnrnsHhDIuFt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』開催記念公式グッズの受注は11/3(日)まで！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
+            <link>https://idolmaster-official.jp/news/01_17207.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17207.html</guid>
+            <pubDate>Fri, 31 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/kbCFxMtT4atHRuzzhjBfe9xEMu4gQcZi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演に「冬馬のバターチキンカレーパン出張販売所」出店決定！！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF #カレーパン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17216.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17216.html</guid>
+            <pubDate>Fri, 31 Oct 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/hqrHcJrnzvepWpk1KeKEdhJSNVhAqhm9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～Halftone～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17166.html</guid>
             <pubDate>Fri, 24 Oct 2025 11:28:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/dL4QB7YgyMi18Ep6x1zVeEfLp1C9b0sM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】THEキャラキッチンカーより、11/29(土)30(日)開催『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』でのグッズの販売が決定🌸 グッズ情報も公開♪]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17149.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17149.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:31:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/PWxc02bEAsG9lTvfHq1R1BFvD64QxRDw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「CoLab-TOKYO-」にて、11月29日より『Sweet Step Spring Stage！』グッズの再販が決定！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17172.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17172.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/4r8xMjYZIwCeJela8lW90H7Q7he0hXrd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】ガラス彫刻工房ONOより、人気の信楽焼カップの再販が決定！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17141.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17141.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:29:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/zKPpsI8SWEmSJe7XXVEI7IdiKXToQpEq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
