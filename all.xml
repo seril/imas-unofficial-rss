@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 01 Nov 2025 02:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 03:41:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 01 Nov 2025 02:41:46 GMT</pubDate>
+        <pubDate>Sat, 01 Nov 2025 03:41:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【シャニソン】2周年キャンペーン開催中！ 最大150連ガシャ無料]]></title>
+            <description><![CDATA[#シャニソン #シャニソン2周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_17168.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17168.html</guid>
+            <pubDate>Sat, 01 Nov 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/Oj9mPFihHFhqvpGtSJvXUom6qmFbVKyb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第10弾、1月分予約受付中！ ]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16914.html</guid>
             <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/MiEcdGslOMJTrdXI9vPruHGE0YPjlqIz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『gladgarb（グラッドガーブ）』とミステリアスアイズのコラボが決定！『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』バンダイブースでは展示も✨]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17163.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17163.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:27:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/K71Rze7vcst9TeQVC6SIX1PqPQlGo5BJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
