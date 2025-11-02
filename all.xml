@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Nov 2025 11:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 14:15:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Nov 2025 11:13:43 GMT</pubDate>
+        <pubDate>Sun, 02 Nov 2025 14:15:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】【ゲーム実況】「ぷよぷよ!!クエスト」実況してみた【#秋月律子】 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ぷよクエアイマスコラボ #ぷよクエ律子実況中]]></description>
+            <link>https://idolmaster-official.jp/news/01_16825.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16825.html</guid>
+            <pubDate>Sun, 02 Nov 2025 11:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/tElo4hg3dpyDpS8HANlpAxAIue7rfWkF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「ぷよぷよ!!クエスト×アイドルマスター」コラボ決定！＆秋月律子によるコラボ先行体験配信も決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ぷよクエ #ぷよクエアイマスコラボ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17189.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17189.html</guid>
+            <pubDate>Sun, 02 Nov 2025 11:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/nlNKYMn3w8zzIcFbWGKVtkhxyTE7SCU9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】【SideMF@NFES】 ～Who goes first～ 大阪公演 イベント公式グッズを数量限定で販売中！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17171.html</guid>
             <pubDate>Sat, 25 Oct 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/caXYx8uV8Itz6ijyt4pgm88yv6DmtTwV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】螺旋公演DAY1ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス7th_螺旋_day1 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17097.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17097.html</guid>
-            <pubDate>Sat, 25 Oct 2025 11:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/cC0IKoVZJcp05IRuqU8Th3AW7j7CD2uD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【SideM】アイドル達の『あの時の思い出』を描いたFiFS描き下ろしイラストグッズの受注は明日まで！一部サンプルをご紹介♪]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17083.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17083.html</guid>
-            <pubDate>Sat, 25 Oct 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/gyPnbbCVGCk1p3b8iVIwyeUc2vwCjfNT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Nov 2025 11:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 14:15:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Nov 2025 11:13:43 GMT</pubDate>
+        <pubDate>Sun, 02 Nov 2025 14:15:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】【ゲーム実況】「ぷよぷよ!!クエスト」実況してみた【#秋月律子】 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ぷよクエアイマスコラボ #ぷよクエ律子実況中]]></description>
+            <link>https://idolmaster-official.jp/news/01_16825.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16825.html</guid>
+            <pubDate>Sun, 02 Nov 2025 11:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/tElo4hg3dpyDpS8HANlpAxAIue7rfWkF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「ぷよぷよ!!クエスト×アイドルマスター」コラボ決定！＆秋月律子によるコラボ先行体験配信も決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ぷよクエ #ぷよクエアイマスコラボ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17189.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17189.html</guid>
+            <pubDate>Sun, 02 Nov 2025 11:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/nlNKYMn3w8zzIcFbWGKVtkhxyTE7SCU9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』開催記念公式グッズの受注は明日まで！]]></title>
             <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16912.html</guid>
             <pubDate>Thu, 02 Oct 2025 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/g6CTU9Grap07tqDp7Mcw3SWpT0h8PQ4E.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第1弾］　応募期間は10/31(金)まで！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16861.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16861.html</guid>
-            <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【生配信】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 キックオフ生ラジオ配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16831.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16831.html</guid>
-            <pubDate>Tue, 30 Sep 2025 12:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/09/qfj7yRGXP0rHMAxD7cFyzRG6S13Vosze.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
