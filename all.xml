@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Nov 2025 06:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 11:13:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Nov 2025 06:27:27 GMT</pubDate>
+        <pubDate>Sun, 02 Nov 2025 11:13:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【SideMF@NFES】 ～Who goes first～ 大阪公演 イベント公式グッズを数量限定で販売中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_17218.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17218.html</guid>
+            <pubDate>Sun, 02 Nov 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/b3hk7iwgf3hTEwKHv09YtOIQ7H0iDCYK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』開催記念公式グッズの受注は明日まで！]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
+            <link>https://idolmaster-official.jp/news/01_17210.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17210.html</guid>
+            <pubDate>Sun, 02 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/kbCFxMtT4atHRuzzhjBfe9xEMu4gQcZi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』生オーディオコメンタリーの配信が決定！！開催記念グッズの受注受付は明日11月3日(月・祝)まで！]]></title>
             <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17083.html</guid>
             <pubDate>Sat, 25 Oct 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/gyPnbbCVGCk1p3b8iVIwyeUc2vwCjfNT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「カードフォリオ シャイニーカラーズver.」本日発売！！アソビストアと「シャニマス7thTOUR螺旋」現地物販会場で販売開始！発売を記念した「パシャっとチャレンジキャンペーン」も開催中♪]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17135.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17135.html</guid>
-            <pubDate>Sat, 25 Oct 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/5HleT51dV4rBzDn0UxHYbdIDvjVe2bFH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！！】【ミリオン12th】開催記念グッズが受注受付中！総勢26人分を新規描き下ろし！！]]></title>
-            <description><![CDATA[#ミリオン12th ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17176.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17176.html</guid>
-            <pubDate>Sat, 25 Oct 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/14Ec3AAxedisQFdVazWb4OoaIsTA1JVW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
