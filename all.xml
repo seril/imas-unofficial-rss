@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Nov 2025 06:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Nov 2025 11:17:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Nov 2025 06:30:25 GMT</pubDate>
+        <pubDate>Tue, 04 Nov 2025 11:17:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】東武動物公園コラボ「ANIM@L PARADISE in Tobu Zoo」 事後通販受付中！🐾]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17205.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17205.html</guid>
+            <pubDate>Tue, 04 Nov 2025 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/nGXZZ4nvpiE3GTBYdtibyY4hb572FKuD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』開催記念公式グッズの受注は本日まで！]]></title>
             <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17174.html</guid>
             <pubDate>Sun, 26 Oct 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/PazulmLDRwAkpAQd18KEeI67cm3UKvdG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！！】【ミリオン12th】開催記念グッズの受注は本日まで！！総勢26人分を新規描き下ろし！！]]></title>
-            <description><![CDATA[#ミリオン12th ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17178.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17178.html</guid>
-            <pubDate>Sun, 26 Oct 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/NA0rWAjLyomkYdIaI9jTy5GROh0WD6rC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
