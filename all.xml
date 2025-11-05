@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Nov 2025 11:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Nov 2025 14:19:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Nov 2025 11:17:17 GMT</pubDate>
+        <pubDate>Wed, 05 Nov 2025 14:19:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM　冬浅し、情熱！超絶！！白熱BATTLEでSideM！生配信 」告知まとめ]]></title>
+            <description><![CDATA[#SideM #SideM生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_17000.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17000.html</guid>
+            <pubDate>Wed, 05 Nov 2025 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/11/M3cgs5fkFxI0IuLLo6mOapJQiXqvz9SY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　2月にお誕生日を迎えるアイドルたちのバースデー記念グッズが本日20:30より受注開始！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_17232.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17232.html</guid>
+            <pubDate>Wed, 05 Nov 2025 11:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/lMRTRRsiJYPtLuBDyoTQR9UBGOP123Pk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第1弾が登場！！本日よりASOBI STOREにて受注開始！！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_17222.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17222.html</guid>
+            <pubDate>Wed, 05 Nov 2025 11:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/VRnUKABOcE41RbGGsCAguwx3ULOQXkL6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「リメンバーショット」C.FIRST3名の制作が決定！＆ 公式グッズ 第1弾が登場！！本日よりASOBI STOREにて受注開始！！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_17253.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17253.html</guid>
+            <pubDate>Wed, 05 Nov 2025 11:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/SMPfp8S6Ir9iNI0ZAuDwA9hTuSoqw7OP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMPRS魂環の人形】情報解禁！2026年3月14日(土)・15日(日) 幕張イベントホールにて「THE IDOLM@STER SideM PASSIONABLE READING SHOW ～魂環の人形(マリオネット)～」開催決定！！]]></title>
             <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17165.html</guid>
             <pubDate>Mon, 27 Oct 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/TL0Du3kZBb0EUVUbOqhTg6lkMt7OgfEU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】[わたしが一番！][アイドル、はじめっ！]のイラストをもとに、花海咲季と花海佑芽のプライズフィギュアが2026年4月より順次登場予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17161.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17161.html</guid>
-            <pubDate>Mon, 27 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/10/H0ycbnvMEoqyOh8gipdocBCXinLBpynh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism Borderline / クローバー / Summer Night Paradise」ジャケット・INDEX・特典内容解禁]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17175.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17175.html</guid>
-            <pubDate>Mon, 27 Oct 2025 01:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/l20AQk0uAvZuA2KdB8IlOhaby1bDWjND.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ Song for Prism』2nd Anniversary SHOP ～めろきゅん♡モノクローム～ の開催が決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17137.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17137.html</guid>
-            <pubDate>Mon, 27 Oct 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/3EeaM0w7lbycKwggm0iTDFHpj33Hu5vp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス8th】2026年4月「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」開催決定！！本日より現地チケット最速先行がスタート！]]></title>
-            <description><![CDATA[#シャニマス8th #シャニマス7th_螺旋_day2 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17180.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17180.html</guid>
-            <pubDate>Sun, 26 Oct 2025 12:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/5iuDdlPxuMZLVCKXRRF4x2tYnsbvMsP7.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
