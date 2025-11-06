@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 06:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 11:17:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Nov 2025 06:30:12 GMT</pubDate>
+        <pubDate>Thu, 06 Nov 2025 11:17:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】シャニマス大感謝祭 イベントグッズ受注スタート！スポーツウェアブランド「Dinosaure sportif」とのコラボジャージ・Tシャツも登場♪]]></title>
+            <description><![CDATA[#シャニマス大感謝祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_17271.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17271.html</guid>
+            <pubDate>Thu, 06 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/11/M2yCTVsRTLJUaEfnp2CK88AkWiyu2Nmc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シャニソン】2周年キャンペーン開催中！ 最大150連ガシャ無料]]></title>
             <description><![CDATA[#シャニソン #シャニソン2周年]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17066.html</guid>
             <pubDate>Thu, 16 Oct 2025 05:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/F4AbAVWgluFFmufUAJ9hiLLTo5TYtB0W.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】高級感ただようインテリア「パーソナルパブミラー」シリーズに「鈴木羽那」が登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17040.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17040.html</guid>
-            <pubDate>Thu, 16 Oct 2025 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/WG1QCkRD0PO25d7lxv1ajfzmSjh1DbHY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
