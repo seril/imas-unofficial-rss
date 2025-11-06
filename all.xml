@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 11:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Nov 2025 14:19:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Nov 2025 11:17:14 GMT</pubDate>
+        <pubDate>Thu, 06 Nov 2025 14:19:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
+            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
+            <link>https://idolmaster-official.jp/news/01_16870.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16870.html</guid>
+            <pubDate>Thu, 06 Nov 2025 12:09:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/Hkd2Ypha49RN6bPTIaeSdLOySxOnQopd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】日本一の星空「長野県阿智村」と「アイドルマスター シンデレラガールズ」のコラボが決定！🌠]]></title>
+            <description><![CDATA[#デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17277.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17277.html</guid>
+            <pubDate>Thu, 06 Nov 2025 12:06:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/nGPMgPP4UH4wEVEMvzXOofxddb9dBp83.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「京都国際マンガ・アニメフェア2025（京まふ）」事後物販POP UP SHOP追加商品🌸]]></title>
+            <description><![CDATA[#デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17252.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17252.html</guid>
+            <pubDate>Thu, 06 Nov 2025 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/TUkkzzjSOXR33lZN9Vl740QgSGTu3Ls1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】シャニマス大感謝祭 イベントグッズ受注スタート！スポーツウェアブランド「Dinosaure sportif」とのコラボジャージ・Tシャツも登場♪]]></title>
             <description><![CDATA[#シャニマス大感謝祭]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17185.html</guid>
             <pubDate>Mon, 27 Oct 2025 09:43:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/Ke505m6Y1vtWgqYGhLh97r57Trq5Xezh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日締切！【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストア一般会員2次先行抽選受付は本日10月27日(月)23:59まで！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17184.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17184.html</guid>
-            <pubDate>Mon, 27 Oct 2025 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/qHmZ5NinXLirmvpJNZV1R2mJHIcvGZav.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7thLIVE】螺旋公演　視聴コメント付きアーカイブ配信本日より開始！公演アンケートも実施中！]]></title>
-            <description><![CDATA[#シャニマス7thUNITTOUR #シャニマス #シャイニーカラーズ #シャニマス7thTOUR螺旋]]></description>
-            <link>https://idolmaster-official.jp/news/01_17190.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17190.html</guid>
-            <pubDate>Mon, 27 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/p9pLzfxL7BOa5My2VTtUqTcGPwbIOGju.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×天然温泉湯～ねる」コラボが、いよいよ明日10/28(火)より開催📢✨]]></title>
-            <description><![CDATA[#ミリオンライブ #湯～ねる]]></description>
-            <link>https://idolmaster-official.jp/news/01_17169.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17169.html</guid>
-            <pubDate>Mon, 27 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/i0RptgfODbT9hAJ2ZC8cdMewZuzk1qMp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
