@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Nov 2025 14:15:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 02:47:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Nov 2025 14:15:06 GMT</pubDate>
+        <pubDate>Mon, 10 Nov 2025 02:47:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」12月13日(土)に発売決定！！本日より受注開始！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17278.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17278.html</guid>
+            <pubDate>Sun, 09 Nov 2025 22:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】『アイマスMYプレイリストジェネレーター』あなたのオリジナルプレイリストを募集中！]]></title>
             <description><![CDATA[#アイマスMYプレイリスト #アイマスMOIW2025　#アイマスポータル]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16979.html</guid>
             <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/14QMRWzSaLuMeRkd6ZzZK6XV9IkNIEXk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第3弾］　応募期間は10/31(金)まで！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16983.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16983.html</guid>
-            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
