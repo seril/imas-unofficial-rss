@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Nov 2025 11:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 14:19:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Nov 2025 11:16:46 GMT</pubDate>
+        <pubDate>Mon, 10 Nov 2025 14:19:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】『高槻 やよい ・ 水瀬 伊織 twin live “ いつまでもなかよし！ ”』　生オーディオコメンタリー配信を実施する公演は [きみとおはなし！]に決定！11月15日の配信をお楽しみに🌸]]></title>
+            <description><![CDATA[#高槻やよい_水瀬伊織_twinlive]]></description>
+            <link>https://idolmaster-official.jp/news/01_17306.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17306.html</guid>
+            <pubDate>Mon, 10 Nov 2025 12:38:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/11/rwgO8EhH1OLcf8EUghGgY1OpaEqt3TLn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】新ユニット「I'm a Cutie Finder」登場！お得情報＆初心者の方向けの情報まとめ]]></title>
             <description><![CDATA[#シャニソン　#アイキュー　#シャニマス]]></description>
@@ -63,6 +71,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17278.html</guid>
             <pubDate>Sun, 09 Nov 2025 22:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】『REALIZE！！！実装記念！ミリシタ生配信 出張SP ＠namcoTOKYO』お知らせまとめ]]></title>
+            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタREALIZE生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_17074.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17074.html</guid>
+            <pubDate>Sun, 09 Nov 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/CQizPs2wgnkkaOPM0swUasIvg2b6H2Aa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】『REALIZE！！！実装記念！ミリシタ生配信 出張SP ＠ namco TOKYO』放送記念！サイン入り特製イラスト色紙プレゼントキャンペーン実施中！]]></title>
+            <description><![CDATA[#ミリシタ  #ミリシタREALIZE生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_17259.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17259.html</guid>
+            <pubDate>Sun, 09 Nov 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/QujCGG4bVK69lrjquOpkNcLI63SMv3S2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニソン】『シャニソン生配信～祝2周年！アニバーサリー情報2週連続大放出SP 後編！～』お知らせまとめ！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17207.html</guid>
             <pubDate>Fri, 31 Oct 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/kbCFxMtT4atHRuzzhjBfe9xEMu4gQcZi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演に「冬馬のバターチキンカレーパン出張販売所」出店決定！！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF #カレーパン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17216.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17216.html</guid>
-            <pubDate>Fri, 31 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/hqrHcJrnzvepWpk1KeKEdhJSNVhAqhm9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～Halftone～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17196.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17196.html</guid>
-            <pubDate>Fri, 31 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/10/6IXJlBCDZjjxX5XO5KH877JqdGeSXaOM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】PROOFよりカードゲームサプライ商品の第5弾と新アイテムが登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17195.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17195.html</guid>
-            <pubDate>Fri, 31 Oct 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/10/ULs0FKovGA25loop84LkKFVJsZZDwrvG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
