@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Nov 2025 03:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 06:31:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Nov 2025 03:49:55 GMT</pubDate>
+        <pubDate>Mon, 10 Nov 2025 06:31:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】12月5日より「駅メモ！」シリーズコラボ開催決定！！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17295.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17295.html</guid>
+            <pubDate>Mon, 10 Nov 2025 06:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/YnNUGaz7LmAgJNkEAnanXoQQwrfTMR3p.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】新ユニット「I'm a Cutie Finder」が登場！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17274.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17274.html</guid>
+            <pubDate>Mon, 10 Nov 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/iN4N0fCRRthjTEDdRTZweXnJauaU4AYy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【会員限定】「Café Takayama シャニマス大解剖 2025」ダイジェスト記事]]></title>
             <description><![CDATA[【会員限定】「Café Takayama シャニマス大解剖 2025」ダイジェスト記事]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17111.html</guid>
             <pubDate>Mon, 20 Oct 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/10/b5KaXEbxxV5NGSh4E8DwbZQXvJgr6auW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】コラボ内容詳細発表！関西電力の社会貢献活動推進サービス「モアクト」 とのコラボキャンペーンが復刻決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
-            <link>https://idolmaster-official.jp/news/01_17094.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17094.html</guid>
-            <pubDate>Mon, 20 Oct 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/2A6gw63I3HR3jCOFqlk3Z2qFG2yltNip.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【10/31追記】【シャニソン】11月7日(金) 22:00～ 声優陣3名が出演するシャニソン生配信を実施予定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニソン  #シャニソン生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_16695.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16695.html</guid>
-            <pubDate>Mon, 20 Oct 2025 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/10/bGHxJHjNHOUk21GkhS829Bar1brECb71.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
