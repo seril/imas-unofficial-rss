@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Nov 2025 06:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 11:17:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Nov 2025 06:30:31 GMT</pubDate>
+        <pubDate>Tue, 11 Nov 2025 11:17:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】 「学園アイドルマスター　まちぼうけ2」がガシャポンに登場！予約受付中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17281.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17281.html</guid>
+            <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/1nHfc3cPRKry4wBwVkcmV8lOHTONvv29.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】「ちくせい花火大会2025を萩原雪歩さんがリポート！ #筑西市コラボ」本日22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #ちくせい花火大会2025 #筑西市コラボ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16822.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16822.html</guid>
+            <pubDate>Tue, 11 Nov 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/4iwzALqe1QwNMe26smlAkUdaqvLZJ4bq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 学マス 】‎紫雲清夏誕生日記念セット2025 受注受付中♬［11/30(日)まで］]]></title>
             <description><![CDATA[#学マス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16995.html</guid>
             <pubDate>Fri, 10 Oct 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/lPcfP3T9H0UcKNEXA2bX7hxaNGSwErAe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール成田」開催決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス成田]]></description>
-            <link>https://idolmaster-official.jp/news/01_16911.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16911.html</guid>
-            <pubDate>Fri, 10 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2024/08/pI9hAQEOQNlTawaZi2AhnLioPiebZ7Yj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】茨城県筑西市「ふたマス!!!!!!」渡辺みのりマンホールお披露目会中止のお知らせ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17045.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17045.html</guid>
-            <pubDate>Fri, 10 Oct 2025 07:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

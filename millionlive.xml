@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Nov 2025 06:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 11:17:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Nov 2025 06:30:31 GMT</pubDate>
+        <pubDate>Tue, 11 Nov 2025 11:17:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】「ちくせい花火大会2025を萩原雪歩さんがリポート！ #筑西市コラボ」本日22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #ちくせい花火大会2025 #筑西市コラボ]]></description>
+            <link>https://idolmaster-official.jp/news/01_16822.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16822.html</guid>
+            <pubDate>Tue, 11 Nov 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/4iwzALqe1QwNMe26smlAkUdaqvLZJ4bq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】環境省「リチウムイオン電池による火災防止強化キャンペーン」 周防桃子と北沢志保のボイス付き4コマ動画「その２」が本日公開🎥✨]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16984.html</guid>
             <pubDate>Fri, 10 Oct 2025 09:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/BDoX5W75ZGDJbh7ZgIh12iKU3nO3agz0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】「THE IDOLM@STER Series-M@STER's FESTA 2025-」が開催中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_16966.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16966.html</guid>
-            <pubDate>Fri, 10 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/imeFKLNVwQnCvovgTzgf2R5dVUqUZT3F.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
