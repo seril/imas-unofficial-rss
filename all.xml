@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Nov 2025 11:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Nov 2025 14:19:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 11 Nov 2025 11:17:04 GMT</pubDate>
+        <pubDate>Tue, 11 Nov 2025 14:19:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【YouTube】【#APラウンジ】【学マス】『1.5周年&雨夜 燕実装記念！親愛度コミュ同時視聴会』配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #学マス #雨夜燕  #APラウンジ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17314.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17314.html</guid>
+            <pubDate>Tue, 11 Nov 2025 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/11/MB2IS3N7l5oUjNuOcNKfd1ASu5LfJ5MU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【 #ヴイアラ 】「レトラ BIRTHDAY ONLINE LIVE 2025」ありがとうございました！セットリストを公開！ ソロ曲5th初披露にバースデー記念グッズセットも本日より受注販売開始！ 【 #レトラ誕生祭2025 】]]></title>
+            <description><![CDATA[ 【 #ヴイアラ 】「レトラ BIRTHDAY ONLINE LIVE 2025」ありがとうございました！セットリストを公開！ ソロ曲5th初披露にバースデー記念グッズセットも本日より受注販売開始！ 【 #レトラ誕生祭2025 】]]></description>
+            <link>https://idolmaster-official.jp/news/01_17300.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17300.html</guid>
+            <pubDate>Tue, 11 Nov 2025 12:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/b7Zc8Sz0Qan3jjAz0G8cw1LG5MODLnzT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【シャニソン】祝2周年！シャッフルユニット企画『PJ: REFRAC7IONS』について語ろう！【アイドルマスター】]]></title>
             <description><![CDATA[#アイマスch #シャニソン #APラウンジ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17229.html</guid>
             <pubDate>Mon, 03 Nov 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/RJrLsOESIgjA8KlWMwgS4Amk4ZDDSTWg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】【ゲーム実況】「ぷよぷよ!!クエスト」実況してみた【#秋月律子】 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ぷよクエアイマスコラボ #ぷよクエ律子実況中]]></description>
-            <link>https://idolmaster-official.jp/news/01_16825.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16825.html</guid>
-            <pubDate>Sun, 02 Nov 2025 11:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/tElo4hg3dpyDpS8HANlpAxAIue7rfWkF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「ぷよぷよ!!クエスト×アイドルマスター」コラボ決定！＆秋月律子によるコラボ先行体験配信も決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ぷよクエ #ぷよクエアイマスコラボ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17189.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17189.html</guid>
-            <pubDate>Sun, 02 Nov 2025 11:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/nlNKYMn3w8zzIcFbWGKVtkhxyTE7SCU9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
