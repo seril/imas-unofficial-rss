@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Nov 2025 06:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 11:16:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Nov 2025 06:30:18 GMT</pubDate>
+        <pubDate>Wed, 12 Nov 2025 11:16:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【アイマスMOIW2025】合同ライブ前夜祭DJイベント 11/15(土)13時よりチケット一般先着販売決定！LIVE PAINTでイラストレーターのきあと先生も追加出演決定！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17342.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17342.html</guid>
+            <pubDate>Wed, 12 Nov 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/ixmYCtB6nONqLeH8hgrvRXisVfsDpafV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【シャニソン】祝2周年！シャッフルユニット企画『PJ: REFRAC7IONS』について語ろう！【アイドルマスター】]]></title>
             <description><![CDATA[#アイマスch #シャニソン #APラウンジ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17124.html</guid>
             <pubDate>Tue, 21 Oct 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/HaTQQKZc7ibHhUYtCkUVhbQLKUqapXKg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】三峰 結華が手に入るガシャ開催中！さらに、イルミネーションスターズの楽曲『スマイルシンフォニア』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17062.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17062.html</guid>
-            <pubDate>Tue, 21 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/10/ljwMObqg8O4VglW8DBd9t0tuCoM8lgsj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

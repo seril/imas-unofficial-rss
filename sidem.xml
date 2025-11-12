@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Nov 2025 06:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 11:16:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Nov 2025 06:30:19 GMT</pubDate>
+        <pubDate>Wed, 12 Nov 2025 11:16:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【アイマスMOIW2025】合同ライブ前夜祭DJイベント 11/15(土)13時よりチケット一般先着販売決定！LIVE PAINTでイラストレーターのきあと先生も追加出演決定！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17342.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17342.html</guid>
+            <pubDate>Wed, 12 Nov 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/ixmYCtB6nONqLeH8hgrvRXisVfsDpafV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 DAY1昼公演 冒頭無料生配信決定！現地チケット＆配信チケットも販売中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_17258.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17258.html</guid>
+            <pubDate>Wed, 12 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/kU3ZTaJDj9jkD2PhaJZM0I1VJKHL6seZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 11月12日(水)18:00より現地チケット 一般発売2次(先着)の受付がスタート！＆当日券の発売も決定！配信チケットも販売中！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16983.html</guid>
             <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」本日10月10日(金)12:00よりアソビストア一般会員2次先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17036.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17036.html</guid>
-            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/qHmZ5NinXLirmvpJNZV1R2mJHIcvGZav.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】全国の「ナムコ」のお店で、11月21日(金)より『アイドルマスター』シリーズとのコラボ「チアフルアンサンブルキャンペーン」開催決定！新規衣装の限定景品やグッズが登場！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】全国の「ナムコ」のお店で、11月21日(金)より『アイドルマスター』シリーズとのコラボ「チアフルアンサンブルキャンペーン」開催決定！新規衣装の限定景品やグッズが登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17017.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17017.html</guid>
-            <pubDate>Fri, 10 Oct 2025 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/MaSI9vXpEdGYHISltX4zGnLpnpuAB4qI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
