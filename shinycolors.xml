@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Nov 2025 14:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 02:44:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 12 Nov 2025 14:20:18 GMT</pubDate>
+        <pubDate>Thu, 13 Nov 2025 02:44:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】高級感ただようインテリア「パーソナルパブミラー」シリーズに「郁田はるき」が登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17318.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17318.html</guid>
+            <pubDate>Thu, 13 Nov 2025 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/q4IATlotlDrR8aMp9dYNrF8HIgruCfIN.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマスMOIW2025】合同ライブ前夜祭DJイベント 11/15(土)13時よりチケット一般先着販売決定！LIVE PAINTでイラストレーターのきあと先生も追加出演決定！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17120.html</guid>
             <pubDate>Wed, 22 Oct 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/47sFh6Fr3R2TxknuMtGTCLvtwACRbLuj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス7th】螺旋公演の現地チケット一般発売2次（先着）が21日(火)18:00より開始！当日券の販売も決定！]]></title>
-            <description><![CDATA[#シャニマス7thTOUR螺旋 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17124.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17124.html</guid>
-            <pubDate>Tue, 21 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/HaTQQKZc7ibHhUYtCkUVhbQLKUqapXKg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
