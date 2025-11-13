@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Nov 2025 06:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 11:17:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Nov 2025 06:30:29 GMT</pubDate>
+        <pubDate>Thu, 13 Nov 2025 11:17:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】明日11月14日（金）より、お台場のテーマパーク「東京ジョイポリス」と『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』が連動したコラボが開始！]]></title>
+            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17347.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17347.html</guid>
+            <pubDate>Thu, 13 Nov 2025 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/plKdkVZdwV3RlfPdDK5FXOiFUN2qrmiR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマスMOIW2025】合同ライブ前夜祭DJイベント 11/15(土)13時よりチケット一般先着販売決定！LIVE PAINTでイラストレーターのきあと先生も追加出演決定！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17081.html</guid>
             <pubDate>Fri, 17 Oct 2025 09:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/vKUY2sRqD3RJaIsvjhcSew6WWy7UFVxV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17090.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

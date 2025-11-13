@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Nov 2025 06:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 11:17:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Nov 2025 06:30:29 GMT</pubDate>
+        <pubDate>Thu, 13 Nov 2025 11:17:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》2月に向けて水瀬伊織・永吉 昴が登場！「バレンタインデー」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル2月]]></description>
+            <link>https://idolmaster-official.jp/news/01_17334.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17334.html</guid>
+            <pubDate>Thu, 13 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/3jxxzRa2yU0GxomOkmwNAFLDzmJwJ48R.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【明日11/14(金)より】「Symphonic Chiffon　POP UP SHOP」開催‼🎹✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17276.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17276.html</guid>
+            <pubDate>Thu, 13 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/8r8RthdHTjMRltDNtejBrQFFD61SZPZU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」イベントグッズ事前再受注販売が本日11月13日(木)よりスタート！！]]></title>
+            <description><![CDATA[#ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_17337.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17337.html</guid>
+            <pubDate>Thu, 13 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/4KEuXwvr8CEmGIDlw4ox6g5HqV3bvEeD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマスMOIW2025】合同ライブ前夜祭DJイベント 11/15(土)13時よりチケット一般先着販売決定！LIVE PAINTでイラストレーターのきあと先生も追加出演決定！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17042.html</guid>
             <pubDate>Sat, 11 Oct 2025 10:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/8r8RthdHTjMRltDNtejBrQFFD61SZPZU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【ミリオン】「アイドルマスター カードフォリオ ミリオンライブver.」本日発売！！アソビストアと現地物販会場で販売開始！]]></title>
-            <description><![CDATA[#ミリオン12th #アイマスカードフォリオ #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17052.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17052.html</guid>
-            <pubDate>Sat, 11 Oct 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/7XO21NloTGV14UYXYYtnyG1948DriQC3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】「THE IDOLM@STER MILLION LIVE! 12thLIVE DAY1 ありのままに。」ご来場・ご視聴いただきありがとうございました！！本日のセットリスト&告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#ミリオン12th_day1]]></description>
-            <link>https://idolmaster-official.jp/news/01_17001.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17001.html</guid>
-            <pubDate>Fri, 10 Oct 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/upJtHGLZOpCTa2tZhl1JVTTkcrAfDsxF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【10/28（火）より開催】「アイドルマスター ミリオンライブ！×天然温泉湯～ねる」コラボの詳細情報を公開✨]]></title>
-            <description><![CDATA[#ミリオンライブ #湯～ねる]]></description>
-            <link>https://idolmaster-official.jp/news/01_17006.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17006.html</guid>
-            <pubDate>Fri, 10 Oct 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/i0RptgfODbT9hAJ2ZC8cdMewZuzk1qMp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
