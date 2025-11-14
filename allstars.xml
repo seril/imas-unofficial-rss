@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Nov 2025 06:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 11:16:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Nov 2025 06:30:10 GMT</pubDate>
+        <pubDate>Fri, 14 Nov 2025 11:16:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【偶像大師系列】台北快閃店2025「寶島食光」詳細確定♪]]></title>
+            <description><![CDATA[【偶像大師系列】台北快閃店2025「寶島食光」詳細確定♪]]></description>
+            <link>https://idolmaster-official.jp/news/01_17323.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17323.html</guid>
+            <pubDate>Fri, 14 Nov 2025 09:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』詳細決定♪]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』詳細決定♪]]></description>
+            <link>https://idolmaster-official.jp/news/01_17322.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17322.html</guid>
+            <pubDate>Fri, 14 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】アイドルマスター×自遊空間コラボキャンペーン詳細発表！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイドルマスター #アイドルマスター自遊空間]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16983.html</guid>
             <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」本日10月10日(金)12:00よりアソビストア一般会員2次先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17036.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17036.html</guid>
-            <pubDate>Fri, 10 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/qHmZ5NinXLirmvpJNZV1R2mJHIcvGZav.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】全国の「ナムコ」のお店で、11月21日(金)より『アイドルマスター』シリーズとのコラボ「チアフルアンサンブルキャンペーン」開催決定！新規衣装の限定景品やグッズが登場！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】全国の「ナムコ」のお店で、11月21日(金)より『アイドルマスター』シリーズとのコラボ「チアフルアンサンブルキャンペーン」開催決定！新規衣装の限定景品やグッズが登場！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17017.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17017.html</guid>
-            <pubDate>Fri, 10 Oct 2025 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/MaSI9vXpEdGYHISltX4zGnLpnpuAB4qI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

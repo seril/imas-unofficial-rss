@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Nov 2025 06:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 11:16:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Nov 2025 06:30:10 GMT</pubDate>
+        <pubDate>Fri, 14 Nov 2025 11:16:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【偶像大師系列】台北快閃店2025「寶島食光」詳細確定♪]]></title>
+            <description><![CDATA[【偶像大師系列】台北快閃店2025「寶島食光」詳細確定♪]]></description>
+            <link>https://idolmaster-official.jp/news/01_17323.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17323.html</guid>
+            <pubDate>Fri, 14 Nov 2025 09:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』詳細決定♪]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』詳細決定♪]]></description>
+            <link>https://idolmaster-official.jp/news/01_17322.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17322.html</guid>
+            <pubDate>Fri, 14 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ムービックより「学園アイドルマスター」のよりぬいミニ 第4弾が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17308.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17308.html</guid>
+            <pubDate>Fri, 14 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/ocPkEOko6jqQoTlS1eVr0votMFqgi3TW.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】1/7スケールフィギュア「篠澤 広【水着Ver.】」予約開始！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17093.html</guid>
             <pubDate>Sat, 18 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/09/fJWoyPdoeCo28srZx9tdr3FxIRz0xt3q.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】つくりより「White Night! White Wish!」新規グッズ受注販売開始!!]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17024.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17024.html</guid>
-            <pubDate>Fri, 17 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/lTBR88a3usdOIgJw1DsULBKT8j7Apj8y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ムービックより「学園アイドルマスター」のよりぬいミニ 第3弾が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17047.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17047.html</guid>
-            <pubDate>Fri, 17 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/wE0u0UErAXcsCZrpEAo23XIjuabHTcYw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17090.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
