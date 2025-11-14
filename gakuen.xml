@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Nov 2025 02:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Nov 2025 03:44:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Nov 2025 02:42:05 GMT</pubDate>
+        <pubDate>Fri, 14 Nov 2025 03:44:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】1/7スケールフィギュア「篠澤 広【水着Ver.】」予約開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17301.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17301.html</guid>
+            <pubDate>Fri, 14 Nov 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/5Sutw79YNL1fVwwMi1O8HS1Fr9Z5N8rX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「雨夜 燕」の大きなサイズの「もふぐっと ちびぐるみ」がおなまえ入りバッグとセットで登場！プレミアムバンダイにて本日11時より予約開始！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
             <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター ウエハース3　2026年2月発売決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17068.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17068.html</guid>
-            <pubDate>Thu, 16 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/BF0ek3QD5gGtqoZF9FJEZXI4kICEG5gC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
