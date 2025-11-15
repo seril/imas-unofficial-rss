@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Nov 2025 11:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Nov 2025 14:16:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Nov 2025 11:14:17 GMT</pubDate>
+        <pubDate>Sat, 15 Nov 2025 14:16:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】11/15(土)学マス生配信「初星学園HR ～祝1.5thアニバーサリー！！！雨夜 燕プロデュース開始直前SP～」お知らせまとめ]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター #雨夜燕プロデュース直前]]></description>
+            <link>https://idolmaster-official.jp/news/01_17230.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17230.html</guid>
+            <pubDate>Fri, 14 Nov 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/11/LrMOtpJ6FRkXVDC1ye2MrRuZFgqNYgLh.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス2nd】学園アイドルマスター The 2nd Period 2026年5月16日(土)・17日(日)、6月6日(土)・7日(日)にて開催決定！アソビストアプレミアム会員先行(抽選)開始！]]></title>
+            <description><![CDATA[#学マス  #学マス2nd]]></description>
+            <link>https://idolmaster-official.jp/news/01_17315.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17315.html</guid>
+            <pubDate>Sat, 15 Nov 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/YkyFx1rcLhvq8Fyh18KVenhG35m3CLWl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】本日11月15日(土)より 如月千早武道館単独公演「OathONE」アソビストア一般会員3次先行の受付がスタート！協賛企業も一挙公開！]]></title>
             <description><![CDATA[#如月千早武道館単独公演]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17274.html</guid>
             <pubDate>Mon, 10 Nov 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/iN4N0fCRRthjTEDdRTZweXnJauaU4AYy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【会員限定】「Café Takayama シャニマス大解剖 2025」ダイジェスト記事]]></title>
-            <description><![CDATA[【会員限定】「Café Takayama シャニマス大解剖 2025」ダイジェスト記事]]></description>
-            <link>https://idolmaster-official.jp/news/01_17255.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17255.html</guid>
-            <pubDate>Mon, 10 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/rBi4aRnoPeZQgAbMdzA1kCzlHKyY0HLm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」12月13日(土)に発売決定！！本日より受注開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17278.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17278.html</guid>
-            <pubDate>Sun, 09 Nov 2025 22:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
