@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Nov 2025 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Nov 2025 02:26:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Nov 2025 14:19:12 GMT</pubDate>
+        <pubDate>Sat, 15 Nov 2025 02:26:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【偶像大師系列】台北快閃店2025「寶島食光」詳細確定♪]]></title>
@@ -49,20 +49,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/kU3ZTaJDj9jkD2PhaJZM0I1VJKHL6seZ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 いよいよ今週末開催！展示・物販など現地施策情報を要チェック＆現地チケット・配信チケットも販売中！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_17330.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17330.html</guid>
-            <pubDate>Thu, 13 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/gsXkAfpK6eBrA0bpS3iFhPtOzs5JHZaK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 11月12日(水)18:00より現地チケット 一般発売2次(先着)の受付がスタート！＆当日券の発売も決定！配信チケットも販売中！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
             <link>https://idolmaster-official.jp/news/01_17257.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17257.html</guid>
             <pubDate>Tue, 11 Nov 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/uauOV5mHwkaGuPsQda2nnA5JUomYjz7g.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 いよいよ今週末開催！展示・物販など現地施策情報を要チェック＆現地チケット・配信チケットも販売中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_17330.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17330.html</guid>
+            <pubDate>Thu, 13 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/gsXkAfpK6eBrA0bpS3iFhPtOzs5JHZaK.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【765プロ】「ちくせい花火大会2025を萩原雪歩さんがリポート！ #筑西市コラボ」本日22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
