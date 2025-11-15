@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Nov 2025 06:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Nov 2025 11:14:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Nov 2025 06:27:25 GMT</pubDate>
+        <pubDate>Sat, 15 Nov 2025 11:14:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【765】本日11月15日(土)より 如月千早武道館単独公演「OathONE」アソビストア一般会員3次先行の受付がスタート！協賛企業も一挙公開！]]></title>
@@ -31,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17362.html</guid>
             <pubDate>Sat, 15 Nov 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/11/huhbZe5SFhTdKdnQ1aU1OqzO2CqK11AV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「初星学園HR ～祝1.5thアニバーサリー！！！雨夜 燕プロデュース開始直前SP～」配信記念！寄せ書きサイン色紙＆特別読み切り漫画「雨夜 燕 Episode:0」製本版プレゼントキャンペーン開催中！	]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター #雨夜燕プロデュース直前 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17359.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17359.html</guid>
+            <pubDate>Fri, 14 Nov 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/11/zSzF56dF8nmKVTdH5QcEBN6BQjrj7I6E.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【明後日まで！】11/29(土)&30(日)開催♡ 「シンデレラガールズフェス」公式グッズの数量限定販売は11/16(日)まで！描きおろしイラストの34名の豪華アイドルグッズ、ぜひお見逃しなく♪]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17278.html</guid>
             <pubDate>Sun, 09 Nov 2025 22:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】『REALIZE！！！実装記念！ミリシタ生配信 出張SP ＠namcoTOKYO』お知らせまとめ]]></title>
-            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタREALIZE生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_17074.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17074.html</guid>
-            <pubDate>Sun, 09 Nov 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/CQizPs2wgnkkaOPM0swUasIvg2b6H2Aa.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
