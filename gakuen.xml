@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 16 Nov 2025 03:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Nov 2025 06:27:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Nov 2025 03:48:21 GMT</pubDate>
+        <pubDate>Sun, 16 Nov 2025 06:27:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】総額100万円分の「えらべるPay®」が抽選で1000名様に当たる！『「#雨夜燕プロデュース開始」「えらべるPay®」プレゼントキャンペーン』開催中！]]></title>
+            <description><![CDATA[#学マス #えらべるPay #雨夜燕プロデュース開始]]></description>
+            <link>https://idolmaster-official.jp/news/01_17101.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17101.html</guid>
+            <pubDate>Sun, 16 Nov 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/10/a9IQW73nPlHjzvwo8OaURXsKxQjunVQg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日締切！【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストア一般会員3次先行抽選受付は本日11月16日(日)23:59まで！！]]></title>
             <description><![CDATA[#アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17064.html</guid>
             <pubDate>Tue, 21 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/10/zY8TmA1e13z1ABeUmtKvtKtJnggc9Vdm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】花海咲季×gladgarbコラボアパレルが登場！ご予約受付中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17113.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17113.html</guid>
-            <pubDate>Tue, 21 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/f5SR2Q3Sto9fB43u7G2OewuE8wXKsjYe.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
