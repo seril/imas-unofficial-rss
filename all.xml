@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Nov 2025 02:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 03:48:31 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Nov 2025 02:43:54 GMT</pubDate>
+        <pubDate>Mon, 17 Nov 2025 03:48:31 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_騎士団】#アンティーカ_騎士団 デジタルスタンプラリーが、12月19日(金)～1月18日(日)に名古屋で開催決定!!]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17254.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17254.html</guid>
+            <pubDate>Mon, 17 Nov 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/f5pkyc9GO23UbG6fzfXXdHQb2I9LCWXb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NFES】Who goes first 大阪公演 ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17199.html</guid>
             <pubDate>Tue, 11 Nov 2025 03:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/L7yrQG8AnP1VT9rUEAZI2RTb1RrNH0pb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 学マス 】‎紫雲清夏誕生日記念セット2025 受注受付中♬［11/30(日)まで］]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17302.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17302.html</guid>
-            <pubDate>Tue, 11 Nov 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/nrLeTkVRQYxQ0EoxqTFaol5JIbn9x8bO.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
