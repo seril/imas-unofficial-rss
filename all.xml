@@ -4,17 +4,65 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Nov 2025 06:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 11:17:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Nov 2025 06:30:55 GMT</pubDate>
+        <pubDate>Mon, 17 Nov 2025 11:17:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】 「学園アイドルマスター めじるしアクセサリー2」がガシャポンに登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17312.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17312.html</guid>
+            <pubDate>Mon, 17 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/464cgACZYK7IZqQioTSqm140RYa9UG3b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】Who goes first 大阪公演 視聴コメント付きアーカイブ公開！公演アンケートも実施中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_17363.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17363.html</guid>
+            <pubDate>Mon, 17 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/KYCoE8IPwtB9aW9mxZgeIjAtK2Aja1O6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】環境省「リチウムイオン電池による火災防止強化キャンペーン」 周防桃子と北沢志保のボイス付き4コマ動画「その３」が本日公開🎥✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17269.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17269.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/DI1KVDDXMqF7LnFto8zE7D9VoqjMIImP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></description>
+            <link>https://idolmaster-official.jp/news/01_17303.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17303.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/OC2XmhYxIsGMEOp7aTSwcqrKJcWymHSk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「ぷちピンバッジ」雨夜 燕と「担当ネームプレート」が登場！11月21日(金)よりアイドルマスター オフィシャルショップ各店にて取り扱い開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17316.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17316.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/b889MUaszov0et5AKIsAg7tUnZG5Mhk3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売！！「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」受注中！！カードリストの一部を公開♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17348.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17348.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～Texting you～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ #バトルオブシアター]]></description>
             <link>https://idolmaster-official.jp/news/01_17341.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17341.html</guid>
             <pubDate>Mon, 17 Nov 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/11/V4QWWmmmF09zRG5JLkJV4Kw3OALDqo05.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第11弾『がおちゅー♪さふぁりぱーく！』の発売が決定！]]></title>
@@ -359,54 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17300.html</guid>
             <pubDate>Tue, 11 Nov 2025 12:35:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/b7Zc8Sz0Qan3jjAz0G8cw1LG5MODLnzT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【シャニソン】祝2周年！シャッフルユニット企画『PJ: REFRAC7IONS』について語ろう！【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマスch #シャニソン #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16643.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16643.html</guid>
-            <pubDate>Tue, 11 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/11/N6XTwgzSU2Q0MRrl04hhMg8qzvNxZqy5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 11月12日(水)18:00より現地チケット 一般発売2次(先着)の受付がスタート！＆当日券の発売も決定！配信チケットも販売中！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_17257.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17257.html</guid>
-            <pubDate>Tue, 11 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/uauOV5mHwkaGuPsQda2nnA5JUomYjz7g.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】～Who goes first～ 大阪公演 いよいよ今週末開催！展示・物販など現地施策情報を要チェック＆現地チケット・配信チケットも販売中！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_17330.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17330.html</guid>
-            <pubDate>Thu, 13 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/gsXkAfpK6eBrA0bpS3iFhPtOzs5JHZaK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】八宮 めぐるが登場するガシャを開催中！ プロデュースイベントも開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17304.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17304.html</guid>
-            <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/pThUcLdYKGYq61qIEBYmmEul2WGzNzQD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】 「学園アイドルマスター　まちぼうけ2」がガシャポンに登場！予約受付中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17281.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17281.html</guid>
-            <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/1nHfc3cPRKry4wBwVkcmV8lOHTONvv29.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】「ちくせい花火大会2025を萩原雪歩さんがリポート！ #筑西市コラボ」本日22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #ちくせい花火大会2025 #筑西市コラボ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16822.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16822.html</guid>
-            <pubDate>Tue, 11 Nov 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/4iwzALqe1QwNMe26smlAkUdaqvLZJ4bq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

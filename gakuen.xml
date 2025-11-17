@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Nov 2025 06:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 11:17:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Nov 2025 06:30:55 GMT</pubDate>
+        <pubDate>Mon, 17 Nov 2025 11:17:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】 「学園アイドルマスター めじるしアクセサリー2」がガシャポンに登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17312.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17312.html</guid>
+            <pubDate>Mon, 17 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/464cgACZYK7IZqQioTSqm140RYa9UG3b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></description>
+            <link>https://idolmaster-official.jp/news/01_17303.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17303.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/OC2XmhYxIsGMEOp7aTSwcqrKJcWymHSk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「ぷちピンバッジ」雨夜 燕と「担当ネームプレート」が登場！11月21日(金)よりアイドルマスター オフィシャルショップ各店にて取り扱い開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17316.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17316.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/b889MUaszov0et5AKIsAg7tUnZG5Mhk3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売！！「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」受注中！！カードリストの一部を公開♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17348.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17348.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】総額100万円分の「えらべるPay®」が抽選で1000名様に当たる！『「#雨夜燕プロデュース開始」「えらべるPay®」プレゼントキャンペーン』開催中！]]></title>
             <description><![CDATA[#学マス #えらべるPay #雨夜燕プロデュース開始]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17132.html</guid>
             <pubDate>Thu, 23 Oct 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2025/10/yh5sYpt8agJU6aeR7GJIAHFeyz1kmtwi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター ちびぐるみ」vol.3～4がナムコオンラインクレーンに再登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16985.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16985.html</guid>
-            <pubDate>Thu, 23 Oct 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/mvnEkK1q296FLhxhScy9nhPrF52BMc8r.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】全国のイオングループ店舗でサントリーフーズ株式会社とのタイアップキャンペーンが決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17007.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17007.html</guid>
-            <pubDate>Thu, 23 Oct 2025 00:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/GyJIR6fvyTqoN6Umf8uCWDen81Kl9aqR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】PROOFより「クラス対抗初星大運動会」協賛商品の一般販売が開始！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17122.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17122.html</guid>
-            <pubDate>Tue, 21 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/jqLQVV4bybesK8oJOOv5OZLhsa0r7oL0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】倉本千奈のスケールフィギュア が製品化決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17064.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17064.html</guid>
-            <pubDate>Tue, 21 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/10/zY8TmA1e13z1ABeUmtKvtKtJnggc9Vdm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

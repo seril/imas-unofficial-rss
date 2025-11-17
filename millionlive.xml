@@ -4,17 +4,41 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Nov 2025 06:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 11:17:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Nov 2025 06:30:55 GMT</pubDate>
+        <pubDate>Mon, 17 Nov 2025 11:17:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】環境省「リチウムイオン電池による火災防止強化キャンペーン」 周防桃子と北沢志保のボイス付き4コマ動画「その３」が本日公開🎥✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17269.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17269.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/DI1KVDDXMqF7LnFto8zE7D9VoqjMIImP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></description>
+            <link>https://idolmaster-official.jp/news/01_17303.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17303.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/OC2XmhYxIsGMEOp7aTSwcqrKJcWymHSk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売！！「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」受注中！！カードリストの一部を公開♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17348.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17348.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～Texting you～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ #バトルオブシアター]]></description>
             <link>https://idolmaster-official.jp/news/01_17341.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17341.html</guid>
             <pubDate>Mon, 17 Nov 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/11/V4QWWmmmF09zRG5JLkJV4Kw3OALDqo05.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[本日締切！【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストア一般会員3次先行抽選受付は本日11月16日(日)23:59まで！！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16967.html</guid>
             <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/dKh4bUyXSOjRExKKxPUwub6xyAOb9ucE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17090.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「オファマス」オファーいただいた企業・自治体を一部先行してご紹介！［第4弾］　応募期間は10/31(金)まで！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17014.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17014.html</guid>
-            <pubDate>Wed, 15 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン12th】視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン12th]]></description>
-            <link>https://idolmaster-official.jp/news/01_17032.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17032.html</guid>
-            <pubDate>Mon, 13 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/3MBsaAK9f5gdNEaPAeHcTyHGftTLH3AA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

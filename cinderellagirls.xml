@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Nov 2025 06:30:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 11:17:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Nov 2025 06:30:55 GMT</pubDate>
+        <pubDate>Mon, 17 Nov 2025 11:17:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></description>
+            <link>https://idolmaster-official.jp/news/01_17303.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17303.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/OC2XmhYxIsGMEOp7aTSwcqrKJcWymHSk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売！！「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」受注中！！カードリストの一部を公開♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17348.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17348.html</guid>
+            <pubDate>Mon, 17 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第11弾『がおちゅー♪さふぁりぱーく！』の発売が決定！]]></title>
             <description><![CDATA[【シンデレラ】「STARLIGHT MASTER CRYSTAL QUALIA」シリーズ第11弾『がおちゅー♪さふぁりぱーく！』の発売が決定！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17148.html</guid>
             <pubDate>Fri, 24 Oct 2025 11:19:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/GzHOxhHZOxaTcygLfbtzvX2GgKCz20yP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】ANICLOSET.より、『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』にて『アイドルマスター シンデレラガールズ Light at Night』の 再販が決定！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17133.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17133.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:18:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/xO2mEPVKn7Gf3HOnlVGVNg38x0kmlnLC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】フレグランスブランドのAnidealより、『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』とのコラボレーション香水受注発売が決定✨]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17134.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17134.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:18:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/S0iJOTYFmNQ3D0NIBh0tWCXgemsEPhNf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
