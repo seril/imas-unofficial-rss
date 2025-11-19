@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 19 Nov 2025 02:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Nov 2025 03:43:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Nov 2025 02:41:43 GMT</pubDate>
+        <pubDate>Wed, 19 Nov 2025 03:43:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ラジオ】「2025年11月メンバー限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17151.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17151.html</guid>
+            <pubDate>Wed, 19 Nov 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/cal1suxPRwAQqhFHP1Qf1WD3tS288Tpc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NFES】Who goes first 大阪公演 視聴コメント付きアーカイブ公開！公演アンケートも実施中！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17018.html</guid>
             <pubDate>Thu, 16 Oct 2025 05:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/fz35aGmlSCc9hH6reZnK7NyZbt6PRsRr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】12月20日(土)より『アイドルマスター SideM』グッズフェア in アニメイトの開催が決定！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_17019.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17019.html</guid>
-            <pubDate>Wed, 15 Oct 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/EYI5ENRk18gBdll1ZrU1bzOx2LkMfNHy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
