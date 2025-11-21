@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Nov 2025 11:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 14:19:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 21 Nov 2025 11:16:51 GMT</pubDate>
+        <pubDate>Fri, 21 Nov 2025 14:19:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】シンデレラガールズフェスに関するAPラウンジ&定点カメラ&感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch  #imas_cg #シンデレラガールズフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_16830.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16830.html</guid>
+            <pubDate>Fri, 21 Nov 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/ja8kkJzLVTEANgNel7H9eKlrz3cUn8fa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】CINDERELLA GIRLS fes. Once Upon a St@rsに「おおはらベーカリー出張販売所～秋のもぐもぐパン祭り～」が出店決定！]]></title>
             <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17166.html</guid>
             <pubDate>Fri, 24 Oct 2025 11:28:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/dL4QB7YgyMi18Ep6x1zVeEfLp1C9b0sM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】THEキャラキッチンカーより、11/29(土)30(日)開催『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』でのグッズの販売が決定🌸 グッズ情報も公開♪]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17149.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17149.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:31:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/PWxc02bEAsG9lTvfHq1R1BFvD64QxRDw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
