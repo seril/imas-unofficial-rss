@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Nov 2025 02:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Nov 2025 03:36:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Nov 2025 02:24:42 GMT</pubDate>
+        <pubDate>Sat, 22 Nov 2025 03:36:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs 』現地チケット一般発売(先着)の受付は明日11/23(日)まで！リセールは11/24(月・祝)まで！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
+            <link>https://idolmaster-official.jp/news/01_17428.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17428.html</guid>
+            <pubDate>Sat, 22 Nov 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/11/huhbZe5SFhTdKdnQ1aU1OqzO2CqK11AV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】＼＼今週末まで！／／さそり座16名は11/24(月・祝)まで！星座にフィーチャーした190名のバースデーコレクション、ラスト第12弾「さそり座」が受注中♪]]></title>
+            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17439.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17439.html</guid>
+            <pubDate>Sat, 22 Nov 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/bK4rw1yIdY4fmNIwG0hNKJi3WHzzJ4fT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】シンデレラガールズフェスに関するAPラウンジ&定点カメラ&感想会 配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch  #imas_cg #シンデレラガールズフェス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16914.html</guid>
             <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/MiEcdGslOMJTrdXI9vPruHGE0YPjlqIz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『gladgarb（グラッドガーブ）』とミステリアスアイズのコラボが決定！『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』バンダイブースでは展示も✨]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17163.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17163.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:27:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/K71Rze7vcst9TeQVC6SIX1PqPQlGo5BJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】アクセサリーブランド『TAKE-UP（テイクアップ）』と再びコラボ決定！『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE』バンダイブースでは展示も✨]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17166.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17166.html</guid>
-            <pubDate>Fri, 24 Oct 2025 11:28:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/dL4QB7YgyMi18Ep6x1zVeEfLp1C9b0sM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
