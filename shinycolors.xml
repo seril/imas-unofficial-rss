@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 24 Nov 2025 06:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 11:17:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 24 Nov 2025 06:31:09 GMT</pubDate>
+        <pubDate>Mon, 24 Nov 2025 11:17:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】SHIBUYA TSUTAYA IP書店、TSUTAYA EBISUBASHI 大阪IP書店にてAXGRIT 第4弾『アイドルマスター シャイニーカラーズ』の展開が決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17298.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17298.html</guid>
+            <pubDate>Mon, 24 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/WbcWTBjXqZBDn7x5sbmIISj8UuXg9dU0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール成田』イベントレポート]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス成田]]></description>
+            <link>https://idolmaster-official.jp/news/01_17401.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17401.html</guid>
+            <pubDate>Mon, 24 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/11/ejlWz4ar8D2KeOywRNiNT8CLNcmiLPEN.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！カードリストも順次公開中♪]]></title>
             <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17194.html</guid>
             <pubDate>Wed, 29 Oct 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/xP3s6S5QIielfIFo4pt9gpTp72txFzV4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス大感謝祭】「シャニマス大感謝祭！〜283スポーツフェスティバル〜」オリジナル応援幕プロデュース権購入者限定！サイン入り応援幕プレゼントキャンペーンの実施が決定！]]></title>
-            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17204.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17204.html</guid>
-            <pubDate>Wed, 29 Oct 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2025/10/jMeccCV8AUPDGNHuEhYbPTN66Pc6IqW7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』第3弾が10月29日稼働開始！水瀬伊織・硲道夫が登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17192.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17192.html</guid>
-            <pubDate>Tue, 28 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/bhDwHJPKUwwzC0jWSri18jJJBaxaob6p.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
