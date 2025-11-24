@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Nov 2025 14:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 02:51:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Nov 2025 14:16:24 GMT</pubDate>
+        <pubDate>Mon, 24 Nov 2025 02:51:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！カードリストも順次公開中♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17395.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17395.html</guid>
+            <pubDate>Mon, 24 Nov 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs 』現地チケット一般発売(先着)の受付は明日11/23(日)まで！リセールは11/24(月・祝)まで！]]></title>
             <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16867.html</guid>
             <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/XUqFfL5oe89L0Dd8Dqf2nYeWlZ1u67GJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】三省堂書店 池袋本店にて「アイドルマスター シンデレラガールズ POP UP CORNER ～Welcome to BookWorld!～」 開催決定！ ]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16914.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16914.html</guid>
-            <pubDate>Fri, 24 Oct 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/MiEcdGslOMJTrdXI9vPruHGE0YPjlqIz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
