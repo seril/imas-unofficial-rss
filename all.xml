@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 06:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 11:17:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 06:31:38 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 11:17:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】【#パックマス】「PIZZA-LA」×「アイ MAKE IMP@CT！」」コラボキャンペーン🍕👻好評につき、 販売延長が決定！💞【1/6(火)まで！】]]></title>
+            <description><![CDATA[#パックマスピザーラ #pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17383.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17383.html</guid>
+            <pubDate>Tue, 25 Nov 2025 09:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/6SuG1XQEHKP1Bk3MQ5wXJ21lVHMcSQMA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「765PRO ALLSTARS 2025⇒2026 大忘年会×新年会 in KOTOBUKIY@」詳細が解禁!!🎉🥂]]></title>
+            <description><![CDATA[【765】「765PRO ALLSTARS 2025⇒2026 大忘年会×新年会 in KOTOBUKIY@」詳細が解禁!!🎉🥂]]></description>
+            <link>https://idolmaster-official.jp/news/01_17317.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17317.html</guid>
+            <pubDate>Tue, 25 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/cwBEHxizpiskF7fLVLZdUErEWAIhQw7b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】環境省「リチウムイオン電池による火災防止強化キャンペーン」 周防桃子と北沢志保のボイス付き4コマ動画「その４」が本日公開🎥✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17384.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17384.html</guid>
+            <pubDate>Tue, 25 Nov 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/kXveD6gHG2zsnfaeLqKHrRxWxNwIhTS5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】紀伊國屋書店 新宿本店にて「夢色メルヘンワンダー POP UP SHOP」開催決定！ 先行通販も本日より開始♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17422.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17422.html</guid>
+            <pubDate>Tue, 25 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/73vyAZ7Y6wYuk2GccrSy27Z5Hlo3H0cg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】FAMくじオンラインに「アイドルマスター ミリオンライブ！」が登場🎄❄]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17374.html</guid>
             <pubDate>Sun, 16 Nov 2025 05:40:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/kNAoL25hVKWWgvRWn4zm3WkJvqSfPbPI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日締切！【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストア一般会員3次先行抽選受付は本日11月16日(日)23:59まで！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17354.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17354.html</guid>
-            <pubDate>Sun, 16 Nov 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/FAPW4Sjvwv1pMkIqNNhkMF6t4kDT3FFN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！】11/29(土)&30(日)開催♡ 「シンデレラガールズフェス」公式グッズの数量限定販売は本日11/16(日)まで！描きおろしイラストの34名の豪華アイドルグッズ、ぜひお見逃しなく♪]]></title>
-            <description><![CDATA[#シンデレラガールズフェス #シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_17352.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17352.html</guid>
-            <pubDate>Sun, 16 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/10/BSy7bnjywxGRxHJDDvglfmXRX82lVQIj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで！】【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」2月にお誕生日を迎えるアイドルたちのバースデー記念グッズ販売中！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17349.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17349.html</guid>
-            <pubDate>Sun, 16 Nov 2025 01:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/rstVu277RKHg3BhKe19XkoXPkQQuk4r6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】11/15(土)学マス生配信「初星学園HR ～祝1.5thアニバーサリー！！！雨夜 燕プロデュース開始直前SP～」お知らせまとめ]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #雨夜燕プロデュース直前]]></description>
-            <link>https://idolmaster-official.jp/news/01_17230.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17230.html</guid>
-            <pubDate>Fri, 14 Nov 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/11/LrMOtpJ6FRkXVDC1ye2MrRuZFgqNYgLh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

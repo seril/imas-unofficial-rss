@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 06:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 11:17:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 06:31:37 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 11:17:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】【#パックマス】「PIZZA-LA」×「アイ MAKE IMP@CT！」」コラボキャンペーン🍕👻好評につき、 販売延長が決定！💞【1/6(火)まで！】]]></title>
+            <description><![CDATA[#パックマスピザーラ #pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17383.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17383.html</guid>
+            <pubDate>Tue, 25 Nov 2025 09:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/6SuG1XQEHKP1Bk3MQ5wXJ21lVHMcSQMA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「765PRO ALLSTARS 2025⇒2026 大忘年会×新年会 in KOTOBUKIY@」詳細が解禁!!🎉🥂]]></title>
+            <description><![CDATA[【765】「765PRO ALLSTARS 2025⇒2026 大忘年会×新年会 in KOTOBUKIY@」詳細が解禁!!🎉🥂]]></description>
+            <link>https://idolmaster-official.jp/news/01_17317.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17317.html</guid>
+            <pubDate>Tue, 25 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/cwBEHxizpiskF7fLVLZdUErEWAIhQw7b.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール成田』イベントレポート]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス成田]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17099.html</guid>
             <pubDate>Sat, 18 Oct 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/10/yTlAIsb9rOpeyifcZ5A2DeT5eCo61W5a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17090.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注中】【765】如月千早武道館単独公演「OathONE」公式グッズ事前二次販売]]></title>
-            <description><![CDATA[#如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_17089.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17089.html</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/10/zc7KTD8QITbfMKBzfgrfwadjNWp1ax3H.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
