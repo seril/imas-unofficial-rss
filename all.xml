@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 03:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 06:31:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 03:48:00 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 06:31:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】FAMくじオンラインに「アイドルマスター ミリオンライブ！」が登場🎄❄]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17419.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17419.html</guid>
+            <pubDate>Tue, 25 Nov 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/CxCzN03KIXF3H7yTCdacLBLkt9yIsGgx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ブシロードクリエイティブよりデフォルメフィギュア「PalVerse」が登場！ご予約受付中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17452.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17452.html</guid>
+            <pubDate>Tue, 25 Nov 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/ZxichdE8sEzJzdlAzIG2XTP0GQ2NZFBA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】FREEingより『1/4スケールフィギュア 花海佑芽 バニーVer.』が受注開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17382.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17382.html</guid>
+            <pubDate>Tue, 25 Nov 2025 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/e2l6HLVjkS5DeFuAmP9h1g6Mln616QQs.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】くじ引き堂にてTVアニメ「アイドルマスター シンデレラガールズ」のオンラインくじが発売決定！！]]></title>
             <description><![CDATA[#デレマス]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17230.html</guid>
             <pubDate>Fri, 14 Nov 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/11/LrMOtpJ6FRkXVDC1ye2MrRuZFgqNYgLh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス2nd】学園アイドルマスター The 2nd Period 2026年5月16日(土)・17日(日)、6月6日(土)・7日(日)にて開催決定！アソビストアプレミアム会員先行(抽選)開始！]]></title>
-            <description><![CDATA[#学マス  #学マス2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_17315.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17315.html</guid>
-            <pubDate>Sat, 15 Nov 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/YkyFx1rcLhvq8Fyh18KVenhG35m3CLWl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】本日11月15日(土)より 如月千早武道館単独公演「OathONE」アソビストア一般会員3次先行の受付がスタート！協賛企業も一挙公開！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_17336.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17336.html</guid>
-            <pubDate>Sat, 15 Nov 2025 03:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/11/vkSNme5m9OdU1b0x79zi7ueKr53v64OQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】11/29(土)&30(日)開催♡ 「シンデレラガールズフェス」公式グッズの数量限定販売は明日11/16(日)まで！描きおろしイラストの34名の豪華アイドルグッズ、ぜひお見逃しなく♪]]></title>
-            <description><![CDATA[#シンデレラガールズフェス #シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_17356.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17356.html</guid>
-            <pubDate>Sat, 15 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/10/BSy7bnjywxGRxHJDDvglfmXRX82lVQIj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
