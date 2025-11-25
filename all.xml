@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 11:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 14:19:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 11:17:48 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 14:19:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』現地チケット追加発売(先着)の受付が明日11/26(水)から開始！当日券発売も！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
+            <link>https://idolmaster-official.jp/news/01_17467.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17467.html</guid>
+            <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/11/0c5NISLrFWDvQOGgI0sIkJOWjuo5LlxW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】#夢見りあむは分かりたい ご視聴ありがとうございました！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
+            <link>https://idolmaster-official.jp/news/01_17461.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17461.html</guid>
+            <pubDate>Tue, 25 Nov 2025 11:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/lCXo9h4VPYDOKUrMTxp7n3xuMboPyEPq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】【#パックマス】「PIZZA-LA」×「アイ MAKE IMP@CT！」」コラボキャンペーン🍕👻好評につき、 販売延長が決定！💞【1/6(火)まで！】]]></title>
             <description><![CDATA[#パックマスピザーラ #pacman #PACMAN45TH #アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17339.html</guid>
             <pubDate>Sun, 16 Nov 2025 11:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/DpHzGL4TMu1zKjPKMR733sT6EI9gVA5K.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】総額100万円分の「えらべるPay®」が抽選で1000名様に当たる！『「#雨夜燕プロデュース開始」「えらべるPay®」プレゼントキャンペーン』開催中！]]></title>
-            <description><![CDATA[#学マス #えらべるPay #雨夜燕プロデュース開始]]></description>
-            <link>https://idolmaster-official.jp/news/01_17101.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17101.html</guid>
-            <pubDate>Sun, 16 Nov 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/10/a9IQW73nPlHjzvwo8OaURXsKxQjunVQg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】「876 PRODUCTION FES.」イベント公式グッズ事前物販本日〆切！]]></title>
-            <description><![CDATA[#876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17374.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17374.html</guid>
-            <pubDate>Sun, 16 Nov 2025 05:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/kNAoL25hVKWWgvRWn4zm3WkJvqSfPbPI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

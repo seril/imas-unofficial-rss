@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 11:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 14:19:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 11:17:48 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 14:19:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』現地チケット追加発売(先着)の受付が明日11/26(水)から開始！当日券発売も！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
+            <link>https://idolmaster-official.jp/news/01_17467.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17467.html</guid>
+            <pubDate>Tue, 25 Nov 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/11/0c5NISLrFWDvQOGgI0sIkJOWjuo5LlxW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】#夢見りあむは分かりたい ご視聴ありがとうございました！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
+            <link>https://idolmaster-official.jp/news/01_17461.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17461.html</guid>
+            <pubDate>Tue, 25 Nov 2025 11:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/lCXo9h4VPYDOKUrMTxp7n3xuMboPyEPq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】くじ引き堂にてTVアニメ「アイドルマスター シンデレラガールズ」のオンラインくじが発売決定！！]]></title>
             <description><![CDATA[#デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16640.html</guid>
             <pubDate>Mon, 27 Oct 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/tPSHAfBi8D76ajVysP3i5chsZbmMgbfo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日締切！【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストア一般会員2次先行抽選受付は本日10月27日(月)23:59まで！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17184.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17184.html</guid>
-            <pubDate>Mon, 27 Oct 2025 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/qHmZ5NinXLirmvpJNZV1R2mJHIcvGZav.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】本日よりスタート！関西電力の社会貢献活動推進サービス「モアクト」 とのコラボキャンペーンが復刻開催中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
-            <link>https://idolmaster-official.jp/news/01_17165.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17165.html</guid>
-            <pubDate>Mon, 27 Oct 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/TL0Du3kZBb0EUVUbOqhTg6lkMt7OgfEU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
