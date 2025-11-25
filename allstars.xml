@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Nov 2025 02:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Nov 2025 03:48:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 25 Nov 2025 02:44:08 GMT</pubDate>
+        <pubDate>Tue, 25 Nov 2025 03:48:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール成田』イベントレポート]]></title>
@@ -30,7 +30,7 @@
             <link>https://idolmaster-official.jp/news/01_17436.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17436.html</guid>
             <pubDate>Fri, 21 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/yJwZIXhmsENt53pc4QFJzK8CwnaI3IZg.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/hAOwKnP0DVtffhIqWG7K0RL8MAsDPU5Q.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】会場物販情報を公開！公式グッズや会場オリジナルCDに加え、カードフォリオも販売予定！]]></title>
