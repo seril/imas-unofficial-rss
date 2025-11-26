@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Nov 2025 02:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Nov 2025 03:47:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Nov 2025 02:44:33 GMT</pubDate>
+        <pubDate>Wed, 26 Nov 2025 03:47:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY開催決定！本日よりアソビストア一般会員先行開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17404.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17404.html</guid>
+            <pubDate>Wed, 26 Nov 2025 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/vkXyJYzFUtitVCNatSS7NhrZjltkkAiJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】ブシロードクリエイティブよりデフォルメフィギュア「PalVerse」が登場！ご予約受付中！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17194.html</guid>
             <pubDate>Wed, 29 Oct 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/xP3s6S5QIielfIFo4pt9gpTp72txFzV4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】10/30(木) 19:00～ 学園アイドルマスター「初星学園HR #STEP3 有村 麻央」生配信実施予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター  #STEP3 #七瀬つむぎ #有村麻央]]></description>
-            <link>https://idolmaster-official.jp/news/01_17085.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17085.html</guid>
-            <pubDate>Wed, 29 Oct 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/10/V84sBVyGL8PgB8wExZMjGaU5Fir9yADI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
