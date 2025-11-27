@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Nov 2025 06:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 11:17:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Nov 2025 06:31:43 GMT</pubDate>
+        <pubDate>Thu, 27 Nov 2025 11:17:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター POP UP STORE お仕事体験フェア」が12月19日(金)から開催決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17400.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17400.html</guid>
+            <pubDate>Thu, 27 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/0P3Y9XQ60C2rENbsZd54UWDHySmH5biJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【11月30日(日)まで！】「アイドルマスター シンデレラガールズ×SEIKO」デレステ10周年記念腕時計が大好評受注中！きらめくコラボウォッチと190名から選べるミニアクリルスタンドをぜひお手元に。]]></title>
+            <description><![CDATA[#デレステ10thツアー千秋楽 #デレステ #シンデレラガールズフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17490.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17490.html</guid>
+            <pubDate>Thu, 27 Nov 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/09/WK4WsKETLzTuiR2KWs3fFufq27DLKKNt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】【#パックマス】「アイ MAKE IMP@CT！ POP UP STORE in SHIBUYA109」グッズ詳細公開👻💞【12/4(木)～スタート！】]]></title>
+            <description><![CDATA[#pacman #idolmaster #パックマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17440.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17440.html</guid>
+            <pubDate>Thu, 27 Nov 2025 08:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/L7yrQG8AnP1VT9rUEAZI2RTb1RrNH0pb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭 イベント公式グッズ事前販売 ファイナルが本日11月27日(木) 15:00スタート！]]></title>
             <description><![CDATA[#学マス #学マス音楽祭]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17270.html</guid>
             <pubDate>Thu, 20 Nov 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/KTFs2KLcQ4JmmrBpUhNNVHaHb03o0nmq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】豊島園 庭の湯とのコラボイベント「初星ゆけむり温泉」が12月3日（水）から開催！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17396.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17396.html</guid>
-            <pubDate>Wed, 19 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/XKZVkLnOc2oVWqdRBd6T86fu5YDtpKLL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】幽谷 霧子、有栖川 夏葉が登場するガシャを開催中！ コラボフェスの開催も！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17386.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17386.html</guid>
-            <pubDate>Wed, 19 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/DzDE24T9Q4i1qYVZaQNbbkpeRu7lSkpb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】騎士団のヴェール 応援パネルパッケージ 販売開始！]]></title>
-            <description><![CDATA[【シャニマス】騎士団のヴェール 応援パネルパッケージ 販売開始！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17398.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17398.html</guid>
-            <pubDate>Wed, 19 Nov 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/oGQFJFhUCamUCzimHDHHPTn59EJPeuUz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
