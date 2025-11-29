@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Nov 2025 06:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Nov 2025 11:15:14 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Nov 2025 06:28:54 GMT</pubDate>
+        <pubDate>Sat, 29 Nov 2025 11:15:14 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ハッチポッチ2】「THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2」Blu-rayの受注は来週12/7(日)まで！！]]></title>
+            <description><![CDATA[#アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_17534.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17534.html</guid>
+            <pubDate>Sat, 29 Nov 2025 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/lxVIqArlXXuN22kf7LGl26h40Jxq3fY5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】小宮 果穂、芹沢 あさひが登場するキャスティングコレクションを開催中！1日1回SSR2倍10連無料ガシャも！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17463.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17463.html</guid>
+            <pubDate>Sat, 29 Nov 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/rakvJ9Z9fSqqgX8PYDs9PwrGgV0vHlxv.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】橘ありすの新作スケールフィギュア が製品化決定！]]></title>
             <description><![CDATA[#デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17438.html</guid>
             <pubDate>Fri, 21 Nov 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/l1dDnehnYazfg2wY4ipUFpLo3r2i0hxN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】CINDERELLA GIRLS fes. Once Upon a St@rsに「おおはらベーカリー出張販売所～秋のもぐもぐパン祭り～」が出店決定！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17429.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17429.html</guid>
-            <pubDate>Fri, 21 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/ZfazJ85hjMUoxOwX5OvGK74Q1Lyc6jIW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」配信視聴チケット販売開始！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17436.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17436.html</guid>
-            <pubDate>Fri, 21 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/hAOwKnP0DVtffhIqWG7K0RL8MAsDPU5Q.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
