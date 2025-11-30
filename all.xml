@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Nov 2025 03:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Nov 2025 06:29:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Nov 2025 03:56:36 GMT</pubDate>
+        <pubDate>Sun, 30 Nov 2025 06:29:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～REALIZE！！！～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17453.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17453.html</guid>
+            <pubDate>Sun, 30 Nov 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/11/OULstMOwuBzntQlQ6GgRMjOzqTdURmtB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】田中 摩美々、斑鳩 ルカが手に入るガシャ開催中！ さらに、コメティックの楽曲『アイノウ』が追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17508.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17508.html</guid>
+            <pubDate>Sun, 30 Nov 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/11/vouR9wYOv7MOcK8e2QicKPUsF9wp1D1M.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【#ヴイアラ】vα-liv レトラバースデー記念グッズセット2025 受注〆切間近！]]></title>
+            <description><![CDATA[#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17541.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17541.html</guid>
+            <pubDate>Sun, 30 Nov 2025 05:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/W1vc8gQABBp5KEq0EdF7v6hhEjplZ1Id.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 学マス 】‎紫雲清夏誕生日記念セット2025 受注〆切間近！［11/30(日)まで］]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17540.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17540.html</guid>
+            <pubDate>Sun, 30 Nov 2025 05:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/Yx7zv9jO2Ari2HPgPcUH8CUzzNunhFml.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[＊本日まで＊【シャニマス8th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」イベントグッズ事前販売は本日11月30日(日)まで！パンフレットのオフショットも公開♪]]></title>
             <description><![CDATA[#シャニマス8th #シャニマス #シャイニーカラーズ]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17298.html</guid>
             <pubDate>Mon, 24 Nov 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/WbcWTBjXqZBDn7x5sbmIISj8UuXg9dU0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール成田』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス成田]]></description>
-            <link>https://idolmaster-official.jp/news/01_17401.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17401.html</guid>
-            <pubDate>Mon, 24 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/11/ejlWz4ar8D2KeOywRNiNT8CLNcmiLPEN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！カードリストも順次公開中♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17395.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17395.html</guid>
-            <pubDate>Mon, 24 Nov 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】 【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第1弾は、現在ASOBI STOREにて好評受注中！一部サンプルもご紹介♪]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17416.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17416.html</guid>
-            <pubDate>Sun, 23 Nov 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/VRnUKABOcE41RbGGsCAguwx3ULOQXkL6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs 』現地チケット一般発売(先着)の受付は明日11/23(日)まで！リセールは11/24(月・祝)まで！]]></title>
-            <description><![CDATA[#シンデレラガールズフェス　#シンデレラxR]]></description>
-            <link>https://idolmaster-official.jp/news/01_17428.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17428.html</guid>
-            <pubDate>Sat, 22 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/11/huhbZe5SFhTdKdnQ1aU1OqzO2CqK11AV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
