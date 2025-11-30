@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Nov 2025 06:29:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Nov 2025 11:15:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Nov 2025 06:29:34 GMT</pubDate>
+        <pubDate>Sun, 30 Nov 2025 11:15:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】💎CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE💎12/1よりメインパートナー事後物販が数量限定でスタート！]]></title>
+            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17539.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17539.html</guid>
+            <pubDate>Sun, 30 Nov 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/VoJjTTJMwBscBLX8EKNiQ4r4E0lAyz7O.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』DAY2のご来場、ご視聴ありがとうございました！本日のセットリスト＆STARLIGHT ALLIANCE情報＆告知まとめはこちら！／アンケート実施中！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス #デレフェス_PR #デレフェス_ES]]></description>
+            <link>https://idolmaster-official.jp/news/01_17488.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17488.html</guid>
+            <pubDate>Sun, 30 Nov 2025 10:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/ppJsRW4HCTh0YcxsqLtd28wXLvI8JmBX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ハッチポッチ2】「THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2」Blu-rayの受注は来週12/7(日)まで！！]]></title>
+            <description><![CDATA[#アイマスハッチポッチ2]]></description>
+            <link>https://idolmaster-official.jp/news/01_17535.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17535.html</guid>
+            <pubDate>Sun, 30 Nov 2025 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/lxVIqArlXXuN22kf7LGl26h40Jxq3fY5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～REALIZE！！！～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17452.html</guid>
             <pubDate>Tue, 25 Nov 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/ZxichdE8sEzJzdlAzIG2XTP0GQ2NZFBA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】FREEingより『1/4スケールフィギュア 花海佑芽 バニーVer.』が受注開始！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17382.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17382.html</guid>
-            <pubDate>Tue, 25 Nov 2025 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/e2l6HLVjkS5DeFuAmP9h1g6Mln616QQs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】くじ引き堂にてTVアニメ「アイドルマスター シンデレラガールズ」のオンラインくじが発売決定！！]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17345.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17345.html</guid>
-            <pubDate>Tue, 25 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/yRiZabaVFwevdpw68djTcfH1Cka2RbMm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】SHIBUYA TSUTAYA IP書店、TSUTAYA EBISUBASHI 大阪IP書店にてAXGRIT 第4弾『アイドルマスター シャイニーカラーズ』の展開が決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17298.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17298.html</guid>
-            <pubDate>Mon, 24 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/WbcWTBjXqZBDn7x5sbmIISj8UuXg9dU0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
