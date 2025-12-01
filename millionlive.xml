@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Nov 2025 14:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 03:06:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Nov 2025 14:17:15 GMT</pubDate>
+        <pubDate>Mon, 01 Dec 2025 03:06:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第10弾、2月分予約受付中！ ]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17378.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17378.html</guid>
+            <pubDate>Mon, 01 Dec 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/yMwKE2QbLsVScshR9ZaO3kVpmKp4nekW.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ハッチポッチ2】「THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2」Blu-rayの受注は来週12/7(日)まで！！]]></title>
             <description><![CDATA[#アイマスハッチポッチ2]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17223.html</guid>
             <pubDate>Thu, 30 Oct 2025 22:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》1月に向けて木下ひなた・矢吹可奈が登場！「雪」をイメージしたグッズが受注開始！]]></title>
-            <description><![CDATA[#ミリオンシーズナル1月]]></description>
-            <link>https://idolmaster-official.jp/news/01_17220.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17220.html</guid>
-            <pubDate>Thu, 30 Oct 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/10/IFXNwIx5D2WtlVjXsErOebrdGZNPZON6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
