@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Dec 2025 03:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 06:33:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Dec 2025 03:06:40 GMT</pubDate>
+        <pubDate>Mon, 01 Dec 2025 06:33:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「FAMくじ」にて新規描き下ろしイラストを使用したオンラインくじが本日より販売開始💘❄]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17407.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17407.html</guid>
+            <pubDate>Mon, 01 Dec 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/CxCzN03KIXF3H7yTCdacLBLkt9yIsGgx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】描き下ろしイラスト一挙公開！！12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17516.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17516.html</guid>
+            <pubDate>Mon, 01 Dec 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第10弾、2月分予約受付中！ ]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17073.html</guid>
             <pubDate>Sat, 01 Nov 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/qaonWURsmKsT3ynk5oxq8I6DWovpIqVF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～Halftone～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17196.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17196.html</guid>
-            <pubDate>Fri, 31 Oct 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/10/6IXJlBCDZjjxX5XO5KH877JqdGeSXaOM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】本日まで！ 企業、自治体の皆さまからアイドルたちへのオファーお待ちしています！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17223.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17223.html</guid>
-            <pubDate>Thu, 30 Oct 2025 22:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

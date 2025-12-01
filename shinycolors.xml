@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Dec 2025 03:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Dec 2025 06:33:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Dec 2025 03:06:40 GMT</pubDate>
+        <pubDate>Mon, 01 Dec 2025 06:33:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】描き下ろしイラスト一挙公開！！12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17516.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17516.html</guid>
+            <pubDate>Mon, 01 Dec 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ 黛 冬優子 「AXGRIT」Ver. 1/7スケールフィギュア』 12月1日(月)より予約受付開始! 予約締切は3月5日(木)!]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_17261.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17261.html</guid>
             <pubDate>Fri, 07 Nov 2025 09:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』開催決定！VOFAN先生の描き下ろしイラストも同時公開♪]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』開催決定！VOFAN先生の描き下ろしイラストも同時公開♪]]></description>
-            <link>https://idolmaster-official.jp/news/01_17267.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17267.html</guid>
-            <pubDate>Fri, 07 Nov 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
