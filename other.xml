@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Dec 2025 06:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Dec 2025 11:19:16 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Dec 2025 06:32:32 GMT</pubDate>
+        <pubDate>Tue, 02 Dec 2025 11:19:16 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【アイマスMOIW2025】合同ライブ前夜祭DJイベント 「公演注意事項」一部更新・修正のお知らせ]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17562.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17562.html</guid>
+            <pubDate>Tue, 02 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/12/Hs6UpoRei7Xh4ZdgqgQwMQjbKgOQFJVi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【 #ヴイアラ 】【ディアリースターズ】『876 PRODUCTION FES.』現地チケットの一般先着販売が12月6日(土)12時より実施決定！イベントグッズ事前物販2ndも開始！合同新曲＆20周年記念曲の制作も発表！]]></title>
             <description><![CDATA[#876プロフェス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16530.html</guid>
             <pubDate>Sat, 23 Aug 2025 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/08/TtXhAqF8tI5R6x3cRRt8kC3GflnfH9OL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【 #ヴイアラ 】「上水流宇宙 BIRTHDAY ONLINE LIVE 2025」ライブビューイングチケットの一般先着販売を開始！チケットは上水流宇宙描き下ろしグッズ付き！配信チケットも絶賛発売中！]]></title>
-            <description><![CDATA[#宇宙誕生祭2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16527.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16527.html</guid>
-            <pubDate>Sat, 23 Aug 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/08/Qtl5qaWpNB5N2ysBavyy9mgc9zKW7DHC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
