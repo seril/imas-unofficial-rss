@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Dec 2025 06:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 11:19:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Dec 2025 06:32:04 GMT</pubDate>
+        <pubDate>Thu, 04 Dec 2025 11:19:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　3月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場♪本日より受注開始！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_17465.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17465.html</guid>
+            <pubDate>Thu, 04 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/o1Cg75RQRnpTWj7hLXm8jjShjSt8QSjC.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】12/5(金)より「ナムコ限定特典」第2弾が開始！全国の「ナムコ」のお店で「チアフルアンサンブルキャンペーン」開催中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16747.html</guid>
             <pubDate>Wed, 05 Nov 2025 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/yiPlDRvQp2CybGjxZ3683vT47zNe5y1e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【SideMF@NFES】 ～Who goes first～ 大阪公演 イベント公式グッズを数量限定で販売中！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_17218.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17218.html</guid>
-            <pubDate>Sun, 02 Nov 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/b3hk7iwgf3hTEwKHv09YtOIQ7H0iDCYK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

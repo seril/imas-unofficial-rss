@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Dec 2025 06:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Dec 2025 11:19:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Dec 2025 06:32:04 GMT</pubDate>
+        <pubDate>Thu, 04 Dec 2025 11:19:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】12/20(土) 19:00～ 学園アイドルマスター「初星学園HR ～年末まったり3時間SP～」生配信実施予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17584.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17584.html</guid>
+            <pubDate>Thu, 04 Dec 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/8JpMl7nupKm9hrsCEWF4XEMzpjNrARDP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】12/17(水) 19:00～ 学園アイドルマスター「学マス 2025年 大・忘年会」生配信実施予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17575.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17575.html</guid>
+            <pubDate>Thu, 04 Dec 2025 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/dW9u3RVEIJ6eewMRrmttKsvZK4jP8niW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「初星学園HR #STEP3 葛城 リーリヤ」配信記念！花岩 香奈さんと葛城 リーリヤのサインが入ったイラスト色紙プレゼントキャンペーン開催中！	]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター #リーリヤ_学マスSTEP3 #葛城リーリヤ #花岩香奈]]></description>
+            <link>https://idolmaster-official.jp/news/01_17590.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17590.html</guid>
+            <pubDate>Thu, 04 Dec 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/oxJWJ0sIkja1LLAuVzXt08777z2RZvad.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】12/5(金)より「ナムコ限定特典」第2弾が開始！全国の「ナムコ」のお店で「チアフルアンサンブルキャンペーン」開催中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17319.html</guid>
             <pubDate>Wed, 12 Nov 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/UIYh7R7dPWMe3UCY6KlyqCKljy2ewlkd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【YouTube】【#APラウンジ】【学マス】『1.5周年&雨夜 燕実装記念！親愛度コミュ同時視聴会』配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #学マス #雨夜燕  #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17314.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17314.html</guid>
-            <pubDate>Tue, 11 Nov 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/11/MB2IS3N7l5oUjNuOcNKfd1ASu5LfJ5MU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】 「学園アイドルマスター　まちぼうけ2」がガシャポンに登場！予約受付中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17281.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17281.html</guid>
-            <pubDate>Tue, 11 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/1nHfc3cPRKry4wBwVkcmV8lOHTONvv29.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】「ちくせい花火大会2025を萩原雪歩さんがリポート！ #筑西市コラボ」本日22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #ちくせい花火大会2025 #筑西市コラボ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16822.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16822.html</guid>
-            <pubDate>Tue, 11 Nov 2025 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/4iwzALqe1QwNMe26smlAkUdaqvLZJ4bq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
