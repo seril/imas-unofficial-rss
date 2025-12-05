@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Dec 2025 02:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 03:50:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Dec 2025 02:47:50 GMT</pubDate>
+        <pubDate>Fri, 05 Dec 2025 03:50:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」グッズがふるさと寄附金の返礼品に登場🐾📣2025年12月19日(金)9時～受付スタート✨]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
+            <link>https://idolmaster-official.jp/news/01_17589.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17589.html</guid>
+            <pubDate>Fri, 05 Dec 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/6lyio6XsWj3X9eUQ3Eu09p7Jv2fK2XeJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】京セラドーム大阪で「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」コラボドリンクを販売！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17591.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17591.html</guid>
+            <pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/9LeTRSAcbszX7CDDRFpdcByaW2LVNMFF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】本日から開催！JR東海とのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の「特別企画」が開始！]]></title>
             <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17222.html</guid>
             <pubDate>Wed, 05 Nov 2025 11:40:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/VRnUKABOcE41RbGGsCAguwx3ULOQXkL6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「リメンバーショット」C.FIRST3名の制作が決定！＆ 公式グッズ 第1弾が登場！！本日よりASOBI STOREにて受注開始！！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17253.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17253.html</guid>
-            <pubDate>Wed, 05 Nov 2025 11:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/SMPfp8S6Ir9iNI0ZAuDwA9hTuSoqw7OP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMPRS魂環の人形】情報解禁！2026年3月14日(土)・15日(日) 幕張イベントホールにて「THE IDOLM@STER SideM PASSIONABLE READING SHOW ～魂環の人形(マリオネット)～」開催決定！！]]></title>
-            <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
-            <link>https://idolmaster-official.jp/news/01_17249.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17249.html</guid>
-            <pubDate>Wed, 05 Nov 2025 10:33:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/2dLUBJuxLhas8qpQhUCU17sYyvJRZref.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Dec 2025 02:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 03:50:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Dec 2025 02:47:50 GMT</pubDate>
+        <pubDate>Fri, 05 Dec 2025 03:50:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」グッズがふるさと寄附金の返礼品に登場🐾📣2025年12月19日(金)9時～受付スタート✨]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
+            <link>https://idolmaster-official.jp/news/01_17589.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17589.html</guid>
+            <pubDate>Fri, 05 Dec 2025 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/6lyio6XsWj3X9eUQ3Eu09p7Jv2fK2XeJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】FREEingより『1/4スケールフィギュア 姫崎莉波 バニーVer.』が受注開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17471.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17471.html</guid>
+            <pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/EjFnH6iFXJPx4mTbWgv7sigkAZCmb7Vd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】京セラドーム大阪で「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」コラボドリンクを販売！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17591.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17591.html</guid>
+            <pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/9LeTRSAcbszX7CDDRFpdcByaW2LVNMFF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「Palude」より、秦谷美鈴イメージのルームウェアが発売決定🌙描き下ろしイラストグッズやモコモコアイテムも登場♪【本日より予約開始！1/6(火)まで】]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17323.html</guid>
             <pubDate>Fri, 14 Nov 2025 09:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』詳細決定♪]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』詳細決定♪]]></description>
-            <link>https://idolmaster-official.jp/news/01_17322.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17322.html</guid>
-            <pubDate>Fri, 14 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ムービックより「学園アイドルマスター」のよりぬいミニ 第4弾が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17308.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17308.html</guid>
-            <pubDate>Fri, 14 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/ocPkEOko6jqQoTlS1eVr0votMFqgi3TW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】1/7スケールフィギュア「篠澤 広【水着Ver.】」予約開始！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17301.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17301.html</guid>
-            <pubDate>Fri, 14 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/5Sutw79YNL1fVwwMi1O8HS1Fr9Z5N8rX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
