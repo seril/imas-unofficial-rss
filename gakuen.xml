@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Dec 2025 06:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 11:18:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Dec 2025 06:32:08 GMT</pubDate>
+        <pubDate>Fri, 05 Dec 2025 11:18:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ライブダイジェスト】「みんなで選んだ、もう1度観たい！アイマスライブ名場面セレクション2014→2025」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17072.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17072.html</guid>
+            <pubDate>Fri, 05 Dec 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/ZkDw4GwAurAQdfKlX5FEE5OHmXEE9iZ9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター」× Chugai Grace Café が2026年1月9日（金）から開催！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17578.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17578.html</guid>
+            <pubDate>Fri, 05 Dec 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/E7gH8pV87v4UFV24gbclFgJn0RmwoDUZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ムービックより雨夜 燕の新商品が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17529.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17529.html</guid>
+            <pubDate>Fri, 05 Dec 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/LGjETrLkP09qKPrFnC4Jo5j7cAa3hn5C.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」グッズがふるさと寄附金の返礼品に登場🐾📣2025年12月19日(金)9時～受付スタート✨]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17230.html</guid>
             <pubDate>Fri, 14 Nov 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/11/LrMOtpJ6FRkXVDC1ye2MrRuZFgqNYgLh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス2nd】学園アイドルマスター The 2nd Period 2026年5月16日(土)・17日(日)、6月6日(土)・7日(日)にて開催決定！アソビストアプレミアム会員先行(抽選)開始！]]></title>
-            <description><![CDATA[#学マス  #学マス2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_17315.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17315.html</guid>
-            <pubDate>Sat, 15 Nov 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/YkyFx1rcLhvq8Fyh18KVenhG35m3CLWl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「初星学園HR ～祝1.5thアニバーサリー！！！雨夜 燕プロデュース開始直前SP～」配信記念！寄せ書きサイン色紙＆特別読み切り漫画「雨夜 燕 Episode:0」製本版プレゼントキャンペーン開催中！	]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #雨夜燕プロデュース直前 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17359.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17359.html</guid>
-            <pubDate>Fri, 14 Nov 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/11/zSzF56dF8nmKVTdH5QcEBN6BQjrj7I6E.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【偶像大師系列】台北快閃店2025「寶島食光」詳細確定♪]]></title>
-            <description><![CDATA[【偶像大師系列】台北快閃店2025「寶島食光」詳細確定♪]]></description>
-            <link>https://idolmaster-official.jp/news/01_17323.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17323.html</guid>
-            <pubDate>Fri, 14 Nov 2025 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/WEwge0PCdLf8NHdyBSnJ8V2J4xb0Iff0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

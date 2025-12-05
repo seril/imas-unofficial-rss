@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Dec 2025 06:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 11:18:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Dec 2025 06:32:08 GMT</pubDate>
+        <pubDate>Fri, 05 Dec 2025 11:18:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ライブダイジェスト】「みんなで選んだ、もう1度観たい！アイマスライブ名場面セレクション2014→2025」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17072.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17072.html</guid>
+            <pubDate>Fri, 05 Dec 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/ZkDw4GwAurAQdfKlX5FEE5OHmXEE9iZ9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【今週末まで！】4月・5月お誕生日のアイドルの撮りおろしビジュアルをあしらった「283Birthday Collection」第３弾！受注は12月7日(日)まで♬]]></title>
+            <description><![CDATA[#283Birthday_Collection #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17507.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17507.html</guid>
+            <pubDate>Fri, 05 Dec 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/11/DIic12qlxTPFLoxXGTThNJTcm83eTJyY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_騎士団】一般発売（先着）・xRライブストリーミングチケット・公式リセール「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」のお申込みは明日12月6日(土)13:00から！]]></title>
             <description><![CDATA[#アンティーカ_騎士団]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17358.html</guid>
             <pubDate>Fri, 14 Nov 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/11/cs2ldz2FtaSuWsOWsWoVsGCtBmvJXvYD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】明日11/15(土)より、大崎甘奈＆市川雛菜＆田中摩美々 POP UP SHOP 『UNVEIL COLLECTION』開催！！]]></title>
-            <description><![CDATA[#アンコレ #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17344.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17344.html</guid>
-            <pubDate>Fri, 14 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/TovUFnx8FoKcNr8DCO57RyW4QxeOe3ek.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】「Shiny Runway 2025 A/W フォトコンテスト」開催！]]></title>
-            <description><![CDATA[#シャニソン #シャニソンファッションショー]]></description>
-            <link>https://idolmaster-official.jp/news/01_17305.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17305.html</guid>
-            <pubDate>Fri, 14 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/11/lR3dccfaJGqUHa8Z2seIh4JVC3OGvAu6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
