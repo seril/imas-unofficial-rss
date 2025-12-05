@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Dec 2025 14:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 02:47:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Dec 2025 14:21:25 GMT</pubDate>
+        <pubDate>Fri, 05 Dec 2025 02:47:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレミリ衣装展】本日12:00より入場チケット一般販売(先着)開始！「THE IDOLM@STER LIVE COSTUME EXPO 765PRO P@VILION ／CINDERELLA P@VILION」入場特典や展示イメージも公開！]]></title>
+            <description><![CDATA[#デレミリ衣装展]]></description>
+            <link>https://idolmaster-official.jp/news/01_17588.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17588.html</guid>
+            <pubDate>Fri, 05 Dec 2025 02:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/b7ixUnuSrEqtUpp250tJ4ZzyI8gumApN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】本日から開催！JR東海とのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の「特別企画」が開始！]]></title>
+            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17594.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17594.html</guid>
+            <pubDate>Fri, 05 Dec 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/xP3s6S5QIielfIFo4pt9gpTp72txFzV4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ラジオ】「アミマミーズ オブ アイドルラジオ【アイドルマスター】#アイのキセキWEEK 」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17397.html</guid>
             <pubDate>Thu, 20 Nov 2025 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/ukzZGUb5mEQC36sUn1E0OYN8hgIgOlyF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ラジオ】「2025年11月メンバー限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17151.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17151.html</guid>
-            <pubDate>Wed, 19 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/cal1suxPRwAQqhFHP1Qf1WD3tS288Tpc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター』シリーズ×しぐれうい ビックカメラグループ先行販売フェア　開催決定🎀]]></description>
-            <link>https://idolmaster-official.jp/news/01_17303.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17303.html</guid>
-            <pubDate>Mon, 17 Nov 2025 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/OC2XmhYxIsGMEOp7aTSwcqrKJcWymHSk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

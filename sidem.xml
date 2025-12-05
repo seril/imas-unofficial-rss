@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Dec 2025 14:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Dec 2025 02:47:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Dec 2025 14:21:24 GMT</pubDate>
+        <pubDate>Fri, 05 Dec 2025 02:47:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】本日から開催！JR東海とのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の「特別企画」が開始！]]></title>
+            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17594.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17594.html</guid>
+            <pubDate>Fri, 05 Dec 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/xP3s6S5QIielfIFo4pt9gpTp72txFzV4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ラジオ】「アミマミーズ オブ アイドルラジオ【アイドルマスター】#アイのキセキWEEK 」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17249.html</guid>
             <pubDate>Wed, 05 Nov 2025 10:33:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/2dLUBJuxLhas8qpQhUCU17sYyvJRZref.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM　冬浅し、情熱！超絶！！白熱BATTLEでSideM！生配信 」開催記念！出演キャストのサイン入り色紙プレゼント！ #SideM生配信 でポスト！]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_16997.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16997.html</guid>
-            <pubDate>Wed, 05 Nov 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/DKjuKU8LMva3wtMSbnRP4HIGaKxVXIfC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
