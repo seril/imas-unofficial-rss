@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Dec 2025 03:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 06:28:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Dec 2025 03:42:09 GMT</pubDate>
+        <pubDate>Sat, 06 Dec 2025 06:28:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_騎士団】リセール「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」のお申込みが本日12月6日(土)15:00より開始！]]></title>
+            <description><![CDATA[#アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_17572.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17572.html</guid>
+            <pubDate>Sat, 06 Dec 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/12/qkRTQ0uGtfYibH9azcdqoNLsxbyk3WTW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_騎士団】一般発売（先着）・xRライブストリーミングチケット「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」の販売が本日12月6日(土)13:00より開始！]]></title>
+            <description><![CDATA[#アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_17571.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17571.html</guid>
+            <pubDate>Sat, 06 Dec 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/12/y34uQd5bVKFlrRZ0V2Dlpp7NyTGp4hXA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！！】「THE IDOLM@STER 765 MILLIONSTARS HOTCHPOTCH FESTIV@L!! 2」のLIVE Blu-rayの受注は12/7(日)まで！！！！]]></title>
             <description><![CDATA[#アイマスハッチポッチ2]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17512.html</guid>
             <pubDate>Mon, 01 Dec 2025 02:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/X8ojh9BK01dqtFsWpJ04YY1dVmb0EI0R.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第10弾、2月分予約受付中！ ]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17378.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17378.html</guid>
-            <pubDate>Mon, 01 Dec 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/yMwKE2QbLsVScshR9ZaO3kVpmKp4nekW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター ちびぐるみ」vol.1～4が12月5日（金）10:00より、ナムコオンラインクレーンに再登場！ ]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17528.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17528.html</guid>
-            <pubDate>Mon, 01 Dec 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/7tOXFhWHU0YnVdH8XxQayDzlgYc1m5Os.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
