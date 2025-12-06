@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Dec 2025 14:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 02:39:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Dec 2025 14:20:46 GMT</pubDate>
+        <pubDate>Sat, 06 Dec 2025 02:39:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【アイマス】「アイ NEED 酒（しゅ）　酒蔵で”アイ”升（ます） #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17610.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17610.html</guid>
+            <pubDate>Fri, 05 Dec 2025 15:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/8IVPTopfS5hk35EcqGjyAbHqWSU45roG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ライブダイジェスト】「みんなで選んだ、もう1度観たい！アイマスライブ名場面セレクション2014→2025」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17209.html</guid>
             <pubDate>Mon, 03 Nov 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/kbCFxMtT4atHRuzzhjBfe9xEMu4gQcZi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】【ゲーム実況】「ぷよぷよ!!クエスト」実況してみた【#秋月律子】 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ぷよクエアイマスコラボ #ぷよクエ律子実況中]]></description>
-            <link>https://idolmaster-official.jp/news/01_16825.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16825.html</guid>
-            <pubDate>Sun, 02 Nov 2025 11:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/10/tElo4hg3dpyDpS8HANlpAxAIue7rfWkF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

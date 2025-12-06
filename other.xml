@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Dec 2025 14:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Dec 2025 02:39:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Dec 2025 14:20:46 GMT</pubDate>
+        <pubDate>Sat, 06 Dec 2025 02:39:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【アイマス】「アイ NEED 酒（しゅ）　酒蔵で”アイ”升（ます） #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17610.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17610.html</guid>
+            <pubDate>Fri, 05 Dec 2025 15:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/8IVPTopfS5hk35EcqGjyAbHqWSU45roG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ライブダイジェスト】「みんなで選んだ、もう1度観たい！アイマスライブ名場面セレクション2014→2025」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16679.html</guid>
             <pubDate>Thu, 04 Sep 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】9月12日開催「上水流宇宙 BIRTHDAY ONLINE LIVE 2025」バースデー記念ボイスの販売を開始！現地LVチケットは完売御礼！ただいま配信チケット好評発売中！]]></title>
-            <description><![CDATA[#宇宙誕生祭2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16620.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16620.html</guid>
-            <pubDate>Wed, 03 Sep 2025 00:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/MGECMCXi4tXaQKBk6Ko7Sjh8egrDDYx6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
