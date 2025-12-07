@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Dec 2025 14:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 02:55:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Dec 2025 14:16:53 GMT</pubDate>
+        <pubDate>Sun, 07 Dec 2025 02:55:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【スタマス】『若林直美が「スタマス」実況してみた #アイのキセキWEEK』動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17607.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17607.html</guid>
+            <pubDate>Sat, 06 Dec 2025 14:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/La4VFKXpDELUnfbmqjSq0kKqBuCeuV0c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【アイマス】「アイ NEED 酒（しゅ）　酒蔵で”アイ”升（ます） #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16830.html</guid>
             <pubDate>Fri, 21 Nov 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/ja8kkJzLVTEANgNel7H9eKlrz3cUn8fa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】CINDERELLA GIRLS fes. Once Upon a St@rsに「おおはらベーカリー出張販売所～秋のもぐもぐパン祭り～」が出店決定！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17429.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17429.html</guid>
-            <pubDate>Fri, 21 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/ZfazJ85hjMUoxOwX5OvGK74Q1Lyc6jIW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
