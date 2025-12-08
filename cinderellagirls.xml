@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Dec 2025 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Dec 2025 11:18:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Dec 2025 06:34:55 GMT</pubDate>
+        <pubDate>Mon, 08 Dec 2025 11:18:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】いよいよ今週末開催！！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」をもっと楽しめる情報をまとめてチェック♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ #アイのキセキWEEK]]></description>
+            <link>https://idolmaster-official.jp/news/01_17517.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17517.html</guid>
+            <pubDate>Mon, 08 Dec 2025 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/axcl9Ym9uiVTx17fPCuRrTSHUBBPR1UK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】イラストコンテスト「描きマスMOIW2025」入賞作品発表！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17585.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17585.html</guid>
+            <pubDate>Mon, 08 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/5O0xVwI1aIPqqOuBKjmt8jh5bXwJOOtB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【アイマス】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch  #アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17420.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17420.html</guid>
+            <pubDate>Mon, 08 Dec 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/B6n8TABZXAs3dgA2irMBEjPvQPs8nIGS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】すべての収録カードを公開♪12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17345.html</guid>
             <pubDate>Tue, 25 Nov 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/yRiZabaVFwevdpw68djTcfH1Cka2RbMm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール成田』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス成田]]></description>
-            <link>https://idolmaster-official.jp/news/01_17401.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17401.html</guid>
-            <pubDate>Mon, 24 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/11/ejlWz4ar8D2KeOywRNiNT8CLNcmiLPEN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！カードリストも順次公開中♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17395.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17395.html</guid>
-            <pubDate>Mon, 24 Nov 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】＼＼今週末まで！／／さそり座16名は11/24(月・祝)まで！星座にフィーチャーした190名のバースデーコレクション、ラスト第12弾「さそり座」が受注中♪]]></title>
-            <description><![CDATA[#デレマスバースデー星座コレクション ＃デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17439.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17439.html</guid>
-            <pubDate>Sat, 22 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/bK4rw1yIdY4fmNIwG0hNKJi3WHzzJ4fT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
