@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Dec 2025 11:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Dec 2025 14:22:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Dec 2025 11:18:30 GMT</pubDate>
+        <pubDate>Mon, 08 Dec 2025 14:22:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【ミリオンライブ】『ミリシタ8.5周年記念  デストルドー襲来⁉  集え、アイドルヒーローズ！生配信 』お知らせまとめ]]></title>
+            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリアニ #集えアイドルヒーローズ生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_17272.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17272.html</guid>
+            <pubDate>Mon, 08 Dec 2025 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/86OHDxwjSqUGsFraLAPlyx10WtCqKwbE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【2026年1月16日（金）より】タワーレコード新宿店にて「Jellyfish Rhythm POP UP SHOP」開催決定‼🪼]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17451.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17451.html</guid>
+            <pubDate>Mon, 08 Dec 2025 12:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/IFRHuZKVqc1UUH6by9BoADD1GYy7K0e3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】『ミリシタ8.5周年記念 デストルドー襲来⁉ 集え！アイドルヒーローズ！生配信 』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
             <description><![CDATA[#ミリシタ  #集えアイドルヒーローズ生配信]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17387.html</guid>
             <pubDate>Fri, 21 Nov 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/zES8sGedyOOgDkURBMrBeaOiE30vOUip.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】会場物販情報を公開！公式グッズや会場オリジナルCDに加え、カードフォリオも販売予定！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイのキセキWEEK]]></description>
-            <link>https://idolmaster-official.jp/news/01_17425.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17425.html</guid>
-            <pubDate>Fri, 21 Nov 2025 04:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/kkCXZCVpU47l3a2XJiO74bbPZ7gVk4Gr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市「ふたマス!!!!!!」前川みくマンホールカード配布＆グッズの発売が決定📢✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17392.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17392.html</guid>
-            <pubDate>Fri, 21 Nov 2025 02:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/48WhTXUkjXUTFOs5rCUddR84QBDdvw5d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
