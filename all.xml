@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Dec 2025 06:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Dec 2025 11:19:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Dec 2025 06:33:04 GMT</pubDate>
+        <pubDate>Tue, 09 Dec 2025 11:19:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【ミリシタ】8.5周年記念「ASOBI STOREでMeow-Meow?Bow-Wowキャンペーン」開催！]]></title>
@@ -89,20 +89,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/B6n8TABZXAs3dgA2irMBEjPvQPs8nIGS.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】#アンティーカ_騎士団 を記念したコラボイベントが、12月19日(金)～1月18日(日)に名古屋で開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17547.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17547.html</guid>
-            <pubDate>Mon, 08 Dec 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/VOmXaq1jiDCVOgAam4JhevZPUQf4UTeg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シャニマス】三峰 結華、郁田 はるきが登場するトワイライツコレクションを開催中！1日1回10連無料ガシャの開催も！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
             <link>https://idolmaster-official.jp/news/01_17627.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17627.html</guid>
             <pubDate>Mon, 08 Dec 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/49Sz3mLoLSYTx1bE1DQn5yEmyID8VI3O.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】#アンティーカ_騎士団 を記念したコラボイベントが、12月19日(金)～1月18日(日)に名古屋で開催！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17547.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17547.html</guid>
+            <pubDate>Mon, 08 Dec 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/VOmXaq1jiDCVOgAam4JhevZPUQf4UTeg.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第七弾】「おはようボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を期間限定販売！]]></title>
