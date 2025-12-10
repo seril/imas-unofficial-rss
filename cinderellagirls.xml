@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Dec 2025 02:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Dec 2025 03:54:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Dec 2025 02:50:46 GMT</pubDate>
+        <pubDate>Wed, 10 Dec 2025 03:54:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「プリコネR」×「アイドルマスター シンデレラガールズ」復刻コラボを開催中！]]></title>
+            <description><![CDATA[#デレマス #プリコネR]]></description>
+            <link>https://idolmaster-official.jp/news/01_17601.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17601.html</guid>
+            <pubDate>Wed, 10 Dec 2025 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/sbcjFHjLZokQZ78IsaDkhsD8x6meRL5q.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】いよいよ今週末開催！！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」をもっと楽しめる情報をまとめてチェック♪]]></title>
             <description><![CDATA[#アイマスMOIW2025 #カードフォリオ #アイのキセキWEEK]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17461.html</guid>
             <pubDate>Tue, 25 Nov 2025 11:25:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/lCXo9h4VPYDOKUrMTxp7n3xuMboPyEPq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】くじ引き堂にてTVアニメ「アイドルマスター シンデレラガールズ」のオンラインくじが発売決定！！]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17345.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17345.html</guid>
-            <pubDate>Tue, 25 Nov 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/yRiZabaVFwevdpw68djTcfH1Cka2RbMm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
