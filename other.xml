@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Dec 2025 06:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 11:19:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Dec 2025 06:34:01 GMT</pubDate>
+        <pubDate>Thu, 11 Dec 2025 11:19:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ラジオ】「Cozy room #アイのキセキWEEK」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17608.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17608.html</guid>
+            <pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/S15mGbwliCZ54LoDPtsSSaCx3ta5BHwJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】ライブ冒頭の【無料】生配信が決定！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」配信チケットも販売中♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17645.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17645.html</guid>
+            <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/hqzuZX8CoZiF11YIRLU1w31lY3gHerbh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【アイマス】「高槻やよいの！べろちょろキッチン #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16759.html</guid>
             <pubDate>Tue, 16 Sep 2025 07:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/09/hPcXGq7I2xGKkgucWmNk8ck0gXXPnXJh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】にゅ〜とろシリーズの予約が本日よりスタート！]]></title>
-            <description><![CDATA[#ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_16754.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16754.html</guid>
-            <pubDate>Tue, 16 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/09/QJ9E8jU9dsV7UpjzHr1N7oqSmmuEuc01.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[9/21(日)まで！！【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16753.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16753.html</guid>
-            <pubDate>Sun, 14 Sep 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
