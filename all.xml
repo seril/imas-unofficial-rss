@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 10 Dec 2025 14:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Dec 2025 02:52:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 10 Dec 2025 14:22:22 GMT</pubDate>
+        <pubDate>Thu, 11 Dec 2025 02:52:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】【1/5(月)23:59まで】高級感ただようインテリア「パーソナルパブミラー」シリーズに「徳川まつり」が登場！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17619.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17619.html</guid>
+            <pubDate>Thu, 11 Dec 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/NOFJ7MVaqOrXbjMiyyfClPvnBWSvsPO9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【アイマス】「高槻やよいの！べろちょろキッチン #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17617.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17617.html</guid>
+            <pubDate>Wed, 10 Dec 2025 14:57:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/x9KWGCkomHjMSoGgYzk45ai4bwkKMKk7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】茨城県筑西市とのコラボグッズがふるさと納税返礼品に登場！]]></title>
             <description><![CDATA[#筑西市コラボ #アイマス20周年イヤー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17588.html</guid>
             <pubDate>Fri, 05 Dec 2025 02:40:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/b7ixUnuSrEqtUpp250tJ4ZzyI8gumApN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「Palude」より、秦谷美鈴イメージのルームウェアが発売決定🌙描き下ろしイラストグッズやモコモコアイテムも登場♪【本日より予約開始！1/6(火)まで】]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17596.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17596.html</guid>
-            <pubDate>Fri, 05 Dec 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/Z3X2GZBT5StdzKTZSjsQhTD8FRqXoG55.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】本日から開催！JR東海とのコラボ企画「TR@VEL MEDLEY!!!!!!～あなたの旅をプロデュースしちゃいマス♪～（旅マス）」の「特別企画」が開始！]]></title>
-            <description><![CDATA[#旅マス  #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_17594.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17594.html</guid>
-            <pubDate>Fri, 05 Dec 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/07/xP3s6S5QIielfIFo4pt9gpTp72txFzV4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
