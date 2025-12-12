@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Dec 2025 11:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 14:19:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Dec 2025 11:19:39 GMT</pubDate>
+        <pubDate>Fri, 12 Dec 2025 14:19:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】2nd ソロEP 発売決定＆受注開始！オリジナルステッカーシートが付属する3種同時購入セットも登場！ #アイマスMOIW2025]]></title>
+            <description><![CDATA[#アイマスMOIW2025前夜祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_17665.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17665.html</guid>
+            <pubDate>Fri, 12 Dec 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/12/F7q5TUb59z6Egw1i7D2QHqufhcFbEpns.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ラジオ】「うめ喫茶 #アイのキセキWEEK」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
@@ -15,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17613.html</guid>
             <pubDate>Thu, 11 Dec 2025 16:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/BnrGugcl8MYQekMwuXkk0joSAB6X6zwl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【MOIW2025】オリジナルのぼりプロデュース権 掲出するのぼりに関するお詫びとご案内]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17705.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17705.html</guid>
+            <pubDate>Fri, 12 Dec 2025 12:51:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【アイマス】「マコトーーク！ #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16831.html</guid>
             <pubDate>Tue, 30 Sep 2025 12:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/09/qfj7yRGXP0rHMAxD7cFyzRG6S13Vosze.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日まで！！【アイマス20周年イヤー】【47都道府県イラスト企画】公式グッズ受注中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_16815.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16815.html</guid>
-            <pubDate>Sun, 21 Sep 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/09/ZeTwSDFRaVdANCO23NNw3tKf5DsobdNC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【 #ヴイアラ 】「レトラ BIRTHDAY ONLINE LIVE 2025」2025年11月11日(火) 開催決定！本日より限定グッズ付き現地ライブビューイングチケット販売開始！]]></title>
-            <description><![CDATA[#レトラ誕生祭2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16781.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16781.html</guid>
-            <pubDate>Tue, 16 Sep 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/09/WN4c7YmvywCOCP0j0UaZxiGKRO6nIcLh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
