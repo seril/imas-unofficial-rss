@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Dec 2025 06:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 11:19:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Dec 2025 06:33:36 GMT</pubDate>
+        <pubDate>Fri, 12 Dec 2025 11:19:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】バンダイナムコミュージックライブより、音楽をKAMIしめるカードゲーム「KAMISABI」発売決定！MOIW2025の会場にて最速体験会を開催！]]></title>
+            <description><![CDATA[#ミリオンライブ #SideM #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17694.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17694.html</guid>
+            <pubDate>Fri, 12 Dec 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/DtffFF6QldQxW4q9s20EsMmhqPfP2Zzy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】いよいよ明日！！「MOIW2025」会場周辺イベントをおさらい！！開催記念グッズの受注もスタート！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ #アイのキセキWEEK]]></description>
+            <link>https://idolmaster-official.jp/news/01_17671.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17671.html</guid>
+            <pubDate>Fri, 12 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/hc8untg7Tw6us6oT9X2zhP4kE9SWtjSH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM TRANSCENDENT T@LES 05」CD情報！]]></title>
+            <description><![CDATA[#SideM ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17686.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17686.html</guid>
+            <pubDate>Fri, 12 Dec 2025 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/HJruYvkXvcD142IFWFlCvG4qdr39sj9i.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】茨城県筑西市の渡辺みのり「ふたマス!!!!!!」グッズがふるさと寄附金の返礼品に登場🌻📣本日2025年12月12日(金)～受付スタート✨]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17303.html</guid>
             <pubDate>Mon, 17 Nov 2025 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/OC2XmhYxIsGMEOp7aTSwcqrKJcWymHSk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】12月13日(土)発売！！「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」受注中！！カードリストの一部を公開♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17348.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17348.html</guid>
-            <pubDate>Mon, 17 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】Who goes first 大阪公演 ご来場＆ご視聴いただきありがとうございました！セットリスト＆発表情報まとめはこちら！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_17339.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17339.html</guid>
-            <pubDate>Sun, 16 Nov 2025 11:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/11/DpHzGL4TMu1zKjPKMR733sT6EI9gVA5K.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日締切！【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」アソビストア一般会員3次先行抽選受付は本日11月16日(日)23:59まで！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17354.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17354.html</guid>
-            <pubDate>Sun, 16 Nov 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/FAPW4Sjvwv1pMkIqNNhkMF6t4kDT3FFN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
