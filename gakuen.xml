@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Dec 2025 14:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Dec 2025 02:51:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Dec 2025 14:22:12 GMT</pubDate>
+        <pubDate>Fri, 12 Dec 2025 02:51:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【ラジオ】「うめ喫茶 #アイのキセキWEEK」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17613.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17613.html</guid>
+            <pubDate>Thu, 11 Dec 2025 16:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/BnrGugcl8MYQekMwuXkk0joSAB6X6zwl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【アイマス】「マコトーーク！ #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17618.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17618.html</guid>
+            <pubDate>Thu, 11 Dec 2025 14:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/zMCNbJmBTkiDA3tdoSsRnZumOKVc2kRD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【ラジオ】「Cozy room #アイのキセキWEEK」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17452.html</guid>
             <pubDate>Tue, 25 Nov 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/ZxichdE8sEzJzdlAzIG2XTP0GQ2NZFBA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】FREEingより『1/4スケールフィギュア 花海佑芽 バニーVer.』が受注開始！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17382.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17382.html</guid>
-            <pubDate>Tue, 25 Nov 2025 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/e2l6HLVjkS5DeFuAmP9h1g6Mln616QQs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール成田』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス成田]]></description>
-            <link>https://idolmaster-official.jp/news/01_17401.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17401.html</guid>
-            <pubDate>Mon, 24 Nov 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2025/11/ejlWz4ar8D2KeOywRNiNT8CLNcmiLPEN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
