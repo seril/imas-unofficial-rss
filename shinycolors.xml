@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Dec 2025 14:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 02:43:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Dec 2025 14:19:09 GMT</pubDate>
+        <pubDate>Sat, 13 Dec 2025 02:43:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】本日発売！！「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が合同ライブ現地物販会場とアソビストアで販売中♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17664.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17664.html</guid>
+            <pubDate>Sat, 13 Dec 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/6EouHaDZNjbluRghVPhns1K56GqpgWzy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_XXX】◆今週日曜日まで！◆アソビストアプレミアム会員先行「283 Production XXXX Performance XXX= S/N-GUL4R1TY」のお申込みは12月14日(日)23:59まで！]]></title>
             <description><![CDATA[#ストレイ_XXX]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17516.html</guid>
             <pubDate>Mon, 01 Dec 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ 黛 冬優子 「AXGRIT」Ver. 1/7スケールフィギュア』 12月1日(月)より予約受付開始! 予約締切は3月5日(木)!]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17543.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17543.html</guid>
-            <pubDate>Mon, 01 Dec 2025 01:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/7QRfRHEzleX2JciD1Asg0w3rwPhAymVC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
