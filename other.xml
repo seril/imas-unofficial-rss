@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Dec 2025 11:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 14:17:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Dec 2025 11:15:40 GMT</pubDate>
+        <pubDate>Sat, 13 Dec 2025 14:17:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」DAY1ご来場・ご視聴いただきありがとうございました！本日のセットリストはこちら！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17659.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17659.html</guid>
+            <pubDate>Sat, 13 Dec 2025 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/sXP8tB3VyVOMkyoLy1ai12LO8vteI6Ww.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】2nd ソロEP 発売決定＆受注開始！オリジナルステッカーシートが付属する3種同時購入セットも登場！ #アイマスMOIW2025]]></title>
             <description><![CDATA[#アイマスMOIW2025前夜祭]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16861.html</guid>
             <pubDate>Wed, 01 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【生配信】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 キックオフ生ラジオ配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16831.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16831.html</guid>
-            <pubDate>Tue, 30 Sep 2025 12:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/09/qfj7yRGXP0rHMAxD7cFyzRG6S13Vosze.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
