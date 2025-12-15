@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Dec 2025 06:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Dec 2025 11:18:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Dec 2025 06:35:27 GMT</pubDate>
+        <pubDate>Mon, 15 Dec 2025 11:18:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」登壇制作陣の追加発表、お便り募集開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス新年会]]></description>
+            <link>https://idolmaster-official.jp/news/01_17712.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17712.html</guid>
+            <pubDate>Mon, 15 Dec 2025 09:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/vkXyJYzFUtitVCNatSS7NhrZjltkkAiJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17698.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17698.html</guid>
+            <pubDate>Mon, 15 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/kIqDuFGYsG6VFGrDus8FSqM8HYLO18YR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」DAY2ご来場・ご視聴いただきありがとうございました！本日のセットリストはこちら！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスIWSF2026]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17416.html</guid>
             <pubDate>Sun, 23 Nov 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/VRnUKABOcE41RbGGsCAguwx3ULOQXkL6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】Who goes first 開催記念グッズ＆一部イベント公式グッズ 販売中！配信チケットと定点カメラも要チェック！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_17438.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17438.html</guid>
-            <pubDate>Fri, 21 Nov 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/l1dDnehnYazfg2wY4ipUFpLo3r2i0hxN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」配信視聴チケット販売開始！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17436.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17436.html</guid>
-            <pubDate>Fri, 21 Nov 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/hAOwKnP0DVtffhIqWG7K0RL8MAsDPU5Q.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
