@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Dec 2025 06:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 11:19:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Dec 2025 06:33:59 GMT</pubDate>
+        <pubDate>Tue, 16 Dec 2025 11:19:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【忘年会】盛りだくさんだった2025年を振り返ろう！【アイドルマスター】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17559.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17559.html</guid>
+            <pubDate>Tue, 16 Dec 2025 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/FPk8ervD2c65ZL90ZEDbSJ3ImuLzJC7t.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】環境省「なくそう！リチウムイオン電池の火災！」がコミックマーケット107に出展いたします🔋✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17678.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17678.html</guid>
+            <pubDate>Tue, 16 Dec 2025 08:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/kpY3iamVIKx3ymUAmrZyPDZU88ohC3m2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスタートラストBOT ～アイドルヒーローズクロニクル FAITH/TO/FAITH～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17556.html</guid>
             <pubDate>Thu, 04 Dec 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/ZjQy0DOeN6rPPU7L0WqW2mgjXAI9j9Az.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】12/5(金)より「ナムコ限定特典」第2弾が開始！全国の「ナムコ」のお店で「チアフルアンサンブルキャンペーン」開催中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_17574.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17574.html</guid>
-            <pubDate>Thu, 04 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/MaSI9vXpEdGYHISltX4zGnLpnpuAB4qI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【YouTube】【生配信】「MOIW2025 打ち上げ＆プロデューサー大忘年会 中継配信」のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_16908.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_16908.html</guid>
-            <pubDate>Wed, 03 Dec 2025 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/UGtRpu00gWyiV4wbVEmOeAUuEzy69a83.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
