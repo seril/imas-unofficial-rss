@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 02:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 03:54:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Dec 2025 02:48:40 GMT</pubDate>
+        <pubDate>Wed, 17 Dec 2025 03:54:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に楽曲『READY!!』を追加！ ]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17722.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17722.html</guid>
+            <pubDate>Wed, 17 Dec 2025 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/tZP7JstjWkdRv0oQ9EoFmBZddwebwaOR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【忘年会】盛りだくさんだった2025年を振り返ろう！【アイドルマスター】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17516.html</guid>
             <pubDate>Mon, 01 Dec 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】【#パックマス】「アイ MAKE IMP@CT！ POP UP STORE in SHIBUYA109」グッズ詳細公開👻💞【12/4(木)～スタート！】]]></title>
-            <description><![CDATA[#pacman #idolmaster #パックマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17440.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17440.html</guid>
-            <pubDate>Thu, 27 Nov 2025 08:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/L7yrQG8AnP1VT9rUEAZI2RTb1RrNH0pb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
