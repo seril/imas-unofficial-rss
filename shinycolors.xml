@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 06:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Dec 2025 11:19:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Dec 2025 06:33:21 GMT</pubDate>
+        <pubDate>Wed, 17 Dec 2025 11:19:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2025年12月メンバー限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17653.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17653.html</guid>
+            <pubDate>Wed, 17 Dec 2025 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/7VluVbnzpNMV65mutOVv5AlDyvvGGYP7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】月岡 恋鐘、大崎 甘奈が登場するキャスティングコレクションを開催中！SSR2倍‼1日1回10連無料ガシャも！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17719.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17719.html</guid>
+            <pubDate>Wed, 17 Dec 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/a9jhebAettiEM63oEqwUA24HAF4sXE2w.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に楽曲『READY!!』を追加！ ]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17602.html</guid>
             <pubDate>Thu, 04 Dec 2025 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/Zx1HOybd9L8Yqa9may1S1XbDZ68h1Cl4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニマス大感謝祭 イベントグッズ事前販売ファイナルスタート！協賛社グッズの受注もスタート♪]]></title>
-            <description><![CDATA[#シャニマス大感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17553.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17553.html</guid>
-            <pubDate>Thu, 04 Dec 2025 06:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/12/O8O9DjST70mjVytV2fIMiiOJEnGpVaK3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】12/5(金)より「ナムコ限定特典」第2弾が開始！全国の「ナムコ」のお店で「チアフルアンサンブルキャンペーン」開催中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_17574.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17574.html</guid>
-            <pubDate>Thu, 04 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/MaSI9vXpEdGYHISltX4zGnLpnpuAB4qI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
