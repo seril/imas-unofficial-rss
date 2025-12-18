@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Dec 2025 03:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Dec 2025 06:33:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Dec 2025 03:54:54 GMT</pubDate>
+        <pubDate>Thu, 18 Dec 2025 06:33:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】2026年1月10日(土)より、銚子エリアにて「特急しおさいで行く！EeeE銚子で315の旅」開催決定！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_17713.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17713.html</guid>
+            <pubDate>Thu, 18 Dec 2025 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/nARNHjPc9BOENrGEaiv3NP2xZjBO6aU9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】オンキヨーから「学園アイドルマスター」の「月村手毬」新規録り下ろしボイス搭載ヘッドホンが登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -23,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17737.html</guid>
             <pubDate>Thu, 18 Dec 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/mMFoyjKOpCCJ3isfTuGcSQaQv7vUsOh2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「江上 椿」「佐藤 心」「多田李衣菜」が登場！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17723.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17723.html</guid>
+            <pubDate>Thu, 18 Dec 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/CLuW06vEHuXkanGvmEaWGvJh11Damg97.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2025年12月メンバー限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17677.html</guid>
             <pubDate>Thu, 11 Dec 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【1/5(月)23:59まで】高級感ただようインテリア「パーソナルパブミラー」シリーズに「徳川まつり」が登場！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17619.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17619.html</guid>
-            <pubDate>Thu, 11 Dec 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/NOFJ7MVaqOrXbjMiyyfClPvnBWSvsPO9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【アイマス】「高槻やよいの！べろちょろキッチン #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17617.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17617.html</guid>
-            <pubDate>Wed, 10 Dec 2025 14:57:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/12/Mx5WZxB8aLcExNtnnl2uQj0OkaeMTP6V.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
