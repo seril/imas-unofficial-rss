@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Dec 2025 06:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 11:18:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Dec 2025 06:32:09 GMT</pubDate>
+        <pubDate>Fri, 19 Dec 2025 11:18:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】JOL Collab Storeにて、POP UP SHOP ～舞姫彩華～が2026年1月16日(金)より開催決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17518.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17518.html</guid>
+            <pubDate>Fri, 19 Dec 2025 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/Ep0QrnRE10GKiYKAS6NFloXIkoHaNTAY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』クリスマスキャンペーンが本日よりスタート！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -15,6 +23,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17724.html</guid>
             <pubDate>Fri, 19 Dec 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/5P0foMTKC44uYFa9KfjFkwl3PDumTAqt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】シャニマス大感謝祭！～283スポーツフェスティバル～の現地チケット「アソビストア一般会員先行」が12/19(金)よりスタート！追加出演者も発表！]]></title>
+            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17685.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17685.html</guid>
+            <pubDate>Fri, 19 Dec 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/12/zTNiRKS7laERYBf6zFi0xVdxMF3XzO4e.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】本日から！ アンティーカとのコラボイベント「ようこそ名古屋へ！」が、12月19日(金)～1月18日(日)名古屋で開催！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_17766.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17766.html</guid>
+            <pubDate>Thu, 18 Dec 2025 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/VOmXaq1jiDCVOgAam4JhevZPUQf4UTeg.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】今週末開催！！「MOIW2025 同時視聴会」の出演者を発表！アーカイブ配信も実施決定！！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17507.html</guid>
             <pubDate>Fri, 05 Dec 2025 09:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/11/DIic12qlxTPFLoxXGTThNJTcm83eTJyY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_騎士団】一般発売（先着）・xRライブストリーミングチケット・公式リセール「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」のお申込みは明日12月6日(土)13:00から！]]></title>
-            <description><![CDATA[#アンティーカ_騎士団]]></description>
-            <link>https://idolmaster-official.jp/news/01_17570.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17570.html</guid>
-            <pubDate>Fri, 05 Dec 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2025/12/IAkO3WFb3uqetcoREUkUE3YuV9fp2QMu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」グッズがふるさと寄附金の返礼品に登場🐾📣2025年12月19日(金)9時～受付スタート✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
-            <link>https://idolmaster-official.jp/news/01_17589.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17589.html</guid>
-            <pubDate>Fri, 05 Dec 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/6lyio6XsWj3X9eUQ3Eu09p7Jv2fK2XeJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】京セラドーム大阪で「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」コラボドリンクを販売！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17591.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17591.html</guid>
-            <pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/9LeTRSAcbszX7CDDRFpdcByaW2LVNMFF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

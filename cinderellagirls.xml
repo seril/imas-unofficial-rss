@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Dec 2025 06:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 11:18:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Dec 2025 06:32:09 GMT</pubDate>
+        <pubDate>Fri, 19 Dec 2025 11:18:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[※今週末まで！※【シンデレラ】デレステ10thツアー千秋楽開催記念190名ビジュアルで、オリジナルTシャツをプロデュース！！受注は12月21日(日)まで！！]]></title>
+            <description><![CDATA[#デレステ #デレステ10周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_17751.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17751.html</guid>
+            <pubDate>Fri, 19 Dec 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/11/ykaXoHHYe3sPIwEn4XaAWgOMPw3EcQqO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「プリコネR」×「アイドルマスター シンデレラガールズ」復刻コラボは12月21日（日）まで開催！]]></title>
+            <description><![CDATA[#デレマス #プリコネR]]></description>
+            <link>https://idolmaster-official.jp/news/01_17765.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17765.html</guid>
+            <pubDate>Fri, 19 Dec 2025 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/sbcjFHjLZokQZ78IsaDkhsD8x6meRL5q.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ×カラオケまねきねこ」コラボキャンペーンが12月28日まで開催中！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17714.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17714.html</guid>
+            <pubDate>Fri, 19 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/MFdBsw8YVRsupfRVIBgqqOdC0gMoYuxg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】12月21日（日）まで「東京ジョイポリス」と「アイドルマスター シンデレラガールズ」のコラボが開催中！]]></title>
+            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17764.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17764.html</guid>
+            <pubDate>Fri, 19 Dec 2025 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/plKdkVZdwV3RlfPdDK5FXOiFUN2qrmiR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』クリスマスキャンペーンが本日よりスタート！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17600.html</guid>
             <pubDate>Fri, 05 Dec 2025 06:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/YJFGPq7UKCpGUPsxfPvdboIOWx9SXH0s.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】12月10日（水）より、アイドルマスター オフィシャルショップ アトレ秋葉原店にシンデレラガールズのポップアップコーナーが登場！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17586.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17586.html</guid>
-            <pubDate>Fri, 05 Dec 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/eqwHEySJl43GNGRT3xSvAl6OAywKv5CE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」グッズがふるさと寄附金の返礼品に登場🐾📣2025年12月19日(金)9時～受付スタート✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
-            <link>https://idolmaster-official.jp/news/01_17589.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17589.html</guid>
-            <pubDate>Fri, 05 Dec 2025 03:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/6lyio6XsWj3X9eUQ3Eu09p7Jv2fK2XeJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】京セラドーム大阪で「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」コラボドリンクを販売！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17591.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17591.html</guid>
-            <pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/9LeTRSAcbszX7CDDRFpdcByaW2LVNMFF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレミリ衣装展】本日12:00より入場チケット一般販売(先着)開始！「THE IDOLM@STER LIVE COSTUME EXPO 765PRO P@VILION ／CINDERELLA P@VILION」入場特典や展示イメージも公開！]]></title>
-            <description><![CDATA[#デレミリ衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_17588.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17588.html</guid>
-            <pubDate>Fri, 05 Dec 2025 02:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/b7ixUnuSrEqtUpp250tJ4ZzyI8gumApN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

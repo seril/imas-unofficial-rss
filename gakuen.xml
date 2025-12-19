@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Dec 2025 06:32:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 11:18:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Dec 2025 06:32:09 GMT</pubDate>
+        <pubDate>Fri, 19 Dec 2025 11:18:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター POP UP SHOP 「Wild TUNE」コラボ詳細発表！ミニキャライラストも公開✨]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17763.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17763.html</guid>
+            <pubDate>Fri, 19 Dec 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/h2xiBERJqpvH8gFkX5pLd4pywU5ogMvr.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』クリスマスキャンペーンが本日よりスタート！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17575.html</guid>
             <pubDate>Thu, 04 Dec 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/dW9u3RVEIJ6eewMRrmttKsvZK4jP8niW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「初星学園HR #STEP3 葛城 リーリヤ」配信記念！花岩 香奈さんと葛城 リーリヤのサインが入ったイラスト色紙プレゼントキャンペーン開催中！	]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #リーリヤ_学マスSTEP3 #葛城リーリヤ #花岩香奈]]></description>
-            <link>https://idolmaster-official.jp/news/01_17590.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17590.html</guid>
-            <pubDate>Thu, 04 Dec 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/oxJWJ0sIkja1LLAuVzXt08777z2RZvad.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
