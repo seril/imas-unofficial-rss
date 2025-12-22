@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Dec 2025 06:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 11:18:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Dec 2025 06:34:57 GMT</pubDate>
+        <pubDate>Mon, 22 Dec 2025 11:18:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】アイドルマスター オフィシャルショップ各店で「学園アイドルマスター 晴れ着ver.」の新商品が2026年1月2日(金)より登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17730.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17730.html</guid>
+            <pubDate>Mon, 22 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/0p9UUD5sxVuuHLXMuuJp6cNR9hLzXBCa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【YouTube】【AP生配信】【シャニマス】283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order – 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #シャニマス   #アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_17643.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17643.html</guid>
+            <pubDate>Mon, 22 Dec 2025 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/ow4CuwzkqELlLSzTIpGEATSi6Wwwj2WS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「岩手競馬×アイドルマスター ミリオンライブ！2025」コラボグッズがECにて販売中！🏇✨]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17690.html</guid>
             <pubDate>Tue, 16 Dec 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/12/gGjssDvdBxE8EiLpXtLYkVfIKT5XzxoM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスタートラストBOT ～アイドルヒーローズクロニクル FAITH/TO/FAITH～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17687.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17687.html</guid>
-            <pubDate>Tue, 16 Dec 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/12/Qs90WcIIgXaJnVl2rgRO5emK84cMR9Fa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」登壇制作陣の追加発表、お便り募集開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス新年会]]></description>
-            <link>https://idolmaster-official.jp/news/01_17712.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17712.html</guid>
-            <pubDate>Mon, 15 Dec 2025 09:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/vkXyJYzFUtitVCNatSS7NhrZjltkkAiJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
