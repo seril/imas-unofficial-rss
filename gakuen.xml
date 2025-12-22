@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Dec 2025 14:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 02:59:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Dec 2025 14:18:02 GMT</pubDate>
+        <pubDate>Mon, 22 Dec 2025 02:59:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】2026年1月24日から東武動物公園とのコラボが開催決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17748.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17748.html</guid>
+            <pubDate>Mon, 22 Dec 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/12/STlcc7w8y7dDRxbtWFS12s4yY870FbL7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】リアル脱出ゲーム×学園アイドルマスター『人狼潜む文化祭からの脱出』が開催決定！ チケット販売中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター #リアル脱出ゲーム]]></description>
+            <link>https://idolmaster-official.jp/news/01_17767.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17767.html</guid>
+            <pubDate>Mon, 22 Dec 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/wW8PG4WebH56RgDfcDHhi8m8ndoCQqtq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「プロデューサーが選んだ アイマスMYプレイリスト集」公開！"アイ"のキセキWEEK 新規撮りおろし 一部コンテンツアーカイブ視聴期限のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイのキセキWEEK]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17471.html</guid>
             <pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/11/EjFnH6iFXJPx4mTbWgv7sigkAZCmb7Vd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】京セラドーム大阪で「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」コラボドリンクを販売！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17591.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17591.html</guid>
-            <pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/9LeTRSAcbszX7CDDRFpdcByaW2LVNMFF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「Palude」より、秦谷美鈴イメージのルームウェアが発売決定🌙描き下ろしイラストグッズやモコモコアイテムも登場♪【本日より予約開始！1/6(火)まで】]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17596.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17596.html</guid>
-            <pubDate>Fri, 05 Dec 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/Z3X2GZBT5StdzKTZSjsQhTD8FRqXoG55.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

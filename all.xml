@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Dec 2025 14:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 02:59:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Dec 2025 14:18:02 GMT</pubDate>
+        <pubDate>Mon, 22 Dec 2025 02:59:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】2026年1月24日から東武動物公園とのコラボが開催決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17748.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17748.html</guid>
+            <pubDate>Mon, 22 Dec 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/12/STlcc7w8y7dDRxbtWFS12s4yY870FbL7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】リアル脱出ゲーム×学園アイドルマスター『人狼潜む文化祭からの脱出』が開催決定！ チケット販売中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター #リアル脱出ゲーム]]></description>
+            <link>https://idolmaster-official.jp/news/01_17767.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17767.html</guid>
+            <pubDate>Mon, 22 Dec 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/wW8PG4WebH56RgDfcDHhi8m8ndoCQqtq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで！】「シンデレラガールズフェス」開催記念グッズ受注は本日まで！イラストレーターコラボグッズにDJぴにゃこら太グッズ、忘れずにチェックしてくださいね♪]]></title>
             <description><![CDATA[#シンデレラガールズフェス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17647.html</guid>
             <pubDate>Sun, 14 Dec 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/12/RSwrZ5GCCAlRzStGIHgygmoC3a4vbJa4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」DAY2ご来場・ご視聴いただきありがとうございました！本日のセットリストはこちら！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_17662.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17662.html</guid>
-            <pubDate>Sun, 14 Dec 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/RqfxxVVLVqF3dUxfZngm2YFsR1uG2lgT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】フィナーレを飾るアイドル越境ライブ「MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026」2026年7月24日-26日開催決定!!! キービジュアル＆第一弾メンバー発表！現地チケット先行受付も開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_17683.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17683.html</guid>
-            <pubDate>Sat, 13 Dec 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/ArKXpH3P8QfjbA5K6ElDO55OxXOQKBkc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
