@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Dec 2025 11:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Dec 2025 14:20:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Dec 2025 11:18:28 GMT</pubDate>
+        <pubDate>Mon, 22 Dec 2025 14:20:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【新年会】「2026年配信初め〜今年もよろしくお願いしM＠S〜」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #APラウンジ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17669.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17669.html</guid>
+            <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/IOG8IJkXT8BoKHoMSuHPx6dqD318Nh0O.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【24/7Stream】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17710.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17710.html</guid>
+            <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/Xt1XHRDt2aGsVcWgqqqhK1Sub4DnNwTV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】315!!!SHOPにて、12月26日(金)より購入特典として「315プロダクション封筒」を配付開始！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17602.html</guid>
             <pubDate>Thu, 04 Dec 2025 14:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/Zx1HOybd9L8Yqa9may1S1XbDZ68h1Cl4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　3月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場♪本日より受注開始！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17465.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17465.html</guid>
-            <pubDate>Thu, 04 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/o1Cg75RQRnpTWj7hLXm8jjShjSt8QSjC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】12/5(金)より「ナムコ限定特典」第2弾が開始！全国の「ナムコ」のお店で「チアフルアンサンブルキャンペーン」開催中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_17574.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17574.html</guid>
-            <pubDate>Thu, 04 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/MaSI9vXpEdGYHISltX4zGnLpnpuAB4qI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
