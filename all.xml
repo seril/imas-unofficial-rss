@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Dec 2025 02:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Dec 2025 03:59:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Dec 2025 02:53:55 GMT</pubDate>
+        <pubDate>Tue, 23 Dec 2025 03:59:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】Giftの新作ぬいぐるみ＆グッズがコミックマーケット107で先行販売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17663.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17663.html</guid>
+            <pubDate>Tue, 23 Dec 2025 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/12/pl1Evm2RDkhlqohpxSNjoLNv9Pg3HAa6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「ジョイフルマーチング」衣装姿のアクリルスタンドが本日2025年12月23日(火)より全国のクレーンゲームに順次登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17778.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17778.html</guid>
+            <pubDate>Tue, 23 Dec 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/12/HfYTm7SoCQl2iGgrH7IKbaINXziKz8tx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】1月2日(金)、アイドルフォトパネルに新柄が登場！同日よりアイドルマスター オフィシャルショップ各店にて取り扱い開始！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17722.html</guid>
             <pubDate>Wed, 17 Dec 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/tZP7JstjWkdRv0oQ9EoFmBZddwebwaOR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】12月26日(金) 19:00～ 声優陣3名が出演する生配信を実施予定！]]></title>
-            <description><![CDATA[#シャニマス #シャニソン #シャイニーカラーズ #シャニマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_17567.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17567.html</guid>
-            <pubDate>Wed, 17 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/ZmZKx1QXbck1RO6QcI1uYYpoRRwgAFWX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【忘年会】盛りだくさんだった2025年を振り返ろう！【アイドルマスター】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17559.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17559.html</guid>
-            <pubDate>Tue, 16 Dec 2025 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/FPk8ervD2c65ZL90ZEDbSJ3ImuLzJC7t.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
