@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Dec 2025 06:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 11:18:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Dec 2025 06:33:59 GMT</pubDate>
+        <pubDate>Wed, 24 Dec 2025 11:18:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】ご参加いただく企業・自治体の皆さまを発表！パネル設置は1月30日(金)から！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_17780.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17780.html</guid>
+            <pubDate>Wed, 24 Dec 2025 10:56:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/R96fele3vz4AzJPonhI6EeEJVauJALyU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【12/24追記】【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」アソビストア先着チケット情報！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス新年会]]></description>
+            <link>https://idolmaster-official.jp/news/01_17735.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17735.html</guid>
+            <pubDate>Sat, 20 Dec 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/VBw6QQps1iIyZ229SkvFn3GOlwaLkXXx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」抽選で4名様にキャストのサイン色紙をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス年末感謝祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_17788.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17788.html</guid>
+            <pubDate>Wed, 24 Dec 2025 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/DDOctgy4YFjF7lFAIRJygbXbMAXN9fnz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】Giftの新作ぬいぐるみ＆グッズがコミックマーケット107で先行販売決定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -95,14 +119,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17731.html</guid>
             <pubDate>Sat, 20 Dec 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/OZL2O8CE9ZJJWOPZUg7DMnSuaEmsDYWx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」アソビストア一般販売開始！(先着)]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス新年会]]></description>
-            <link>https://idolmaster-official.jp/news/01_17735.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17735.html</guid>
-            <pubDate>Sat, 20 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/VBw6QQps1iIyZ229SkvFn3GOlwaLkXXx.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】12/20(土)学マス生配信「初星学園HR ～年末まったり3時間SP～」お知らせまとめ]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17563.html</guid>
             <pubDate>Mon, 08 Dec 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【アイマス】「お酒で語り”アイ”　帰ってきた呑みマス！ #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17615.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17615.html</guid>
-            <pubDate>Sun, 07 Dec 2025 15:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/5wVpsnHZdiocwSmM453drFZu0P2NdgHr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ハーフアニバーサリーグッズ受注は本日(12/7(日))締め切り！]]></title>
-            <description><![CDATA[#学マス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17628.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17628.html</guid>
-            <pubDate>Sun, 07 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Dec 2025 06:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 11:18:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Dec 2025 06:33:59 GMT</pubDate>
+        <pubDate>Wed, 24 Dec 2025 11:18:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】ご参加いただく企業・自治体の皆さまを発表！パネル設置は1月30日(金)から！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_17780.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17780.html</guid>
+            <pubDate>Wed, 24 Dec 2025 10:56:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/R96fele3vz4AzJPonhI6EeEJVauJALyU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【12/24追記】【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」アソビストア先着チケット情報！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス新年会]]></description>
+            <link>https://idolmaster-official.jp/news/01_17735.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17735.html</guid>
+            <pubDate>Sat, 20 Dec 2025 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/VBw6QQps1iIyZ229SkvFn3GOlwaLkXXx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」抽選で4名様にキャストのサイン色紙をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマス年末感謝祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_17788.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17788.html</guid>
+            <pubDate>Wed, 24 Dec 2025 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/DDOctgy4YFjF7lFAIRJygbXbMAXN9fnz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ2ndLIVE】「Over the prism」Blu-ray【アソビストア特装版】ご予約特典イベントの開催が決定！！Blu-ray受注は1月12日(月・祝)まで！]]></title>
+            <description><![CDATA[#シャニアニ2ndLIVE #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17800.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17800.html</guid>
+            <pubDate>Wed, 24 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/1NBSVWxFXyQTIyI8G8wP6tspe6AUtY6y.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】Pアイドルガシャ『雪明かりのメモリーズ』開催！さらに、シャイニーカラーズの楽曲『SNOW FLAKES MEMORIES』が追加！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -55,14 +87,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17773.html</guid>
             <pubDate>Sat, 20 Dec 2025 12:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/12/TqDgL6IMDfvf8pFIMGikG3rQMmcMtiAl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」アソビストア一般販売開始！(先着)]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス新年会]]></description>
-            <link>https://idolmaster-official.jp/news/01_17735.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17735.html</guid>
-            <pubDate>Sat, 20 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/VBw6QQps1iIyZ229SkvFn3GOlwaLkXXx.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】JOL Collab Storeにて、POP UP SHOP ～舞姫彩華～が2026年1月16日(金)より開催決定！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17627.html</guid>
             <pubDate>Mon, 08 Dec 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/49Sz3mLoLSYTx1bE1DQn5yEmyID8VI3O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】#アンティーカ_騎士団 を記念したコラボイベントが、12月19日(金)～1月18日(日)に名古屋で開催！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17547.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17547.html</guid>
-            <pubDate>Mon, 08 Dec 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/VOmXaq1jiDCVOgAam4JhevZPUQf4UTeg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_騎士団】「283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order –」新曲CD発売決定！特典内容解禁！]]></title>
-            <description><![CDATA[#アンティーカ_騎士団]]></description>
-            <link>https://idolmaster-official.jp/news/01_17621.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17621.html</guid>
-            <pubDate>Mon, 08 Dec 2025 01:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/IsLqiTGUGsOpImE3tB3YdikkdSXzu7Kv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】すべての収録カードを公開♪12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17563.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17563.html</guid>
-            <pubDate>Mon, 08 Dec 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
