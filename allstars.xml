@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Dec 2025 14:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 02:51:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Dec 2025 14:21:22 GMT</pubDate>
+        <pubDate>Wed, 24 Dec 2025 02:51:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】ウェーブより、1/12スケール 『アイドルマスター アーケード筐体』 プラモデルの再販が決定＆本日より予約開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー]]></description>
+            <link>https://idolmaster-official.jp/news/01_17734.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17734.html</guid>
+            <pubDate>Wed, 24 Dec 2025 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/kMQ4k6Yxuc1hsCsM98srtqxCqXnh4Ab8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレミリ衣装展】「THE IDOLM@STER LIVE COSTUME EXPO 765PRO P@VILION ／CINDERELLA P@VILION」チケット一般販売中！！公式リセールの実施も決定！]]></title>
             <description><![CDATA[#デレミリ衣装展]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17591.html</guid>
             <pubDate>Fri, 05 Dec 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/9LeTRSAcbszX7CDDRFpdcByaW2LVNMFF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレミリ衣装展】本日12:00より入場チケット一般販売(先着)開始！「THE IDOLM@STER LIVE COSTUME EXPO 765PRO P@VILION ／CINDERELLA P@VILION」入場特典や展示イメージも公開！]]></title>
-            <description><![CDATA[#デレミリ衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_17588.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17588.html</guid>
-            <pubDate>Fri, 05 Dec 2025 02:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/b7ixUnuSrEqtUpp250tJ4ZzyI8gumApN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
