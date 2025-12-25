@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Dec 2025 06:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 11:17:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Dec 2025 06:33:21 GMT</pubDate>
+        <pubDate>Thu, 25 Dec 2025 11:17:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』オーディオコメンタリー付き同時視聴上映会の実施が決定！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17819.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17819.html</guid>
+            <pubDate>Thu, 25 Dec 2025 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/12/UnUoxO0gBHHixiY8sseMcj5fXc1UUwFf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】1月16日より開催のスイパラコラボ詳細情報を公開！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17810.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17810.html</guid>
+            <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/Mb9AcPKDzE9Sn6p8wvxViWM9NKOI3baE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></description>
+            <link>https://idolmaster-official.jp/news/01_17785.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17785.html</guid>
+            <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/qzy9oyxkCS0plzv8mE4hkT3SRgXIQhJT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」お知らせまとめ]]></title>
             <description><![CDATA[#アイマス20周年イヤー 　#アイマス年末感謝祭]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17705.html</guid>
             <pubDate>Fri, 12 Dec 2025 12:51:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【アイマス】「マコトーーク！ #アイのキセキWEEK」期間限定で動画公開中！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17618.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17618.html</guid>
-            <pubDate>Thu, 11 Dec 2025 14:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/zMCNbJmBTkiDA3tdoSsRnZumOKVc2kRD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『もっと！デレステ★NIGHT』お知らせまとめ！]]></title>
-            <description><![CDATA[#imas_cg #デレステNIGHT]]></description>
-            <link>https://idolmaster-official.jp/news/01_17279.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17279.html</guid>
-            <pubDate>Thu, 11 Dec 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/orHKlUznB9MOs9CV82p3XhcIDlhb6x3F.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ラジオ】「Cozy room #アイのキセキWEEK」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17608.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17608.html</guid>
-            <pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/S15mGbwliCZ54LoDPtsSSaCx3ta5BHwJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Dec 2025 06:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 11:17:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Dec 2025 06:33:21 GMT</pubDate>
+        <pubDate>Thu, 25 Dec 2025 11:17:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></description>
+            <link>https://idolmaster-official.jp/news/01_17785.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17785.html</guid>
+            <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/qzy9oyxkCS0plzv8mE4hkT3SRgXIQhJT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「ＴＡＫＥ－ＵＰ」より鷹城恭二のコラボジュエリーが登場！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17420.html</guid>
             <pubDate>Mon, 08 Dec 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/B6n8TABZXAs3dgA2irMBEjPvQPs8nIGS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】すべての収録カードを公開♪12月13日(土)発売予定「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が現在アソビストアで受注中！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17563.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17563.html</guid>
-            <pubDate>Mon, 08 Dec 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/11/0hsB7vzKQDxZZ3wm8aTELelLe7bl0OvH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
