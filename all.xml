@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Dec 2025 03:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Dec 2025 06:33:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Dec 2025 03:59:20 GMT</pubDate>
+        <pubDate>Thu, 25 Dec 2025 06:33:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】SSR出現率2倍！「ミリオンリンケージ　大覇者戯！熱血アイドル学園編」開催中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリリン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17783.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17783.html</guid>
+            <pubDate>Thu, 25 Dec 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/12/V9WHvygoXBFJzqoIWvyAKIOypxtsZUl7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】ストレイライト×gladgarb アパレルアイテムが登場！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17692.html</guid>
             <pubDate>Fri, 19 Dec 2025 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/12/vu5wGbKKKkyqYRS1EB6YFdDYAfxsyM4h.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】12月21日（日）まで「東京ジョイポリス」と「アイドルマスター シンデレラガールズ」のコラボが開催中！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17764.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17764.html</guid>
-            <pubDate>Fri, 19 Dec 2025 08:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/plKdkVZdwV3RlfPdDK5FXOiFUN2qrmiR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
