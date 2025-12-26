@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Dec 2025 03:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 06:32:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Dec 2025 03:56:56 GMT</pubDate>
+        <pubDate>Fri, 26 Dec 2025 06:32:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【学マス】総額100万円分の「えらべるPay®」が抽選で1000名様に当たる！『#引き放題ガシャ開催中「えらべるPay®」プレゼントキャンペーン』！]]></title>
+            <description><![CDATA[#学マス #えらべるPay #引き放題ガシャ開催中]]></description>
+            <link>https://idolmaster-official.jp/news/01_17635.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17635.html</guid>
+            <pubDate>Fri, 26 Dec 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/h6ZLhsCVpmboXfwsQFr7Cs2Ny7rb6Ylc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】好評予約受付中！「カバーガール総選挙」にて選ばれたアイドル9名の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17826.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17826.html</guid>
+            <pubDate>Fri, 26 Dec 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/F7ZZeDVQNFT0pPqZEMzVvJCh67NejpCb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】"ジョイフルマーチング"がテーマのイラストを使用したTシャツとタオルがバンダイより登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17823.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17823.html</guid>
+            <pubDate>Fri, 26 Dec 2025 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/08wEJxcPT6fUNQs5z7FJksDrzE3Zplcq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」延期公演のアソビストアプレミアム会員先行が本日12月26日(金)12:00よりスタート！]]></title>
             <description><![CDATA[#ミリオン11th]]></description>
@@ -217,20 +241,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/DDOctgy4YFjF7lFAIRJygbXbMAXN9fnz.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニアニ2ndLIVE】「Over the prism」Blu-ray【アソビストア特装版】ご予約特典イベントの開催が決定！！Blu-ray受注は1月12日(月・祝)まで！]]></title>
-            <description><![CDATA[#シャニアニ2ndLIVE #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17800.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17800.html</guid>
-            <pubDate>Wed, 24 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/1NBSVWxFXyQTIyI8G8wP6tspe6AUtY6y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリアニOVA×ミリシタ】ミリアニOVA特別先行視聴会の開催が決定！]]></title>
             <description><![CDATA[#ミリシタ　#ミリアニOVA　#ミリオンライブ　]]></description>
             <link>https://idolmaster-official.jp/news/01_17804.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17804.html</guid>
             <pubDate>Wed, 24 Dec 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/12/Fq4MEEQn6U8rOGBOSS8ZLJYJDZyJruJt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニアニ2ndLIVE】「Over the prism」Blu-ray【アソビストア特装版】ご予約特典イベントの開催が決定！！Blu-ray受注は1月12日(月・祝)まで！]]></title>
+            <description><![CDATA[#シャニアニ2ndLIVE #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17800.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17800.html</guid>
+            <pubDate>Wed, 24 Dec 2025 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/1NBSVWxFXyQTIyI8G8wP6tspe6AUtY6y.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニソン】Pアイドルガシャ『雪明かりのメモリーズ』開催！さらに、シャイニーカラーズの楽曲『SNOW FLAKES MEMORIES』が追加！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17757.html</guid>
             <pubDate>Sun, 21 Dec 2025 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/11/ykaXoHHYe3sPIwEn4XaAWgOMPw3EcQqO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「プロデューサーが選んだ アイマスMYプレイリスト集」公開！"アイ"のキセキWEEK 新規撮りおろし 一部コンテンツアーカイブ視聴期限のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #アイのキセキWEEK]]></description>
-            <link>https://idolmaster-official.jp/news/01_17773.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17773.html</guid>
-            <pubDate>Sat, 20 Dec 2025 12:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/12/TqDgL6IMDfvf8pFIMGikG3rQMmcMtiAl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「初星文化祭に集合！初星文化祭×初星学園放送部 展示コンテスト」開催＆展示作品募集開始！]]></title>
-            <description><![CDATA[#初星学園放送部 #初星文化祭に集合_展示コンテスト]]></description>
-            <link>https://idolmaster-official.jp/news/01_17697.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17697.html</guid>
-            <pubDate>Sat, 20 Dec 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/12/eEwnHr2EU23jgvFeST5RAMnVOKmGQHnO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「初星学園HR ～年末まったり3時間SP～」配信記念！生配信出演キャスト全員の寄せ書きサイン色紙プレゼントキャンペーン開催中！	]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #年末学マス3時間SP]]></description>
-            <link>https://idolmaster-official.jp/news/01_17731.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17731.html</guid>
-            <pubDate>Sat, 20 Dec 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/OZL2O8CE9ZJJWOPZUg7DMnSuaEmsDYWx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
