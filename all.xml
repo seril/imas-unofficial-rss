@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Dec 2025 14:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Dec 2025 02:52:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Dec 2025 14:19:36 GMT</pubDate>
+        <pubDate>Fri, 26 Dec 2025 02:52:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】【12月31日(水)まで！】FAMくじオンラインに「アイドルマスター ミリオンライブ！」が登場🎄❄]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17777.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17777.html</guid>
+            <pubDate>Fri, 26 Dec 2025 02:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/CxCzN03KIXF3H7yTCdacLBLkt9yIsGgx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】【2026年1月4日(日)まで！】アイドルマスター×自遊空間コラボキャンペーン開催中📖✨]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイドルマスター #アイドルマスター自遊空間]]></description>
+            <link>https://idolmaster-official.jp/news/01_17775.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17775.html</guid>
+            <pubDate>Fri, 26 Dec 2025 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/zW9gnUfENjtkCNuZtaiYOTnvlgZXnWU6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】全国温浴施設コラボ「ほっと、ひと息湯ったり気分。」事後通販が2026年1月6日（火）14:00まで実施中！]]></title>
+            <description><![CDATA[#ほっとひと息湯ったり気分 #レジャフェス #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17824.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17824.html</guid>
+            <pubDate>Fri, 26 Dec 2025 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/eDmCcRoOQgiY7YQhuNTvscnCfLSzPwH5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』オーディオコメンタリー付き同時視聴上映会の実施が決定！]]></title>
             <description><![CDATA[#シンデレラガールズフェス]]></description>
@@ -382,30 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_17738.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17738.html</guid>
             <pubDate>Sat, 20 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/11/R3LSfphsOlpbMPFfElaZbU0Y7daR9Shj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※明日まで！※【シンデレラ】デレステ10thツアー千秋楽開催記念190名ビジュアルで、あなただけのオリジナルTシャツを作ろう！受注は明日12月21日(日)まで！！]]></title>
-            <description><![CDATA[#デレステ #デレステ10周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_17756.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17756.html</guid>
-            <pubDate>Sat, 20 Dec 2025 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/11/ykaXoHHYe3sPIwEn4XaAWgOMPw3EcQqO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】12/20(土)学マス生配信「初星学園HR ～年末まったり3時間SP～」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター#年末学マス3時間SP]]></description>
-            <link>https://idolmaster-official.jp/news/01_17606.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17606.html</guid>
-            <pubDate>Fri, 19 Dec 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/PXsBn0Zfancpz21BGhwzisrIlQGhfrqJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【今週末まで！】「シンデレラガールズフェス」開催記念グッズが受注中！イラストレーターコラボグッズにDJぴにゃこら太グッズ、ぜひお見逃しなく♪]]></title>
-            <description><![CDATA[#シンデレラガールズフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17727.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17727.html</guid>
-            <pubDate>Fri, 19 Dec 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2025/11/R3LSfphsOlpbMPFfElaZbU0Y7daR9Shj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
