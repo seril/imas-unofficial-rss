@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Jan 2026 04:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 06:33:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Jan 2026 04:05:53 GMT</pubDate>
+        <pubDate>Fri, 02 Jan 2026 06:33:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターテール～聖ミリオン女学園 花言葉を胸に～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17784.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17784.html</guid>
+            <pubDate>Fri, 02 Jan 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/12/RGGuUQQMi8rGwvuOhqwiDUMeGJpdOhuA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第10弾、3月分予約受付中！ ]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17472.html</guid>
             <pubDate>Wed, 10 Dec 2025 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/2nav7B4GVvo56NQF904joJe9MCVHvZn2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」おたより募集！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス年末感謝祭 #おたより送りマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17473.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17473.html</guid>
-            <pubDate>Wed, 10 Dec 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/4HAfRWqRVwqiWvVXvE1i9sKjwEpY8dfK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
