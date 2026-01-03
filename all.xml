@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jan 2026 02:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jan 2026 03:54:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Jan 2026 02:49:06 GMT</pubDate>
+        <pubDate>Sat, 03 Jan 2026 03:54:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 学マス 】‎十王星南誕生日記念セット2025 受注〆切間近！［1/4(日)まで］]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17833.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17833.html</guid>
+            <pubDate>Sat, 03 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/EdoHOG7goMD9tVUjmwtiIqeInjHq6cCo.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターテール～聖ミリオン女学園 花言葉を胸に～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17800.html</guid>
             <pubDate>Wed, 24 Dec 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/1NBSVWxFXyQTIyI8G8wP6tspe6AUtY6y.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】Pアイドルガシャ『雪明かりのメモリーズ』開催！さらに、シャイニーカラーズの楽曲『SNOW FLAKES MEMORIES』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17771.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17771.html</guid>
-            <pubDate>Wed, 24 Dec 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/QTjxXipPFNWepxIt29TvTp96FoE2P89F.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
