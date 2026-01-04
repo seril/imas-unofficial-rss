@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jan 2026 14:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 03:07:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Jan 2026 14:18:30 GMT</pubDate>
+        <pubDate>Sun, 04 Jan 2026 03:07:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】「876 PRODUCTION FES.」公式グッズ事前物販2nd、本日1/4(日)〆切！]]></title>
+            <description><![CDATA[#876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17834.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17834.html</guid>
+            <pubDate>Sun, 04 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/CPTV9Yi40fUFwfl3ivDmOW1OshCo36Eo.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】5分以内ですぐ完了！＜第三 四半期＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの一票がライバーアイドルの能力総合値に！]]></title>
             <description><![CDATA[【 #ヴイアラ 】5分以内ですぐ完了！＜第三 四半期＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの一票がライバーアイドルの能力総合値に！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17091.html</guid>
             <pubDate>Fri, 17 Oct 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/09/NLAbKwz6L7T6jUsp4HFezfPtGGDKzUFd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマスMOIW2025】開催前日12日に豪華コンポーザー陣が出演！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」前夜祭DJイベント アソビストア一般会員先行抽選受付開始！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17090.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17090.html</guid>
-            <pubDate>Fri, 17 Oct 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/10/EwwvMaQR3czW6LHGbEX72yi6rlXck3Xg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
