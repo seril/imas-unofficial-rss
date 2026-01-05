@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jan 2026 06:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 11:19:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Jan 2026 06:39:03 GMT</pubDate>
+        <pubDate>Mon, 05 Jan 2026 11:19:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会_大阪DAY2 ご来場いただきありがとうございました！！]]></title>
@@ -185,20 +185,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/di9VPPTYEKf4YqTwnihMc3eLBUKJgoyT.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ 【学マス】総額100万円分の「えらべるPay®」が抽選で1000名様に当たる！『#引き放題ガシャ開催中「えらべるPay®」プレゼントキャンペーン』！]]></title>
-            <description><![CDATA[#学マス #えらべるPay #引き放題ガシャ開催中]]></description>
-            <link>https://idolmaster-official.jp/news/01_17635.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17635.html</guid>
-            <pubDate>Fri, 26 Dec 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/h6ZLhsCVpmboXfwsQFr7Cs2Ny7rb6Ylc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】好評予約受付中！「カバーガール総選挙」にて選ばれたアイドル9名の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
             <link>https://idolmaster-official.jp/news/01_17826.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17826.html</guid>
             <pubDate>Fri, 26 Dec 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/F7ZZeDVQNFT0pPqZEMzVvJCh67NejpCb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【学マス】総額100万円分の「えらべるPay®」が抽選で1000名様に当たる！『#引き放題ガシャ開催中「えらべるPay®」プレゼントキャンペーン』！]]></title>
+            <description><![CDATA[#学マス #えらべるPay #引き放題ガシャ開催中]]></description>
+            <link>https://idolmaster-official.jp/news/01_17635.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17635.html</guid>
+            <pubDate>Fri, 26 Dec 2025 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/h6ZLhsCVpmboXfwsQFr7Cs2Ny7rb6Ylc.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】"ジョイフルマーチング"がテーマのイラストを使用したTシャツとタオルがバンダイより登場！]]></title>
