@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jan 2026 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 11:19:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Jan 2026 06:34:55 GMT</pubDate>
+        <pubDate>Tue, 06 Jan 2026 11:19:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【公式】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17717.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17717.html</guid>
+            <pubDate>Tue, 06 Jan 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/VAOXphaniAEeGOyvxHVF19ZynizcUabS.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】カラオケの鉄人コラボ第２弾詳細情報を公開！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17862.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17862.html</guid>
+            <pubDate>Tue, 06 Jan 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/5hYMV6KZ2WmcLKUQOkWGmbtYWpCOcyr0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会_大阪DAY2 ご来場いただきありがとうございました！！]]></title>
             <description><![CDATA[#アイマス20周年イヤー ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17671.html</guid>
             <pubDate>Fri, 12 Dec 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/hc8untg7Tw6us6oT9X2zhP4kE9SWtjSH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】茨城県筑西市の渡辺みのり「ふたマス!!!!!!」グッズがふるさと寄附金の返礼品に登場🌻📣本日2025年12月12日(金)～受付スタート✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17674.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17674.html</guid>
-            <pubDate>Fri, 12 Dec 2025 06:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/41jCaQFKGdwbEXsV4t1MGVdAXLIOiCV8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】佐久間まゆをイメージした特別なネックレスが登場決定📿]]></title>
-            <description><![CDATA[#デレマス #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_17675.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17675.html</guid>
-            <pubDate>Fri, 12 Dec 2025 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/kuQdw0b4GglyhqM2eHtztlv2tvQ0lYQM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

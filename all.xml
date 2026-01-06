@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jan 2026 06:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 11:19:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Jan 2026 06:34:55 GMT</pubDate>
+        <pubDate>Tue, 06 Jan 2026 11:19:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【公式】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17717.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17717.html</guid>
+            <pubDate>Tue, 06 Jan 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/VAOXphaniAEeGOyvxHVF19ZynizcUabS.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】カラオケの鉄人コラボ第２弾詳細情報を公開！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17862.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17862.html</guid>
+            <pubDate>Tue, 06 Jan 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/5hYMV6KZ2WmcLKUQOkWGmbtYWpCOcyr0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】本日1月6日（火）より、学園アイドルマスター POP UP SHOP 「Wild TUNE」開催！スカジャン&キャラクターパネル受注販売もスタート✨【1月29日（木）まで！】]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17802.html</guid>
             <pubDate>Wed, 24 Dec 2025 11:48:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/7fXVzjRSaX6UJm25D2IKODZKEovLz98A.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】「ふたマス!!!!!!ができるまで〜秋月律子の工場見学〜」本日12月24日23時よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17703.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17703.html</guid>
-            <pubDate>Wed, 24 Dec 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/E12bUqNSze0F8V4MHdQYE1cJFTHBHZs8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】ご参加いただく企業・自治体の皆さまを発表！パネル設置は1月30日(金)から！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_17780.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17780.html</guid>
-            <pubDate>Wed, 24 Dec 2025 10:56:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/R96fele3vz4AzJPonhI6EeEJVauJALyU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
