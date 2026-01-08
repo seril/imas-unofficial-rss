@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Jan 2026 02:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 04:02:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Jan 2026 02:56:34 GMT</pubDate>
+        <pubDate>Thu, 08 Jan 2026 04:02:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】プライズ情報「ちびぐるみ」シリーズ新作が1月と2月に登場です！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_17843.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17843.html</guid>
+            <pubDate>Thu, 08 Jan 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7qItaz9aKW0Miw6EwRcW5vj6gKaybBCw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】ストレイライト×gladgarb 予約締切迫る！＜1/13まで＞]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17885.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17885.html</guid>
+            <pubDate>Thu, 08 Jan 2026 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/uVCPtgPUjzvHkpfVY74c64C2AkkBgM4o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】藤田ことねのピッグドリーム貯金箱ぬいぐるみグッズ 受注は今週末(1/11(日))まで！]]></title>
             <description><![CDATA[#学マス  #藤田ことね]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17803.html</guid>
             <pubDate>Wed, 24 Dec 2025 13:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/12/KiLJtmVFSHO1VXkKcEtaSAeAcL42Ve20.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】ようこそ八戸へ！『アイドルマスター シンデレラガールズ』×『名鉄観光』のコラボレーションが決定♪]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17721.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17721.html</guid>
-            <pubDate>Wed, 24 Dec 2025 11:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/CatNWsHTHMzb4jgxD6IdSaCGNUoGLMUG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】2025年12月31日(水)23:40頃～ 「ミリシタカウントダウン！2025-2026」配信予定！]]></title>
-            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタカウントダウン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17759.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17759.html</guid>
-            <pubDate>Wed, 24 Dec 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/9TLk6tXNdt8ROd867L2rCRmlmYEmKA2I.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
