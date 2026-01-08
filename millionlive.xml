@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Jan 2026 11:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jan 2026 14:25:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Jan 2026 11:20:54 GMT</pubDate>
+        <pubDate>Thu, 08 Jan 2026 14:25:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオンライブ】2026年1月16日(金)19:00～『2026年も止まらない！ミリオンライブ！まるっと新春スペシャル生配信！～13thLIVE主演発表！ ミリシタ最新情報も！ミリアニOVA受注追い込み！～』配信予定！]]></title>
+            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17753.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17753.html</guid>
+            <pubDate>Thu, 08 Jan 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/CoL0kRlnhAVfVWS3DpFPiHTNgAF8DE7G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》4月に向けて野々原 茜、春日未来が登場！「イースター」をイメージしたグッズが受注開始！]]></title>
             <description><![CDATA[#ミリオンシーズナル4月]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17645.html</guid>
             <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/hqzuZX8CoZiF11YIRLU1w31lY3gHerbh.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式キーホルダーの誤植に関するお詫びとご案内]]></title>
-            <description><![CDATA[「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」公式キーホルダーの誤植に関するお詫びとご案内]]></description>
-            <link>https://idolmaster-official.jp/news/01_17677.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17677.html</guid>
-            <pubDate>Thu, 11 Dec 2025 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
