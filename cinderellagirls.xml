@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jan 2026 02:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 04:04:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jan 2026 02:57:43 GMT</pubDate>
+        <pubDate>Fri, 09 Jan 2026 04:04:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】＼2026年3月13日(金)より開催✨／有楽町マルイにて「アイドルマスター シンデレラガールズPOP UP SHOP」が開催決定！]]></title>
+            <description><![CDATA[#デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_17782.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17782.html</guid>
+            <pubDate>Fri, 09 Jan 2026 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/BiX8OMbzWLysStyu0nuaVpNPKFe1OVOS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【公式】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17693.html</guid>
             <pubDate>Fri, 12 Dec 2025 09:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/vKUY2sRqD3RJaIsvjhcSew6WWy7UFVxV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】いよいよ明日！！「MOIW2025」会場周辺イベントをおさらい！！開催記念グッズの受注もスタート！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ #アイのキセキWEEK]]></description>
-            <link>https://idolmaster-official.jp/news/01_17671.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17671.html</guid>
-            <pubDate>Fri, 12 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/hc8untg7Tw6us6oT9X2zhP4kE9SWtjSH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
