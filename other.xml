@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jan 2026 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 11:19:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jan 2026 06:34:19 GMT</pubDate>
+        <pubDate>Fri, 09 Jan 2026 11:19:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】メンバー限定MOIW2025特別配信DAY1/2」「【ラジオ】冒頭15分は誰でも聞ける！2026年1月メンバー限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17886.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17886.html</guid>
+            <pubDate>Fri, 09 Jan 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/AdJmaMvPd9LuYeFQE9llSHaozSoMZc0x.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】「876 PRODUCTION FES.」公式グッズ事前物販2nd、本日1/4(日)〆切！]]></title>
             <description><![CDATA[#876プロフェス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17162.html</guid>
             <pubDate>Fri, 24 Oct 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2025/10/GJny79dCOdqqcq1CuIzVkH7FJI11BFzl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【 #ヴイアラ 】【ディアリースターズ】『876 PRODUCTION FES.』現地チケットのアソビストア一般会員2次先行＆イベントグッズ事前物販開始！]]></title>
-            <description><![CDATA[#876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17091.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17091.html</guid>
-            <pubDate>Fri, 17 Oct 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/09/NLAbKwz6L7T6jUsp4HFezfPtGGDKzUFd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

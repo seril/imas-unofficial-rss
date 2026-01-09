@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jan 2026 06:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 11:19:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jan 2026 06:34:19 GMT</pubDate>
+        <pubDate>Fri, 09 Jan 2026 11:19:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】メンバー限定MOIW2025特別配信DAY1/2」「【ラジオ】冒頭15分は誰でも聞ける！2026年1月メンバー限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17886.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17886.html</guid>
+            <pubDate>Fri, 09 Jan 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/AdJmaMvPd9LuYeFQE9llSHaozSoMZc0x.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」イベントグッズ事前二次再受注＆協賛社グッズの販売が本日1月9日(金)よりスタート！！]]></title>
+            <description><![CDATA[#ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_17863.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17863.html</guid>
+            <pubDate>Fri, 09 Jan 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/gXAfijf5uJa47C7TvUvbULawl5QCxcpo.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオンライブ】2026年1月16日(金)19:00～『2026年も止まらない！ミリオンライブ！まるっと新春スペシャル生配信！～13thLIVE主演発表！ ミリシタ最新情報も！ミリアニOVA受注追い込み！～』配信予定！]]></title>
             <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信 ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17618.html</guid>
             <pubDate>Thu, 11 Dec 2025 14:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/zMCNbJmBTkiDA3tdoSsRnZumOKVc2kRD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【ラジオ】「Cozy room #アイのキセキWEEK」動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17608.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17608.html</guid>
-            <pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/S15mGbwliCZ54LoDPtsSSaCx3ta5BHwJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】ライブ冒頭の【無料】生配信が決定！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」配信チケットも販売中♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17645.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17645.html</guid>
-            <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/hqzuZX8CoZiF11YIRLU1w31lY3gHerbh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

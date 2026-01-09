@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Jan 2026 06:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jan 2026 11:19:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jan 2026 06:34:18 GMT</pubDate>
+        <pubDate>Fri, 09 Jan 2026 11:19:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】メンバー限定MOIW2025特別配信DAY1/2」「【ラジオ】冒頭15分は誰でも聞ける！2026年1月メンバー限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_17886.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17886.html</guid>
+            <pubDate>Fri, 09 Jan 2026 10:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/AdJmaMvPd9LuYeFQE9llSHaozSoMZc0x.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』視聴コメント付きアーカイブとオーディオコメンタリー付き同時視聴上映会のアーカイブは1月12日(月・祝) まで！]]></title>
+            <description><![CDATA[#シンデレラガールズフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17845.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17845.html</guid>
+            <pubDate>Fri, 09 Jan 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/01/jtPOckXDXcMAYZTPcLVVpsGuQPsFtd38.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】＼2026年3月13日(金)より開催✨／有楽町マルイにて「アイドルマスター シンデレラガールズPOP UP SHOP」が開催決定！]]></title>
             <description><![CDATA[#デレマス #imas_cg]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17659.html</guid>
             <pubDate>Sat, 13 Dec 2025 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/sXP8tB3VyVOMkyoLy1ai12LO8vteI6Ww.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】本日発売！！「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が合同ライブ現地物販会場とアソビストアで販売中♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17664.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17664.html</guid>
-            <pubDate>Sat, 13 Dec 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/6EouHaDZNjbluRghVPhns1K56GqpgWzy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】明日12月13日（土）より、特別企画展「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE WITH ～キミと歩んだ輝きの軌跡～ 」が開催！]]></title>
-            <description><![CDATA[#デレマス #デレステWITH]]></description>
-            <link>https://idolmaster-official.jp/news/01_17693.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17693.html</guid>
-            <pubDate>Fri, 12 Dec 2025 09:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/10/vKUY2sRqD3RJaIsvjhcSew6WWy7UFVxV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
