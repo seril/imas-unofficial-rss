@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Jan 2026 14:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 03:07:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Jan 2026 14:18:51 GMT</pubDate>
+        <pubDate>Sun, 11 Jan 2026 03:07:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 学マス 】‎篠澤広誕生日記念セット2025 受注〆切間近！［1/12(月･祝)まで］]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17905.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17905.html</guid>
+            <pubDate>Sun, 11 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/Hpz8kdQir32xcLPSkQHaXGWNDxXnl2Dm.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会_東京DAY1 ご来場いただきありがとうございました！！]]></title>
             <description><![CDATA[#アイマス20周年イヤー ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17483.html</guid>
             <pubDate>Fri, 26 Dec 2025 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/12/sQzUjSwGuygGBXcByLCbFaRkpHFhQ10D.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『シャニマス生配信 2025年シャニ納め ～今年も1年ありがとうSP～』お知らせまとめ]]></title>
-            <description><![CDATA[#シャニマス生配信 #シャイニーカラーズ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17695.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17695.html</guid>
-            <pubDate>Fri, 26 Dec 2025 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/kmBTaZqPK9S7bHVSBSzCyGrSV250WVMB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
