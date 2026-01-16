@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 06:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 11:19:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Jan 2026 06:34:27 GMT</pubDate>
+        <pubDate>Fri, 16 Jan 2026 11:19:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『ミリオンライブ！まるっと新春スペシャル生配信！』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリアニOVA #ミリオンライブ #ミリオンライブ新春生配信  ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17844.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17844.html</guid>
+            <pubDate>Fri, 16 Jan 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/01/WIwwjwBfUzrIq0E4pRNzHBYChHeg8glr.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026」現地グッズ付きチケットの各公演グッズデザインを公開！チケット最速先行受付は今週1月18日(日)まで！ ！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_17952.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17952.html</guid>
+            <pubDate>Fri, 16 Jan 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/uDd1mncJSW3NHO3nVmYje2UHvd8LnNd9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】【ミリオン】「でこらいくTWINS POP UP SHOP」詳細情報解禁✨]]></title>
+            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17917.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17917.html</guid>
+            <pubDate>Fri, 16 Jan 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】11thLIVE応援セット販売中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17853.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17853.html</guid>
+            <pubDate>Fri, 16 Jan 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/01/s2nPf2dTrtpgftLIiIQdix3qR7bFl6wq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「Jellyfish Rhythm POP UP SHOP」いよいよ明日から開催‼🪼✨]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17683.html</guid>
             <pubDate>Sat, 13 Dec 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/ArKXpH3P8QfjbA5K6ElDO55OxXOQKBkc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」DAY1ご来場・ご視聴いただきありがとうございました！本日のセットリストはこちら！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17659.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17659.html</guid>
-            <pubDate>Sat, 13 Dec 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/sXP8tB3VyVOMkyoLy1ai12LO8vteI6Ww.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】本日発売！！「アイドルマスター カードフォリオ MOIW2025 プレミアムパック」が合同ライブ現地物販会場とアソビストアで販売中♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17664.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17664.html</guid>
-            <pubDate>Sat, 13 Dec 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/6EouHaDZNjbluRghVPhns1K56GqpgWzy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】バンダイナムコミュージックライブより、音楽をKAMIしめるカードゲーム「KAMISABI」発売決定！MOIW2025の会場にて最速体験会を開催！]]></title>
-            <description><![CDATA[#ミリオンライブ #SideM #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17694.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17694.html</guid>
-            <pubDate>Fri, 12 Dec 2025 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/DtffFF6QldQxW4q9s20EsMmhqPfP2Zzy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】いよいよ明日！！「MOIW2025」会場周辺イベントをおさらい！！開催記念グッズの受注もスタート！！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #カードフォリオ #アイのキセキWEEK]]></description>
-            <link>https://idolmaster-official.jp/news/01_17671.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17671.html</guid>
-            <pubDate>Fri, 12 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/hc8untg7Tw6us6oT9X2zhP4kE9SWtjSH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

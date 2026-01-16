@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 06:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 11:19:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Jan 2026 06:34:27 GMT</pubDate>
+        <pubDate>Fri, 16 Jan 2026 11:19:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】「MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026」現地グッズ付きチケットの各公演グッズデザインを公開！チケット最速先行受付は今週1月18日(日)まで！ ！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_17952.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17952.html</guid>
+            <pubDate>Fri, 16 Jan 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/uDd1mncJSW3NHO3nVmYje2UHvd8LnNd9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】今週末1月18日(日)まで！ アンティーカ×名古屋のコラボイベント「ようこそ名古屋へ！」が開催中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_17922.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17922.html</guid>
+            <pubDate>Fri, 16 Jan 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/VOmXaq1jiDCVOgAam4JhevZPUQf4UTeg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス8th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」イベントグッズ事前販売ファイナル＆協賛社グッズ販売が本日1月15日(木)よりスタート！]]></title>
             <description><![CDATA[#シャニマス8th #シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17653.html</guid>
             <pubDate>Wed, 17 Dec 2025 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/7VluVbnzpNMV65mutOVv5AlDyvvGGYP7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】月岡 恋鐘、大崎 甘奈が登場するキャスティングコレクションを開催中！SSR2倍‼1日1回10連無料ガシャも！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17719.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17719.html</guid>
-            <pubDate>Wed, 17 Dec 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/a9jhebAettiEM63oEqwUA24HAF4sXE2w.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に楽曲『READY!!』を追加！ ]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17722.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17722.html</guid>
-            <pubDate>Wed, 17 Dec 2025 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/tZP7JstjWkdRv0oQ9EoFmBZddwebwaOR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
