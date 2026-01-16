@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 02:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 04:06:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Jan 2026 02:58:18 GMT</pubDate>
+        <pubDate>Fri, 16 Jan 2026 04:06:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】来月2月開催「876 PRODUCTION FES」最新情報！イベントスポンサー決定！さらにASOBI STOREにて公式グッズ数量限定＆一部スポンサー商品の事前販売も実施決定！]]></title>
+            <description><![CDATA[#876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17943.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17943.html</guid>
+            <pubDate>Fri, 16 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/0qyP2smaR82eshZMkCKkkuzHNRI2LoOa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第八弾】「お叱りボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を期間限定販売！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_17223.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17223.html</guid>
             <pubDate>Thu, 30 Oct 2025 22:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】締め切りまであと４日！ 企業、自治体の皆さまからアイドルたちへのオファーお待ちしています！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17193.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17193.html</guid>
-            <pubDate>Tue, 28 Oct 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/09/LRdiS4rLPhQsIOq3ijPgdWg13STfdxCH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>

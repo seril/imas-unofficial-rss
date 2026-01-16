@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 02:58:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 04:06:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Jan 2026 02:58:18 GMT</pubDate>
+        <pubDate>Fri, 16 Jan 2026 04:06:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター」×「はぁって言うゲーム」発売決定✨『プロデューサーって言うゲーム』の予約が本日よりスタート！店舗特典もお見逃しなく✨【2/2(日)まで】]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17918.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17918.html</guid>
+            <pubDate>Fri, 16 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/JgGeXt25LSXCgVcgjSwrKXLO4gCVuFXl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】来月2月開催「876 PRODUCTION FES」最新情報！イベントスポンサー決定！さらにASOBI STOREにて公式グッズ数量限定＆一部スポンサー商品の事前販売も実施決定！]]></title>
+            <description><![CDATA[#876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17943.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17943.html</guid>
+            <pubDate>Fri, 16 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/0qyP2smaR82eshZMkCKkkuzHNRI2LoOa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】予約締切は1月19日（月）23時まで！"ジョイフルマーチング"テーマの描きおろしイラストを使用したTシャツやタオルをお見逃しなく！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17873.html</guid>
             <pubDate>Wed, 07 Jan 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/i9dYZtbw4BH9VeSkGnSf3uzETleDOF3W.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism カウントダウンラブ / KAWAII♡めたもる交響曲」CD発売記念グッズ通販実施決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17884.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17884.html</guid>
-            <pubDate>Wed, 07 Jan 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/m2tpVZcQ7TnOOjK1Zk2zIjyynS2iEECO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「THE IDOLM@STER SideM 10th ANNIVERSARY MEETING ～P@SSION UP!!!～ EVENT Blu-ray」付属帯における掲載内容の不備に関するお詫び]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_17866.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17866.html</guid>
-            <pubDate>Wed, 07 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
