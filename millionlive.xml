@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 11:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 14:23:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Jan 2026 11:19:47 GMT</pubDate>
+        <pubDate>Fri, 16 Jan 2026 14:23:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】Sparkle Girl Crush！POP UP SHOPがHMV&BOOKS SHIBUYAにて開催決定🎶 グッズなどの詳細情報も公開📢！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17921.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17921.html</guid>
+            <pubDate>Fri, 16 Jan 2026 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/0krUgQklqe9kVu2vO965rPbbjMd5llHC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「FAMくじ」にて新規描き下ろしイラストを使用したオンラインくじvol.2が販売決定🍫]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17877.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17877.html</guid>
+            <pubDate>Fri, 16 Jan 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/wHzOkwkKtNNZqnihMntjFblddk5ibUWE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」アソビストアプレミアム会員最速先行(抽選)が本日1月16日(金)21:00よりスタート！！]]></title>
+            <description><![CDATA[#ミリオン13th]]></description>
+            <link>https://idolmaster-official.jp/news/01_17937.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17937.html</guid>
+            <pubDate>Fri, 16 Jan 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/Bfk7XtuCcQZENT9ruqW9qd9qw6pa6Ec5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオンライブ】『ミリオンライブ！まるっと新春スペシャル生配信！』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
             <description><![CDATA[#ミリシタ #ミリアニOVA #ミリオンライブ #ミリオンライブ新春生配信  ]]></description>
@@ -39,6 +63,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17853.html</guid>
             <pubDate>Fri, 16 Jan 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/01/s2nPf2dTrtpgftLIiIQdix3qR7bFl6wq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『ミリオンライブ！まるっと新春スペシャル生配信！～ミリアニOVA 発売記念！13thライブ主演発表！ミリシタ最新情報も！～』お知らせまとめ]]></title>
+            <description><![CDATA[#ミリシタ　#ミリオンライブ　#ミリアニOVA]]></description>
+            <link>https://idolmaster-official.jp/news/01_17752.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17752.html</guid>
+            <pubDate>Thu, 15 Jan 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/sEw31QLRNnVfczCwxnCNRST9leDYN1sJ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオン】「Jellyfish Rhythm POP UP SHOP」いよいよ明日から開催‼🪼✨]]></title>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17687.html</guid>
             <pubDate>Tue, 16 Dec 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/12/Qs90WcIIgXaJnVl2rgRO5emK84cMR9Fa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」登壇制作陣の追加発表、お便り募集開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス新年会]]></description>
-            <link>https://idolmaster-official.jp/news/01_17712.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17712.html</guid>
-            <pubDate>Mon, 15 Dec 2025 09:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/11/vkXyJYzFUtitVCNatSS7NhrZjltkkAiJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17698.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17698.html</guid>
-            <pubDate>Mon, 15 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/kIqDuFGYsG6VFGrDus8FSqM8HYLO18YR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」DAY2ご来場・ご視聴いただきありがとうございました！本日のセットリストはこちら！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_17662.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17662.html</guid>
-            <pubDate>Sun, 14 Dec 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/RqfxxVVLVqF3dUxfZngm2YFsR1uG2lgT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】フィナーレを飾るアイドル越境ライブ「MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026」2026年7月24日-26日開催決定!!! キービジュアル＆第一弾メンバー発表！現地チケット先行受付も開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_17683.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17683.html</guid>
-            <pubDate>Sat, 13 Dec 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/ArKXpH3P8QfjbA5K6ElDO55OxXOQKBkc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 11:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 14:23:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Jan 2026 11:19:46 GMT</pubDate>
+        <pubDate>Fri, 16 Jan 2026 14:23:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】Sparkle Girl Crush！POP UP SHOPがHMV&BOOKS SHIBUYAにて開催決定🎶 グッズなどの詳細情報も公開📢！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17921.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17921.html</guid>
+            <pubDate>Fri, 16 Jan 2026 12:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/0krUgQklqe9kVu2vO965rPbbjMd5llHC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「FAMくじ」にて新規描き下ろしイラストを使用したオンラインくじvol.2が販売決定🍫]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17877.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17877.html</guid>
+            <pubDate>Fri, 16 Jan 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/wHzOkwkKtNNZqnihMntjFblddk5ibUWE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」アソビストアプレミアム会員最速先行(抽選)が本日1月16日(金)21:00よりスタート！！]]></title>
+            <description><![CDATA[#ミリオン13th]]></description>
+            <link>https://idolmaster-official.jp/news/01_17937.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17937.html</guid>
+            <pubDate>Fri, 16 Jan 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/Bfk7XtuCcQZENT9ruqW9qd9qw6pa6Ec5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】THE IDOLM@STER SideM TRANSCENDENT T@LESリリース記念グッズ第1弾発売決定！]]></title>
             <description><![CDATA[#SideM ]]></description>
@@ -103,6 +127,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17927.html</guid>
             <pubDate>Fri, 16 Jan 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/q4pkQHl03K25w0RKdo1GPeTo6kzV7UPY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『ミリオンライブ！まるっと新春スペシャル生配信！～ミリアニOVA 発売記念！13thライブ主演発表！ミリシタ最新情報も！～』お知らせまとめ]]></title>
+            <description><![CDATA[#ミリシタ　#ミリオンライブ　#ミリアニOVA]]></description>
+            <link>https://idolmaster-official.jp/news/01_17752.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17752.html</guid>
+            <pubDate>Thu, 15 Jan 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/sEw31QLRNnVfczCwxnCNRST9leDYN1sJ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオン】「Jellyfish Rhythm POP UP SHOP」いよいよ明日から開催‼🪼✨]]></title>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17700.html</guid>
             <pubDate>Fri, 09 Jan 2026 02:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/jRdRNj4yX0iiuybkKdoNQvvhJ0ifEade.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】初の衣装本「THE IDOLM@STER SideM STAGE COSTUME BOOK」が2026年6月24日(水)に発売決定！！本日よりASOBI STOREにて受注スタート！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17867.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17867.html</guid>
-            <pubDate>Thu, 08 Jan 2026 12:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/C3lcegIiNmzxR88uMu190rmEJhrpQ6ME.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　4月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場♪本日21:00より受注受付スタート！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17626.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17626.html</guid>
-            <pubDate>Thu, 08 Jan 2026 12:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/J0brXr04YeJS8B4K9mGRm2UVZNR5BD0s.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM　新春！魂メラメラ！グッズモリモリ！パッショナブル生配信」告知まとめ]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_17639.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17639.html</guid>
-            <pubDate>Thu, 08 Jan 2026 12:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/01/dvtyvbQHcA8YZqzyGf5hnwUAVoPwOE1K.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第2弾が登場！！本日よりASOBI STOREにて受注開始！！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17577.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17577.html</guid>
-            <pubDate>Thu, 08 Jan 2026 12:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/lsl5UbYE7wlhLsHFGhcE58JQY269yNaj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
