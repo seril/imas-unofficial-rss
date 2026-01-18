@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jan 2026 06:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jan 2026 11:16:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jan 2026 06:31:53 GMT</pubDate>
+        <pubDate>Sun, 18 Jan 2026 11:16:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[本日まで！！【アイマスMOIW2025】開催記念グッズの受注中！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17957.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17957.html</guid>
+            <pubDate>Sun, 18 Jan 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/01/rTKD9ESIHtOQV27MdUcWRkyxU94ORaWO.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日まで！！【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチ]]></title>
             <description><![CDATA[#アイマス20周年イヤー #MOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17731.html</guid>
             <pubDate>Sat, 20 Dec 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/OZL2O8CE9ZJJWOPZUg7DMnSuaEmsDYWx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】12/20(土)学マス生配信「初星学園HR ～年末まったり3時間SP～」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター#年末学マス3時間SP]]></description>
-            <link>https://idolmaster-official.jp/news/01_17606.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17606.html</guid>
-            <pubDate>Fri, 19 Dec 2025 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/PXsBn0Zfancpz21BGhwzisrIlQGhfrqJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
