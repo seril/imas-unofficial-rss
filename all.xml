@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Jan 2026 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 03:05:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jan 2026 14:18:25 GMT</pubDate>
+        <pubDate>Mon, 19 Jan 2026 03:05:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】サイクルジャージ第二弾が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17965.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17965.html</guid>
+            <pubDate>Mon, 19 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/tGmtCVWuzlTIKYCfkwIvoK9cOMgHdY0m.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会_名古屋DAY2 ご来場いただきありがとうございました！！]]></title>
             <description><![CDATA[#アイマス20周年イヤー ]]></description>
@@ -161,20 +169,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】eeo Store 池袋本店にて「猫」をテーマにした新商品の発売が決定！]]></title>
-            <description><![CDATA[#デレマス #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_17801.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17801.html</guid>
-            <pubDate>Fri, 16 Jan 2026 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/tiwChyM6mt7WaxjacQxG6QigBP5kJsVz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シャニマス】今週末1月18日(日)まで！ アンティーカ×名古屋のコラボイベント「ようこそ名古屋へ！」が開催中！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ #アンティーカ_騎士団]]></description>
             <link>https://idolmaster-official.jp/news/01_17922.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17922.html</guid>
             <pubDate>Fri, 16 Jan 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/VOmXaq1jiDCVOgAam4JhevZPUQf4UTeg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】eeo Store 池袋本店にて「猫」をテーマにした新商品の発売が決定！]]></title>
+            <description><![CDATA[#デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_17801.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17801.html</guid>
+            <pubDate>Fri, 16 Jan 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/tiwChyM6mt7WaxjacQxG6QigBP5kJsVz.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリシタ】11thLIVE応援セット販売中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17901.html</guid>
             <pubDate>Sat, 10 Jan 2026 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/lG9e3WanAhl6iuyuxl5BX2h6XvHzMOvA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチが受注中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17822.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17822.html</guid>
-            <pubDate>Sat, 10 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/v0gYv6A6VgpkHmN6jyNvR33GpZoZUwZb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
