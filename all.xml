@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Jan 2026 06:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jan 2026 11:21:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Jan 2026 06:38:51 GMT</pubDate>
+        <pubDate>Mon, 19 Jan 2026 11:21:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM」×ビッグエコー コラボキャンペーン詳細公開！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_17938.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17938.html</guid>
+            <pubDate>Mon, 19 Jan 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/12/gGjssDvdBxE8EiLpXtLYkVfIKT5XzxoM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】1/20（火）より「ミラシル by 第一生命」とのコラボコンテンツが公開スタート！📝]]></title>
+            <description><![CDATA[#デレマス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17874.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17874.html</guid>
+            <pubDate>Mon, 19 Jan 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/lfBYMHmRDbvaPqOfGw75wsXurdS1CkQF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】五島軒にて「アルストロメリア コラボアフタヌーンティーセット」の発売決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17944.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17944.html</guid>
+            <pubDate>Mon, 19 Jan 2026 08:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/bcplZgYKYzqP2jIABk334ZnMxjiihM0p.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】Cozy Room『OathONE』直前！日本武道館から生ラジオSP」配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_17950.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17950.html</guid>
+            <pubDate>Mon, 19 Jan 2026 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/rB9m4KXuueZSZ07jPE9fvF4zBT7HqL6o.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】如月千早武道館単独公演「OathONE」 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_17869.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17869.html</guid>
+            <pubDate>Mon, 19 Jan 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/ZDu3m9u0Nd5HJzDi3GqqOT4hTtcpbFpY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】サイクルジャージ第二弾が登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17906.html</guid>
             <pubDate>Sun, 11 Jan 2026 11:07:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/qQmAcvjfXwVSFD9OmP3pv0tCmRNdu8II.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】藤田ことねのピッグドリーム貯金箱ぬいぐるみグッズ 受注は本日(1/11(日))まで！]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17899.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17899.html</guid>
-            <pubDate>Sun, 11 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/lXlCCYy0oLHb397zhmmPvm6a80ta8hTi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 学マス 】‎篠澤広誕生日記念セット2025 受注〆切間近！［1/12(月･祝)まで］]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17905.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17905.html</guid>
-            <pubDate>Sun, 11 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/Hpz8kdQir32xcLPSkQHaXGWNDxXnl2Dm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会_東京DAY1 ご来場いただきありがとうございました！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17902.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17902.html</guid>
-            <pubDate>Sat, 10 Jan 2026 11:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/jRAaCvpsDEml0zws1gpsuzT2sF4uptJx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】七草 にちか、郁田 はるきが手に入るガシャ開催中！さらに、シーズの楽曲『Monochromatic』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17859.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17859.html</guid>
-            <pubDate>Sat, 10 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/01/3XMlTrr5CDBGwzg9NnDC2rDYCTO2OfuY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】 如月千早武道館単独公演「OathONE」現地チケット先着発売・リセール受付は本日から！新曲情報も公開！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_17901.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17901.html</guid>
-            <pubDate>Sat, 10 Jan 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/lG9e3WanAhl6iuyuxl5BX2h6XvHzMOvA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
