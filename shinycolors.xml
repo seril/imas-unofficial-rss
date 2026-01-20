@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 06:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 11:23:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Jan 2026 06:36:49 GMT</pubDate>
+        <pubDate>Tue, 20 Jan 2026 11:23:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_騎士団】「騎士団のヴェール大解剖 楽曲コメンタリースペシャル生配信！」の実施が決定！]]></title>
+            <description><![CDATA[#アンティーカ_騎士団]]></description>
+            <link>https://idolmaster-official.jp/news/01_17967.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17967.html</guid>
+            <pubDate>Tue, 20 Jan 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/ZnFAEw1RqXcCoP5mjHSEvDhXNatFMekq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】風野 灯織、幽谷 霧子が登場するトワイライツコレクションを開催中！合計283連ガシャが引ける特別キャンペーンも！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17961.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17961.html</guid>
+            <pubDate>Tue, 20 Jan 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/01/dfHxjEOP5WDzjW7lkxSJ2AzRpj0IyG24.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会 にてDJ披露したマスコット＆DJ UMEKINGのセットリスト公開！ 公演アンケートも実施中！]]></title>
             <description><![CDATA[#アイマス20周年イヤー ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17669.html</guid>
             <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/IOG8IJkXT8BoKHoMSuHPx6dqD318Nh0O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【24/7Stream】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17710.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17710.html</guid>
-            <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/Xt1XHRDt2aGsVcWgqqqhK1Sub4DnNwTV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【YouTube】【AP生配信】【シャニマス】283 Production MUSICAL Performance 騎士団のヴェール – Veil of Order – 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #シャニマス   #アンティーカ_騎士団]]></description>
-            <link>https://idolmaster-official.jp/news/01_17643.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17643.html</guid>
-            <pubDate>Mon, 22 Dec 2025 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/ow4CuwzkqELlLSzTIpGEATSi6Wwwj2WS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
