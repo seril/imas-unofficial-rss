@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 11:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 14:30:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Jan 2026 11:23:38 GMT</pubDate>
+        <pubDate>Tue, 20 Jan 2026 14:30:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】生配信「衣装展の見どころを一挙紹介しちゃうぞ生配信！」お知らせまとめ✨]]></title>
+            <description><![CDATA[#シャニマス衣装展東京 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17970.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17970.html</guid>
+            <pubDate>Tue, 20 Jan 2026 13:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/01/PUzR6wbCAsSrBFfCLI5f86zcHGlVGpOf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年1月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_17911.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17911.html</guid>
+            <pubDate>Tue, 20 Jan 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/01/SNXzOcPm9AoxlIgEpruKYTjd5RQkqVhD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_騎士団】「騎士団のヴェール大解剖 楽曲コメンタリースペシャル生配信！」の実施が決定！]]></title>
             <description><![CDATA[#アンティーカ_騎士団]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17771.html</guid>
             <pubDate>Wed, 24 Dec 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2025/12/QTjxXipPFNWepxIt29TvTp96FoE2P89F.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】1/20(火)に「283PRODUCTION COSTUME G＠LLERY  ～MY F＠VORITE COLLECTION～  衣装展の見どころを一挙紹介しちゃうぞ生配信！」の配信が決定！]]></title>
-            <description><![CDATA[#シャニマス衣装展東京 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17786.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17786.html</guid>
-            <pubDate>Tue, 23 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/12/yfG55aJ0txxmQKnb1l06gFScgFI2IClP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【新年会】「2026年配信初め〜今年もよろしくお願いしM＠S〜」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17669.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17669.html</guid>
-            <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/IOG8IJkXT8BoKHoMSuHPx6dqD318Nh0O.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
