@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 03:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 04:11:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Jan 2026 03:00:13 GMT</pubDate>
+        <pubDate>Tue, 20 Jan 2026 04:11:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター × 極楽湯・RAKU SPA 第2弾コラボキャンペーンが2月5日(木)より開催決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17971.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17971.html</guid>
+            <pubDate>Tue, 20 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/f3KxQs4H8zl8khKOU50BPKyMYIY2eEiQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】『学園アイドルマスター POP UP SHOP in 伊勢丹立川店』グッズ詳細公開！事前抽選入場のお申込みも開始✨]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17748.html</guid>
             <pubDate>Mon, 22 Dec 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/12/STlcc7w8y7dDRxbtWFS12s4yY870FbL7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】リアル脱出ゲーム×学園アイドルマスター『人狼潜む文化祭からの脱出』が開催決定！ チケット販売中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #リアル脱出ゲーム]]></description>
-            <link>https://idolmaster-official.jp/news/01_17767.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17767.html</guid>
-            <pubDate>Mon, 22 Dec 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/wW8PG4WebH56RgDfcDHhi8m8ndoCQqtq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
