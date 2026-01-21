@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jan 2026 06:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 11:24:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jan 2026 06:37:07 GMT</pubDate>
+        <pubDate>Wed, 21 Jan 2026 11:24:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」Steamセール実施のお知らせ]]></title>
+            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17982.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17982.html</guid>
+            <pubDate>Wed, 21 Jan 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】パネル設置開始まであと9日！参加企業・自治体のコメントをご紹介！［第1弾］]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17669.html</guid>
             <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/IOG8IJkXT8BoKHoMSuHPx6dqD318Nh0O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【24/7Stream】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17710.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17710.html</guid>
-            <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/Xt1XHRDt2aGsVcWgqqqhK1Sub4DnNwTV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

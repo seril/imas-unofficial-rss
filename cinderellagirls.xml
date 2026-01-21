@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jan 2026 06:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 11:24:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jan 2026 06:37:07 GMT</pubDate>
+        <pubDate>Wed, 21 Jan 2026 11:24:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】明日1月22日（木）より、カラオケの鉄人コラボ第２弾が開催！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17985.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17985.html</guid>
+            <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/5hYMV6KZ2WmcLKUQOkWGmbtYWpCOcyr0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」Steamセール実施のお知らせ]]></title>
+            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17982.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17982.html</guid>
+            <pubDate>Wed, 21 Jan 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】パネル設置開始まであと9日！参加企業・自治体のコメントをご紹介！［第1弾］]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17765.html</guid>
             <pubDate>Fri, 19 Dec 2025 09:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/sbcjFHjLZokQZ78IsaDkhsD8x6meRL5q.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ×カラオケまねきねこ」コラボキャンペーンが12月28日まで開催中！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17714.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17714.html</guid>
-            <pubDate>Fri, 19 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/MFdBsw8YVRsupfRVIBgqqOdC0gMoYuxg.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】12月21日（日）まで「東京ジョイポリス」と「アイドルマスター シンデレラガールズ」のコラボが開催中！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17764.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17764.html</guid>
-            <pubDate>Fri, 19 Dec 2025 08:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/10/plKdkVZdwV3RlfPdDK5FXOiFUN2qrmiR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
