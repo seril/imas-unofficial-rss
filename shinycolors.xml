@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jan 2026 04:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 06:37:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jan 2026 04:11:07 GMT</pubDate>
+        <pubDate>Wed, 21 Jan 2026 06:37:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】桑山 千雪が手に入るガシャ開催中！さらに、Sonic Heart (and Signal)の楽曲『Oh Yeah!!』が追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17933.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17933.html</guid>
+            <pubDate>Wed, 21 Jan 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/01/oA2Zd8C8SpIYxXWTUASfKE5RRmYO9Nc4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】パネル設置開始まであと9日！参加企業・自治体のコメントをご紹介！［第1弾］]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17735.html</guid>
             <pubDate>Sat, 20 Dec 2025 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/VBw6QQps1iIyZ229SkvFn3GOlwaLkXXx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」抽選で4名様にキャストのサイン色紙をプレゼント！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス年末感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17788.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17788.html</guid>
-            <pubDate>Wed, 24 Dec 2025 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/DDOctgy4YFjF7lFAIRJygbXbMAXN9fnz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
