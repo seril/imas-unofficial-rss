@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jan 2026 02:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 04:11:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jan 2026 02:59:04 GMT</pubDate>
+        <pubDate>Wed, 21 Jan 2026 04:11:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】制服や私服姿のちびぐるみたちが全国のクレーンゲームに順次登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17989.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17989.html</guid>
+            <pubDate>Wed, 21 Jan 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/vhrb8p132Wiw25ImERHfNSok0Bm0MQ2I.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オファマス】パネル設置開始まであと9日！参加企業・自治体のコメントをご紹介！［第1弾］]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_17973.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17973.html</guid>
+            <pubDate>Wed, 21 Jan 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】1月28日(水) 19:00～ 声優陣5名が出演するシャニソン生配信を実施予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニソン  #シャニソン生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_17855.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17855.html</guid>
+            <pubDate>Wed, 21 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/01/vh5Tz3l7JdoLklb1qF956YAObp0oM9KY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】描き下ろしイラスト『サマードレスver.』を使用した、最上静香のTシャツが登場！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17928.html</guid>
             <pubDate>Thu, 15 Jan 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/bJTSOsFdFb77Gnnyp2SncnHSK9Pn4Avj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス8th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」イベントグッズ事前販売ファイナル＆協賛社グッズ販売が本日1月15日(木)よりスタート！]]></title>
-            <description><![CDATA[#シャニマス8th #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17919.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17919.html</guid>
-            <pubDate>Thu, 15 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/87ONUbe3O3TkiP4MAPvrtqc21ygz8woL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニマス大感謝祭！開演前時間にて「シャニソンFULLCOMBO王決定戦」を開催決定！参加申し込みもスタート！]]></title>
-            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17892.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17892.html</guid>
-            <pubDate>Thu, 15 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/01/Tjlos3oA1Iyg7XFlAegol1EESBEyGORp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】月村手毬の1/7スケールフィギュアが登場！ご予約受付中♪]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17916.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17916.html</guid>
-            <pubDate>Thu, 15 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/tXEwhS3DPN4QVuONkfmMQefx62ubUu7r.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
