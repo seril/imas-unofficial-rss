@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 14:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 02:59:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Jan 2026 14:30:56 GMT</pubDate>
+        <pubDate>Wed, 21 Jan 2026 02:59:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】描き下ろしイラスト『サマードレスver.』を使用した、最上静香のTシャツが登場！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17932.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17932.html</guid>
+            <pubDate>Wed, 21 Jan 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/Ri9JmlCCvo43zcTt2UGHXmQlpk4gVix8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】生配信「衣装展の見どころを一挙紹介しちゃうぞ生配信！」お知らせまとめ✨]]></title>
             <description><![CDATA[#シャニマス衣装展東京 #シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17916.html</guid>
             <pubDate>Thu, 15 Jan 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/tXEwhS3DPN4QVuONkfmMQefx62ubUu7r.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【2/2(月)23:59まで】高級感ただようインテリア「パーソナルパブミラー」シリーズに「島原エレナ」が登場！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17746.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17746.html</guid>
-            <pubDate>Thu, 15 Jan 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/Muol80hdZ0ZIrm3O8kkBV5KW6ZAH8bdk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
