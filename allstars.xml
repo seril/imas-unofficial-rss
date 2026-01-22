@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jan 2026 06:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 11:22:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Jan 2026 06:35:28 GMT</pubDate>
+        <pubDate>Thu, 22 Jan 2026 11:22:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】如月千早武道館単独公演「OathONE」会場展示エリアのお知らせ🌟📢]]></title>
+            <description><![CDATA[#如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_17978.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17978.html</guid>
+            <pubDate>Thu, 22 Jan 2026 09:21:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/GmbGQtUwg4Qw2VGiZQi5yi5kmc0BzlAD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】【明日1/23(金)~受注開始！】「如月千早」新規録り下ろしボイス搭載ゾーガンキンスカルプが登場！！「如月千早」新規録り下ろしボイス搭載ヘッドホン再々受注も決定🎧🎵]]></title>
             <description><![CDATA[#idolmaster]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17683.html</guid>
             <pubDate>Sat, 13 Dec 2025 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2025/12/ArKXpH3P8QfjbA5K6ElDO55OxXOQKBkc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」DAY1ご来場・ご視聴いただきありがとうございました！本日のセットリストはこちら！]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17659.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17659.html</guid>
-            <pubDate>Sat, 13 Dec 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/sXP8tB3VyVOMkyoLy1ai12LO8vteI6Ww.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
