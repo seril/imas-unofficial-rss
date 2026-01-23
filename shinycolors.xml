@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Jan 2026 02:59:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 04:09:03 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Jan 2026 02:59:34 GMT</pubDate>
+        <pubDate>Fri, 23 Jan 2026 04:09:03 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】パネル設置開始まであと7日！参加企業・自治体のコメントをご紹介！［第3弾］]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18004.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18004.html</guid>
+            <pubDate>Fri, 23 Jan 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】1/24(土)に「30MS」シリーズより「オプションヘアスタイル&フェイスパーツセット(園田智代子/杜野凛世)」が発売！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17986.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17986.html</guid>
+            <pubDate>Fri, 23 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/vo1I06f5zxXIHg26BBNJGO1EEFoWf3ZQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ログイン限定】「Fumage」衣装設定 公開！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17793.html</guid>
             <pubDate>Thu, 25 Dec 2025 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/i6uWiBs5zPKljgEmRSLLGXpbronQJuri.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】「THE IDOLM@STER SHINY COLORS Song for Prism Borderline / クローバー / Summer Night Paradise」発売記念グッズの通販実施決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17761.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17761.html</guid>
-            <pubDate>Thu, 25 Dec 2025 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/wmndoERN0nVmAr4CnRNYzeSMfiAbvC35.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】∞th LIVE iと夢 のゲーム先行が25日(木)12:00～よりスタート！SPラウンジ・バルコニー席の一般販売(先着)も開始！]]></title>
-            <description><![CDATA[#シャニマス8th #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17806.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17806.html</guid>
-            <pubDate>Thu, 25 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/12/ze8d0X6zCdMgQ9f3h00eMO4CT8cggTx6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
