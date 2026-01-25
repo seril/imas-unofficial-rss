@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jan 2026 03:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 06:32:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Jan 2026 03:10:31 GMT</pubDate>
+        <pubDate>Sun, 25 Jan 2026 06:32:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[＊本日まで＊【シャニマス8th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」イベントグッズ事前販売ファイナル＆協賛社グッズの受注は本日1月25日(日)まで！！]]></title>
+            <description><![CDATA[#シャニマス8th #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18001.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18001.html</guid>
+            <pubDate>Sun, 25 Jan 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/87ONUbe3O3TkiP4MAPvrtqc21ygz8woL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】「OathONE」開催を記念してシャニソンに如月千早が登場中！]]></title>
             <description><![CDATA[#シャニソン  #如月千早武道館単独公演_0124 #如月千早武道館単独公演_0125 #如月千早武道館単独公演 #アイマス20周年イヤー]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17827.html</guid>
             <pubDate>Fri, 26 Dec 2025 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/GdK1FRNGyysxFFhJ9AWARyykuluzBHnO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『シャニマス生配信 2025年シャニ納め ～今年も1年ありがとうSP～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_17568.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17568.html</guid>
-            <pubDate>Fri, 26 Dec 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/cOEuxElhmSJlgInPh6N0vudrVwWy4JSI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
