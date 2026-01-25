@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jan 2026 06:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jan 2026 11:18:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Jan 2026 06:32:29 GMT</pubDate>
+        <pubDate>Sun, 25 Jan 2026 11:18:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】如月千早武道館単独公演「OathONE」1/25(日)公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#如月千早武道館単独公演 #如月千早武道館単独公演_0125]]></description>
+            <link>https://idolmaster-official.jp/news/01_17984.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17984.html</guid>
+            <pubDate>Sun, 25 Jan 2026 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/h1ka5MsKBJv1603mCaXYFT8kzuJu30Pc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[＊本日まで＊【シャニマス8th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」イベントグッズ事前販売ファイナル＆協賛社グッズの受注は本日1月25日(日)まで！！]]></title>
             <description><![CDATA[#シャニマス8th #シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17695.html</guid>
             <pubDate>Fri, 26 Dec 2025 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2025/12/kmBTaZqPK9S7bHVSBSzCyGrSV250WVMB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】幽谷 霧子ささやきボイスサンプル先行試聴 開催！]]></title>
-            <description><![CDATA[【シャニマス】幽谷 霧子ささやきボイスサンプル先行試聴 開催！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17827.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17827.html</guid>
-            <pubDate>Fri, 26 Dec 2025 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/GdK1FRNGyysxFFhJ9AWARyykuluzBHnO.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
