@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Jan 2026 14:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 03:12:02 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Jan 2026 14:19:13 GMT</pubDate>
+        <pubDate>Mon, 26 Jan 2026 03:12:02 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】パネル設置開始まであと4日！参加企業・自治体のコメントをご紹介！［第4弾］]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18012.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
+            <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】[ハッピーミルフィーユ]のイラストをもとにした"姫崎莉波"のプライズフィギュアが1月28日(水)より登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_17988.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17988.html</guid>
+            <pubDate>Mon, 26 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/ogMLIqGiBZZ0LCEm8RYK6iUmvkOLsm6r.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】如月千早武道館単独公演「OathONE」1/25(日)公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
             <description><![CDATA[#如月千早武道館単独公演 #如月千早武道館単独公演_0125]]></description>
@@ -206,7 +222,7 @@
             <link>https://idolmaster-official.jp/news/01_17992.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17992.html</guid>
             <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/VfizGA2jHbS2Ei847YHK2IWZBi7mn2Cd.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/FlBRgorpokCwug6dIu5uioyW8bHnwQu0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」Steamセール実施のお知らせ]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17960.html</guid>
             <pubDate>Sun, 18 Jan 2026 11:22:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/XTAHDbEUYsyJRFNFCn1vfE2vYwxAduIJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[本日まで！！【アイマスMOIW2025】開催記念グッズの受注中！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17957.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17957.html</guid>
-            <pubDate>Sun, 18 Jan 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/01/rTKD9ESIHtOQV27MdUcWRkyxU94ORaWO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～Especially Angel♡～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17926.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17926.html</guid>
-            <pubDate>Sun, 18 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/01/IEsys1Eu8Ow7kOPncnxU2wJ4fjbyWw4C.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
