@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jan 2026 14:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 03:04:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Jan 2026 14:28:37 GMT</pubDate>
+        <pubDate>Tue, 27 Jan 2026 03:04:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】パネル設置開始まであと3日！参加企業・自治体のコメントをご紹介！［第5弾］]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18020.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18020.html</guid>
+            <pubDate>Tue, 27 Jan 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に「神崎蘭子」・「真壁瑞希」が登場！ ]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17968.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17968.html</guid>
+            <pubDate>Tue, 27 Jan 2026 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7DwbsOb1C0D6xmPsatt4aKb8HGQdGk3N.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレミリ衣装展】会場物販情報を更新！！コラボイラストやマスコットをあしらったグッズが登場♪さらに、一部の過去イベントグッズ販売も決定！]]></title>
             <description><![CDATA[#デレミリ衣装展]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17742.html</guid>
             <pubDate>Wed, 24 Dec 2025 11:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【765プロ】「ふたマス!!!!!!ができるまで〜秋月律子の工場見学〜」本日12月24日23時よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17703.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17703.html</guid>
-            <pubDate>Wed, 24 Dec 2025 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/E12bUqNSze0F8V4MHdQYE1cJFTHBHZs8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】ご参加いただく企業・自治体の皆さまを発表！パネル設置は1月30日(金)から！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_17780.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17780.html</guid>
-            <pubDate>Wed, 24 Dec 2025 10:56:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/R96fele3vz4AzJPonhI6EeEJVauJALyU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

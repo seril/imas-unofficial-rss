@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jan 2026 14:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 03:04:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Jan 2026 14:28:38 GMT</pubDate>
+        <pubDate>Tue, 27 Jan 2026 03:04:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】パネル設置開始まであと3日！参加企業・自治体のコメントをご紹介！［第5弾］]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18020.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18020.html</guid>
+            <pubDate>Tue, 27 Jan 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に「神崎蘭子」・「真壁瑞希」が登場！ ]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17968.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17968.html</guid>
+            <pubDate>Tue, 27 Jan 2026 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7DwbsOb1C0D6xmPsatt4aKb8HGQdGk3N.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】THE IDOLM@STER SideM F＠NTASTIC BATTLE FES ～Who goes first～ 「CROWN US KING!」CD情報！]]></title>
             <description><![CDATA[#SideM ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17788.html</guid>
             <pubDate>Wed, 24 Dec 2025 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/DDOctgy4YFjF7lFAIRJygbXbMAXN9fnz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【新年会】「2026年配信初め〜今年もよろしくお願いしM＠S〜」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17669.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17669.html</guid>
-            <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/IOG8IJkXT8BoKHoMSuHPx6dqD318Nh0O.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【24/7Stream】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17710.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17710.html</guid>
-            <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/Xt1XHRDt2aGsVcWgqqqhK1Sub4DnNwTV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
