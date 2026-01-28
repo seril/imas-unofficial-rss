@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 03:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 06:36:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jan 2026 03:02:04 GMT</pubDate>
+        <pubDate>Wed, 28 Jan 2026 06:36:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】リアル脱出ゲーム×学園アイドルマスター『人狼潜む文化祭からの脱出』オリジナルグッズの詳細を公開！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18021.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18021.html</guid>
+            <pubDate>Wed, 28 Jan 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/Sn3fMJhTBvIKw9oWBJA2PIljUtz8GF9X.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オファマス】パネル設置開始まであと2日！参加企業・自治体のコメントをご紹介！［第6弾］]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18035.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18035.html</guid>
+            <pubDate>Wed, 28 Jan 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】パネル設置開始まであと3日！参加企業・自治体のコメントをご紹介！［第5弾］]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17787.html</guid>
             <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/12/fwavVKhJb01G81kiGdFbkKwgrxQ7kt6E.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】12月28日(日)23時まで！雨夜 燕の「ちびぐるみ＆ポーチセット」と12人の「もふぐっと ちびぐるみ&バッグセット」の受注締切迫る！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17779.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17779.html</guid>
-            <pubDate>Thu, 25 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2025/12/OAPDwgAZj7u13Tkw0Zsj0kcPR0DvJhUm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17785.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17785.html</guid>
-            <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/qzy9oyxkCS0plzv8mE4hkT3SRgXIQhJT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
