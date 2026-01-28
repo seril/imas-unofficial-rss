@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 11:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 14:30:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jan 2026 11:22:56 GMT</pubDate>
+        <pubDate>Wed, 28 Jan 2026 14:30:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】『シャニソン生配信 ～シャニマス大感謝祭特集＆シャニソン新ユニット発表！SP～』お知らせまとめ！]]></title>
+            <description><![CDATA[#シャニマス #シャニソン #シャニソン生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_17856.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17856.html</guid>
+            <pubDate>Wed, 28 Jan 2026 12:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/01/LWeJ2ROp5KbK7zYReXW8KXlRYsbNEzUA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_XXX】明後日1月30日(金)12:00より 283 Production XXXX Performance XXX= S/N-GUL4R1TY ゲーム先行の受付が開始！]]></title>
+            <description><![CDATA[#ストレイ_XXX]]></description>
+            <link>https://idolmaster-official.jp/news/01_18034.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18034.html</guid>
+            <pubDate>Wed, 28 Jan 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/W7Z2lJR2lnpENAC2vB0RvMoue4XwcDla.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】『シャニソン生配信 ～シャニマス大感謝祭特集＆シャニソン新ユニット発表！SP～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
             <description><![CDATA[#シャニマス  #シャニソン  #シャニソン生配信]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17885.html</guid>
             <pubDate>Thu, 08 Jan 2026 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/uVCPtgPUjzvHkpfVY74c64C2AkkBgM4o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism カウントダウンラブ / KAWAII♡めたもる交響曲」CD発売記念グッズ通販実施決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17884.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17884.html</guid>
-            <pubDate>Wed, 07 Jan 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/m2tpVZcQ7TnOOjK1Zk2zIjyynS2iEECO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【公式】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17717.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17717.html</guid>
-            <pubDate>Tue, 06 Jan 2026 10:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/VAOXphaniAEeGOyvxHVF19ZynizcUabS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

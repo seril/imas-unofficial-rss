@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 11:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 14:30:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jan 2026 11:22:56 GMT</pubDate>
+        <pubDate>Wed, 28 Jan 2026 14:30:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】『シャニソン生配信 ～シャニマス大感謝祭特集＆シャニソン新ユニット発表！SP～』お知らせまとめ！]]></title>
+            <description><![CDATA[#シャニマス #シャニソン #シャニソン生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_17856.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17856.html</guid>
+            <pubDate>Wed, 28 Jan 2026 12:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/01/LWeJ2ROp5KbK7zYReXW8KXlRYsbNEzUA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_XXX】明後日1月30日(金)12:00より 283 Production XXXX Performance XXX= S/N-GUL4R1TY ゲーム先行の受付が開始！]]></title>
+            <description><![CDATA[#ストレイ_XXX]]></description>
+            <link>https://idolmaster-official.jp/news/01_18034.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18034.html</guid>
+            <pubDate>Wed, 28 Jan 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/W7Z2lJR2lnpENAC2vB0RvMoue4XwcDla.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】『シャニソン生配信 ～シャニマス大感謝祭特集＆シャニソン新ユニット発表！SP～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
             <description><![CDATA[#シャニマス  #シャニソン  #シャニソン生配信]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17973.html</guid>
             <pubDate>Wed, 21 Jan 2026 03:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】1月28日(水) 19:00～ 声優陣5名が出演するシャニソン生配信を実施予定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニソン  #シャニソン生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_17855.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17855.html</guid>
-            <pubDate>Wed, 21 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/01/vh5Tz3l7JdoLklb1qF956YAObp0oM9KY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】描き下ろしイラスト『サマードレスver.』を使用した、最上静香のTシャツが登場！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17932.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17932.html</guid>
-            <pubDate>Wed, 21 Jan 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/Ri9JmlCCvo43zcTt2UGHXmQlpk4gVix8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
