@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 06:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 11:22:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jan 2026 06:36:36 GMT</pubDate>
+        <pubDate>Wed, 28 Jan 2026 11:22:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】一番くじ 学園アイドルマスター  Part5　2026年6月19日発売予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18022.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18022.html</guid>
+            <pubDate>Wed, 28 Jan 2026 08:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/e655LWZBaeg7LdYY09SVjMhFYOzB0SGE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】リアル脱出ゲーム×学園アイドルマスター『人狼潜む文化祭からの脱出』オリジナルグッズの詳細を公開！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17823.html</guid>
             <pubDate>Fri, 26 Dec 2025 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/08wEJxcPT6fUNQs5z7FJksDrzE3Zplcq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス2nd】学園アイドルマスター The 2nd Period イベント公式グッズ事前販売 第1弾が本日12月25日(木)スタート！]]></title>
-            <description><![CDATA[#学マス  #学マス2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_17787.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17787.html</guid>
-            <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/12/fwavVKhJb01G81kiGdFbkKwgrxQ7kt6E.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
