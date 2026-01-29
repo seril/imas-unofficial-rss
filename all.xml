@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jan 2026 06:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 11:30:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Jan 2026 06:49:07 GMT</pubDate>
+        <pubDate>Thu, 29 Jan 2026 11:30:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】柏木 翼＆木村 龍、東雲 荘一郎＆アスラン=ベルゼビュートII世 がプロデュースした食器の受注販売が本日よりスタート！描きおろしイラストを使用した記念グッズも♪]]></title>
+            <description><![CDATA[#SideM #柏木翼 #木村龍 #東雲荘一郎 #アスラン]]></description>
+            <link>https://idolmaster-official.jp/news/01_17848.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17848.html</guid>
+            <pubDate>Thu, 29 Jan 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/g6uCNMijDl50xEabBZpoXexTwgCOhgJR.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズ×ラウンドワン コラボキャンペーン開催決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18027.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18027.html</guid>
+            <pubDate>Thu, 29 Jan 2026 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/emMD840onKlgGnoGVicKOIYPuGjtp66X.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「315!!!SHOP 5周年記念 スーパーウルトラプロデュース大作戦！」衣装テーマの投票は2月5日(木)から！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17993.html</guid>
             <pubDate>Wed, 21 Jan 2026 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/MNsuOgWkCRdPZrBhltVqv3YvFrufZrHW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】明日1月22日（木）より、カラオケの鉄人コラボ第２弾が開催！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17985.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17985.html</guid>
-            <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/5hYMV6KZ2WmcLKUQOkWGmbtYWpCOcyr0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス音楽祭】現地チケット一般発売（先着）は1月24日(土)12:00～スタート！]]></title>
-            <description><![CDATA[#学マス #学マス音楽祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17992.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17992.html</guid>
-            <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/FlBRgorpokCwug6dIu5uioyW8bHnwQu0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
