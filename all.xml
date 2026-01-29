@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 14:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 03:25:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jan 2026 14:30:11 GMT</pubDate>
+        <pubDate>Thu, 29 Jan 2026 03:25:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】パネル設置開始まであと1日！参加企業・自治体のコメントをご紹介！［第7弾］]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18045.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18045.html</guid>
+            <pubDate>Thu, 29 Jan 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」延期公演のアソビストア一般会員先行が本日1月29日(木)12:00よりスタート！フラワースタンド・楽屋花・プレゼントのご案内も更新！]]></title>
+            <description><![CDATA[#ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18016.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18016.html</guid>
+            <pubDate>Thu, 29 Jan 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/ZEoSKLZc9nkjIyHHsloLbYxlJKDUEGfs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「NTTドコモ×アイドルマスター シャイニーカラーズ コラボキャンペーン」開催決定！]]></title>
+            <description><![CDATA[#シャニマス #ドコモシャニマスコラボ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18042.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18042.html</guid>
+            <pubDate>Thu, 29 Jan 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/ov6n222onDRrHC7O6zMaReXeDblaXF2G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】『シャニソン生配信 ～シャニマス大感謝祭特集＆シャニソン新ユニット発表！SP～』お知らせまとめ！]]></title>
             <description><![CDATA[#シャニマス #シャニソン #シャニソン生配信]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17982.html</guid>
             <pubDate>Wed, 21 Jan 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】桑山 千雪が手に入るガシャ開催中！さらに、Sonic Heart (and Signal)の楽曲『Oh Yeah!!』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17933.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17933.html</guid>
-            <pubDate>Wed, 21 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/01/oA2Zd8C8SpIYxXWTUASfKE5RRmYO9Nc4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】制服や私服姿のちびぐるみたちが全国のクレーンゲームに順次登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17989.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17989.html</guid>
-            <pubDate>Wed, 21 Jan 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/vhrb8p132Wiw25ImERHfNSok0Bm0MQ2I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと9日！参加企業・自治体のコメントをご紹介！［第1弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_17973.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17973.html</guid>
-            <pubDate>Wed, 21 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

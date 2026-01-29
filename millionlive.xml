@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 14:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 03:25:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jan 2026 14:30:11 GMT</pubDate>
+        <pubDate>Thu, 29 Jan 2026 03:25:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】パネル設置開始まであと1日！参加企業・自治体のコメントをご紹介！［第7弾］]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18045.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18045.html</guid>
+            <pubDate>Thu, 29 Jan 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」延期公演のアソビストア一般会員先行が本日1月29日(木)12:00よりスタート！フラワースタンド・楽屋花・プレゼントのご案内も更新！]]></title>
+            <description><![CDATA[#ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18016.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18016.html</guid>
+            <pubDate>Thu, 29 Jan 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/ZEoSKLZc9nkjIyHHsloLbYxlJKDUEGfs.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「Jellyfish Rhythm POP UP SHOP」開催中！！　2月1日（日）まで🪼✨]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17783.html</guid>
             <pubDate>Thu, 25 Dec 2025 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2025/12/V9WHvygoXBFJzqoIWvyAKIOypxtsZUl7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」お知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー 　#アイマス年末感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17790.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17790.html</guid>
-            <pubDate>Wed, 24 Dec 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/12/170tdmpZ3c8s3ueA24DDRQW4LuSeBLxK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】  アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」各ブランドお知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス年末感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17803.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17803.html</guid>
-            <pubDate>Wed, 24 Dec 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/12/KiLJtmVFSHO1VXkKcEtaSAeAcL42Ve20.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
