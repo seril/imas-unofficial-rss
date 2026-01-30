@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jan 2026 14:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 03:26:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Jan 2026 14:37:19 GMT</pubDate>
+        <pubDate>Fri, 30 Jan 2026 03:26:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オファマス】参加企業・自治体でのアイドルのパネル設置が本日開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18064.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18064.html</guid>
+            <pubDate>Fri, 30 Jan 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7ozWWsPkd4k2RxAGn4M57F79DIbaiQ0V.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オファマス】オファマス開催記念！パネルの写真投稿で、抽選で10名様に「文具セット」をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
+            <link>https://idolmaster-official.jp/news/01_18026.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18026.html</guid>
+            <pubDate>Thu, 29 Jan 2026 23:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/f2IoYgbYGBu379ZnDb9GN3CjkjbwJoGB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】パネル設置開始まであと1日！参加企業・自治体のコメントをご紹介！［第7弾］]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17833.html</guid>
             <pubDate>Sat, 03 Jan 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/EdoHOG7goMD9tVUjmwtiIqeInjHq6cCo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】新年 学マス初みくじプレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#新年学マス初みくじ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17749.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17749.html</guid>
-            <pubDate>Thu, 01 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2025/12/ILWMd3YowiYFhrI2i6rIwDMpeV8TzTvz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【学マス】総額100万円分の「えらべるPay®」が抽選で1000名様に当たる！『#引き放題ガシャ開催中「えらべるPay®」プレゼントキャンペーン』！]]></title>
-            <description><![CDATA[#学マス #えらべるPay #引き放題ガシャ開催中]]></description>
-            <link>https://idolmaster-official.jp/news/01_17635.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17635.html</guid>
-            <pubDate>Fri, 26 Dec 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2025/12/h6ZLhsCVpmboXfwsQFr7Cs2Ny7rb6Ylc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

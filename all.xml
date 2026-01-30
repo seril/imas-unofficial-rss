@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jan 2026 14:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 03:26:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Jan 2026 14:37:19 GMT</pubDate>
+        <pubDate>Fri, 30 Jan 2026 03:26:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【SideMPRS魂環の人形】本日1月30日(金)12:00より現地チケットアソビストア一般会員先行のお申込み受付がスタート！]]></title>
+            <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
+            <link>https://idolmaster-official.jp/news/01_18033.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18033.html</guid>
+            <pubDate>Fri, 30 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/pXAdblUlCpzQRbuWwcYhAv3U26j2mwP8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_XXX】ゲーム先行開始！公式サイトリニューアルオープン！ 283 Production XXXX Performance XXX= S/N-GUL4R1TY]]></title>
+            <description><![CDATA[#ストレイ_XXX]]></description>
+            <link>https://idolmaster-official.jp/news/01_18073.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18073.html</guid>
+            <pubDate>Fri, 30 Jan 2026 03:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/NpKPzhWOlC2zoapdKsd7egIX4zmhS2KZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オファマス】参加企業・自治体でのアイドルのパネル設置が本日開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18064.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18064.html</guid>
+            <pubDate>Fri, 30 Jan 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7ozWWsPkd4k2RxAGn4M57F79DIbaiQ0V.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】Café Parade × ドンレミーコラボキャンペーン決定！詳細情報を公開します🍰]]></title>
+            <description><![CDATA[#SideM #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18040.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18040.html</guid>
+            <pubDate>Fri, 30 Jan 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/01/FHy02jCpUMzLbfa0nW4v1e8iMuhiEggb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オファマス】オファマス開催記念！パネルの写真投稿で、抽選で10名様に「文具セット」をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
+            <link>https://idolmaster-official.jp/news/01_18026.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18026.html</guid>
+            <pubDate>Thu, 29 Jan 2026 23:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/f2IoYgbYGBu379ZnDb9GN3CjkjbwJoGB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】柏木 翼＆木村 龍、東雲 荘一郎＆アスラン=ベルゼビュートII世 がプロデュースした食器の受注販売が本日よりスタート！描きおろしイラストを使用した記念グッズも♪]]></title>
             <description><![CDATA[#SideM #柏木翼 #木村龍 #東雲荘一郎 #アスラン]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17980.html</guid>
             <pubDate>Thu, 22 Jan 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/qOWuDtkwaQBlOtXxgBnIQOI0ik96EtI8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】【明日1/23(金)~受注開始！】「如月千早」新規録り下ろしボイス搭載ゾーガンキンスカルプが登場！！「如月千早」新規録り下ろしボイス搭載ヘッドホン再々受注も決定🎧🎵]]></title>
-            <description><![CDATA[#idolmaster]]></description>
-            <link>https://idolmaster-official.jp/news/01_17946.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17946.html</guid>
-            <pubDate>Thu, 22 Jan 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/t7cblOKqJnAED5LyTzctIEKfYqf9k2Oj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと8日！参加企業・自治体のコメントをご紹介！［第2弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_17996.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17996.html</guid>
-            <pubDate>Thu, 22 Jan 2026 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】くじ引き堂にて新規描き下ろしイラストを使用した「アイドルマスター シャイニーカラーズ」のオンラインくじが販売スタート！！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17947.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17947.html</guid>
-            <pubDate>Thu, 22 Jan 2026 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/WRsHc94h2UWuRUvalny0cs93Uz2E5jUO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「浅野風香」「ケイト」が登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17936.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17936.html</guid>
-            <pubDate>Thu, 22 Jan 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/odIvPAKobfWQTfPYTzFp82Q93Cw1Uu9n.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【学マス音楽祭】公式リセールは1月24日(土)15:00～スタート！]]></title>
-            <description><![CDATA[#学マス #学マス音楽祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17993.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17993.html</guid>
-            <pubDate>Wed, 21 Jan 2026 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/MNsuOgWkCRdPZrBhltVqv3YvFrufZrHW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jan 2026 14:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 03:26:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Jan 2026 14:37:19 GMT</pubDate>
+        <pubDate>Fri, 30 Jan 2026 03:26:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【SideMPRS魂環の人形】本日1月30日(金)12:00より現地チケットアソビストア一般会員先行のお申込み受付がスタート！]]></title>
+            <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
+            <link>https://idolmaster-official.jp/news/01_18033.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18033.html</guid>
+            <pubDate>Fri, 30 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/pXAdblUlCpzQRbuWwcYhAv3U26j2mwP8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オファマス】参加企業・自治体でのアイドルのパネル設置が本日開始！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
+            <link>https://idolmaster-official.jp/news/01_18064.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18064.html</guid>
+            <pubDate>Fri, 30 Jan 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7ozWWsPkd4k2RxAGn4M57F79DIbaiQ0V.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】Café Parade × ドンレミーコラボキャンペーン決定！詳細情報を公開します🍰]]></title>
+            <description><![CDATA[#SideM #オファマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18040.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18040.html</guid>
+            <pubDate>Fri, 30 Jan 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/01/FHy02jCpUMzLbfa0nW4v1e8iMuhiEggb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オファマス】オファマス開催記念！パネルの写真投稿で、抽選で10名様に「文具セット」をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
+            <link>https://idolmaster-official.jp/news/01_18026.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18026.html</guid>
+            <pubDate>Thu, 29 Jan 2026 23:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/f2IoYgbYGBu379ZnDb9GN3CjkjbwJoGB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】柏木 翼＆木村 龍、東雲 荘一郎＆アスラン=ベルゼビュートII世 がプロデュースした食器の受注販売が本日よりスタート！描きおろしイラストを使用した記念グッズも♪]]></title>
             <description><![CDATA[#SideM #柏木翼 #木村龍 #東雲荘一郎 #アスラン]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17807.html</guid>
             <pubDate>Fri, 26 Dec 2025 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/H84KcNezT0Bix0qyY5aWYTfWGHabk8Pm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17785.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17785.html</guid>
-            <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/qzy9oyxkCS0plzv8mE4hkT3SRgXIQhJT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「ＴＡＫＥ－ＵＰ」より鷹城恭二のコラボジュエリーが登場！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_17702.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17702.html</guid>
-            <pubDate>Thu, 25 Dec 2025 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/12/lR7Texi8BDjIY3fdss4DGq0PPdVkH2lz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」お知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー 　#アイマス年末感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17790.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17790.html</guid>
-            <pubDate>Wed, 24 Dec 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/12/170tdmpZ3c8s3ueA24DDRQW4LuSeBLxK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】  アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」各ブランドお知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス年末感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17803.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17803.html</guid>
-            <pubDate>Wed, 24 Dec 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/12/KiLJtmVFSHO1VXkKcEtaSAeAcL42Ve20.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
