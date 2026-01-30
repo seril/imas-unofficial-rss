@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jan 2026 03:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 06:50:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Jan 2026 03:26:41 GMT</pubDate>
+        <pubDate>Fri, 30 Jan 2026 06:50:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】バンダイナムコヌイより、「ぬいピン vol.1」「Chibiぬいおすわりマスコット 雨夜 燕」が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18046.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18046.html</guid>
+            <pubDate>Fri, 30 Jan 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/3LsayZCb13FOesOMk4YEsG67K0BTiUF1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【SideMPRS魂環の人形】本日1月30日(金)12:00より現地チケットアソビストア一般会員先行のお申込み受付がスタート！]]></title>
             <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17991.html</guid>
             <pubDate>Thu, 22 Jan 2026 06:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/fFRBRlU4DPANA6vgEy0SRNfBEdjKdU4t.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_XXX】「283 Production XXXX Performance XXX= S/N-GUL4R1TY」公式グッズ事前販売が本日1月22日(木)よりスタート！！受注は2月1日(日)まで！！]]></title>
-            <description><![CDATA[#ストレイ_XXX]]></description>
-            <link>https://idolmaster-official.jp/news/01_17980.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17980.html</guid>
-            <pubDate>Thu, 22 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/qOWuDtkwaQBlOtXxgBnIQOI0ik96EtI8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
