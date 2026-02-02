@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 07:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 11:35:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Feb 2026 07:02:17 GMT</pubDate>
+        <pubDate>Mon, 02 Feb 2026 11:35:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【2/2追記】【YouTube】【#APラウンジ】「【SideM】Beit×ソロフォトウエディング内覧報告会」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #SideM #ソロフォトウエディング #shiningmoments]]></description>
+            <link>https://idolmaster-official.jp/news/01_17875.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17875.html</guid>
+            <pubDate>Tue, 20 Jan 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/AhffnX2FB2uPKH84cDLyzZt6Tiur6jNL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【SideMPRS魂環の人形】本日1月30日(金)12:00より現地チケットアソビストア一般会員先行のお申込み受付がスタート！]]></title>
             <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
@@ -159,14 +167,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17911.html</guid>
             <pubDate>Tue, 20 Jan 2026 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/01/SNXzOcPm9AoxlIgEpruKYTjd5RQkqVhD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】「【SideM】Beit×ソロフォトウエディング内覧報告会」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #SideM #ソロフォトウエディング #shiningmoments]]></description>
-            <link>https://idolmaster-official.jp/news/01_17875.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17875.html</guid>
-            <pubDate>Tue, 20 Jan 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/AhffnX2FB2uPKH84cDLyzZt6Tiur6jNL.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】S.E.Mが出演するNHKラジオ特番 「今日ファミレスで駄弁らない？」の放送日が3月15日(日)に決定！！]]></title>

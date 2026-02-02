@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 07:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 11:35:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Feb 2026 07:02:17 GMT</pubDate>
+        <pubDate>Mon, 02 Feb 2026 11:35:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【学マス】「初星学園HR#STEP3 十王星南」 ミラー配信大歓迎！実施ポリシーを公開！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18029.html</guid>
             <pubDate>Mon, 02 Feb 2026 02:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/01/VES4gV8AvMvjFMgtKrkEr4XgwKMPBOSZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【2/2追記】【YouTube】【#APラウンジ】「【SideM】Beit×ソロフォトウエディング内覧報告会」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #SideM #ソロフォトウエディング #shiningmoments]]></description>
+            <link>https://idolmaster-official.jp/news/01_17875.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17875.html</guid>
+            <pubDate>Tue, 20 Jan 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/AhffnX2FB2uPKH84cDLyzZt6Tiur6jNL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】【876プロ】「これだけは押さえておきたい！876 PRODUCTION FES.」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #APラウンジ #876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18070.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18070.html</guid>
+            <pubDate>Mon, 02 Feb 2026 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/hhMgAD87WuTnisENJFx9fRDeQmjJJ2cz.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオン】「FAMくじ」にて新規描き下ろしイラストを使用したオンラインくじのvol.2が本日より販売開始🍫]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18017.html</guid>
             <pubDate>Mon, 26 Jan 2026 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/01/Tv2zorWi9L2mViCKm0ZYHXBgvYj0YqVM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】アイドルの出身地にちなんだご当地グルメパッケージが登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17997.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17997.html</guid>
-            <pubDate>Mon, 26 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/FEgNwjwy7oVly1SRm86vpvli4PXSCEhZ.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】アニメ「ぷちます！」の『Twelve Seasons!』レコード発売記念！「ラジオdeアイマCHU!!・特別版」の配信が決定！📢✨]]></title>
-            <description><![CDATA[#idolmaster]]></description>
-            <link>https://idolmaster-official.jp/news/01_18010.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18010.html</guid>
-            <pubDate>Mon, 26 Jan 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/Citpo1kc8Q2jzColmxY1THcolZzo0Ti9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
