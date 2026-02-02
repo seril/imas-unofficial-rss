@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 03:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 07:02:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Feb 2026 03:39:55 GMT</pubDate>
+        <pubDate>Mon, 02 Feb 2026 07:02:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズ × せいせき40t h アニバーサリー　開催決定！！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18044.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18044.html</guid>
+            <pubDate>Mon, 02 Feb 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/skPOuIr5Op23riOCHnWEQdDqAvjnY7jd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[◆本日まで◆【283_XXX】「283 Production XXXX Performance XXX= S/N-GUL4R1TY」イベント前にグッズが受注生産で手に入る最後のチャンス！公式グッズ事前販売は本日2月1日(日)まで！！]]></title>
             <description><![CDATA[#ストレイ_XXX]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17954.html</guid>
             <pubDate>Sat, 17 Jan 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/01/rTKD9ESIHtOQV27MdUcWRkyxU94ORaWO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチの受注は明日まで！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17955.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17955.html</guid>
-            <pubDate>Sat, 17 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/v0gYv6A6VgpkHmN6jyNvR33GpZoZUwZb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

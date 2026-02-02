@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 03:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Feb 2026 07:02:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Feb 2026 03:39:55 GMT</pubDate>
+        <pubDate>Mon, 02 Feb 2026 07:02:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【学マス】「初星学園HR#STEP3 十王星南」 ミラー配信大歓迎！実施ポリシーを公開！]]></title>
@@ -15,6 +15,30 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18029.html</guid>
             <pubDate>Mon, 02 Feb 2026 02:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/01/VES4gV8AvMvjFMgtKrkEr4XgwKMPBOSZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「FAMくじ」にて新規描き下ろしイラストを使用したオンラインくじのvol.2が本日より販売開始🍫]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18050.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18050.html</guid>
+            <pubDate>Mon, 02 Feb 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/NhqIN3ovw2aVOpNGn36QD5UA53HIJ5DV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】MOJIKO BEER × アイドルマスター ミリオンライブ！のコラボ詳細が解禁！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18065.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18065.html</guid>
+            <pubDate>Mon, 02 Feb 2026 05:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/MpIV4R5KGq5ZXwr8ZwAzGFtP09PU7KZx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズ × せいせき40t h アニバーサリー　開催決定！！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18044.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18044.html</guid>
+            <pubDate>Mon, 02 Feb 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/skPOuIr5Op23riOCHnWEQdDqAvjnY7jd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【デレミリ衣装展】チケット価格の値下げに関するご案内]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18010.html</guid>
             <pubDate>Mon, 26 Jan 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/Citpo1kc8Q2jzColmxY1THcolZzo0Ti9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】THE IDOLM@STER SideM F＠NTASTIC BATTLE FES ～Who goes first～ 「CROWN US KING!」CD情報！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17990.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17990.html</guid>
-            <pubDate>Mon, 26 Jan 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/fTdD4nuqrTIWFiAz9n4ZiPrTELrkxxtJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと4日！参加企業・自治体のコメントをご紹介！［第4弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18012.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
-            <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】[ハッピーミルフィーユ]のイラストをもとにした"姫崎莉波"のプライズフィギュアが1月28日(水)より登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17988.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17988.html</guid>
-            <pubDate>Mon, 26 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/ogMLIqGiBZZ0LCEm8RYK6iUmvkOLsm6r.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
