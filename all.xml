@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 06:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 11:34:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Feb 2026 06:52:11 GMT</pubDate>
+        <pubDate>Tue, 03 Feb 2026 11:34:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】アイドルマスター オフィシャルショップの抽選くじに新柄12種が登場！2月6日(金)から秋葉原・名古屋・大阪・博多で取り扱い開始！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18077.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18077.html</guid>
+            <pubDate>Tue, 03 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/2LA0V9kOuwvlDi4DuhvD9qYea6McjwQ4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】アイドル28人のちびぐるみがStella、Luna、Solのチームに分かれて2026年6月より全国のクレーンゲームに登場予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18114.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18114.html</guid>
+            <pubDate>Tue, 03 Feb 2026 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/nCKC4IEbNOSoFIABRJMmD6VTJHxpQ2It.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「初星学園HR#STEP3 十王星南」 ミラー配信大歓迎！実施ポリシーを公開！]]></title>
             <description><![CDATA[#学マス #初星学園HR #ミラー配信 #十王星南]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18019.html</guid>
             <pubDate>Mon, 26 Jan 2026 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/c8lWvEZqIVnVGbYbNbFSROhOGLYpoNmJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】PJ: REFRAC7IONS 新ユニット予想キャンペーン開催！]]></title>
-            <description><![CDATA[#シャニソン新ユニット予想 #シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18018.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18018.html</guid>
-            <pubDate>Mon, 26 Jan 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/01/6vBPIWXcpoBfBqkTSZHBipSY1zMkiwUW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレミリ衣装展】会場物販情報を更新！！コラボイラストやマスコットをあしらったグッズが登場♪さらに、一部の過去イベントグッズ販売も決定！]]></title>
-            <description><![CDATA[#デレミリ衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_18017.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18017.html</guid>
-            <pubDate>Mon, 26 Jan 2026 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/01/Tv2zorWi9L2mViCKm0ZYHXBgvYj0YqVM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
