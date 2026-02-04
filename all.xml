@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Feb 2026 14:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 03:30:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Feb 2026 14:42:21 GMT</pubDate>
+        <pubDate>Wed, 04 Feb 2026 03:30:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】 初公開！“ジョイフルマーチング”雨夜 燕も収録したちびぐるみvol3、vol4とカード＆フレーム商品が発売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18031.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18031.html</guid>
+            <pubDate>Wed, 04 Feb 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/jseGKqHBadNoyVx3pT8nB6g5itXJ13HK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[「THE IDOLM@STER SHINY COLORS Song for Prism Karma / Naraku」CD発売記念グッズ通販実施決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18119.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18119.html</guid>
+            <pubDate>Wed, 04 Feb 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/rVxzPCK3fyUDmOwsWVhI6o0RG4u4Iv4C.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！〜283スポーツフェスティバル〜　コラボキッチンカー　出店決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18115.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18115.html</guid>
+            <pubDate>Wed, 04 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/bqna8odCuo3JVsIFcFQ4i2bin4GEgKNn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】アイドルマスター オフィシャルショップの抽選くじに新柄12種が登場！2月6日(金)から秋葉原・名古屋・大阪・博多で取り扱い開始！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18014.html</guid>
             <pubDate>Tue, 27 Jan 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/388aeggAYO8kGJvbZQhwNzT8oIrqeOns.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと3日！参加企業・自治体のコメントをご紹介！［第5弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18020.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18020.html</guid>
-            <pubDate>Tue, 27 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に「神崎蘭子」・「真壁瑞希」が登場！ ]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17968.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17968.html</guid>
-            <pubDate>Tue, 27 Jan 2026 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7DwbsOb1C0D6xmPsatt4aKb8HGQdGk3N.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】如月千早武道館単独公演「OathONE」視聴コメント付きアーカイブ配信開始！／公演アンケート実施のご案内]]></title>
-            <description><![CDATA[#如月千早武道館単独公演 #如月千早武道館単独公演_0124 #如月千早武道館単独公演_0125]]></description>
-            <link>https://idolmaster-official.jp/news/01_18019.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18019.html</guid>
-            <pubDate>Mon, 26 Jan 2026 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/c8lWvEZqIVnVGbYbNbFSROhOGLYpoNmJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
