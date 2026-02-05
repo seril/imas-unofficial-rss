@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 06:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 11:34:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 06:59:22 GMT</pubDate>
+        <pubDate>Thu, 05 Feb 2026 11:34:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》5月に向けて北上麗花、篠宮可憐が登場！「川辺」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル5月]]></description>
+            <link>https://idolmaster-official.jp/news/01_18098.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18098.html</guid>
+            <pubDate>Thu, 05 Feb 2026 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/Hl2NzQYeACKg71Ij5uetGN5puO4QGdOJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】【ミリオン】「でこらいくTWINS POP UP SHOP」いよいよ明日から開催‼✨　　　　　　　　　　　　　　　　　　　　　　　　]]></title>
+            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18003.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18003.html</guid>
+            <pubDate>Thu, 05 Feb 2026 09:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【明日2/6(金)より】紀伊國屋書店 新宿本店にて「夢色メルヘンワンダー POP UP SHOP」開催！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17424.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17424.html</guid>
+            <pubDate>Thu, 05 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/73vyAZ7Y6wYuk2GccrSy27Z5Hlo3H0cg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【デレミリ衣装展】衣装展の開催を記念したラジオ番組「ひろみきラジオ」「ひさかべラジオ」の配信日時が決定！「ひろみきラジオ」は2月6日(金)22:00よりプレミア公開！]]></title>
             <description><![CDATA[#デレミリ衣装展]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17863.html</guid>
             <pubDate>Fri, 09 Jan 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/gXAfijf5uJa47C7TvUvbULawl5QCxcpo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオンライブ】2026年1月16日(金)19:00～『2026年も止まらない！ミリオンライブ！まるっと新春スペシャル生配信！～13thLIVE主演発表！ ミリシタ最新情報も！ミリアニOVA受注追い込み！～』配信予定！]]></title>
-            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17753.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17753.html</guid>
-            <pubDate>Thu, 08 Jan 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/CoL0kRlnhAVfVWS3DpFPiHTNgAF8DE7G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》4月に向けて野々原 茜、春日未来が登場！「イースター」をイメージしたグッズが受注開始！]]></title>
-            <description><![CDATA[#ミリオンシーズナル4月]]></description>
-            <link>https://idolmaster-official.jp/news/01_17821.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17821.html</guid>
-            <pubDate>Thu, 08 Jan 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/61hce5BeljiJLWbAvchyFedNK1v2yixB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【明日1/9(金)より】「ときめき♡オフショット POP UP SHOP in ビックカメラ」開催！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17393.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17393.html</guid>
-            <pubDate>Thu, 08 Jan 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/11/XcYWsg6P51Me8MkdK9jCrS6w6MqIsLtz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
