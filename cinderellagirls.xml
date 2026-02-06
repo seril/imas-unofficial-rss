@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 06:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 11:33:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Feb 2026 06:55:12 GMT</pubDate>
+        <pubDate>Fri, 06 Feb 2026 11:33:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】明日2月7日（土）より『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE×ばくだん焼本舗』が開催！]]></title>
+            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18135.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18135.html</guid>
+            <pubDate>Fri, 06 Feb 2026 09:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/iPCwXcdeo7uacpSV4GTNcll2v1z863Pj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】予約締切は2月23日（月）まで！「カバーガール総選挙」にて選ばれたアイドル9名の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場中！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18142.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18142.html</guid>
+            <pubDate>Fri, 06 Feb 2026 09:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/F7ZZeDVQNFT0pPqZEMzVvJCh67NejpCb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【デレミリ衣装展】「THE IDOLM@STER LIVE COSTUME EXPO 765PRO P@VILION ／CINDERELLA P@VILION」本日18:00より入場チケット一般販売二次(先着)スタート！当日券の販売も決定！]]></title>
+            <description><![CDATA[#デレミリ衣装展]]></description>
+            <link>https://idolmaster-official.jp/news/01_18120.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18120.html</guid>
+            <pubDate>Fri, 06 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/0e22Z3W8kJ0tXKArGmqw4LnVMC8eDH8h.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】特別企画展「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE WITH ～キミと歩んだ輝きの軌跡～ 」の事後通販が2月15日まで開催中！]]></title>
             <description><![CDATA[#デレマス #デレステWITH]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17828.html</guid>
             <pubDate>Fri, 26 Dec 2025 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/di9VPPTYEKf4YqTwnihMc3eLBUKJgoyT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】好評予約受付中！「カバーガール総選挙」にて選ばれたアイドル9名の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17826.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17826.html</guid>
-            <pubDate>Fri, 26 Dec 2025 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/F7ZZeDVQNFT0pPqZEMzVvJCh67NejpCb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『CINDERELLA GIRLS fes. Once Upon a St@rs』オーディオコメンタリー付き同時視聴上映会の実施が決定！]]></title>
-            <description><![CDATA[#シンデレラガールズフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17819.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17819.html</guid>
-            <pubDate>Thu, 25 Dec 2025 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2025/12/UnUoxO0gBHHixiY8sseMcj5fXc1UUwFf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】1月16日より開催のスイパラコラボ詳細情報を公開！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17810.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17810.html</guid>
-            <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/Mb9AcPKDzE9Sn6p8wvxViWM9NKOI3baE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

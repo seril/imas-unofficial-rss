@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 06:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 11:33:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Feb 2026 06:55:12 GMT</pubDate>
+        <pubDate>Fri, 06 Feb 2026 11:33:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【Dearly Stars×vα-liv】「876 PRODUCTION FES 開催記念アニメイトフェア」の対象店舗に川崎店の追加が決定！]]></title>
+            <description><![CDATA[#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18092.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18092.html</guid>
+            <pubDate>Fri, 06 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/02/cIkIl7R3VoGls7zUVkyTrYZMYqDNfRCq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！DAY2トークパートに向けたお便りを募集開始！ただいまグッズ＆配信チケット販売中！]]></title>
             <description><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！DAY2トークパートに向けたお便りを募集開始！ただいまグッズ＆配信チケット販売中！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17541.html</guid>
             <pubDate>Sun, 30 Nov 2025 05:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2025/11/W1vc8gQABBp5KEq0EdF7v6hhEjplZ1Id.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】2026年2月開催『876 PRODUCTION FES.』続報配信Vol.3を12月1日(月)20時より配信決定！今回はYouTubeアイドルマスターチャンネルにて実施！配信企画として公演に関するお便り＆質問も募集！]]></title>
-            <description><![CDATA[#876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17489.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17489.html</guid>
-            <pubDate>Wed, 26 Nov 2025 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/11/p7Uvj2Wf8Q54oLrwOm3dWkHK3zbRspiT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

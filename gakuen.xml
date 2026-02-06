@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Feb 2026 06:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 11:33:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Feb 2026 06:55:12 GMT</pubDate>
+        <pubDate>Fri, 06 Feb 2026 11:33:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【 学マス 】‎秦谷美鈴誕生日記念セット2026 受注受付中♬［3/1(日)まで］]]></title>
@@ -23,6 +23,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17969.html</guid>
             <pubDate>Fri, 06 Feb 2026 02:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/J8SrIcQENalv4POZQOU3MLe12d9vPiJH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「初星学園HR #STEP3 十王 星南」配信記念！陽高 真白さんと十王 星南のサインが入ったイラスト色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#十王星南_学マスSTEP3 #十王星南 #陽高真白]]></description>
+            <link>https://idolmaster-official.jp/news/01_18039.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18039.html</guid>
+            <pubDate>Thu, 05 Feb 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/02/Bd9gcVf95co6hyLSoXWWIFsUplHvjwuH.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】リアル脱出ゲーム×学園アイドルマスター『人狼潜む文化祭からの脱出』コラボメニューの販売が決定！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17906.html</guid>
             <pubDate>Sun, 11 Jan 2026 11:07:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/qQmAcvjfXwVSFD9OmP3pv0tCmRNdu8II.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】藤田ことねのピッグドリーム貯金箱ぬいぐるみグッズ 受注は本日(1/11(日))まで！]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17899.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17899.html</guid>
-            <pubDate>Sun, 11 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/lXlCCYy0oLHb397zhmmPvm6a80ta8hTi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
