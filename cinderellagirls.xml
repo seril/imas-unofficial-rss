@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 14:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 03:30:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 14:42:12 GMT</pubDate>
+        <pubDate>Fri, 06 Feb 2026 03:30:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】特別企画展「THE IDOLM@STER CINDERELLA GIRLS STARLIGHT STAGE WITH ～キミと歩んだ輝きの軌跡～ 」の事後通販が2月15日まで開催中！]]></title>
+            <description><![CDATA[#デレマス #デレステWITH]]></description>
+            <link>https://idolmaster-official.jp/news/01_18087.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18087.html</guid>
+            <pubDate>Fri, 06 Feb 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/bXuiQI1wtkwJnQ66En36uXZn9L6lt3JE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】東京・浅草🏮にて「『アイドルマスター シンデレラガールズ』 POP UP STREET in 奥山おまいりまち・浅草西参道」が開催決定！]]></title>
+            <description><![CDATA[#デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17781.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17781.html</guid>
+            <pubDate>Fri, 06 Feb 2026 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/cZIhW8JNNVJBfoe5fSLhnCMKzFserT5Z.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シンデレラ】「スイーツパラダイス」コラボカフェで販売のグッズ通販が開始！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17810.html</guid>
             <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/Mb9AcPKDzE9Sn6p8wvxViWM9NKOI3baE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】台北ポップアップストア2025『寶島食光』事後通販スタート！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17785.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17785.html</guid>
-            <pubDate>Thu, 25 Dec 2025 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/qzy9oyxkCS0plzv8mE4hkT3SRgXIQhJT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 アイマス年末感謝祭「20周年ラストスパート突入！SP生配信」お知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー 　#アイマス年末感謝祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_17790.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17790.html</guid>
-            <pubDate>Wed, 24 Dec 2025 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2025/12/170tdmpZ3c8s3ueA24DDRQW4LuSeBLxK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

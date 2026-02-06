@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 14:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Feb 2026 03:30:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Feb 2026 14:42:12 GMT</pubDate>
+        <pubDate>Fri, 06 Feb 2026 03:30:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 学マス 】‎秦谷美鈴誕生日記念セット2026 受注受付中♬［3/1(日)まで］]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18072.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18072.html</guid>
+            <pubDate>Fri, 06 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/MkSfSPoz1VUzCIZUWkGteIPcfzmBbetl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】【2月15日（日）23:59まで】「学園アイドルマスター 晴れ着ver.」のオリジナルグッズをASOBI STOREで展開！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17969.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17969.html</guid>
+            <pubDate>Fri, 06 Feb 2026 02:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/J8SrIcQENalv4POZQOU3MLe12d9vPiJH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】リアル脱出ゲーム×学園アイドルマスター『人狼潜む文化祭からの脱出』コラボメニューの販売が決定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17899.html</guid>
             <pubDate>Sun, 11 Jan 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/lXlCCYy0oLHb397zhmmPvm6a80ta8hTi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 学マス 】‎篠澤広誕生日記念セット2025 受注〆切間近！［1/12(月･祝)まで］]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17905.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17905.html</guid>
-            <pubDate>Sun, 11 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/Hpz8kdQir32xcLPSkQHaXGWNDxXnl2Dm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチが受注中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17822.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17822.html</guid>
-            <pubDate>Sat, 10 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/v0gYv6A6VgpkHmN6jyNvR33GpZoZUwZb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
