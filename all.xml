@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Feb 2026 03:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 06:41:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Feb 2026 03:24:13 GMT</pubDate>
+        <pubDate>Sat, 07 Feb 2026 06:41:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【SideM】柏木 翼＆木村 龍、東雲 荘一郎＆アスラン=ベルゼビュートII世 がプロデュースした食器の受注販売は明日まで！一部グッズのサンプルをご紹介♪]]></title>
+            <description><![CDATA[#SideM #柏木翼 #木村龍 #東雲荘一郎 #アスラン]]></description>
+            <link>https://idolmaster-official.jp/news/01_18144.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18144.html</guid>
+            <pubDate>Sat, 07 Feb 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/g6uCNMijDl50xEabBZpoXexTwgCOhgJR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】2/6(金)学マス生配信「初星学園HR #STEP3 十王 星南」お知らせまとめ]]></title>
             <description><![CDATA[ #学マス #学園アイドルマスター #十王星南_学マスSTEP3]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17942.html</guid>
             <pubDate>Sun, 01 Feb 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/LbE8OSlTkn89n8q52jGE962kz4UyeItm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスタートレジャー～KAWAII ウォーズ～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18028.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18028.html</guid>
-            <pubDate>Sat, 31 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/01/IqbOU0nnBS2YtpjfxlHXX01ktxMBEj6x.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
