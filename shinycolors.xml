@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Feb 2026 07:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Feb 2026 11:43:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Feb 2026 07:04:36 GMT</pubDate>
+        <pubDate>Mon, 09 Feb 2026 11:43:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】シャニマス大感謝祭！〜283スポーツフェスティバル〜 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #シャニマス   #シャニマス大感謝祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_17963.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17963.html</guid>
+            <pubDate>Mon, 09 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/d3QIVE0C8QdvOJgOykop8xfDgevlIERG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】大崎 甜花が登場するガシャを開催中！バレンタイン特別ログインボーナスの開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18138.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18138.html</guid>
+            <pubDate>Mon, 09 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/02/mEdlHtJOEQCqldkHZCnkhfFlDW2hXJmR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ 事務的光空記録』コミックス4巻は 2月12日(木)発売！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17947.html</guid>
             <pubDate>Thu, 22 Jan 2026 03:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/WRsHc94h2UWuRUvalny0cs93Uz2E5jUO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【スタマス】Steam版がお買い得！「アイドルマスター スターリットシーズン」Steamセール実施のお知らせ]]></title>
-            <description><![CDATA[#スタマス　#スターリットシーズン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17982.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17982.html</guid>
-            <pubDate>Wed, 21 Jan 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2024/04/cn5USeZ0FaCCDLpqn157NpIbDmmbKWyu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】桑山 千雪が手に入るガシャ開催中！さらに、Sonic Heart (and Signal)の楽曲『Oh Yeah!!』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17933.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17933.html</guid>
-            <pubDate>Wed, 21 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/01/oA2Zd8C8SpIYxXWTUASfKE5RRmYO9Nc4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
