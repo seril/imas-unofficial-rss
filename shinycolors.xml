@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Feb 2026 07:04:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 11:49:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Feb 2026 07:04:01 GMT</pubDate>
+        <pubDate>Tue, 10 Feb 2026 11:49:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス大感謝祭】現地チケット一般発売2次(先着)の受付がスタート！当日券の販売も決定！]]></title>
+            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18174.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18174.html</guid>
+            <pubDate>Tue, 10 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/02/F7nU1Q54Cmig5skTm6ma14HMODpaV1G0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】幽谷 霧子、福丸 小糸が手に入るガシャ開催中！さらに、ノクチルの楽曲『Reflection』が追加！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17980.html</guid>
             <pubDate>Thu, 22 Jan 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/qOWuDtkwaQBlOtXxgBnIQOI0ik96EtI8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと8日！参加企業・自治体のコメントをご紹介！［第2弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_17996.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17996.html</guid>
-            <pubDate>Thu, 22 Jan 2026 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
