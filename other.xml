@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Feb 2026 14:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 03:41:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Feb 2026 14:52:33 GMT</pubDate>
+        <pubDate>Thu, 12 Feb 2026 03:41:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【876プロ】「876 PRODUCTION FES.開催記念24/7 Live Stream ディアリースターズ STORY PREVIEW」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18080.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18080.html</guid>
+            <pubDate>Wed, 04 Feb 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/q1UKG6N4HSAhJ0aJz4al7BeQur5TKx1b.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第九弾】「会社同僚ボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を期間限定販売！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
@@ -39,14 +47,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18140.html</guid>
             <pubDate>Thu, 05 Feb 2026 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/02/x5PfxZ7VKS2KDBJ6a6OiA3NgrEkGbR42.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【876プロ】「876 PRODUCTION FES.開催記念24/7 Live Stream ディアリースターズ STORY PREVIEW」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18080.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18080.html</guid>
-            <pubDate>Wed, 04 Feb 2026 11:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/DfKNg5WXD0gNJa6WzQsuPQqGcANgDC1V.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！アソビステージにて全公演の有料配信の実施が決定！さらに当日の会場物販情報も更新！一部公演の現地チケットも数量限定で販売中！]]></title>
