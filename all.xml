@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 03:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 07:01:31 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Feb 2026 03:41:56 GMT</pubDate>
+        <pubDate>Thu, 12 Feb 2026 07:01:31 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 05 Altessimo」CD情報！]]></title>
+            <description><![CDATA[#SideM #315ソング]]></description>
+            <link>https://idolmaster-official.jp/news/01_18167.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18167.html</guid>
+            <pubDate>Thu, 12 Feb 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/hDWu3CMAoExBAsSypZZfTl4iEOHTYO6r.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【ミリオン】【明日2/13(金)より】MOJIKO BEER × アイドルマスター ミリオンライブ！のコラボが開始！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18149.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18149.html</guid>
+            <pubDate>Thu, 12 Feb 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/MpIV4R5KGq5ZXwr8ZwAzGFtP09PU7KZx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】（本日から！）アイドルマスター シャイニーカラーズ × せいせき40th アニバーサリー　開催！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18128.html</guid>
             <pubDate>Thu, 05 Feb 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/02/obL1wMqb4tSCcpNYRIBKIGsMXNdCEPTC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【3/2(月)23:59まで】高級感ただようインテリア「パーソナルパブミラー」シリーズに「周防桃子」が登場！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17994.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17994.html</guid>
-            <pubDate>Thu, 05 Feb 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/GHewL3uKXdCygWaHKGDIVMHRFAyKBm1K.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！アソビステージにて全公演の有料配信の実施が決定！さらに当日の会場物販情報も更新！一部公演の現地チケットも数量限定で販売中！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！アソビステージにて全公演の有料配信の実施が決定！さらに当日の会場物販情報も更新！一部公演の現地チケットも数量限定で販売中！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18131.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18131.html</guid>
-            <pubDate>Wed, 04 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/02/Zv5PVKpGnijKaQEod3vxj8bFjJH2IqoG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
