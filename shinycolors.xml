@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 06:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 11:31:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Feb 2026 06:59:11 GMT</pubDate>
+        <pubDate>Fri, 13 Feb 2026 11:31:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】bilibili公式デジタルカードコレクション春節パックのリリースが決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17903.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17903.html</guid>
+            <pubDate>Fri, 13 Feb 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/01/E8Wfh4z1qknhwKM22RSsxnG2w39sKBg3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【闪耀色彩】bilibili官方新春收藏集正式推出！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17907.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17907.html</guid>
+            <pubDate>Fri, 13 Feb 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/01/dB5G7RXkUFNiQGrgWAlkKRNzSaBqz332.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス大感謝祭】いよいよ明日から！現地/配信チケットも販売中！一部イベントグッズの追加販売もスタート！]]></title>
+            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18160.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18160.html</guid>
+            <pubDate>Fri, 13 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/02/m82EAU6XxwHGN69BOlhsZFbsty8Vr7Qj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】1/6スケールフィギュア 『アイドルマスター シャイニーカラーズ』月岡恋鐘 セイリングセイラーver. 予約開始！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
             <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】如月千早武道館単独公演「OathONE」1/25(日)公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演 #如月千早武道館単独公演_0125]]></description>
-            <link>https://idolmaster-official.jp/news/01_17984.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17984.html</guid>
-            <pubDate>Sun, 25 Jan 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/h1ka5MsKBJv1603mCaXYFT8kzuJu30Pc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[＊本日まで＊【シャニマス8th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」イベントグッズ事前販売ファイナル＆協賛社グッズの受注は本日1月25日(日)まで！！]]></title>
-            <description><![CDATA[#シャニマス8th #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18001.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18001.html</guid>
-            <pubDate>Sun, 25 Jan 2026 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/87ONUbe3O3TkiP4MAPvrtqc21ygz8woL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】「OathONE」開催を記念してシャニソンに如月千早が登場中！]]></title>
-            <description><![CDATA[#シャニソン  #如月千早武道館単独公演_0124 #如月千早武道館単独公演_0125 #如月千早武道館単独公演 #アイマス20周年イヤー]]></description>
-            <link>https://idolmaster-official.jp/news/01_18011.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18011.html</guid>
-            <pubDate>Sun, 25 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/01/N9muSbVcjq9QR1FRIAXgiT3ee4lTzT3L.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

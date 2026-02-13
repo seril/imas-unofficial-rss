@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 06:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 11:31:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Feb 2026 06:59:11 GMT</pubDate>
+        <pubDate>Fri, 13 Feb 2026 11:31:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」イベントグッズ事前販売が本日2月13日(金)よりスタート！！]]></title>
+            <description><![CDATA[#ミリオン13th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18161.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18161.html</guid>
+            <pubDate>Fri, 13 Feb 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/pY3qqOjW9JnLjFArq6ZQ4xHNiwY8GdT9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【本日13日(金) 17:00より！】「Jellyfish Rhythm POP UP SHOP」グッズがAnimoにて事後通販開始！✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18104.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18104.html</guid>
+            <pubDate>Fri, 13 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/eA3gzx0gNRiUtyhSeUtvEDwlqtIyEkA8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズが登場！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう♪]]></title>
             <description><![CDATA[#アイマスMOIW2025 ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17752.html</guid>
             <pubDate>Thu, 15 Jan 2026 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/sEw31QLRNnVfczCwxnCNRST9leDYN1sJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「Jellyfish Rhythm POP UP SHOP」いよいよ明日から開催‼🪼✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17894.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17894.html</guid>
-            <pubDate>Thu, 15 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/11/IFRHuZKVqc1UUH6by9BoADD1GYy7K0e3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【2/2(月)23:59まで】高級感ただようインテリア「パーソナルパブミラー」シリーズに「島原エレナ」が登場！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17746.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17746.html</guid>
-            <pubDate>Thu, 15 Jan 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/Muol80hdZ0ZIrm3O8kkBV5KW6ZAH8bdk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
