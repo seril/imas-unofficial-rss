@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 14:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 03:39:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Feb 2026 14:47:33 GMT</pubDate>
+        <pubDate>Fri, 13 Feb 2026 03:39:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】1/6スケールフィギュア 『アイドルマスター シャイニーカラーズ』月岡恋鐘 セイリングセイラーver. 予約開始！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18159.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18159.html</guid>
+            <pubDate>Fri, 13 Feb 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/3x7aSMw00eqZiQXJVwlIjAWmZ8iNylWH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズが登場！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18187.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18187.html</guid>
+            <pubDate>Fri, 13 Feb 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[「THE IDOLM@STER SHINY COLORS シャニマス大感謝祭！〜283スポーツフェスティバル〜」川口 莉奈様(斑鳩 ルカ役) ご出演見合わせにつきまして]]></title>
+            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18183.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18183.html</guid>
+            <pubDate>Fri, 13 Feb 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】幽谷 霧子ささやきボイスサンプル第2弾先行試聴 開催！]]></title>
             <description><![CDATA[【シャニマス】幽谷 霧子ささやきボイスサンプル第2弾先行試聴 開催！]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18011.html</guid>
             <pubDate>Sun, 25 Jan 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/01/N9muSbVcjq9QR1FRIAXgiT3ee4lTzT3L.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】如月千早武道館単独公演「OathONE」1/24(土)公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演 #如月千早武道館単独公演_0124]]></description>
-            <link>https://idolmaster-official.jp/news/01_17983.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17983.html</guid>
-            <pubDate>Sat, 24 Jan 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/7OPIAHvyl6KqABSZvQZlX5CpKhPaz5yW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[＊明日まで＊【シャニマス8th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」イベントグッズ事前販売ファイナル＆協賛社グッズの受注は明日1月25日(日)まで！！]]></title>
-            <description><![CDATA[#シャニマス8th #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18000.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18000.html</guid>
-            <pubDate>Sat, 24 Jan 2026 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/nPKloBYuWm8eqoXKRU0fTO24hD56TpvX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと7日！参加企業・自治体のコメントをご紹介！［第3弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18004.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18004.html</guid>
-            <pubDate>Fri, 23 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

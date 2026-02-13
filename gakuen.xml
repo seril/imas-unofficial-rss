@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 14:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 03:39:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Feb 2026 14:47:33 GMT</pubDate>
+        <pubDate>Fri, 13 Feb 2026 03:39:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズが登場！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18187.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18187.html</guid>
+            <pubDate>Fri, 13 Feb 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】描き起こしイラスト「おなまえぴたんコ」シリーズの4商品が新登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18151.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18151.html</guid>
+            <pubDate>Fri, 13 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/Od8uS59VoPxqoBbpJPr9o9YNTnySk7cV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター ジュエルカードコレクション」が本日より順次発売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18162.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18162.html</guid>
+            <pubDate>Fri, 13 Feb 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/02/VrtMmRADyfEZjJYFX4O2WYNWJD5lnvCg.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール新居浜」開催決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス新居浜]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17918.html</guid>
             <pubDate>Fri, 16 Jan 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/JgGeXt25LSXCgVcgjSwrKXLO4gCVuFXl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】予約締切は1月19日（月）23時まで！"ジョイフルマーチング"テーマの描きおろしイラストを使用したTシャツやタオルをお見逃しなく！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17927.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17927.html</guid>
-            <pubDate>Fri, 16 Jan 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/q4pkQHl03K25w0RKdo1GPeTo6kzV7UPY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】『学園アイドルマスター×GiGOキャンペーン2026」開催決定！GiGOグループのお店限定景品も登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17928.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17928.html</guid>
-            <pubDate>Thu, 15 Jan 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/bJTSOsFdFb77Gnnyp2SncnHSK9Pn4Avj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】月村手毬の1/7スケールフィギュアが登場！ご予約受付中♪]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17916.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17916.html</guid>
-            <pubDate>Thu, 15 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/tXEwhS3DPN4QVuONkfmMQefx62ubUu7r.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

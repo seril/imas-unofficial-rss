@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 14:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Feb 2026 03:39:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Feb 2026 14:47:33 GMT</pubDate>
+        <pubDate>Fri, 13 Feb 2026 03:39:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズが登場！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18187.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18187.html</guid>
+            <pubDate>Fri, 13 Feb 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ20周年記念巡回イベント　「アイマス、アイに行きマス！in イオンモール新居浜」開催決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス新居浜]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17717.html</guid>
             <pubDate>Tue, 06 Jan 2026 10:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/VAOXphaniAEeGOyvxHVF19ZynizcUabS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会_大阪DAY2 ご来場いただきありがとうございました！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17836.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17836.html</guid>
-            <pubDate>Sun, 04 Jan 2026 11:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/kpefpdgIT5PfKgtgs5t6tbODnCBV5Vtd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
