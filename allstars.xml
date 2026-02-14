@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Feb 2026 14:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 03:27:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Feb 2026 14:39:42 GMT</pubDate>
+        <pubDate>Sat, 14 Feb 2026 03:27:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」グッズセットふるさと納税返礼品〈2026年分〉の受付が2月22日にスタート🎁🐱💝]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
+            <link>https://idolmaster-official.jp/news/01_18176.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18176.html</guid>
+            <pubDate>Sat, 14 Feb 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/RuY4VrNmO8sJJb35PpEHaJGxuUVgvnwf.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[◆明日まで◆【765】如月千早武道館単独公演「OathONE」開催記念グッズ販売は明日2月15日(日)まで！]]></title>
+            <description><![CDATA[#如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_18122.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18122.html</guid>
+            <pubDate>Sat, 14 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/TeOFEHsw7NvS6UwVCBpbvQga1c8O4QtY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズが登場！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう♪]]></title>
             <description><![CDATA[#アイマスMOIW2025 ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17886.html</guid>
             <pubDate>Fri, 09 Jan 2026 10:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/AdJmaMvPd9LuYeFQE9llSHaozSoMZc0x.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】 如月千早武道館単独公演「OathONE」配信チケット販売開始！現地チケット先着受付は明日12時から！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_17891.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17891.html</guid>
-            <pubDate>Fri, 09 Jan 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/7aqmFF2rxFi5yH9giGeFs1M5BywVOUCD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【公式】『「アイドルマスター」シリーズ楽曲 Winter Holiday プレイリスト』動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17717.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17717.html</guid>
-            <pubDate>Tue, 06 Jan 2026 10:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/VAOXphaniAEeGOyvxHVF19ZynizcUabS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
