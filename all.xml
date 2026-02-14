@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Feb 2026 06:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Feb 2026 11:22:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Feb 2026 06:44:48 GMT</pubDate>
+        <pubDate>Sat, 14 Feb 2026 11:22:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【学マス】ハッピーミルフィーユガシャ復刻記念！『甘いものって好き？フレームアクリルキーホルダー』プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#ハピミルガシャ合計20連無料]]></description>
+            <link>https://idolmaster-official.jp/news/01_18175.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18175.html</guid>
+            <pubDate>Sat, 14 Feb 2026 09:14:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/02/5ZFY5YsHXIrSepnEObBQ07YOF1EzpQ7L.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」グッズセットふるさと納税返礼品〈2026年分〉の受付が2月22日にスタート🎁🐱💝]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18145.html</guid>
             <pubDate>Fri, 06 Feb 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/TSZAZ2mlw5XB94PAly8CNWz4skUukQk6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】桑山千雪の1/7スケールフィギュアが登場！ご予約受付中♪]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18133.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18133.html</guid>
-            <pubDate>Fri, 06 Feb 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/mfE7Nol8tNuAM3YDa2Z3p17l2MHLZCyx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
