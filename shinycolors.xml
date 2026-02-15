@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 11:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 14:27:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Feb 2026 11:22:50 GMT</pubDate>
+        <pubDate>Sun, 15 Feb 2026 14:27:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス大感謝祭】DAY2ご来場・ご視聴いただきありがとうございました！！ 本日の告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シャニマス大感謝祭_day2 #シャニマス #シャニソン #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18148.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18148.html</guid>
+            <pubDate>Sun, 15 Feb 2026 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/02/t6wbzqLVSEfD3y1t2bRdP3grSuEJUfoW.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】 デジタルフィギュア拡張パック アイドルマスター シャイニーカラーズ【ライブ】の発売が決定！予約受付中！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18020.html</guid>
             <pubDate>Tue, 27 Jan 2026 03:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に「神崎蘭子」・「真壁瑞希」が登場！ ]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17968.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17968.html</guid>
-            <pubDate>Tue, 27 Jan 2026 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7DwbsOb1C0D6xmPsatt4aKb8HGQdGk3N.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
