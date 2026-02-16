@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 14:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 03:40:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Feb 2026 14:27:20 GMT</pubDate>
+        <pubDate>Mon, 16 Feb 2026 03:40:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「1/7スケールフィギュア 篠澤 広 ハッピーミルフィーユVer.」がご予約受付中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18173.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18173.html</guid>
+            <pubDate>Mon, 16 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/02/MaGdvLqxvfRY7glA9pdXPh7YtN5zq0BA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】グッズ交換受付中！関西電力の社会貢献活動推進サービス「モアクト」 のコラボグッズ交換受付は3/31(火)まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_18190.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18190.html</guid>
+            <pubDate>Mon, 16 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/dsXCadOUxgACyZgevU3MoXPmdLPyTMxb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】トレーディングカードゲーム「UNION ARENA」に「アイドルマスター シンデレラガールズ」の登場が決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18200.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18200.html</guid>
+            <pubDate>Mon, 16 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/HrFdIAzqSf3yALBY8SzFxIkfXerPJZBC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ 283PRODUCTION SHOP 2026 #KAWAII♡しーずん』の開催が決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18107.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18107.html</guid>
+            <pubDate>Mon, 16 Feb 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/8o62ZyKEsVrA11bdVH45xHSIE7hwU8EO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】vα-liv "プロジェクト新曲"リリース決定！6thシングルのデジタルリリースの決定に876プロフェスの当日のCD販売情報も解禁！【 #ASOBINOTES 】]]></title>
+            <description><![CDATA[#ヴイアラ #876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18188.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18188.html</guid>
+            <pubDate>Sun, 15 Feb 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/kwZtyv0aWckUxQW7FWRe1VsOUV2GM5rQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス大感謝祭】DAY2ご来場・ご視聴いただきありがとうございました！！ 本日の告知内容まとめはこちら！]]></title>
             <description><![CDATA[#シャニマス大感謝祭_day2 #シャニマス #シャニソン #シャイニーカラーズ]]></description>
@@ -39,6 +79,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18124.html</guid>
             <pubDate>Sun, 15 Feb 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/TeOFEHsw7NvS6UwVCBpbvQga1c8O4QtY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「『OathONE』特別番組 ー Who is Chihaya KISARAGI ー」インタビュー動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #如月千早武道館単独公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_18068.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18068.html</guid>
+            <pubDate>Wed, 04 Feb 2026 11:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/Vc8M4S8Oe4IuP0GJcFVlTl31EK6ZEU3V.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス大感謝祭】DAY1ご来場・ご視聴いただきありがとうございました！！ 本日の告知内容まとめはこちら！]]></title>
@@ -225,14 +273,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/02/ZUzHncSTxrm4yrVOteOcia6vXVYmpw7Z.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】「『OathONE』特別番組 ー Who is Chihaya KISARAGI ー」インタビュー動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_18068.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18068.html</guid>
-            <pubDate>Wed, 04 Feb 2026 11:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/anjX6YICaxltkagkwPWkMxFMK2cJLlST.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【YouTube】【876プロ】「876 PRODUCTION FES.開催記念24/7 Live Stream ディアリースターズ STORY PREVIEW」配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #876プロフェス]]></description>
             <link>https://idolmaster-official.jp/news/01_18080.html</link>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18144.html</guid>
             <pubDate>Sat, 07 Feb 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/g6uCNMijDl50xEabBZpoXexTwgCOhgJR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】2/6(金)学マス生配信「初星学園HR #STEP3 十王 星南」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター #十王星南_学マスSTEP3]]></description>
-            <link>https://idolmaster-official.jp/news/01_17987.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17987.html</guid>
-            <pubDate>Fri, 06 Feb 2026 12:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/KwzFPRDMyA639dUd3ryeu8uW97Bm7O2X.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_XXX】◆今週末2/8(日)まで！◆ゲーム先行受付中！ 283 Production XXXX Performance XXX= S/N-GUL4R1TY]]></title>
-            <description><![CDATA[#ストレイ_XXX]]></description>
-            <link>https://idolmaster-official.jp/news/01_18152.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18152.html</guid>
-            <pubDate>Fri, 06 Feb 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/02/ELOwlqXofiOEUS9Ymbxm5hKYXjdr3ALQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】明日2月7日（土）より『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE×ばくだん焼本舗』が開催！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18135.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18135.html</guid>
-            <pubDate>Fri, 06 Feb 2026 09:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/iPCwXcdeo7uacpSV4GTNcll2v1z863Pj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】予約締切は2月23日（月）まで！「カバーガール総選挙」にて選ばれたアイドル9名の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場中！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18142.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18142.html</guid>
-            <pubDate>Fri, 06 Feb 2026 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/F7ZZeDVQNFT0pPqZEMzVvJCh67NejpCb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】オリジナルキャスコレコンテスト開催決定！]]></title>
-            <description><![CDATA[#シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17890.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17890.html</guid>
-            <pubDate>Fri, 06 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/MuiWvMKQyhgtPof6Ku979kFhSp1OHH8g.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

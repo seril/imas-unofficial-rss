@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 14:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 03:40:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Feb 2026 14:27:20 GMT</pubDate>
+        <pubDate>Mon, 16 Feb 2026 03:40:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】グッズ交換受付中！関西電力の社会貢献活動推進サービス「モアクト」 のコラボグッズ交換受付は3/31(火)まで！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
+            <link>https://idolmaster-official.jp/news/01_18190.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18190.html</guid>
+            <pubDate>Mon, 16 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/dsXCadOUxgACyZgevU3MoXPmdLPyTMxb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」グッズセットふるさと納税返礼品〈2026年分〉の受付が2月22日にスタート🎁🐱💝]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17917.html</guid>
             <pubDate>Fri, 16 Jan 2026 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】11thLIVE応援セット販売中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17853.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17853.html</guid>
-            <pubDate>Fri, 16 Jan 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/01/s2nPf2dTrtpgftLIiIQdix3qR7bFl6wq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
