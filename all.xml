@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Feb 2026 03:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 07:03:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Feb 2026 03:40:24 GMT</pubDate>
+        <pubDate>Mon, 16 Feb 2026 07:03:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～Fairy Daysは絶え間ない～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18185.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18185.html</guid>
+            <pubDate>Mon, 16 Feb 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/02/xYYy7NDGtA7s7FHEy8Yen8yJEQqL66sV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭「アニメイトカフェ出張版」＆「ばくだん焼本舗」出店決定！！]]></title>
+            <description><![CDATA[#学マス #学マス音楽祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_18203.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18203.html</guid>
+            <pubDate>Mon, 16 Feb 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/kFK7xWDSU0e4XYLtgF27CDFOdi5Wg7tP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「1/7スケールフィギュア 篠澤 広 ハッピーミルフィーユVer.」がご予約受付中！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18076.html</guid>
             <pubDate>Sat, 07 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/erXZwd0P6hFemeWYep2cPufRAPEi49XJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【商品情報】學園偶像大師 初星歌謠會 LIVE VIEWING in 香港 & 台灣 周邊商品 火熱預購中！]]></title>
-            <description><![CDATA[#學園偶像大師 #初星歌謠會]]></description>
-            <link>https://idolmaster-official.jp/news/01_18141.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18141.html</guid>
-            <pubDate>Sat, 07 Feb 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/02/AGPQrTnnZoRTUGzGA7Vb8rvAuGKTvyjM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【SideM】柏木 翼＆木村 龍、東雲 荘一郎＆アスラン=ベルゼビュートII世 がプロデュースした食器の受注販売は明日まで！一部グッズのサンプルをご紹介♪]]></title>
-            <description><![CDATA[#SideM #柏木翼 #木村龍 #東雲荘一郎 #アスラン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18144.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18144.html</guid>
-            <pubDate>Sat, 07 Feb 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/g6uCNMijDl50xEabBZpoXexTwgCOhgJR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

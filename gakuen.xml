@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Feb 2026 03:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Feb 2026 07:03:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Feb 2026 03:40:24 GMT</pubDate>
+        <pubDate>Mon, 16 Feb 2026 07:03:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭「アニメイトカフェ出張版」＆「ばくだん焼本舗」出店決定！！]]></title>
+            <description><![CDATA[#学マス #学マス音楽祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_18203.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18203.html</guid>
+            <pubDate>Mon, 16 Feb 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/kFK7xWDSU0e4XYLtgF27CDFOdi5Wg7tP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「1/7スケールフィギュア 篠澤 広 ハッピーミルフィーユVer.」がご予約受付中！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17953.html</guid>
             <pubDate>Sat, 17 Jan 2026 11:23:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/7gm9RdtmSbBEgHnNjjAauDCkTMHJOuu6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】開催記念グッズの受注は明日まで！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17954.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17954.html</guid>
-            <pubDate>Sat, 17 Jan 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/01/rTKD9ESIHtOQV27MdUcWRkyxU94ORaWO.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
