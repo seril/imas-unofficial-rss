@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Feb 2026 14:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Feb 2026 03:37:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Feb 2026 14:44:36 GMT</pubDate>
+        <pubDate>Wed, 18 Feb 2026 03:37:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】2月25日(水) 19:00～ 声優陣3名が出演するシャニマス生配信を実施予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニソン  #シャニマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_18110.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18110.html</guid>
+            <pubDate>Wed, 18 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/szSHxYOpOfaayZhy8nSrS4RijKsGRSYT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】浅倉透の1/7スケールフィギュアが登場！ご予約受付中♪]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18227.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18227.html</guid>
+            <pubDate>Wed, 18 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/oJja1vHa8gH4FIdoi7buHQn8FadTGOj8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今週開催 #876プロフェス ！一部公演の現地チケット一般二次販売を開始！配信チケットもただいま発売中！]]></title>
             <description><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今週開催 #876プロフェス ！一部公演の現地チケット一般二次販売を開始！配信チケットもただいま発売中！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18078.html</guid>
             <pubDate>Tue, 10 Feb 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/yfWNpWBvm3UDg1d2TzbjzaI5uixDa1tL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】幽谷 霧子、福丸 小糸が手に入るガシャ開催中！さらに、ノクチルの楽曲『Reflection』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18127.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18127.html</guid>
-            <pubDate>Tue, 10 Feb 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/02/1MjzhIA3yIR1XU9Ww7YiJbff61ilO6HB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第九弾】「会社同僚ボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を期間限定販売！]]></title>
-            <description><![CDATA[#ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18154.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18154.html</guid>
-            <pubDate>Mon, 09 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/02/ksXj1NsmSisuj1jOMFcfNvkLNLkMt5E5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
