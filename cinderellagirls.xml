@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Feb 2026 14:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 03:31:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Feb 2026 14:47:06 GMT</pubDate>
+        <pubDate>Fri, 20 Feb 2026 03:31:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレミリ衣装展】衣装展の開催を記念したラジオ番組「ひさかべラジオ」は2月21日(土)22:00よりプレミア公開！]]></title>
+            <description><![CDATA[#デレミリ衣装展 #ひろみきラジオ #ひさかべラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18238.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18238.html</guid>
+            <pubDate>Fri, 20 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/eJWKimZB1ymKTGUF5a3GTxIA6aXRJVBX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「アナスタシア」「安部菜々」「榊原里美」が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17952.html</guid>
             <pubDate>Fri, 16 Jan 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/uDd1mncJSW3NHO3nVmYje2UHvd8LnNd9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】【ミリオン】「でこらいくTWINS POP UP SHOP」詳細情報解禁✨]]></title>
-            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17917.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17917.html</guid>
-            <pubDate>Fri, 16 Jan 2026 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
