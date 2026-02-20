@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 06:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 11:31:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Feb 2026 06:57:06 GMT</pubDate>
+        <pubDate>Fri, 20 Feb 2026 11:31:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年2月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_18198.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18198.html</guid>
+            <pubDate>Fri, 20 Feb 2026 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/XLNSEDGZTXvKMXGBNj3TjSzgGBAHpYKG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター 初星音楽祭」にブシロードクリエイティブブースの出店が決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18232.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18232.html</guid>
+            <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/RrBACqeKXGXHUv9bVmXzFLofocuyTkN5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター POP UP SHOP 「Wild TUNE」EC事後物販が決定！本日より受注スタート！【3月22日(日)まで】]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18233.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18233.html</guid>
+            <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/ptYACvbE1FzaPuzKf0G7wW7QtXQQ7mZ8.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【学マス】学園アイドルマスター 初星音楽祭 終了後感想会 決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #AP生配信 #学マス #初星音楽祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_18170.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18170.html</guid>
+            <pubDate>Fri, 20 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/kK7uRtkpQHHPw3JV7WafNyaFk6ul3z2G.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ムービックより「スクエアミニポーチ」や「マルチプレイマット」など、「学園アイドルマスター」の新商品が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18210.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18210.html</guid>
+            <pubDate>Fri, 20 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/4OG6hNDzr5zkvNI3pj2Bi5aCACtiIBfN.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズの受注は3月1日(日)まで！詳しくはASOBI STOREをチェック！]]></title>
             <description><![CDATA[#アイマスMOIW2025 ]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17989.html</guid>
             <pubDate>Wed, 21 Jan 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/01/vhrb8p132Wiw25ImERHfNSok0Bm0MQ2I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと9日！参加企業・自治体のコメントをご紹介！［第1弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_17973.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17973.html</guid>
-            <pubDate>Wed, 21 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年1月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17911.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17911.html</guid>
-            <pubDate>Tue, 20 Jan 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/01/SNXzOcPm9AoxlIgEpruKYTjd5RQkqVhD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター × 極楽湯・RAKU SPA 第2弾コラボキャンペーンが2月5日(木)より開催決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17971.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17971.html</guid>
-            <pubDate>Tue, 20 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/f3KxQs4H8zl8khKOU50BPKyMYIY2eEiQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】『学園アイドルマスター POP UP SHOP in 伊勢丹立川店』グッズ詳細公開！事前抽選入場のお申込みも開始✨]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_17931.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17931.html</guid>
-            <pubDate>Tue, 20 Jan 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/ftV4QxRvG6U68dytBrJVWfX7hegzxacA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会 にてDJ披露したマスコット＆DJ UMEKINGのセットリスト公開！ 公演アンケートも実施中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17966.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17966.html</guid>
-            <pubDate>Mon, 19 Jan 2026 12:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/mScPW8buSggNA5dYG2WBeTTY5ftkP6jG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

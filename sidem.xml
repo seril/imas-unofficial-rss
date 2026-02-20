@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 06:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 11:31:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Feb 2026 06:57:06 GMT</pubDate>
+        <pubDate>Fri, 20 Feb 2026 11:31:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年2月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_18198.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18198.html</guid>
+            <pubDate>Fri, 20 Feb 2026 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/XLNSEDGZTXvKMXGBNj3TjSzgGBAHpYKG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMPRS魂環の人形】会場物販、CD・映像販売情報公開！& 映画「魂環の人形」の主題歌情報解禁！ 配信チケットも販売中！]]></title>
+            <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
+            <link>https://idolmaster-official.jp/news/01_18251.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18251.html</guid>
+            <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/02/GFRgpOnFTStnpBO0Nn6eXVV4TyFb2yQj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズの受注は3月1日(日)まで！詳しくはASOBI STOREをチェック！]]></title>
             <description><![CDATA[#アイマスMOIW2025 ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17902.html</guid>
             <pubDate>Sat, 10 Jan 2026 11:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/jRAaCvpsDEml0zws1gpsuzT2sF4uptJx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチが受注中！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17822.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17822.html</guid>
-            <pubDate>Sat, 10 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/v0gYv6A6VgpkHmN6jyNvR33GpZoZUwZb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】メンバー限定MOIW2025特別配信DAY1/2」「【ラジオ】冒頭15分は誰でも聞ける！2026年1月メンバー限定配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #MOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17886.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17886.html</guid>
-            <pubDate>Fri, 09 Jan 2026 10:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/AdJmaMvPd9LuYeFQE9llSHaozSoMZc0x.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
