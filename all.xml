@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 11:39:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 14:48:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 11:39:51 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 14:48:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】『 #876プロフェス 』公演アンケート実施のご案内／配信アーカイブチケット販売中！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】【ディアリースターズ】『 #876プロフェス 』公演アンケート実施のご案内／配信アーカイブチケット販売中！]]></description>
+            <link>https://idolmaster-official.jp/news/01_18285.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18285.html</guid>
+            <pubDate>Wed, 25 Feb 2026 12:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/02/MKskDiI4poI8oIhDQf2ATPgyxfNOF0yL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】『シャニマス生配信 ～寒～い今夜は、プロデューサーさんと一緒SP～』お知らせまとめ！]]></title>
+            <description><![CDATA[#シャニマス #シャニソン #シャニマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_18111.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18111.html</guid>
+            <pubDate>Wed, 25 Feb 2026 12:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/02/rK7YImeojRdkKhXZzx1j4Zudaj0RytlL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】『シャニマス生配信 ～寒～い今夜は、プロデューサーさんと一緒SP～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
             <description><![CDATA[#シャニマス  #シャニソン  #シャニマス生配信]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18207.html</guid>
             <pubDate>Mon, 16 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/Pyl7HdgJ5GQsuGFdfX96akB9J9PtGtiR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス大感謝祭】視聴コメント付きアーカイブ配信本日より開始！公演アンケートも実施中！]]></title>
-            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18209.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18209.html</guid>
-            <pubDate>Mon, 16 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/02/a5Aj9ADW0e9xpj1wadyQrluED09t3ZBy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【876プロ】THE IDOLM@STER 20th Anniversary 876 PRODUCTION FES.終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#ヴイアラ #アイマスch #876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18095.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18095.html</guid>
-            <pubDate>Mon, 16 Feb 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/y0tVUs98Pup8NtEoMdDPy3x2mstv7gu0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
