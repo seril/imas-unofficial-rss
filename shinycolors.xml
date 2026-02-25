@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 07:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 11:39:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 07:02:00 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 11:39:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】『シャニマス生配信 ～寒～い今夜は、プロデューサーさんと一緒SP～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#シャニマス  #シャニソン  #シャニマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_18112.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18112.html</guid>
+            <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/02/2ooXnGocE6TDEfJd2x4HssqaIyqTMWuU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】「NTTドコモ×アイドルマスター シャイニーカラーズ コラボキャンペーン」が開催中！]]></title>
             <description><![CDATA[#シャニマス #ドコモシャニマスコラボ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18082.html</guid>
             <pubDate>Fri, 30 Jan 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】シャニマス大感謝祭の現地チケット一般販売(先着)が1/31(土)より開始！リセール受付も2/5(木)より開始！]]></title>
-            <description><![CDATA[#シャニマス大感謝祭 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18086.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18086.html</guid>
-            <pubDate>Fri, 30 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/01/68uAz15eFH5PYgZdJ557Bh1EdbhQly0x.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

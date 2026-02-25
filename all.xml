@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 07:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Feb 2026 11:39:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 07:01:59 GMT</pubDate>
+        <pubDate>Wed, 25 Feb 2026 11:39:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】『シャニマス生配信 ～寒～い今夜は、プロデューサーさんと一緒SP～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#シャニマス  #シャニソン  #シャニマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_18112.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18112.html</guid>
+            <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/02/2ooXnGocE6TDEfJd2x4HssqaIyqTMWuU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[學園偶像大師 初星歌謠會 LIVE VIEWING in 香港 & 台灣 倒數中！]]></title>
+            <description><![CDATA[#學園偶像大師 #初星歌謠會]]></description>
+            <link>https://idolmaster-official.jp/news/01_18292.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18292.html</guid>
+            <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/02/WI02dZRvQ0ULeLTfA3KRL1rdWU6pq6jd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】【ミリオン】「でこらいくTWINS POP UP SHOP」京都会場がいよいよ明日から開催‼✨]]></title>
+            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18166.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18166.html</guid>
+            <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMPRS魂環の人形】「冬馬のバターチキンカレーパン出張販売所」出店決定！！]]></title>
+            <description><![CDATA[#SideM #SideMPRS魂環の人形 #カレーパン]]></description>
+            <link>https://idolmaster-official.jp/news/01_18267.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18267.html</guid>
+            <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/02/byjkcsr5lDUjJdfLsaiNnFcp0YzzV31P.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」延期公演の現地チケット一般発売(先着)が2月28日(土)13:00よりスタート！公式リセールも同日開始！会場物販情報も公開！]]></title>
+            <description><![CDATA[#ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18273.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18273.html</guid>
+            <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/7osGpegPRgTiaoRazeSeTE5NqU7d7xZ1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「『OathONE』特別番組 ー Who is Chihaya KISARAGI ー」インタビュー動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #如月千早武道館単独公演]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18095.html</guid>
             <pubDate>Mon, 16 Feb 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/y0tVUs98Pup8NtEoMdDPy3x2mstv7gu0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～Fairy Daysは絶え間ない～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18185.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18185.html</guid>
-            <pubDate>Mon, 16 Feb 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/02/xYYy7NDGtA7s7FHEy8Yen8yJEQqL66sV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭「アニメイトカフェ出張版」＆「ばくだん焼本舗」出店決定！！]]></title>
-            <description><![CDATA[#学マス #学マス音楽祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_18203.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18203.html</guid>
-            <pubDate>Mon, 16 Feb 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/kFK7xWDSU0e4XYLtgF27CDFOdi5Wg7tP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「1/7スケールフィギュア 篠澤 広 ハッピーミルフィーユVer.」がご予約受付中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_18173.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18173.html</guid>
-            <pubDate>Mon, 16 Feb 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/02/MaGdvLqxvfRY7glA9pdXPh7YtN5zq0BA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】グッズ交換受付中！関西電力の社会貢献活動推進サービス「モアクト」 のコラボグッズ交換受付は3/31(火)まで！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #モアクト]]></description>
-            <link>https://idolmaster-official.jp/news/01_18190.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18190.html</guid>
-            <pubDate>Mon, 16 Feb 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/dsXCadOUxgACyZgevU3MoXPmdLPyTMxb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】トレーディングカードゲーム「UNION ARENA」に「アイドルマスター シンデレラガールズ」の登場が決定！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18200.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18200.html</guid>
-            <pubDate>Mon, 16 Feb 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/HrFdIAzqSf3yALBY8SzFxIkfXerPJZBC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
