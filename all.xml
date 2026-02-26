@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Feb 2026 14:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 03:32:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Feb 2026 14:48:49 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 03:32:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【ミリオン】【2/28(土)まで！】FAMくじにて「アイドルマスター ミリオンライブ！」vol.2が発売中🍫]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18281.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18281.html</guid>
+            <pubDate>Thu, 26 Feb 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/rKc3NULW4Gv8gZkdlD7GxzP5VXfc3xu0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】十王星南 × gladgarbのコラボアパレルが登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18263.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18263.html</guid>
+            <pubDate>Thu, 26 Feb 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/GHUBRahAN1ajujL3BEP96419V8xKFl4i.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】『アイドルマスター シャイニーカラーズ』とダーツグッズ専門店「ダーツハイブ」とのコラボレーションが決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18023.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18023.html</guid>
+            <pubDate>Thu, 26 Feb 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/VjyacSMKg2cavjlPRM9UDInTZ3o5RTDl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】『 #876プロフェス 』公演アンケート実施のご案内／配信アーカイブチケット販売中！]]></title>
             <description><![CDATA[【 #ヴイアラ 】【ディアリースターズ】『 #876プロフェス 』公演アンケート実施のご案内／配信アーカイブチケット販売中！]]></description>
@@ -49,20 +73,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideMPRS魂環の人形】「冬馬のバターチキンカレーパン出張販売所」出店決定！！]]></title>
-            <description><![CDATA[#SideM #SideMPRS魂環の人形 #カレーパン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18267.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18267.html</guid>
-            <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/02/byjkcsr5lDUjJdfLsaiNnFcp0YzzV31P.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」延期公演の現地チケット一般発売(先着)が2月28日(土)13:00よりスタート！公式リセールも同日開始！会場物販情報も公開！]]></title>
             <description><![CDATA[#ミリオン11th]]></description>
             <link>https://idolmaster-official.jp/news/01_18273.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18273.html</guid>
             <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/7osGpegPRgTiaoRazeSeTE5NqU7d7xZ1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMPRS魂環の人形】「冬馬のバターチキンカレーパン出張販売所」出店決定！！]]></title>
+            <description><![CDATA[#SideM #SideMPRS魂環の人形 #カレーパン]]></description>
+            <link>https://idolmaster-official.jp/news/01_18267.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18267.html</guid>
+            <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/02/byjkcsr5lDUjJdfLsaiNnFcp0YzzV31P.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】「『OathONE』特別番組 ー Who is Chihaya KISARAGI ー」インタビュー動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18201.html</guid>
             <pubDate>Mon, 16 Feb 2026 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/F7ZZeDVQNFT0pPqZEMzVvJCh67NejpCb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism QUEEN OF THE PIRATES / キラピコ.exe / Sleepless Nights / アイノウ」発売記念イベント 会場物販のお知らせ]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18168.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18168.html</guid>
-            <pubDate>Mon, 16 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/Ur2lTjM18V1QvnncL29zxPjKgY0HI5av.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】デュエル・マスターズ プレイスとコラボ開催決定！放課後クライマックスガールズがデュエプレに登場！コラボ楽曲も登場！]]></title>
-            <description><![CDATA[#デュエプレ #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18178.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18178.html</guid>
-            <pubDate>Mon, 16 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/k7A7RLqfxlTwplKStTxTzNQRjhob0wOW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」イベントグッズ事前販売を実施中！主演の「高山紗代子」と「二階堂千鶴」の描きおろしキービジュアルも要チェック！！]]></title>
-            <description><![CDATA[#ミリオン13th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18207.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18207.html</guid>
-            <pubDate>Mon, 16 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/Pyl7HdgJ5GQsuGFdfX96akB9J9PtGtiR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
