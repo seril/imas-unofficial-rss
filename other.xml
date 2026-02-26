@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 07:00:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 11:39:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 07:00:14 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 11:39:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO」の配信が決定！！「MOIW2025」Blu-ray PERFECT BOXをご購入いただいた方の中から抽選で100名様を公開録音会にご招待！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18241.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18241.html</guid>
+            <pubDate>Thu, 26 Feb 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/dY0P10W2wCAOXyB9Bn52saRhcgNip3Wy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】『 #876プロフェス 』公演アンケート実施のご案内／配信アーカイブチケット販売中！]]></title>
             <description><![CDATA[【 #ヴイアラ 】【ディアリースターズ】『 #876プロフェス 』公演アンケート実施のご案内／配信アーカイブチケット販売中！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17608.html</guid>
             <pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/S15mGbwliCZ54LoDPtsSSaCx3ta5BHwJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】ライブ冒頭の【無料】生配信が決定！合同ライブ「THE IDOLM@STER M@STERS OF IDOL WORLD 2025」配信チケットも販売中♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17645.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17645.html</guid>
-            <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/hqzuZX8CoZiF11YIRLU1w31lY3gHerbh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
