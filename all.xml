@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 03:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 07:00:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 03:32:19 GMT</pubDate>
+        <pubDate>Thu, 26 Feb 2026 07:00:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス音楽祭】学園アイドルマスター The 2nd Period 協賛社グッズ事前販売が本日2月26日(木) 15:00スタート！]]></title>
+            <description><![CDATA[#学マス  #学マス2nd]]></description>
+            <link>https://idolmaster-official.jp/news/01_18298.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18298.html</guid>
+            <pubDate>Thu, 26 Feb 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/vWCzL0s9L7ZOz1yWTeq3l9vzJVMO4Sfg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】#deremaas@NASU-Ways！｢アイドルマスター シンデレラガールズ｣×「JR東日本」のコラボレーションが決定♪]]></title>
+            <description><![CDATA[#imas_cg #デレマス #deremaas #traintrip_tochigi]]></description>
+            <link>https://idolmaster-official.jp/news/01_18258.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18258.html</guid>
+            <pubDate>Thu, 26 Feb 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/S8wqGNC7uRi5Xuex0y7nRddzYySaNwrD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【ミリオン】【2/28(土)まで！】FAMくじにて「アイドルマスター ミリオンライブ！」vol.2が発売中🍫]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18204.html</guid>
             <pubDate>Tue, 17 Feb 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/02/zDS8B48MY4dncBfZmvU94fePWLQAuO2C.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター」シリーズが「第二十回声優アワード シナジー賞」を受賞！]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】「アイドルマスター」シリーズが「第二十回声優アワード シナジー賞」を受賞！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18221.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18221.html</guid>
-            <pubDate>Mon, 16 Feb 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/02/kagMan1ISfIk7JUaZUZ42ImdEDxNjgo2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】2月23日（月）まで予約受付中！「カバーガール総選挙」にて選ばれたアイドル9名の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18201.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18201.html</guid>
-            <pubDate>Mon, 16 Feb 2026 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/F7ZZeDVQNFT0pPqZEMzVvJCh67NejpCb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
