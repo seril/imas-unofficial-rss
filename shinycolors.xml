@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 14:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 03:28:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 14:47:35 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 03:28:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[今週末まで！ 【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズの受注は3月1日(日)まで！詳しくはASOBI STOREをチェック！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18268.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18268.html</guid>
+            <pubDate>Fri, 27 Feb 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】3月16日（月）より開始の「アイドルマスター シャイニーカラーズ」書店コラボキャンペーン　詳細内容公開！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18114.html</guid>
             <pubDate>Tue, 03 Feb 2026 08:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/nCKC4IEbNOSoFIABRJMmD6VTJHxpQ2It.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズ × せいせき40t h アニバーサリー　開催決定！！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18044.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18044.html</guid>
-            <pubDate>Mon, 02 Feb 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/skPOuIr5Op23riOCHnWEQdDqAvjnY7jd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Feb 2026 14:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Feb 2026 03:28:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Feb 2026 14:47:35 GMT</pubDate>
+        <pubDate>Fri, 27 Feb 2026 03:28:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[今週末まで！ 【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズの受注は3月1日(日)まで！詳しくはASOBI STOREをチェック！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18268.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18268.html</guid>
+            <pubDate>Fri, 27 Feb 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO」の配信が決定！！「MOIW2025」Blu-ray PERFECT BOXをご購入いただいた方の中から抽選で100名様を公開録音会にご招待！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17973.html</guid>
             <pubDate>Wed, 21 Jan 2026 03:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年1月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17911.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17911.html</guid>
-            <pubDate>Tue, 20 Jan 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/01/SNXzOcPm9AoxlIgEpruKYTjd5RQkqVhD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
