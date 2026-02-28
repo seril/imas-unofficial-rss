@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 06:38:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 11:19:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 06:38:29 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 11:19:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_XXX】⚡明日3/1(日)23:59まで！⚡アソビストア一般会員2次先行受付中！283 Production XXXX Performance XXX= S/N-GUL4R1TY]]></title>
+            <description><![CDATA[#ストレイ_XXX]]></description>
+            <link>https://idolmaster-official.jp/news/01_18295.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18295.html</guid>
+            <pubDate>Sat, 28 Feb 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/02/YXvKEwnTSWkM7f7xUPO3Cz0m1zXIaDPp.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 学マス 】‎秦谷美鈴誕生日記念セット2026 受注〆切間近！［3/1(日)まで］]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18313.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18313.html</guid>
+            <pubDate>Sat, 28 Feb 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/NoaNVxSv3EhRedHIBYXGSDfAbHYHemdy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】新ユニット「ザ・ふたりトラベラー」が登場！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18256.html</guid>
             <pubDate>Fri, 20 Feb 2026 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/tiwChyM6mt7WaxjacQxG6QigBP5kJsVz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【学マス】学園アイドルマスター 初星音楽祭 終了後感想会 決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #AP生配信 #学マス #初星音楽祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_18170.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18170.html</guid>
-            <pubDate>Fri, 20 Feb 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/kK7uRtkpQHHPw3JV7WafNyaFk6ul3z2G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ムービックより「スクエアミニポーチ」や「マルチプレイマット」など、「学園アイドルマスター」の新商品が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18210.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18210.html</guid>
-            <pubDate>Fri, 20 Feb 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/4OG6hNDzr5zkvNI3pj2Bi5aCACtiIBfN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
