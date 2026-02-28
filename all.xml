@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 03:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Feb 2026 06:38:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 03:08:50 GMT</pubDate>
+        <pubDate>Sat, 28 Feb 2026 06:38:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】新ユニット「ザ・ふたりトラベラー」が登場！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_18289.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18289.html</guid>
+            <pubDate>Sat, 28 Feb 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/02/H3AZ26czpv5JbPsKDvazmLzRgsGxKuD6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭 開催記念グッズ受注スタート！受注は3/18(水)まで！]]></title>
             <description><![CDATA[#学マス #学マス音楽祭]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18210.html</guid>
             <pubDate>Fri, 20 Feb 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/4OG6hNDzr5zkvNI3pj2Bi5aCACtiIBfN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】八宮 めぐるが手に入るガシャ開催中！さらに、∑ Desireの楽曲『BEAST MODE』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18212.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18212.html</guid>
-            <pubDate>Fri, 20 Feb 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/02/X1lQQgVHDlXu2vahDm2OhAWNlM28nONC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
