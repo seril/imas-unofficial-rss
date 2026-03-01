@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Feb 2026 14:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 03:40:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Feb 2026 14:22:34 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 03:40:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[本日まで！！ 【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズの受注は本日3月1日(日)まで！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18269.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18269.html</guid>
+            <pubDate>Sun, 01 Mar 2026 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第10弾、5月分予約受付中！ ]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18244.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18244.html</guid>
+            <pubDate>Sun, 01 Mar 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/4Z1vqjxUwrAjfXdKOXckCeKJ1ywKJ9Cb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」配信視聴チケットの販売が本日よりスタート！現地チケット一般発売(先着)は明日2月28日(土)13:00から！]]></title>
             <description><![CDATA[#ミリオン11th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17968.html</guid>
             <pubDate>Tue, 27 Jan 2026 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7DwbsOb1C0D6xmPsatt4aKb8HGQdGk3N.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレミリ衣装展】会場物販情報を更新！！コラボイラストやマスコットをあしらったグッズが登場♪さらに、一部の過去イベントグッズ販売も決定！]]></title>
-            <description><![CDATA[#デレミリ衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_18017.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18017.html</guid>
-            <pubDate>Mon, 26 Jan 2026 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/01/Tv2zorWi9L2mViCKm0ZYHXBgvYj0YqVM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと4日！参加企業・自治体のコメントをご紹介！［第4弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18012.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
-            <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
