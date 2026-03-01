@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 11:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 14:24:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 11:19:55 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 14:24:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭 DAY2 のご鑑賞ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#学マス #学マス音楽祭]]></description>
+            <link>https://idolmaster-official.jp/news/01_18102.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18102.html</guid>
+            <pubDate>Sun, 01 Mar 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/03/IrQEQZave75VRysQSqBWSFTjdL5oH1Iw.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_XXX】⚡楽屋花についてのご案内⚡ アソビストア一般会員2次先行は本日3/1(日)23:59まで！「283 Production XXXX Performance XXX= S/N-GUL4R1TY」]]></title>
             <description><![CDATA[#ストレイ_XXX]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18198.html</guid>
             <pubDate>Fri, 20 Feb 2026 10:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/XLNSEDGZTXvKMXGBNj3TjSzgGBAHpYKG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「POP UP STREET in 奥山おまいりまち・浅草西参道」イベント詳細決定！]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18239.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18239.html</guid>
-            <pubDate>Fri, 20 Feb 2026 09:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/t3wQPcIevtAHgslG6aTN862fZVdVZX4W.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
