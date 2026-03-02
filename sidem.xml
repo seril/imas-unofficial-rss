@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 06:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 11:31:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 06:58:19 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 11:31:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「カードフォリオ SideM ver. vol.1」のカードリストを公開！！発売を記念して描きおろしグッズが315名様に当たる「パシャっとチャレンジキャンペーン」の実施も決定♪]]></title>
+            <description><![CDATA[#SideM #SideMPRS魂環の人形 #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18277.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18277.html</guid>
+            <pubDate>Mon, 02 Mar 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/1TMmw8es15H7EkjDm1XCwEKU6W1LBI1M.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日まで！！ 【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズの受注は本日3月1日(日)まで！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう！]]></title>
             <description><![CDATA[#アイマスMOIW2025 ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17938.html</guid>
             <pubDate>Mon, 19 Jan 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/12/gGjssDvdBxE8EiLpXtLYkVfIKT5XzxoM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER 20th ANNIVERSARY NEW YEAR MEETING & DJ PARTY」 #アイマス新年会_名古屋DAY2 ご来場いただきありがとうございました！！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ]]></description>
-            <link>https://idolmaster-official.jp/news/01_17960.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17960.html</guid>
-            <pubDate>Sun, 18 Jan 2026 11:22:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/XTAHDbEUYsyJRFNFCn1vfE2vYwxAduIJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
