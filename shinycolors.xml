@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 06:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 11:32:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 06:52:41 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 11:32:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】つくりより『シャニマス大感謝祭！〜283スポーツフェスティバル〜』協賛商品の一般販売がスタート！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18279.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18279.html</guid>
+            <pubDate>Tue, 03 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/Xx2RNLPm5z54lchB8qddMpe8DThfg51h.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「わくドキくじ」が発売決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18259.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18259.html</guid>
+            <pubDate>Tue, 03 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/OoGL5B3kojNL30Q5rK6Mmq8tmIJ9s9mp.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_XXX】⚡楽屋花についてのご案内⚡ アソビストア一般会員2次先行は本日3/1(日)23:59まで！「283 Production XXXX Performance XXX= S/N-GUL4R1TY」]]></title>
             <description><![CDATA[#ストレイ_XXX]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18079.html</guid>
             <pubDate>Fri, 06 Feb 2026 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/yjKAvYrOXx9Oz7WtpAUJ0uvuIozyEnpI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】七草にちか・緋田美琴が「シルキージェムシリカ」衣装でフィギュア化決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18145.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18145.html</guid>
-            <pubDate>Fri, 06 Feb 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/TSZAZ2mlw5XB94PAly8CNWz4skUukQk6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】桑山千雪の1/7スケールフィギュアが登場！ご予約受付中♪]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18133.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18133.html</guid>
-            <pubDate>Fri, 06 Feb 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/mfE7Nol8tNuAM3YDa2Z3p17l2MHLZCyx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
