@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 06:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 11:33:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 06:52:45 GMT</pubDate>
+        <pubDate>Thu, 05 Mar 2026 11:33:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」イベントグッズ事前二次＆協賛社グッズの販売が本日3月5日(木)よりスタート！！フラワースタンド・楽屋花・プレゼントのご案内も更新！]]></title>
+            <description><![CDATA[#ミリオン13th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18320.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18320.html</guid>
+            <pubDate>Thu, 05 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/YFa9oBE0Wg9KEojHQn3H62KsKsFU1W42.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　6月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場♪本日より受注受付スタート！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18324.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18324.html</guid>
+            <pubDate>Thu, 05 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/oeRphDwb8N0ofj83ObwJgNLqWhNWqTAO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》6月に向けて豊川風花、三浦あずさが登場！「ジューンブライド・ガーデンウェディング」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル6月]]></description>
+            <link>https://idolmaster-official.jp/news/01_18328.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18328.html</guid>
+            <pubDate>Thu, 05 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/9IyKViUgaUseADku56DcTnljTjgZt3SL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 学マス 】‎姫崎莉波誕生日記念セット2026 受注受付中♬［3/29(日)まで］]]></title>
             <description><![CDATA[#学マス]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18111.html</guid>
             <pubDate>Wed, 25 Feb 2026 12:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/02/rK7YImeojRdkKhXZzx1j4Zudaj0RytlL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『シャニマス生配信 ～寒～い今夜は、プロデューサーさんと一緒SP～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#シャニマス  #シャニソン  #シャニマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_18112.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18112.html</guid>
-            <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/02/2ooXnGocE6TDEfJd2x4HssqaIyqTMWuU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[學園偶像大師 初星歌謠會 LIVE VIEWING in 香港 & 台灣 倒數中！]]></title>
-            <description><![CDATA[#學園偶像大師 #初星歌謠會]]></description>
-            <link>https://idolmaster-official.jp/news/01_18292.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18292.html</guid>
-            <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/02/WI02dZRvQ0ULeLTfA3KRL1rdWU6pq6jd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】【ミリオン】「でこらいくTWINS POP UP SHOP」京都会場がいよいよ明日から開催‼✨]]></title>
-            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18166.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18166.html</guid>
-            <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
