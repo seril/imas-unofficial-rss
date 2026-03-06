@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 14:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 03:25:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Mar 2026 14:44:02 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 03:25:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【Dearly Stars × vα-liv】「876 PRODUCTION FES 開催記念アニメイトフェア」は3月15日(日)まで！]]></title>
+            <description><![CDATA[#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18353.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18353.html</guid>
+            <pubDate>Fri, 06 Mar 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/03/rB0wK6JWtTxMVYSDXqXSNMqJ0l8ZFJaq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[本日まで！！ 【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズの受注は本日3月1日(日)まで！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう！]]></title>
             <description><![CDATA[#アイマスMOIW2025 ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17613.html</guid>
             <pubDate>Thu, 11 Dec 2025 16:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2025/12/BnrGugcl8MYQekMwuXkk0joSAB6X6zwl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【MOIW2025】オリジナルのぼりプロデュース権 掲出するのぼりに関するお詫びとご案内]]></title>
-            <description><![CDATA[#アイマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_17705.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17705.html</guid>
-            <pubDate>Fri, 12 Dec 2025 12:51:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
