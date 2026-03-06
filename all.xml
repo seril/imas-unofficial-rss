@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 06:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 11:28:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 06:50:18 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 11:28:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【Dearly Stars × vα-liv】「876 PRODUCTION FES 開催記念アニメイトフェア」は3月15日(日)まで！]]></title>
@@ -15,6 +15,30 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18353.html</guid>
             <pubDate>Fri, 06 Mar 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/03/rB0wK6JWtTxMVYSDXqXSNMqJ0l8ZFJaq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】（明日から！）「アイドルマスター シャイニーカラーズ × せいせき 40th アニバーサリー」グッズEC販売＆コラボラベル缶販売＆せいせきお買い物フェアのお知らせ]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18351.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18351.html</guid>
+            <pubDate>Fri, 06 Mar 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/g3vIu6ZsnM2buRgkz6d1VxeQGPAUJSJJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM10th】横浜公演 LIVE Blu-ray 初回限定版Special Disc収録内容＆オーディオコメンタリー出演者＆店舗特典デザイン公開！本日20:00よりダイジェスト映像をプレミア公開！]]></title>
+            <description><![CDATA[#SideM #SideM10th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18365.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18365.html</guid>
+            <pubDate>Fri, 06 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/03/LoEDYBzQ7cMPoBUMCEw9y5uAWq6Yc7tp.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】アイドルマスター SideM リメンバーショットフェア第1弾の詳細が解禁！]]></title>
+            <description><![CDATA[#SideM ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18291.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18291.html</guid>
+            <pubDate>Fri, 06 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/K8YR4iPHt7UWK02mN5EsPoBwOjHZg3Jk.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【765】「ログレス」×「アイドルマスター」コラボが決定！剣と魔法の世界にアイドル登場！🎀]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18143.html</guid>
             <pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/xblPrj15brZbzBdAmHs8RA0Mhdtsg8su.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】3月16日（月）より開始の「アイドルマスター シャイニーカラーズ」書店コラボキャンペーン　詳細内容公開！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18266.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18266.html</guid>
-            <pubDate>Thu, 26 Feb 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/v9oSJ63kBPvFrXzXGnylYC1h1I3PogbM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO」の配信が決定！！「MOIW2025」Blu-ray PERFECT BOXをご購入いただいた方の中から抽選で100名様を公開録音会にご招待！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18241.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18241.html</guid>
-            <pubDate>Thu, 26 Feb 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/dY0P10W2wCAOXyB9Bn52saRhcgNip3Wy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス音楽祭】学園アイドルマスター The 2nd Period 協賛社グッズ事前販売が本日2月26日(木) 15:00スタート！]]></title>
-            <description><![CDATA[#学マス  #学マス2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_18298.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18298.html</guid>
-            <pubDate>Thu, 26 Feb 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/vWCzL0s9L7ZOz1yWTeq3l9vzJVMO4Sfg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
