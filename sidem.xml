@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 07:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 11:34:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 07:02:03 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 11:34:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】全国のサントリー自販機約300台で、オリジナルラベルのレモンスカッシュを発売！朗読劇ステージ「PASSIONABLE READING SHOW ～魂環の人形(マリオネット)～」会場にも専用自販機が登場！]]></title>
+            <description><![CDATA[#SideM　#SideMPRS魂環の人形]]></description>
+            <link>https://idolmaster-official.jp/news/01_18331.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18331.html</guid>
+            <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/03/UDDXDNci1q3rqT6ORQafUUE4KZ9eAEbo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「【アイマス】音楽をKAMIしめるカードゲーム『KAMISABI』で遊んでみた！」03/13(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #KAMISABI #ミリオンライブ #SideM #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18196.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18196.html</guid>
+            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/ISreMPTOdAeEMKQV8F11QMK73aGq2q1N.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【SideM】THE IDOLM@STER SideM PASSIONABLE READING SHOW ～魂環の人形(マリオネット)～ 終了後感想会【アイドルマスター】]]></title>
+            <description><![CDATA[#アイマスch #SideM #SideMPRS魂環の人形]]></description>
+            <link>https://idolmaster-official.jp/news/01_18217.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18217.html</guid>
+            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/TVAIeyB9qF1pv4vJ0A9VCDqzX7o7XN61.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】DMMスクラッチで『アイドルマスター SideM スクラッチ第五弾』が3月13日(金)より発売🎮]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -382,30 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_18012.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
             <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第2弾は、現在ASOBI STOREにて好評受注中！サンプルもご紹介♪]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_17576.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17576.html</guid>
-            <pubDate>Sat, 24 Jan 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/qMFEW5XbhELrMpBOjVeE59BgXVP0rwbS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】【予約締切迫る！】鷹城恭二をイメージしたネックレスが登場中！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_17708.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17708.html</guid>
-            <pubDate>Fri, 23 Jan 2026 09:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2025/12/lR7Texi8BDjIY3fdss4DGq0PPdVkH2lz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと7日！参加企業・自治体のコメントをご紹介！［第3弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18004.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18004.html</guid>
-            <pubDate>Fri, 23 Jan 2026 03:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>

@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 07:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Mar 2026 11:34:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 07:02:03 GMT</pubDate>
+        <pubDate>Mon, 09 Mar 2026 11:34:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」現地チケットの一般発売2次＆当日券の販売が決定！！配信チケットも販売中♪]]></title>
+            <description><![CDATA[#ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18364.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18364.html</guid>
+            <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/dwrtipMOAQXW8vsQYZI68zWmOUhmhFmQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「【アイマス】音楽をKAMIしめるカードゲーム『KAMISABI』で遊んでみた！」03/13(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #KAMISABI #ミリオンライブ #SideM #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18196.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18196.html</guid>
+            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/ISreMPTOdAeEMKQV8F11QMK73aGq2q1N.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP配信】【ミリオンライブ！】THE IDOLM@STER MILLION LIVE! 11thLIVE 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ミリオンライブ #ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18213.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18213.html</guid>
+            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/r8n2FRxTnrWjIvUKCCuRKClnPm58mkk8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アサヒ飲料「ドデカミン」コラボキャンペーンが開催決定！明日3/10(火)0:00からキャンペーンスタート🔥]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ドデカミン]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18028.html</guid>
             <pubDate>Sat, 31 Jan 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/01/IqbOU0nnBS2YtpjfxlHXX01ktxMBEj6x.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」追加キャストの出演が決定！！アソビストアプレミアム会員最速先行(抽選)は今週末2月1日(日)23:59まで！]]></title>
-            <description><![CDATA[#ミリオン13th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18069.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18069.html</guid>
-            <pubDate>Fri, 30 Jan 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/01/BE4WuK1admgGKss37OJbvNaoBQFajRBD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】参加企業・自治体でのアイドルのパネル設置が本日開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18064.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18064.html</guid>
-            <pubDate>Fri, 30 Jan 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7ozWWsPkd4k2RxAGn4M57F79DIbaiQ0V.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】オファマス開催記念！パネルの写真投稿で、抽選で10名様に「文具セット」をプレゼント！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_18026.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18026.html</guid>
-            <pubDate>Thu, 29 Jan 2026 23:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/f2IoYgbYGBu379ZnDb9GN3CjkjbwJoGB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
