@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Mar 2026 14:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 03:25:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Mar 2026 14:50:53 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 03:25:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMPRS魂環の人形】本日3月10日(火)18：00より現地チケット一般発売2次（先着）のお申込み受付がスタート！&配信チケットも販売中！]]></title>
+            <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
+            <link>https://idolmaster-official.jp/news/01_18380.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18380.html</guid>
+            <pubDate>Tue, 10 Mar 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/QJ90cinryeGuRvJhixHT7ywVnwwfWtHd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】全国のサントリー自販機約300台で、オリジナルラベルのレモンスカッシュを発売！朗読劇ステージ「PASSIONABLE READING SHOW ～魂環の人形(マリオネット)～」会場にも専用自販機が登場！]]></title>
             <description><![CDATA[#SideM　#SideMPRS魂環の人形]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17990.html</guid>
             <pubDate>Mon, 26 Jan 2026 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/fTdD4nuqrTIWFiAz9n4ZiPrTELrkxxtJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと4日！参加企業・自治体のコメントをご紹介！［第4弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18012.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
-            <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
