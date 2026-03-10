@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 03:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 06:51:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Mar 2026 03:25:34 GMT</pubDate>
+        <pubDate>Tue, 10 Mar 2026 06:51:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】「たかつき観光大使」高槻やよいのバースデーイベントが2026年3月20日(金・祝) 安満遺跡公園にて開催✨詳細発表❣️]]></title>
+            <description><![CDATA[#たかつき観光大使 #高槻市]]></description>
+            <link>https://idolmaster-official.jp/news/01_18389.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18389.html</guid>
+            <pubDate>Tue, 10 Mar 2026 06:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/BF4rtA1d3fi7IcUUWLQo6jeinECUfflX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】月岡 恋鐘、大崎 甜花が手に入るガシャ開催中！ さらに、アンティーカの楽曲『abyss of conflict』が追加！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_18337.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18337.html</guid>
+            <pubDate>Tue, 10 Mar 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/Zfiv2AGhiEe8wdG23CZ7qT8av1ezhJaS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMPRS魂環の人形】本日3月10日(火)18：00より現地チケット一般発売2次（先着）のお申込み受付がスタート！&配信チケットも販売中！]]></title>
             <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18299.html</guid>
             <pubDate>Fri, 27 Feb 2026 10:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/RAeQnUD6ZedHUWyq4JRtaUHt2rg5ks0j.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス音楽祭】いよいよ明日！学園アイドルマスター 初星音楽祭 は2月28日(土)・3月1日(日)開催！配信視聴チケット販売中！]]></title>
-            <description><![CDATA[#学マス #学マス音楽祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_18224.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18224.html</guid>
-            <pubDate>Fri, 27 Feb 2026 10:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/02/HtqrSbQjJeYrsgjsbLLxiHFcT5ifVqa9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】3月1日(日)23時まで！『アイドルマスター』ちびぐるみ＆ポーチセット 如月千早～OathONE～の受注締切迫る！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_18302.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18302.html</guid>
-            <pubDate>Fri, 27 Feb 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/iyrYExOASFoQ467hIxGvbCQkQsjSrXlR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
