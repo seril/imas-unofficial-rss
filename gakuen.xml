@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 06:54:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 11:32:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 06:54:20 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 11:32:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】3月29日(日)18時～ アイマス史上初のアイドルたちによる地上波番組「愛♡MAX!!!TV」がTOKYO MXにて放送決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー　#アイマックスTV]]></description>
+            <link>https://idolmaster-official.jp/news/01_18379.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18379.html</guid>
+            <pubDate>Wed, 11 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/lHrDwKPKVHWFzFXCG2OfTYH76suOzSSP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】つくりより「学園アイドルマスター 初星音楽祭」協賛商品の一般販売がスタート！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17987.html</guid>
             <pubDate>Fri, 06 Feb 2026 12:25:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/KwzFPRDMyA639dUd3ryeu8uW97Bm7O2X.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 学マス 】‎秦谷美鈴誕生日記念セット2026 受注受付中♬［3/1(日)まで］]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18072.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18072.html</guid>
-            <pubDate>Fri, 06 Feb 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/MkSfSPoz1VUzCIZUWkGteIPcfzmBbetl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
