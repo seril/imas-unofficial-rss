@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 11:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 14:44:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 11:32:58 GMT</pubDate>
+        <pubDate>Wed, 11 Mar 2026 14:44:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「15周年イヤー突入！ シンデレラガールズ生配信」ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #デレマス15thイヤー突入 #デレミュ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18342.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18342.html</guid>
+            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/03/Sqp3k48fS7YIpj2GlElJSFxSO8d1YIx7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】新グッズシリーズ「Memory Pict.」が始動:｡･:* 本日3/11(水) 21:00より1st Pict（鷺沢文香・十時愛梨）が受注開始です！]]></title>
+            <description><![CDATA[#メモピク #デレマス15thイヤー突入 #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18385.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18385.html</guid>
+            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/CJPI3xBCIcogZw6iPjF6Fxk2NdfGAz5H.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】15th Anniversary シンデレラガール総選挙2026 開催決定！]]></title>
+            <description><![CDATA[#デレマス15thイヤー突入 #デレマス #シンデレラガール総選挙2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18386.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18386.html</guid>
+            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/03/tPR0S0VwYvuMCKVabPbJIXaEfZSKZjIB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】46名のアイドルによる楽天モバイルPRコラボ広告が3/13(金)より配信決定！]]></title>
+            <description><![CDATA[#デレマス #imas_cg #楽天モバイル]]></description>
+            <link>https://idolmaster-official.jp/news/01_18406.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18406.html</guid>
+            <pubDate>Wed, 11 Mar 2026 11:53:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/VSiXaMaRN20ewsz9bEYBRSe1ohHRzu2u.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】3月29日(日)18時～ アイマス史上初のアイドルたちによる地上波番組「愛♡MAX!!!TV」がTOKYO MXにて放送決定！]]></title>
             <description><![CDATA[#アイマス20周年イヤー　#アイマックスTV]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18017.html</guid>
             <pubDate>Mon, 26 Jan 2026 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/01/Tv2zorWi9L2mViCKm0ZYHXBgvYj0YqVM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと4日！参加企業・自治体のコメントをご紹介！［第4弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18012.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
-            <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】2月6日(金)から開催✨「ようこそ八戸へ！」コラボイベントの詳細情報公開！]]></title>
-            <description><![CDATA[#デレマス　#ようこそ八戸へ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18008.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18008.html</guid>
-            <pubDate>Fri, 23 Jan 2026 09:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/wXUnbUDODxXbqD6ZvIXrnOHZKyg8cCXP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】2月７日（土）より『CINDERELLA GIRLS fes. Once Upon a St@rs STARLIGHT ALLIANCE×ばくだん焼本舗』が開催決定！]]></title>
-            <description><![CDATA[#デレマス #スターライトアライアンス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18005.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18005.html</guid>
-            <pubDate>Fri, 23 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/iPCwXcdeo7uacpSV4GTNcll2v1z863Pj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと7日！参加企業・自治体のコメントをご紹介！［第3弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18004.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18004.html</guid>
-            <pubDate>Fri, 23 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
