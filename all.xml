@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 14:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 03:31:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Mar 2026 14:44:35 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 03:31:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】MOJIKO BEER × アイドルマスター ミリオンライブ！ オリジナルラベルのペールエールがレストランMOJIKO BEER HOUSE店頭で販売開始！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18349.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18349.html</guid>
+            <pubDate>Thu, 12 Mar 2026 02:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/MpIV4R5KGq5ZXwr8ZwAzGFtP09PU7KZx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【3/30(月)23:59まで】高級感ただようインテリア「パーソナルパブミラー」シリーズに「横山奈緒」が登場！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_17995.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17995.html</guid>
+            <pubDate>Thu, 12 Mar 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/9lx3mPIfvMcBCloXvqSFzukGB1woN2wy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「ラスカル」とのコラボ商品がAnimeJapan2026で販売決定！]]></title>
+            <description><![CDATA[#ラスカル #デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_18402.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18402.html</guid>
+            <pubDate>Thu, 12 Mar 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/H4bRsV4kWVmTcT1CnWbJQwneClBTGOtt.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「15周年イヤー突入！ シンデレラガールズ生配信」ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
             <description><![CDATA[#シンデレラガール総選挙2026 #デレマス15thイヤー突入 #デレミュ ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18279.html</guid>
             <pubDate>Tue, 03 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/Xx2RNLPm5z54lchB8qddMpe8DThfg51h.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「わくドキくじ」が発売決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18259.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18259.html</guid>
-            <pubDate>Tue, 03 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/OoGL5B3kojNL30Q5rK6Mmq8tmIJ9s9mp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】生配信『15周年イヤー突入！ シンデレラガールズ生配信』が3/11(水)に配信決定！]]></title>
-            <description><![CDATA[#デレマス15thイヤー突入 #デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18308.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18308.html</guid>
-            <pubDate>Mon, 02 Mar 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/jlmhNE8zMdwVWR2C7Yf8RwO71xfWim25.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「カードフォリオ SideM ver. vol.1」のカードリストを公開！！発売を記念して描きおろしグッズが315名様に当たる「パシャっとチャレンジキャンペーン」の実施も決定♪]]></title>
-            <description><![CDATA[#SideM #SideMPRS魂環の人形 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18277.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18277.html</guid>
-            <pubDate>Mon, 02 Mar 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/1TMmw8es15H7EkjDm1XCwEKU6W1LBI1M.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
