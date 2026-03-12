@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Mar 2026 11:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Mar 2026 14:48:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 12 Mar 2026 11:31:24 GMT</pubDate>
+        <pubDate>Thu, 12 Mar 2026 14:48:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス衣装展東京】「283PRODUCTION COSTUME G@LLERY ～MY F＠VORITE COLLECTION～」衣装展フォトコンテスト開催決定！]]></title>
+            <description><![CDATA[#シャニマス衣装展東京 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18411.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18411.html</guid>
+            <pubDate>Thu, 12 Mar 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/7dCpgYTeFOZvVmFrjZGZUxyQFCff3yWQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】＼明日3月13日(金)より✨／有楽町マルイにて「アイドルマスター シンデレラガールズPOP UP SHOP」が開催！]]></title>
             <description><![CDATA[#デレマス #imas_cg]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18339.html</guid>
             <pubDate>Wed, 04 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/qbBI7BsTwt6IXXQSxCYDCnkIAEmzYVy9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター×アニメイトカフェ リバイバルコラボ開催決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18309.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18309.html</guid>
-            <pubDate>Wed, 04 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/SQJubnaJZ7vrrk7fs74e5sqlLL04tfvp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
