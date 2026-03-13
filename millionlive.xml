@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 11:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 14:40:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 11:31:21 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 14:40:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【アイマス】音楽をKAMIしめるカードゲーム『KAMISABI』で遊んでみた！」本日3/13(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #KAMISABI #ミリオンライブ #SideM #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18196.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18196.html</guid>
+            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/ISreMPTOdAeEMKQV8F11QMK73aGq2q1N.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」協賛社グッズの販売が本日よりスタート！！]]></title>
             <description><![CDATA[#ミリオン11th]]></description>
@@ -95,14 +103,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18364.html</guid>
             <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/dwrtipMOAQXW8vsQYZI68zWmOUhmhFmQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【アイマス】音楽をKAMIしめるカードゲーム『KAMISABI』で遊んでみた！」03/13(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #KAMISABI #ミリオンライブ #SideM #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18196.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18196.html</guid>
-            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/ISreMPTOdAeEMKQV8F11QMK73aGq2q1N.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【AP配信】【ミリオンライブ！】THE IDOLM@STER MILLION LIVE! 11thLIVE 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
