@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 13 Mar 2026 06:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Mar 2026 11:31:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Mar 2026 06:54:01 GMT</pubDate>
+        <pubDate>Fri, 13 Mar 2026 11:31:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」協賛社グッズの販売が本日よりスタート！！]]></title>
+            <description><![CDATA[#ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18423.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18423.html</guid>
+            <pubDate>Fri, 13 Mar 2026 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/dyjUgCp9xeUeAbOjayQKug9gvygfsvQ5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】【ミリオン】【本日13日(金) 17:00より！】「でこらいくTWINS POP UP SHOP」グッズがAnimoにて事後通販開始！✨]]></title>
+            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18387.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18387.html</guid>
+            <pubDate>Fri, 13 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/CJ85nas6sccdW5QnoSBuQ3mIKHwsFbRr.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[『THE IDOLM@STER MILLION LIVE! 13thLIVE 応援セット』販売中！]]></title>
             <description><![CDATA[#ミリシタ,#ミリオン13th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18120.html</guid>
             <pubDate>Fri, 06 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/0e22Z3W8kJ0tXKArGmqw4LnVMC8eDH8h.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》5月に向けて北上麗花、篠宮可憐が登場！「川辺」をイメージしたグッズが受注開始！]]></title>
-            <description><![CDATA[#ミリオンシーズナル5月]]></description>
-            <link>https://idolmaster-official.jp/news/01_18098.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18098.html</guid>
-            <pubDate>Thu, 05 Feb 2026 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/Hl2NzQYeACKg71Ij5uetGN5puO4QGdOJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】【ミリオン】「でこらいくTWINS POP UP SHOP」いよいよ明日から開催‼✨　　　　　　　　　　　　　　　　　　　　　　　　]]></title>
-            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18003.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18003.html</guid>
-            <pubDate>Thu, 05 Feb 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
