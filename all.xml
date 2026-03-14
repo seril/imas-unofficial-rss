@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 06:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 11:23:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 06:46:44 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 11:23:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE DAY1 Atelier ROCOMOTION!!」ご来場・ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！！]]></title>
+            <description><![CDATA[#ミリオン11th #ミリオン11th_day1]]></description>
+            <link>https://idolmaster-official.jp/news/01_18366.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18366.html</guid>
+            <pubDate>Sat, 14 Mar 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/MNymUFLYXx1SaV1nLqqltttDt0oAEOS4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】コトブキヤより、アニメ「アイドルマスター ミリオンライブ！」メモリアルフィギュア発売決定！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリアニ #ミリオン11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18383.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18383.html</guid>
+            <pubDate>Sat, 14 Mar 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/ZdeBEZZ0F5cKY8wokzS03UnsPTwAjfec.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニソン】#イマジナリーレイド　「翼の叛逆」　開催中！記念ミッションやログインボーナスの開催も！]]></title>
             <description><![CDATA[#シャニソン]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18330.html</guid>
             <pubDate>Sat, 07 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/vJgekeYIO7402Y27XD8wb2HpTt8plEfv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】（明日から！）「アイドルマスター シャイニーカラーズ × せいせき 40th アニバーサリー」グッズEC販売＆コラボラベル缶販売＆せいせきお買い物フェアのお知らせ]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18351.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18351.html</guid>
-            <pubDate>Fri, 06 Mar 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/g3vIu6ZsnM2buRgkz6d1VxeQGPAUJSJJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM10th】横浜公演 LIVE Blu-ray 初回限定版Special Disc収録内容＆オーディオコメンタリー出演者＆店舗特典デザイン公開！本日20:00よりダイジェスト映像をプレミア公開！]]></title>
-            <description><![CDATA[#SideM #SideM10th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18365.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18365.html</guid>
-            <pubDate>Fri, 06 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/03/LoEDYBzQ7cMPoBUMCEw9y5uAWq6Yc7tp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
