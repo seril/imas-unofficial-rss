@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 03:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Mar 2026 06:46:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Mar 2026 03:25:58 GMT</pubDate>
+        <pubDate>Sat, 14 Mar 2026 06:46:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」6月にお誕生日を迎えるアイドルたちのバースデー記念グッズが、現在ASOBI STOREにて好評受注中！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18325.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18325.html</guid>
+            <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/gYiFhFe3w3LKPy0iF11Dgg5UsyLAm06o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「【アイマス】音楽をKAMIしめるカードゲーム『KAMISABI』で遊んでみた！」本日3/13(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #KAMISABI #ミリオンライブ #SideM #シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18026.html</guid>
             <pubDate>Thu, 29 Jan 2026 23:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/f2IoYgbYGBu379ZnDb9GN3CjkjbwJoGB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】柏木 翼＆木村 龍、東雲 荘一郎＆アスラン=ベルゼビュートII世 がプロデュースした食器の受注販売が本日よりスタート！描きおろしイラストを使用した記念グッズも♪]]></title>
-            <description><![CDATA[#SideM #柏木翼 #木村龍 #東雲荘一郎 #アスラン]]></description>
-            <link>https://idolmaster-official.jp/news/01_17848.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17848.html</guid>
-            <pubDate>Thu, 29 Jan 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/g6uCNMijDl50xEabBZpoXexTwgCOhgJR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
