@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 03:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 07:17:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 03:53:47 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 07:17:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】30MS ×『アイドルマスター』シリーズコラボより春日未来 (20th Anniv. YOU AND アイ！)が発売中！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18431.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18431.html</guid>
+            <pubDate>Mon, 16 Mar 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/LD4KyDAhHcbj3bxexMuCdU0VuRrcolFF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】2026年3月27日(金)19:00～『ミリシタ 陰界戦戯、夜の帳が降りる刻 生配信～シャドウバウト エンゲージ！～ 』配信予定！]]></title>
             <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信 ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18104.html</guid>
             <pubDate>Fri, 13 Feb 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/eA3gzx0gNRiUtyhSeUtvEDwlqtIyEkA8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025の公式カスタマイズグッズが登場！あなただけのオリジナルTシャツやトートバッグをプロデュースしよう♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18187.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18187.html</guid>
-            <pubDate>Fri, 13 Feb 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

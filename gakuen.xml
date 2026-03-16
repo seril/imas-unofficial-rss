@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 03:53:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 07:17:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 03:53:47 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 07:17:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【学マス】[ハッピーミルフィーユ]のイラストをもとにした"篠澤 広"のプライズフィギュアが3月18日(水)より登場！]]></title>
@@ -110,7 +110,7 @@
             <link>https://idolmaster-official.jp/news/01_18309.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18309.html</guid>
             <pubDate>Wed, 04 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/SQJubnaJZ7vrrk7fs74e5sqlLL04tfvp.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/03/9zwvh0tgPIORiNiefdS8D8vmeyefB8HY.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】エンスカイより、「トラベルステッカー2」と「スナップマイドSpecial2」が登場！]]></title>
