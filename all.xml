@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 14:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 03:53:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 14:29:52 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 03:53:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】[ハッピーミルフィーユ]のイラストをもとにした"篠澤 広"のプライズフィギュアが3月18日(水)より登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18375.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18375.html</guid>
+            <pubDate>Mon, 16 Mar 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/2yVy7FgfWIJQaGFNDIwcIlTXVCT2DDaT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】1/6スケールフィギュア” 『アイドルマスター シャイニーカラーズ』大崎甜花 ガルディエーヌアメジストver. ”予約開始！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18421.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18421.html</guid>
+            <pubDate>Mon, 16 Mar 2026 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/zyHGiwVvkBZSc6GPY9ksBwyoRgLv3mSO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】Legendersがブランドウォッチのアンバサダーを務めるコラボ腕時計が登場！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_18276.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18276.html</guid>
+            <pubDate>Mon, 16 Mar 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/02/bMjZduzXxoeGj9cYw6QWGsaTEkRsMgcG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】フォトスタジオ実装記念キャンペーン開催！]]></title>
+            <description><![CDATA[#シャニソン #シャニソンフォトスタジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18399.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18399.html</guid>
+            <pubDate>Mon, 16 Mar 2026 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6Su5WBaZeiKVfXOqYswzCoJbWxYDKlEi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】アイドルマスターポータルサイト SideMブランドページがリニューアル！]]></title>
             <description><![CDATA[【SideM】アイドルマスターポータルサイト SideMブランドページがリニューアル！]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18389.html</guid>
             <pubDate>Tue, 10 Mar 2026 06:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/BF4rtA1d3fi7IcUUWLQo6jeinECUfflX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】月岡 恋鐘、大崎 甜花が手に入るガシャ開催中！ さらに、アンティーカの楽曲『abyss of conflict』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18337.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18337.html</guid>
-            <pubDate>Tue, 10 Mar 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/Zfiv2AGhiEe8wdG23CZ7qT8av1ezhJaS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMPRS魂環の人形】本日3月10日(火)18：00より現地チケット一般発売2次（先着）のお申込み受付がスタート！&配信チケットも販売中！]]></title>
-            <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
-            <link>https://idolmaster-official.jp/news/01_18380.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18380.html</guid>
-            <pubDate>Tue, 10 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/QJ90cinryeGuRvJhixHT7ywVnwwfWtHd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！メンバー限定876プロフェス特別配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18300.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18300.html</guid>
-            <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/Gk1ft04DiHnY7uaj41AFuTBZTvoeCnRf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】全国のサントリー自販機約300台で、オリジナルラベルのレモンスカッシュを発売！朗読劇ステージ「PASSIONABLE READING SHOW ～魂環の人形(マリオネット)～」会場にも専用自販機が登場！]]></title>
-            <description><![CDATA[#SideM　#SideMPRS魂環の人形]]></description>
-            <link>https://idolmaster-official.jp/news/01_18331.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18331.html</guid>
-            <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/03/UDDXDNci1q3rqT6ORQafUUE4KZ9eAEbo.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

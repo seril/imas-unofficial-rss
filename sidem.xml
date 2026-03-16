@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Mar 2026 14:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 03:53:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Mar 2026 14:29:52 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 03:53:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】Legendersがブランドウォッチのアンバサダーを務めるコラボ腕時計が登場！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_18276.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18276.html</guid>
+            <pubDate>Mon, 16 Mar 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/02/bMjZduzXxoeGj9cYw6QWGsaTEkRsMgcG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】アイドルマスターポータルサイト SideMブランドページがリニューアル！]]></title>
             <description><![CDATA[【SideM】アイドルマスターポータルサイト SideMブランドページがリニューアル！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18144.html</guid>
             <pubDate>Sat, 07 Feb 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/01/g6uCNMijDl50xEabBZpoXexTwgCOhgJR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】THE IDOLM@STER SideM F@NTASTIC BATTLE FES ～Who goes first～ 「CROWN US KING!」リリース記念グッズ発売決定！]]></title>
-            <description><![CDATA[#SideM #315ソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_18117.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18117.html</guid>
-            <pubDate>Fri, 06 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
