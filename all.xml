@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 03:32:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Mar 2026 07:04:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 03:32:40 GMT</pubDate>
+        <pubDate>Tue, 17 Mar 2026 07:04:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】アイドルマスター SideM Spring Wolves ポップアップストアが2026年3月20日(金)から開催！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_18403.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18403.html</guid>
+            <pubDate>Tue, 17 Mar 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/hnb9iOemVhTKANfHftRC0VMliCM7NfSF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】アイドルマスター SideM × セレポコラボ第4弾が受注受付中！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_18452.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18452.html</guid>
+            <pubDate>Tue, 17 Mar 2026 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/Jkyr3OryS9ZMn8AuRaC8OWsbid4IJLM6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！」より、ふわふわ生地にくるまれた手のひらサイズのマスコット『くるみたぴぬい Vol.2/Vol.3』の発売＆先行販売が決定！🐰🎉]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18344.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18344.html</guid>
+            <pubDate>Tue, 17 Mar 2026 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/SJLFwAxpooPzoa8RJi7MqrubUlfDSlTx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
             <description><![CDATA[#ミリオン11th]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18379.html</guid>
             <pubDate>Wed, 11 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/lHrDwKPKVHWFzFXCG2OfTYH76suOzSSP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 06 THE 虎牙道」CD情報！]]></title>
-            <description><![CDATA[#SideM #315ソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_18393.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18393.html</guid>
-            <pubDate>Wed, 11 Mar 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/jfq6MgQV3WSh162GJxv1Rs4oF4cpbPp8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】THE IDOLM@STER SideM「かざして聴ける！プロデューサーカード」発売決定！]]></title>
-            <description><![CDATA[#SideM #315ソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_18384.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18384.html</guid>
-            <pubDate>Tue, 10 Mar 2026 10:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMPRS魂環の人形】いよいよ今週末開催！！現地施策情報公開！＆冒頭無料生配信の実施決定＆会場部物販・チケット情報など要チェック！]]></title>
-            <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
-            <link>https://idolmaster-official.jp/news/01_18381.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18381.html</guid>
-            <pubDate>Tue, 10 Mar 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/K5P1P8NBMmlwNFbfims7aynWApD206JS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
