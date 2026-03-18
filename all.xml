@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Mar 2026 14:56:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 03:39:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Mar 2026 14:56:19 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 03:39:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「黒埼ちとせ」「道明寺歌鈴」が登場！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18419.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18419.html</guid>
+            <pubDate>Wed, 18 Mar 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/ZvQjBsdCX2FEWSiFk4OuhKVdyQOcaGoj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】アイドルマスター SideM Spring Wolves ポップアップストアが2026年3月20日(金)から開催！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18391.html</guid>
             <pubDate>Wed, 11 Mar 2026 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/8oynfaTJlCOlIbm9uQ3VcU4OCMMStpaP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】3月29日(日)18時～ アイマス史上初のアイドルたちによる地上波番組「愛♡MAX!!!TV」がTOKYO MXにて放送決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー　#アイマックスTV]]></description>
-            <link>https://idolmaster-official.jp/news/01_18379.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18379.html</guid>
-            <pubDate>Wed, 11 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/lHrDwKPKVHWFzFXCG2OfTYH76suOzSSP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
