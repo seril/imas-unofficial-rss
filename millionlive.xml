@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 07:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 11:45:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 07:01:59 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 11:45:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】和風喫茶をテーマにしたグッズが、松屋浅草3階 Anime Culture Center by eeoにて発売決定！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18157.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18157.html</guid>
+            <pubDate>Wed, 18 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/kK4T7XJuQ7hLmoxPKKXJQxZxLBqVyJsl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～Prima Princess!!～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18207.html</guid>
             <pubDate>Mon, 16 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/Pyl7HdgJ5GQsuGFdfX96akB9J9PtGtiR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～Fairy Daysは絶え間ない～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18185.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18185.html</guid>
-            <pubDate>Mon, 16 Feb 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/02/xYYy7NDGtA7s7FHEy8Yen8yJEQqL66sV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

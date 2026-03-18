@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 07:01:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 11:45:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 07:01:59 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 11:45:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【3/22(日)まで】【SideM】衣装本「THE IDOLM@STER SideM STAGE COSTUME BOOK」ASOBI STOREにて予約受付中！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18454.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18454.html</guid>
+            <pubDate>Wed, 18 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/hhcEWcCFp6tJ3db3Xe5OkRZFqVUZaLeI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】和風喫茶をテーマにしたグッズが、松屋浅草3階 Anime Culture Center by eeoにて発売決定！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18157.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18157.html</guid>
+            <pubDate>Wed, 18 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/kK4T7XJuQ7hLmoxPKKXJQxZxLBqVyJsl.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】西城 樹里が登場するガシャを開催中！10連無料ガシャの開催も！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18451.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18451.html</guid>
+            <pubDate>Wed, 18 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/034aduOh4yr5AqfXiBm8HLLruu2Nysb9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～Prima Princess!!～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -23,6 +47,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18419.html</guid>
             <pubDate>Wed, 18 Mar 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/ZvQjBsdCX2FEWSiFk4OuhKVdyQOcaGoj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「初星学園HR #STEP3 花海 咲季」配信記念！長月 あおいさんと花海 咲季のサインが入ったイラスト色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#花海咲季_学マスSTEP3 #長月あおい]]></description>
+            <link>https://idolmaster-official.jp/news/01_18182.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18182.html</guid>
+            <pubDate>Tue, 17 Mar 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/UQm4hS2WBf50L6pXaScdBJVwiUsP7z2e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】アイドルマスター SideM Spring Wolves ポップアップストアが2026年3月20日(金)から開催！]]></title>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18402.html</guid>
             <pubDate>Thu, 12 Mar 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/H4bRsV4kWVmTcT1CnWbJQwneClBTGOtt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「15周年イヤー突入！ シンデレラガールズ生配信」ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #デレマス15thイヤー突入 #デレミュ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18342.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18342.html</guid>
-            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/03/Sqp3k48fS7YIpj2GlElJSFxSO8d1YIx7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】新グッズシリーズ「Memory Pict.」が始動:｡･:* 本日3/11(水) 21:00より1st Pict（鷺沢文香・十時愛梨）が受注開始です！]]></title>
-            <description><![CDATA[#メモピク #デレマス15thイヤー突入 #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18385.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18385.html</guid>
-            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/CJPI3xBCIcogZw6iPjF6Fxk2NdfGAz5H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】15th Anniversary シンデレラガール総選挙2026 開催決定！]]></title>
-            <description><![CDATA[#デレマス15thイヤー突入 #デレマス #シンデレラガール総選挙2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_18386.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18386.html</guid>
-            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/03/tPR0S0VwYvuMCKVabPbJIXaEfZSKZjIB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】46名のアイドルによる楽天モバイルPRコラボ広告が3/13(金)より配信決定！]]></title>
-            <description><![CDATA[#デレマス #imas_cg #楽天モバイル]]></description>
-            <link>https://idolmaster-official.jp/news/01_18406.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18406.html</guid>
-            <pubDate>Wed, 11 Mar 2026 11:53:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/VSiXaMaRN20ewsz9bEYBRSe1ohHRzu2u.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
