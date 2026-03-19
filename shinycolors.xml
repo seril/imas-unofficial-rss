@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 15:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 03:39:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 15:02:23 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 03:39:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】3月29日(日) 19:10～ 声優陣3名が出演するシャニマス生配信を実施予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニソン  #シャニマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_18358.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18358.html</guid>
+            <pubDate>Thu, 19 Mar 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/03/jynEkhjfU54S1SdLKSFPhHIv00LyAoMA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】283 PRODUCTION Solo Live Collection ーMaster ShowPieceー　9/26(土)・9/27(日)に京王アリーナTOKYOにて開催決定！]]></title>
+            <description><![CDATA[#シャニマスソロライブMSP #シャニマス衣装展東京 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18438.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18438.html</guid>
+            <pubDate>Thu, 19 Mar 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6QyUgvGSobQAf7Xlsgcn8b3urjlSX5Uc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】西城 樹里が登場するガシャを開催中！10連無料ガシャの開催も！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18107.html</guid>
             <pubDate>Mon, 16 Feb 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/8o62ZyKEsVrA11bdVH45xHSIE7hwU8EO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス大感謝祭】DAY2ご来場・ご視聴いただきありがとうございました！！ 本日の告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シャニマス大感謝祭_day2 #シャニマス #シャニソン #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18148.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18148.html</guid>
-            <pubDate>Sun, 15 Feb 2026 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/02/t6wbzqLVSEfD3y1t2bRdP3grSuEJUfoW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】 デジタルフィギュア拡張パック アイドルマスター シャイニーカラーズ【ライブ】の発売が決定！予約受付中！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18189.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18189.html</guid>
-            <pubDate>Sun, 15 Feb 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/Vt2da1yBGAbsUnSr4e8cw63MYZjUSWyQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

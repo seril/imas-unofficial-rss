@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 15:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 03:39:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 15:02:23 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 03:39:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】本日3月19日(木)より『Pop'n ToyBox!!』アソビストアプレミアム会員先行の受付がスタート！]]></title>
+            <description><![CDATA[#トイボCG #シンデレラxRライブ2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18471.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18471.html</guid>
+            <pubDate>Thu, 19 Mar 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/kVk1OZmL1fXUE1yvtjTwUaZdYnkcr6l8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「黒埼ちとせ」「道明寺歌鈴」が登場！]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18051.html</guid>
             <pubDate>Mon, 02 Feb 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/01/pMkatVs8dtSUGzXuX5ulzLoykIWhm5gf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】参加企業・自治体でのアイドルのパネル設置が本日開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18064.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18064.html</guid>
-            <pubDate>Fri, 30 Jan 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7ozWWsPkd4k2RxAGn4M57F79DIbaiQ0V.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

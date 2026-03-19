@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 15:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Mar 2026 03:39:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 15:02:23 GMT</pubDate>
+        <pubDate>Thu, 19 Mar 2026 03:39:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」アソビストア一般会員2次先行が本日3月19日(木)12:00よりスタート！！]]></title>
+            <description><![CDATA[#ミリオン13th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18437.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18437.html</guid>
+            <pubDate>Thu, 19 Mar 2026 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/8k4RsY8nnMeXbAuen9DwZslQCd0xxDyl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】和風喫茶をテーマにしたグッズが、松屋浅草3階 Anime Culture Center by eeoにて発売決定！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -113,20 +121,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/CJ85nas6sccdW5QnoSBuQ3mIKHwsFbRr.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[『THE IDOLM@STER MILLION LIVE! 13thLIVE 応援セット』販売中！]]></title>
-            <description><![CDATA[#ミリシタ,#ミリオン13th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18321.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18321.html</guid>
-            <pubDate>Fri, 13 Mar 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/03/Db7kzrT1RQYhIf7vcDDQ4o3zNbFlHlna.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリシタ】『13thLIVE 応援セット』購入者限定！サイン入り等身大パネルプレゼントキャンペーン実施中！]]></title>
             <description><![CDATA[#ミリシタ,#ミリオン13th]]></description>
             <link>https://idolmaster-official.jp/news/01_18323.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18323.html</guid>
             <pubDate>Fri, 13 Mar 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/03/fTlwDy0Et6gMTI0QT6lxrITxw7qAQbOR.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[『THE IDOLM@STER MILLION LIVE! 13thLIVE 応援セット』販売中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリオン13th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18321.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18321.html</guid>
+            <pubDate>Fri, 13 Mar 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/03/Db7kzrT1RQYhIf7vcDDQ4o3zNbFlHlna.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオン】【本日3月13日(金)より！】「ばります × アイドルマスター ミリオンライブ！」がいよいよ開催！🎉✨]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18221.html</guid>
             <pubDate>Mon, 16 Feb 2026 15:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/02/kagMan1ISfIk7JUaZUZ42ImdEDxNjgo2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」イベントグッズ事前販売を実施中！主演の「高山紗代子」と「二階堂千鶴」の描きおろしキービジュアルも要チェック！！]]></title>
-            <description><![CDATA[#ミリオン13th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18207.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18207.html</guid>
-            <pubDate>Mon, 16 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/Pyl7HdgJ5GQsuGFdfX96akB9J9PtGtiR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
