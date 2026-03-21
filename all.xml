@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 06:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 11:23:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 06:42:56 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 11:23:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【765プロ】星井美希スペシャル配信「あふぅTV」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #あふぅTV]]></description>
+            <link>https://idolmaster-official.jp/news/01_18483.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18483.html</guid>
+            <pubDate>Sat, 21 Mar 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/03/QRF4dn49yuKSMrO5ZwMqwAHohahaanmc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明日まで！】【SideM】「ねこに転生したおじさん」×「アイドルマスター SideM」公式コラボグッズ受注は3月22日(日)まで🐈🐾！]]></title>
+            <description><![CDATA[#ねこに転生したおじさん #ねこおじ #SideM #猫の日 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18346.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18346.html</guid>
+            <pubDate>Sat, 21 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/udkeo1I6LzZ8EGR0nbJFeLlmWzrgTvu1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[「アイマス、アイに行きマス！in イオンモール新居浜」小澤 麗那様（郁田 はるき役）ご出演見合わせにつきまして]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイに行きマス新居浜]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18383.html</guid>
             <pubDate>Sat, 14 Mar 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/ZdeBEZZ0F5cKY8wokzS03UnsPTwAjfec.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】#イマジナリーレイド　「翼の叛逆」　開催中！記念ミッションやログインボーナスの開催も！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18397.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18397.html</guid>
-            <pubDate>Sat, 14 Mar 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/VCbFMUZbswwKwUS4DF95s5GaMl0I4tOs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」6月にお誕生日を迎えるアイドルたちのバースデー記念グッズが、現在ASOBI STOREにて好評受注中！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_18325.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18325.html</guid>
-            <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/gYiFhFe3w3LKPy0iF11Dgg5UsyLAm06o.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
