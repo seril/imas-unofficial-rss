@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Mar 2026 03:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Mar 2026 06:42:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Mar 2026 03:21:22 GMT</pubDate>
+        <pubDate>Sat, 21 Mar 2026 06:42:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[「アイマス、アイに行きマス！in イオンモール新居浜」小澤 麗那様（郁田 はるき役）ご出演見合わせにつきまして]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス新居浜]]></description>
+            <link>https://idolmaster-official.jp/news/01_18496.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18496.html</guid>
+            <pubDate>Sat, 21 Mar 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_XXX】「283 Production XXXX Performance XXX= S/N-GUL4R1TY」 現地チケット一般発売・リセール・xRライブストリーミングチケット受付開始!!!]]></title>
             <description><![CDATA[#ストレイ_XXX]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18325.html</guid>
             <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/gYiFhFe3w3LKPy0iF11Dgg5UsyLAm06o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【アイマス】音楽をKAMIしめるカードゲーム『KAMISABI』で遊んでみた！」本日3/13(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #KAMISABI #ミリオンライブ #SideM #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18196.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18196.html</guid>
-            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/ISreMPTOdAeEMKQV8F11QMK73aGq2q1N.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
