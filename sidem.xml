@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Mar 2026 06:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 11:23:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Mar 2026 06:52:34 GMT</pubDate>
+        <pubDate>Sun, 22 Mar 2026 11:23:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール新居浜』イベントレポート]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス新居浜]]></description>
+            <link>https://idolmaster-official.jp/news/01_18489.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18489.html</guid>
+            <pubDate>Sun, 22 Mar 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2026/03/apSTGNvmRox5lnJth49NZXCMZdhSlsiG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】【SideM】「ねこに転生したおじさん」×「アイドルマスター SideM」公式コラボグッズ受注は3月22日(日)まで🐈🐾！]]></title>
             <description><![CDATA[#ねこに転生したおじさん #ねこおじ #SideM #猫の日 ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18246.html</guid>
             <pubDate>Fri, 20 Feb 2026 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/02/lQc8U6KfpyYtM7Y8ZLgBqoEuIMFYeAA7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】「アイドルマスター」シリーズが「第二十回声優アワード シナジー賞」を受賞！]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】「アイドルマスター」シリーズが「第二十回声優アワード シナジー賞」を受賞！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18221.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18221.html</guid>
-            <pubDate>Mon, 16 Feb 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/02/kagMan1ISfIk7JUaZUZ42ImdEDxNjgo2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
