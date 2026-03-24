@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 14:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 03:33:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 14:54:34 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 03:33:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】GALLERIA　アルストロメリアコラボモデルPC　受注開始！ ]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18505.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18505.html</guid>
+            <pubDate>Tue, 24 Mar 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/kymt5RNfL54zE4e1at0F6MY5712T85o0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「パズドラ」とのコラボが3月27日（金）10:00より開催決定！]]></title>
+            <description><![CDATA[#デレマス #imas_cg #パズドラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18435.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18435.html</guid>
+            <pubDate>Tue, 24 Mar 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/QbCW7etJosH3pxUP5xc5gwbeu1a8BzeQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】「NTTドコモ×アイドルマスター シャイニーカラーズ コラボキャンペーン」事後通販開催中！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18429.html</guid>
             <pubDate>Sun, 15 Mar 2026 10:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/03/vDVgPnDC2AEdHeFaigSMl0iW8W13VZMW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[≪2026.3.19更新≫【ミリシタ】2026年3月27日(金)19:00～『ミリシタ 陰界戦戯、夜の帳が降りる刻 生配信～シャドウバウト エンゲージ！～ 』配信予定！]]></title>
-            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ生配信 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18404.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18404.html</guid>
-            <pubDate>Sun, 15 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/itNTdgB2aSzEcsXErCgZVysOGYz9gTmT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】「876 PRODUCTION FES.」開催記念商品、本日3/15(日)〆切！]]></title>
-            <description><![CDATA[#876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18427.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18427.html</guid>
-            <pubDate>Sun, 15 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/03/if4ml5NI9FlnwpvPrwUbJzIyg35EM4OM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

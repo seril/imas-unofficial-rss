@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Mar 2026 14:54:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2026 03:33:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Mar 2026 14:54:35 GMT</pubDate>
+        <pubDate>Tue, 24 Mar 2026 03:33:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】GALLERIA　アルストロメリアコラボモデルPC　受注開始！ ]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18505.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18505.html</guid>
+            <pubDate>Tue, 24 Mar 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/kymt5RNfL54zE4e1at0F6MY5712T85o0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】「NTTドコモ×アイドルマスター シャイニーカラーズ コラボキャンペーン」事後通販開催中！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18253.html</guid>
             <pubDate>Fri, 20 Feb 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「焼肉食べ放題じゅうじゅうカルビ」とのコラボキャンペーンが2月26日よりスタート！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18184.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18184.html</guid>
-            <pubDate>Thu, 19 Feb 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/H0Wvd9oYJa0fbTGcKBXGPq4ZLEsJiYeE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
