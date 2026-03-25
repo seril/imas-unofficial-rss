@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 07:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 11:40:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 07:02:30 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 11:40:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「15th Anniversary シンデレラガール総選挙2026」屋外広告掲出中！本日より駅ポスターも10駅にて掲出開始♪]]></title>
+            <description><![CDATA[#デレマス #シンデレラガール総選挙2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18514.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18514.html</guid>
+            <pubDate>Wed, 25 Mar 2026 09:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/JVlyRi4lTytPnlSakWxclOn0yfsxSHF2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO」第1回は3月30日(月)20:00よりYouTube「アイドルマスターチャンネル」でプレミア公開！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18497.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18497.html</guid>
+            <pubDate>Wed, 25 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/JbT5WcVoPNZWaYd7NTPP70hdatLXi2TV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「パズドラ」とのコラボが3月27日（金）10:00より開催決定！]]></title>
             <description><![CDATA[#デレマス #imas_cg #パズドラ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18137.html</guid>
             <pubDate>Thu, 05 Feb 2026 09:09:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2025/12/Mb9AcPKDzE9Sn6p8wvxViWM9NKOI3baE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】【ミリオン】「でこらいくTWINS POP UP SHOP」いよいよ明日から開催‼✨　　　　　　　　　　　　　　　　　　　　　　　　]]></title>
-            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18003.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18003.html</guid>
-            <pubDate>Thu, 05 Feb 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】＼📣いよいよ明日から✨／2月6日(金)から「ようこそ八戸へ！」コラボイベント開催！]]></title>
-            <description><![CDATA[#デレマス　#ようこそ八戸へ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18108.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18108.html</guid>
-            <pubDate>Thu, 05 Feb 2026 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/wXUnbUDODxXbqD6ZvIXrnOHZKyg8cCXP.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
