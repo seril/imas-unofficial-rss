@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 11:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 14:58:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 11:40:54 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 14:58:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS confirmed to perform in Chicago and the Midwest’s biggest Japanese Pop Culture event “Anime Central 2026”!]]></title>
+            <description><![CDATA[#AnimeCentral #ACen2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18512.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18512.html</guid>
+            <pubDate>Wed, 25 Mar 2026 14:11:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6ESZgrAPw7lMtMahTEgjkatbUwH5QPNQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[シカゴおよびアメリカ中西部最大の日本ポップカルチャーイベント「Anime Central 2026」に「765PRO ALLSTARS」と「シンデレラガールズ」が出演決定！]]></title>
+            <description><![CDATA[#アイドルマスター #デレマス #AnimeCentral #ACen2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18529.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18529.html</guid>
+            <pubDate>Wed, 25 Mar 2026 14:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/Dt2m0ggHoX75kr2YWyj1BOxSkk8O4vrS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「15th Anniversary シンデレラガール総選挙2026」屋外広告掲出中！本日より駅ポスターも10駅にて掲出開始♪]]></title>
             <description><![CDATA[#デレマス #シンデレラガール総選挙2026]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18399.html</guid>
             <pubDate>Mon, 16 Mar 2026 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6Su5WBaZeiKVfXOqYswzCoJbWxYDKlEi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】Legendersがブランドウォッチのアンバサダーを務めるコラボ腕時計が登場！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_18276.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18276.html</guid>
-            <pubDate>Mon, 16 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/02/bMjZduzXxoeGj9cYw6QWGsaTEkRsMgcG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】アイドルマスターポータルサイト SideMブランドページがリニューアル！]]></title>
-            <description><![CDATA[【SideM】アイドルマスターポータルサイト SideMブランドページがリニューアル！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18425.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18425.html</guid>
-            <pubDate>Sun, 15 Mar 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1003/2026/03/OtBT7TpCIUcXyQdFVShJEjT5IQNygfXd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

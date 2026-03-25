@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Mar 2026 11:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2026 14:58:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Mar 2026 11:40:54 GMT</pubDate>
+        <pubDate>Wed, 25 Mar 2026 14:58:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS confirmed to perform in Chicago and the Midwest’s biggest Japanese Pop Culture event “Anime Central 2026”!]]></title>
+            <description><![CDATA[#AnimeCentral #ACen2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18512.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18512.html</guid>
+            <pubDate>Wed, 25 Mar 2026 14:11:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6ESZgrAPw7lMtMahTEgjkatbUwH5QPNQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[シカゴおよびアメリカ中西部最大の日本ポップカルチャーイベント「Anime Central 2026」に「765PRO ALLSTARS」と「シンデレラガールズ」が出演決定！]]></title>
+            <description><![CDATA[#アイドルマスター #デレマス #AnimeCentral #ACen2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18529.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18529.html</guid>
+            <pubDate>Wed, 25 Mar 2026 14:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/Dt2m0ggHoX75kr2YWyj1BOxSkk8O4vrS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO」第1回は3月30日(月)20:00よりYouTube「アイドルマスターチャンネル」でプレミア公開！！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
             <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】如月千早武道館単独公演「OathONE」1/25(日)公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演 #如月千早武道館単独公演_0125]]></description>
-            <link>https://idolmaster-official.jp/news/01_17984.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17984.html</guid>
-            <pubDate>Sun, 25 Jan 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/h1ka5MsKBJv1603mCaXYFT8kzuJu30Pc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】如月千早武道館単独公演「OathONE」1/24(土)公演のご来場、ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演 #如月千早武道館単独公演_0124]]></description>
-            <link>https://idolmaster-official.jp/news/01_17983.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17983.html</guid>
-            <pubDate>Sat, 24 Jan 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/7OPIAHvyl6KqABSZvQZlX5CpKhPaz5yW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
