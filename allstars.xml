@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 11:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 15:03:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 11:49:35 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 15:03:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】星井美希アメリカライブ開催決定！ ／  双海 亜美・双海 真美、三浦 あずさ・秋月 律子による全国3都市「dual twin live tour」 開催決定！ & チケット券売開始！]]></title>
+            <description><![CDATA[#dualtwinlive_765 #MIKI_USA_LIVE #AnimeCentral #あふぅTV]]></description>
+            <link>https://idolmaster-official.jp/news/01_18543.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18543.html</guid>
+            <pubDate>Thu, 26 Mar 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/03/x4ogpkHzLevdm8VtxeRanvjNerTf6rOJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS confirmed to perform in Chicago and the Midwest’s biggest Japanese Pop Culture event “Anime Central 2026”!]]></title>
             <description><![CDATA[#AnimeCentral #ACen2026]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18010.html</guid>
             <pubDate>Mon, 26 Jan 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/Citpo1kc8Q2jzColmxY1THcolZzo0Ti9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】パネル設置開始まであと4日！参加企業・自治体のコメントをご紹介！［第4弾］]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18012.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18012.html</guid>
-            <pubDate>Mon, 26 Jan 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/gRIJtY2xCzdViyWz44FLPZ4VryKojIRi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
