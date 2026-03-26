@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 07:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 11:49:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 07:09:20 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 11:49:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】OVA 「アイドルマスター ミリオンライブ！～いつか、真ん中で～」発売記念特番ラジオ」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ミリアニOVA]]></description>
+            <link>https://idolmaster-official.jp/news/01_18499.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18499.html</guid>
+            <pubDate>Thu, 26 Mar 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/MD003l83B2IMQBDyMmWpv9sPQbWBy1us.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】MOJIKO BEER × アイドルマスター ミリオンライブ！ オリジナルラベルのペールエール販売中！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18530.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18530.html</guid>
+            <pubDate>Thu, 26 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/MpIV4R5KGq5ZXwr8ZwAzGFtP09PU7KZx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】『アイドルマスター ミリオンライブ！』POP UP in 松屋浅草3階 Anime Culture Center by eeoの詳細が公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18158.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18158.html</guid>
+            <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/tfbKlRlAcxMLJ794OA7FXAaAJsuMjkhp.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS confirmed to perform in Chicago and the Midwest’s biggest Japanese Pop Culture event “Anime Central 2026”!]]></title>
             <description><![CDATA[#AnimeCentral #ACen2026]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18431.html</guid>
             <pubDate>Mon, 16 Mar 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/LD4KyDAhHcbj3bxexMuCdU0VuRrcolFF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】[ハッピーミルフィーユ]のイラストをもとにした"篠澤 広"のプライズフィギュアが3月18日(水)より登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_18375.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18375.html</guid>
-            <pubDate>Mon, 16 Mar 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/2yVy7FgfWIJQaGFNDIwcIlTXVCT2DDaT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】1/6スケールフィギュア” 『アイドルマスター シャイニーカラーズ』大崎甜花 ガルディエーヌアメジストver. ”予約開始！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18421.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18421.html</guid>
-            <pubDate>Mon, 16 Mar 2026 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/zyHGiwVvkBZSc6GPY9ksBwyoRgLv3mSO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】フォトスタジオ実装記念キャンペーン開催！]]></title>
-            <description><![CDATA[#シャニソン #シャニソンフォトスタジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18399.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18399.html</guid>
-            <pubDate>Mon, 16 Mar 2026 03:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6Su5WBaZeiKVfXOqYswzCoJbWxYDKlEi.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

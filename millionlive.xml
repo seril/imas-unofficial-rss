@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 07:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2026 11:49:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 07:09:20 GMT</pubDate>
+        <pubDate>Thu, 26 Mar 2026 11:49:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】OVA 「アイドルマスター ミリオンライブ！～いつか、真ん中で～」発売記念特番ラジオ」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ミリアニOVA]]></description>
+            <link>https://idolmaster-official.jp/news/01_18499.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18499.html</guid>
+            <pubDate>Thu, 26 Mar 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/MD003l83B2IMQBDyMmWpv9sPQbWBy1us.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】MOJIKO BEER × アイドルマスター ミリオンライブ！ オリジナルラベルのペールエール販売中！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18530.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18530.html</guid>
+            <pubDate>Thu, 26 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/MpIV4R5KGq5ZXwr8ZwAzGFtP09PU7KZx.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】『アイドルマスター ミリオンライブ！』POP UP in 松屋浅草3階 Anime Culture Center by eeoの詳細が公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18158.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18158.html</guid>
+            <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/tfbKlRlAcxMLJ794OA7FXAaAJsuMjkhp.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO」第1回は3月30日(月)20:00よりYouTube「アイドルマスターチャンネル」でプレミア公開！！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18166.html</guid>
             <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン11th】「THE IDOLM@STER MILLION LIVE! 11thLIVE」延期公演の現地チケット一般発売(先着)が2月28日(土)13:00よりスタート！公式リセールも同日開始！会場物販情報も公開！]]></title>
-            <description><![CDATA[#ミリオン11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18273.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18273.html</guid>
-            <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/7osGpegPRgTiaoRazeSeTE5NqU7d7xZ1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年2月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_18198.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18198.html</guid>
-            <pubDate>Fri, 20 Feb 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/XLNSEDGZTXvKMXGBNj3TjSzgGBAHpYKG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[明後日まで！※2/22(日)締切！※【ミリシタ】《SEASONAL SNAPSHOT》5月に向けて北上麗花、篠宮可憐が登場！「川辺」をイメージしたグッズが受注中！]]></title>
-            <description><![CDATA[#ミリオンシーズナル5月]]></description>
-            <link>https://idolmaster-official.jp/news/01_18103.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18103.html</guid>
-            <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/Hl2NzQYeACKg71Ij5uetGN5puO4QGdOJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
