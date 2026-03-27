@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Mar 2026 15:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Mar 2026 03:48:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Mar 2026 15:03:55 GMT</pubDate>
+        <pubDate>Fri, 27 Mar 2026 03:48:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[OVA「アイドルマスター ミリオンライブ！～いつか、真ん中で～」Blu-ray 発売]]></title>
+            <description><![CDATA[#ミリアニOVA　#ミリオンライブ　#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18546.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18546.html</guid>
+            <pubDate>Fri, 27 Mar 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/03/bdnm6tKNHFIar9iVyyN255oA8CvI6HSq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[今週末まで！【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 開催記念の描き下ろしイラストであなただけのオリジナルTシャツをプロデュースしよう！受注は3月29日(日)まで！詳しくはASOBI STOREをチェック！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18477.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18477.html</guid>
+            <pubDate>Fri, 27 Mar 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/uJbjgwNkMVY3NQi7xZqjHSqiZNcSlRvx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「【ラジオ】OVA 「アイドルマスター ミリオンライブ！～いつか、真ん中で～」発売記念特番ラジオ」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #ミリアニOVA]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18241.html</guid>
             <pubDate>Thu, 26 Feb 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/dY0P10W2wCAOXyB9Bn52saRhcgNip3Wy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【ミリオン】【2/28(土)まで！】FAMくじにて「アイドルマスター ミリオンライブ！」vol.2が発売中🍫]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18281.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18281.html</guid>
-            <pubDate>Thu, 26 Feb 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/rKc3NULW4Gv8gZkdlD7GxzP5VXfc3xu0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】【ミリオン】「でこらいくTWINS POP UP SHOP」京都会場がいよいよ明日から開催‼✨]]></title>
-            <description><![CDATA[#デレマス #ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18166.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18166.html</guid>
-            <pubDate>Wed, 25 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/bI4wreqg8RDUknbj7setVkKQQMLtvXw5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
