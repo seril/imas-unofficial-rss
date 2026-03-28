@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 06:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 11:28:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 06:59:18 GMT</pubDate>
+        <pubDate>Sat, 28 Mar 2026 11:28:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【ミリシタ】SSR出現率2倍！「ミリオンリンケージ　 ヘキサ・アカデミクス／Zero編」開催中！]]></title>
@@ -31,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18511.html</guid>
             <pubDate>Sat, 28 Mar 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/ZJQkEyJ3xFTyTkPt8I1ESx3fNXas2A1g.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】『#ミリリン10連無料開催中』陰界戦戯11枚セット プレゼントキャンペーン実施中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリリン10連無料開催中]]></description>
+            <link>https://idolmaster-official.jp/news/01_18556.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18556.html</guid>
+            <pubDate>Fri, 27 Mar 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/0EwiuTUq2VtlVGsz6ZWsv696g71mE9Vm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオンライブ】『ミリシタ 陰界戦戯、夜の帳が降りる刻 生配信～シャドウバウト エンゲージ！～』お知らせまとめ]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18437.html</guid>
             <pubDate>Thu, 19 Mar 2026 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/8k4RsY8nnMeXbAuen9DwZslQCd0xxDyl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】3月29日(日) 19:10～ 声優陣3名が出演するシャニマス生配信を実施予定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニソン  #シャニマス生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_18358.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18358.html</guid>
-            <pubDate>Thu, 19 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/03/jynEkhjfU54S1SdLKSFPhHIv00LyAoMA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
