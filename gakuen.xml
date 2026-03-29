@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Mar 2026 14:31:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 03:54:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Mar 2026 14:31:47 GMT</pubDate>
+        <pubDate>Sun, 29 Mar 2026 03:54:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[本日まで！！【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 開催記念の描き下ろしイラストであなただけのオリジナルTシャツをプロデュースしよう！受注は本日3月29日(日)まで！詳しくはASOBI STOREをチェック！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18487.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18487.html</guid>
+            <pubDate>Sun, 29 Mar 2026 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/uJbjgwNkMVY3NQi7xZqjHSqiZNcSlRvx.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「初星学園HR#STEP3 花海 佑芽」 ミラー配信大歓迎！実施ポリシーを公開！]]></title>
             <description><![CDATA[#初星学園HR  #花海佑芽]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18233.html</guid>
             <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/ptYACvbE1FzaPuzKf0G7wW7QtXQQ7mZ8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【学マス】学園アイドルマスター 初星音楽祭 終了後感想会 決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #AP生配信 #学マス #初星音楽祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_18170.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18170.html</guid>
-            <pubDate>Fri, 20 Feb 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/kK7uRtkpQHHPw3JV7WafNyaFk6ul3z2G.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
