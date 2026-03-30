@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 11:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 15:03:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 11:53:40 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 15:03:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター英語版公式Xアカウント開設！｜The official English account of THE IDOLM@STER opens !]]></title>
+            <description><![CDATA[#アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18544.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18544.html</guid>
+            <pubDate>Mon, 30 Mar 2026 14:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/09WffJvGKCDFzPUUE6ir2UNeAz50Eyu6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】ブルーレイに新たに収録予定の撮りおろし映像「アイ NEED 酒（しゅ）〜おかわり〜 ブルワリーで“アイ”升（ます）」が3/31(火)21:00～アイマスチャンネルでプレミア公開！！]]></title>
+            <description><![CDATA[#アイマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_18520.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18520.html</guid>
+            <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/E4Km3yVVqVGUuHGFMbyV3lvCRiQ2myir.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「【アイマス】衣装で振り返る！思い出いっぱい♡765ASライブ」03/30(月) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18015.html</guid>
             <pubDate>Fri, 30 Jan 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/wjzXKneZ6bjkzPud3xjyyRobDUP5oEEw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】参加企業・自治体でのアイドルのパネル設置が本日開始！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_18064.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18064.html</guid>
-            <pubDate>Fri, 30 Jan 2026 01:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/7ozWWsPkd4k2RxAGn4M57F79DIbaiQ0V.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】オファマス開催記念！パネルの写真投稿で、抽選で10名様に「文具セット」をプレゼント！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_18026.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18026.html</guid>
-            <pubDate>Thu, 29 Jan 2026 23:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/01/f2IoYgbYGBu379ZnDb9GN3CjkjbwJoGB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
