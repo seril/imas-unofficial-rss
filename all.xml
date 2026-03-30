@@ -4,17 +4,33 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 29 Mar 2026 14:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 03:58:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 29 Mar 2026 14:33:37 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 03:58:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
-            <title><![CDATA[【シャニソン】『シャニマス生配信 ～8周年スタートSP～』「シャニソン」お知らせまとめ]]></title>
-            <description><![CDATA[#シャニマス生配信 #シャニマス  #シャニソン #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18347.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18347.html</guid>
-            <pubDate>Sun, 29 Mar 2026 12:35:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/03/JtDdB2eGwdTogX0uhuFyyHI0ZPwOIMzt.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！～有明・豊洲海上視察～」開催決定！本日から抽選申し込み開始！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18507.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18507.html</guid>
+            <pubDate>Mon, 30 Mar 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/H9zOj7mf5Rlry6hMPVE8nVwoqTKc6rUP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】アイドルの出身地にちなんだご当地グルメパッケージ第三弾が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18524.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18524.html</guid>
+            <pubDate>Mon, 30 Mar 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/8cBKO64omMpmhsfcPHMMcOhq0xkhSo3O.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「アイドルマスター」より765プロダクション所属アイドル「星井美希」がシャープ新製品「Xrostella VR1」のTVCMに出演！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #かんたんかけるVR #シャープ #星井美希CM]]></description>
+            <link>https://idolmaster-official.jp/news/01_18557.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18557.html</guid>
+            <pubDate>Mon, 30 Mar 2026 02:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/sGmbN7YfuHO1vIyuQSQM6uqIsa5WC8R0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】『シャニマス生配信 ～8周年スタートSP～』お知らせまとめ]]></title>
@@ -23,6 +39,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18348.html</guid>
             <pubDate>Sun, 29 Mar 2026 12:35:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/03/3DYEuuOzruWh7M0Byf2bcpdI0KgKKk4p.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】『シャニマス生配信 ～8周年スタートSP～』「シャニソン」お知らせまとめ]]></title>
+            <description><![CDATA[#シャニマス生配信 #シャニマス  #シャニソン #シャイニーカラーズ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18347.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18347.html</guid>
+            <pubDate>Sun, 29 Mar 2026 12:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/03/JtDdB2eGwdTogX0uhuFyyHI0ZPwOIMzt.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】『シャニマス生配信 ～8周年スタートSP～』配信記念！サイン色紙プレゼントキャンペーン開催中！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18469.html</guid>
             <pubDate>Fri, 20 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/ZFL3yYlY5mILTs6pHbkv5dzwGjHTDQW2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】4月11日（土）より『アイドルマスター SideM×ばくだん焼本舗』が開催決定！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_18465.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18465.html</guid>
-            <pubDate>Fri, 20 Mar 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/6fMM8Ut7ctKSioWD9QWFDtzzAm7rubIe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】小宮 果穂が手に入るガシャ開催中！さらに、ザ・ふたりトラベラーの楽曲『街角メランコリー』が追加！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18453.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18453.html</guid>
-            <pubDate>Fri, 20 Mar 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/EPsKAoAOeB4DlUb5ameF5v4GmdCwMytm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【283_XXX】「283 Production XXXX Performance XXX= S/N-GUL4R1TY」 現地チケット一般発売・リセール・xRライブストリーミングチケット受付は明日3月21日(土) 12:00から！]]></title>
-            <description><![CDATA[#ストレイ_XXX]]></description>
-            <link>https://idolmaster-official.jp/news/01_18488.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18488.html</guid>
-            <pubDate>Fri, 20 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/03/53gSBjrkbwFA7snFlXAGdTBliWXuaCsg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
