@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 03:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Mar 2026 07:27:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 03:58:00 GMT</pubDate>
+        <pubDate>Mon, 30 Mar 2026 07:27:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！～有明・豊洲海上視察～」開催決定！本日から抽選申し込み開始！]]></title>
@@ -119,6 +119,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18538.html</guid>
             <pubDate>Fri, 27 Mar 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/7RVziDgZbS7fsQv9ErU7xMRbFptQHbxH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『ミリシタ 陰界戦戯、夜の帳が降りる刻 生配信～シャドウバウト エンゲージ！～』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリオンライブ #ミリシタ陰界戦戯生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_18428.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18428.html</guid>
+            <pubDate>Fri, 27 Mar 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/CbYNCO0cw4ameI8HNpxwTI9aBJiJfxCr.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】中国にてアニメイトカフェコラボが開催決定！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18329.html</guid>
             <pubDate>Fri, 20 Mar 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/9IyKViUgaUseADku56DcTnljTjgZt3SL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM衣装展】明日3月21日(土)13：00より入場チケット一般発売（先着）のお申し込み受付がスタート！]]></title>
-            <description><![CDATA[#SideM #SideM衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_18469.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18469.html</guid>
-            <pubDate>Fri, 20 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/ZFL3yYlY5mILTs6pHbkv5dzwGjHTDQW2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
