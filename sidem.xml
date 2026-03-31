@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 31 Mar 2026 07:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 11:49:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 Mar 2026 07:14:41 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 11:49:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【SideM】「～バレンタインライブ2026・ホワイトデーライブ2026～」の受注期間は本日まで！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_18565.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18565.html</guid>
+            <pubDate>Tue, 31 Mar 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/02/XK2y0MLJJaTkBC9XJzoAOBrz4Rg2dHTd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター英語版公式Xアカウント開設！｜The official English account of THE IDOLM@STER opens !]]></title>
             <description><![CDATA[#アイドルマスター ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18242.html</guid>
             <pubDate>Fri, 27 Feb 2026 09:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMPRS魂環の人形】映画「魂環の人形」相関図＆来場者特典デザイン公開！現地チケット一般発売(先着)は2月28日(土)12:00よりスタート！]]></title>
-            <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
-            <link>https://idolmaster-official.jp/news/01_18297.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18297.html</guid>
-            <pubDate>Fri, 27 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/02/9zyjAudIH5rYl33SjbIo5OReiHhNNaHH.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
