@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 30 Mar 2026 15:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Mar 2026 03:49:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Mar 2026 15:03:07 GMT</pubDate>
+        <pubDate>Tue, 31 Mar 2026 03:49:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】フィギュア「月村手毬-Luna say maybe-」ご予約受付開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18523.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18523.html</guid>
+            <pubDate>Tue, 31 Mar 2026 02:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/wBb7I9NtJ4sEjJnNNOruQW3IWtqt6wQR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター英語版公式Xアカウント開設！｜The official English account of THE IDOLM@STER opens !]]></title>
             <description><![CDATA[#アイドルマスター ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18263.html</guid>
             <pubDate>Thu, 26 Feb 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/GHUBRahAN1ajujL3BEP96419V8xKFl4i.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[學園偶像大師 初星歌謠會 LIVE VIEWING in 香港 & 台灣 倒數中！]]></title>
-            <description><![CDATA[#學園偶像大師 #初星歌謠會]]></description>
-            <link>https://idolmaster-official.jp/news/01_18292.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18292.html</guid>
-            <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/02/WI02dZRvQ0ULeLTfA3KRL1rdWU6pq6jd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
