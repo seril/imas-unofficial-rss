@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Apr 2026 15:03:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 03:42:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Apr 2026 15:03:54 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 03:42:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】くじ引き堂 新規描き下ろしイラストを使用したオンラインくじの詳細公開！！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18563.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18563.html</guid>
+            <pubDate>Thu, 02 Apr 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/hQF0DMdN2BBcoHuSNmCnshpJqrR0SUJH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！バースデーシリーズ」第10弾、6月分予約受付中！ ]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18320.html</guid>
             <pubDate>Thu, 05 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/YFa9oBE0Wg9KEojHQn3H62KsKsFU1W42.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》6月に向けて豊川風花、三浦あずさが登場！「ジューンブライド・ガーデンウェディング」をイメージしたグッズが受注開始！]]></title>
-            <description><![CDATA[#ミリオンシーズナル6月]]></description>
-            <link>https://idolmaster-official.jp/news/01_18328.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18328.html</guid>
-            <pubDate>Thu, 05 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/9IyKViUgaUseADku56DcTnljTjgZt3SL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
