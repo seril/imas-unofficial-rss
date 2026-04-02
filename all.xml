@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Apr 2026 03:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Apr 2026 07:12:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Apr 2026 03:42:35 GMT</pubDate>
+        <pubDate>Thu, 02 Apr 2026 07:12:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターチューン～パンとフィルム～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18567.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18567.html</guid>
+            <pubDate>Thu, 02 Apr 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/03/G2qdl1UPTtWoWRlD7OjaFCb4SXEPWPEt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】各種パスが追加！さらに「プレミアムパスDX」「プレミアムパスDX+」販売開始！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18583.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18583.html</guid>
+            <pubDate>Thu, 02 Apr 2026 05:59:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/04/ipzWPv5bD2OW73s9E9JMbRU2BCp4s3Yp.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「-The All-In Night -　THE IDOLM@STER SHINY COLORS ×英国風パブ HUB」コラボキャンペーン詳細公開！4月6日(月)より予約受付開始！！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18607.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18607.html</guid>
+            <pubDate>Thu, 02 Apr 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/r6Nf902vPElP4NUYTwWxhejnoLaZXNwq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」公式グッズ数量限定販売が開始！！マルチカラーライトや学生証風クリアカードなどのアイドルグッズも要チェック♪]]></title>
             <description><![CDATA[ #シンデレラガールズ #デレミュ_ハイスクール]]></description>
@@ -23,14 +47,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18563.html</guid>
             <pubDate>Thu, 02 Apr 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/hQF0DMdN2BBcoHuSNmCnshpJqrR0SUJH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「-The All-In Night -　THE IDOLM@STER SHINY COLORS ×英国風パブ HUB」コラボキャンペーン詳細公開！明日4月3日(金)より予約受付開始！！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18569.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18569.html</guid>
-            <pubDate>Thu, 02 Apr 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/r6Nf902vPElP4NUYTwWxhejnoLaZXNwq.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】「FigUnity」シリーズに学園アイドルマスターが登場！本日より予約スタート！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18530.html</guid>
             <pubDate>Thu, 26 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/01/MpIV4R5KGq5ZXwr8ZwAzGFtP09PU7KZx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】『アイドルマスター ミリオンライブ！』POP UP in 松屋浅草3階 Anime Culture Center by eeoの詳細が公開！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18158.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18158.html</guid>
-            <pubDate>Thu, 26 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/tfbKlRlAcxMLJ794OA7FXAaAJsuMjkhp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS confirmed to perform in Chicago and the Midwest’s biggest Japanese Pop Culture event “Anime Central 2026”!]]></title>
-            <description><![CDATA[#AnimeCentral #ACen2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_18512.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18512.html</guid>
-            <pubDate>Wed, 25 Mar 2026 14:11:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6ESZgrAPw7lMtMahTEgjkatbUwH5QPNQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
