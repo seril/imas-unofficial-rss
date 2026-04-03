@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Apr 2026 11:37:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Apr 2026 14:41:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Apr 2026 11:37:00 GMT</pubDate>
+        <pubDate>Fri, 03 Apr 2026 14:41:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】4/3(金)学マス生配信「初星学園HR #STEP3 花海 佑芽」お知らせまとめ]]></title>
+            <description><![CDATA[ #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18476.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18476.html</guid>
+            <pubDate>Fri, 03 Apr 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/04/aTCWNHkfSLl76pq66OSERndwiarZaW9U.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】「アイドルマスター」より765プロダクション所属アイドル「星井美希」が出演するシャープ新製品「Xrostella VR1」のCM撮影の舞台裏【BEHIND THE SCENES】を公開！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #かんたんかけるVR #シャープ #星井美希CM]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18449.html</guid>
             <pubDate>Fri, 27 Mar 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/pCrJf7Zp3NUMhiTQzCRxgYkuZqXIDtkz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「初星学園HR#STEP3 花海 佑芽」 ミラー配信大歓迎！実施ポリシーを公開！]]></title>
-            <description><![CDATA[#初星学園HR  #花海佑芽]]></description>
-            <link>https://idolmaster-official.jp/news/01_18508.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18508.html</guid>
-            <pubDate>Fri, 27 Mar 2026 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/03/UEXm1OCTjORh5rt9k2q74IwCjyklL8lI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
