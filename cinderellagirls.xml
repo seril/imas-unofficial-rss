@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 03:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 07:19:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 03:50:20 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 07:19:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】「シンデレラガール総選挙2026に向けて語ろう！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -289,20 +289,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/H4bRsV4kWVmTcT1CnWbJQwneClBTGOtt.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【シンデレラ】46名のアイドルによる楽天モバイルPRコラボ広告が3/13(金)より配信決定！]]></title>
+            <description><![CDATA[#デレマス #imas_cg #楽天モバイル]]></description>
+            <link>https://idolmaster-official.jp/news/01_18406.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18406.html</guid>
+            <pubDate>Wed, 11 Mar 2026 11:53:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/VSiXaMaRN20ewsz9bEYBRSe1ohHRzu2u.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【シンデレラ】「15周年イヤー突入！ シンデレラガールズ生配信」ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
             <description><![CDATA[#シンデレラガール総選挙2026 #デレマス15thイヤー突入 #デレミュ ]]></description>
             <link>https://idolmaster-official.jp/news/01_18342.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18342.html</guid>
             <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/03/Sqp3k48fS7YIpj2GlElJSFxSO8d1YIx7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】新グッズシリーズ「Memory Pict.」が始動:｡･:* 本日3/11(水) 21:00より1st Pict（鷺沢文香・十時愛梨）が受注開始です！]]></title>
-            <description><![CDATA[#メモピク #デレマス15thイヤー突入 #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18385.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18385.html</guid>
-            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/CJPI3xBCIcogZw6iPjF6Fxk2NdfGAz5H.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】15th Anniversary シンデレラガール総選挙2026 開催決定！]]></title>
@@ -313,12 +313,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/03/tPR0S0VwYvuMCKVabPbJIXaEfZSKZjIB.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】46名のアイドルによる楽天モバイルPRコラボ広告が3/13(金)より配信決定！]]></title>
-            <description><![CDATA[#デレマス #imas_cg #楽天モバイル]]></description>
-            <link>https://idolmaster-official.jp/news/01_18406.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18406.html</guid>
-            <pubDate>Wed, 11 Mar 2026 11:53:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/VSiXaMaRN20ewsz9bEYBRSe1ohHRzu2u.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[【シンデレラ】新グッズシリーズ「Memory Pict.」が始動:｡･:* 本日3/11(水) 21:00より1st Pict（鷺沢文香・十時愛梨）が受注開始です！]]></title>
+            <description><![CDATA[#メモピク #デレマス15thイヤー突入 #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18385.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18385.html</guid>
+            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/CJPI3xBCIcogZw6iPjF6Fxk2NdfGAz5H.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】3月29日(日)18時～ アイマス史上初のアイドルたちによる地上波番組「愛♡MAX!!!TV」がTOKYO MXにて放送決定！]]></title>

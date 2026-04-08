@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Apr 2026 03:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Apr 2026 07:19:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Apr 2026 03:50:20 GMT</pubDate>
+        <pubDate>Wed, 08 Apr 2026 07:19:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマスMOIW2025】ブルーレイに新たに収録予定の撮りおろし映像「アイ NEED 酒（しゅ）〜おかわり〜 ブルワリーで“アイ”升（ます）」が3/31(火)21:00～アイマスチャンネルでプレミア公開！！]]></title>
@@ -313,14 +313,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/mScPW8buSggNA5dYG2WBeTTY5ftkP6jG.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【#ヴイアラ】2月21日リリースのライバーアイドル2nd ソロEPは本日1/18予約締切！試聴動画も公開中！<6th Single>一部音源を試聴動画内で”初解禁”！お見逃しなく！]]></title>
-            <description><![CDATA[#ASOBINOTES]]></description>
-            <link>https://idolmaster-official.jp/news/01_17959.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17959.html</guid>
-            <pubDate>Sun, 18 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/Qx4ZgtXe4NNQjKaz1bY4kSTafduQxrMC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[本日まで！！【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチ]]></title>
             <description><![CDATA[#アイマス20周年イヤー #MOIW2025]]></description>
             <link>https://idolmaster-official.jp/news/01_17956.html</link>
@@ -335,6 +327,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17958.html</guid>
             <pubDate>Sun, 18 Jan 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/RTgIms6OdHUiedgchx5i4yoWe6yABGlH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【#ヴイアラ】2月21日リリースのライバーアイドル2nd ソロEPは本日1/18予約締切！試聴動画も公開中！<6th Single>一部音源を試聴動画内で”初解禁”！お見逃しなく！]]></title>
+            <description><![CDATA[#ASOBINOTES]]></description>
+            <link>https://idolmaster-official.jp/news/01_17959.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17959.html</guid>
+            <pubDate>Sun, 18 Jan 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/Qx4ZgtXe4NNQjKaz1bY4kSTafduQxrMC.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチの受注は明日まで！]]></title>
