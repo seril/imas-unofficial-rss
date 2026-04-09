@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 03:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Apr 2026 07:22:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 03:46:42 GMT</pubDate>
+        <pubDate>Thu, 09 Apr 2026 07:22:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス標ツアー】 学園アイドルマスター LIVE TOUR -標- 福井公演のイベント公式グッズ事前販売が本日4月9日(木)よりスタート！]]></title>
+            <description><![CDATA[#学マス #標ツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_18655.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18655.html</guid>
+            <pubDate>Thu, 09 Apr 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/HT3gsDUHo9UlsyNoMjermUEOzSKsOWTn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス衣装展東京】「283PRODUCTION COSTUME G@LLERY ～MY F＠VORITE COLLECTION～」開催記念グッズの販売が4月9日(木)よりスタート！！]]></title>
+            <description><![CDATA[#シャニマス衣装展東京 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18656.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18656.html</guid>
+            <pubDate>Thu, 09 Apr 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/2B4DcORNcYMQ3LA98Z9OMQnGweFWJ722.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【ミリオン】くじ引き堂 新規描き下ろしイラストを使用したオンラインくじが本日より販売開始🎀]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18531.html</guid>
             <pubDate>Mon, 30 Mar 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/hxN5mfJgdJTmepvtgm6OaG87axZOMdtq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！～有明・豊洲海上視察～」開催決定！本日から抽選申し込み開始！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18507.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18507.html</guid>
-            <pubDate>Mon, 30 Mar 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/H9zOj7mf5Rlry6hMPVE8nVwoqTKc6rUP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】アイドルの出身地にちなんだご当地グルメパッケージ第三弾が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18524.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18524.html</guid>
-            <pubDate>Mon, 30 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/8cBKO64omMpmhsfcPHMMcOhq0xkhSo3O.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
