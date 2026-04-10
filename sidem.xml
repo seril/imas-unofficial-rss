@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Apr 2026 04:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 07:27:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Apr 2026 04:06:59 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 07:27:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM TRANSCENDENT T@LES 09」CD情報！]]></title>
+            <description><![CDATA[#SideM #315ソング]]></description>
+            <link>https://idolmaster-official.jp/news/01_18560.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18560.html</guid>
+            <pubDate>Fri, 10 Apr 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/opAgZlb9yV4ndRrFdOhfqETt5udsFvAh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】【SideMPRS魂環の人形】開催記念グッズの受注は明日4月5日(日)まで！一部グッズサンプルをご紹介♪]]></title>
             <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
@@ -193,20 +201,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/Jkyr3OryS9ZMn8AuRaC8OWsbid4IJLM6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】【ラジオ】「アイマスch 登録者数50万人達成記念！夜までアイマス楽曲7.65時間生配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #夜までアイマス楽曲2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_18304.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18304.html</guid>
-            <pubDate>Mon, 16 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/DIsWsrJRi76AVrl5BR1akTxZmqOF6fsE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【SideMPRS魂環の人形】視聴コメント付きアーカイブ公開！公演アンケートも実施中！]]></title>
             <description><![CDATA[#SideM #SideMPRS魂環の人形]]></description>
             <link>https://idolmaster-official.jp/news/01_18433.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18433.html</guid>
             <pubDate>Mon, 16 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/SjJnvHbFFGus9p0TmXT9tHhUyUAZqNPD.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【ラジオ】「アイマスch 登録者数50万人達成記念！夜までアイマス楽曲7.65時間生配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #夜までアイマス楽曲2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18304.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18304.html</guid>
+            <pubDate>Mon, 16 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/DIsWsrJRi76AVrl5BR1akTxZmqOF6fsE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】Legendersがブランドウォッチのアンバサダーを務めるコラボ腕時計が登場！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18365.html</guid>
             <pubDate>Fri, 06 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/03/LoEDYBzQ7cMPoBUMCEw9y5uAWq6Yc7tp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】アイドルマスター SideM リメンバーショットフェア第1弾の詳細が解禁！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18291.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18291.html</guid>
-            <pubDate>Fri, 06 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/K8YR4iPHt7UWK02mN5EsPoBwOjHZg3Jk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
