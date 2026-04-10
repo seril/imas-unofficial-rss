@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Apr 2026 15:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Apr 2026 04:06:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Apr 2026 15:21:40 GMT</pubDate>
+        <pubDate>Fri, 10 Apr 2026 04:06:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】【締切間近💨】過去発売商品を多く取り扱う『学園アイドルマスター 初星学園 入学準備フェア』は4月12日（日） 23:59まで！🏫🌟]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター #初星学園入学準備フェア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18666.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18666.html</guid>
+            <pubDate>Fri, 10 Apr 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/36zJf4axtB78HKllCUahtixsniUeckxB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス2nd】5月16日(土)・17日(日)「The 2nd Period H.I.F選抜試験(セレクション)」一般販売(先着)＜現地チケット見切れ席・完全見切れ席＞を4月11日(土) 12:00より開始。さらに同日にリセール受付も開始！]]></title>
             <description><![CDATA[#学マス #学マス2nd]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18269.html</guid>
             <pubDate>Sun, 01 Mar 2026 02:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭 DAY1 のご鑑賞ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#学マス #学マス音楽祭]]></description>
-            <link>https://idolmaster-official.jp/news/01_18097.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18097.html</guid>
-            <pubDate>Sat, 28 Feb 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/rqnNz6REMCupgKUcSaW4i1rj7fawmwqD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
