@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 12 Apr 2026 07:14:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Apr 2026 11:33:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 12 Apr 2026 07:14:07 GMT</pubDate>
+        <pubDate>Sun, 12 Apr 2026 11:33:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【283_XXX】283 Production XXXX Performance XXX= S/N-GUL4R1TY // 0x01; initialize() ご来場・ご視聴いただきありがとうございました！！ 告知内容まとめはこちら！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18478.html</guid>
             <pubDate>Sat, 11 Apr 2026 11:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/04/g0FN1Ljm1foF4c8iyOE59wE0EbGiqiwc.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_XXX】283 Production XXXX Performance XXX= S/N-GUL4R1TY  ご来場・ご視聴いただきありがとうございました！！3公演分のセットリスト&告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#ストレイ_XXX #ストレイ_LOVE #ストレイ_XXX_evolve #ストレイ_XXX_overflow]]></description>
+            <link>https://idolmaster-official.jp/news/01_18479.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18479.html</guid>
+            <pubDate>Sun, 12 Apr 2026 10:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/04/nu8zFMsUiBKR1CVQeQh8V5qutJpPlsP0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【283_XXX】「283 Production XXXX Performance XXX= S/N-GUL4R1TY」開催記念グッズ販売がスタート！撮りおろしビジュアルのグッズが登場✨]]></title>
+            <description><![CDATA[#ストレイ_XXX #ストレイ_XXX_initialize #ストレイ_XXX_evolve #ストレイ_XXX_overflow #ストレイ_LOVE]]></description>
+            <link>https://idolmaster-official.jp/news/01_18650.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18650.html</guid>
+            <pubDate>Sun, 12 Apr 2026 10:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/04/TI1qHbrGbfP1xRD6BfPXdWNraot3ykpy.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニソン】「Shiny Runway 2026 Spring Collection フォトコンテスト」開催！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18399.html</guid>
             <pubDate>Mon, 16 Mar 2026 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6Su5WBaZeiKVfXOqYswzCoJbWxYDKlEi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】#イマジナリーレイド　「翼の叛逆」　開催中！記念ミッションやログインボーナスの開催も！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18397.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18397.html</guid>
-            <pubDate>Sat, 14 Mar 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/VCbFMUZbswwKwUS4DF95s5GaMl0I4tOs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【アイマス】音楽をKAMIしめるカードゲーム『KAMISABI』で遊んでみた！」本日3/13(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #KAMISABI #ミリオンライブ #SideM #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18196.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18196.html</guid>
-            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/ISreMPTOdAeEMKQV8F11QMK73aGq2q1N.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
