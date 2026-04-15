@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 07:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Apr 2026 11:55:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 07:46:23 GMT</pubDate>
+        <pubDate>Wed, 15 Apr 2026 11:55:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】エポック社より、ジグソーパズルが登場！🧩予約受付中！]]></title>
+            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18686.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18686.html</guid>
+            <pubDate>Wed, 15 Apr 2026 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/04/emfNjC31xl2Tu9d1O4MO2CsCxJAjtKNH.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】[初志貫徹]と[一番星]のイラストをもとに、雨夜 燕と十王星南のプライズフィギュアが2026年9月より順次登場予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18678.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18678.html</guid>
+            <pubDate>Wed, 15 Apr 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/04/2dFVFu2NY6GOuzMKNSrdYiXGCTG4QFxe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】オファマス開催中！パネルの写真投稿で、抽選で10名様に「お土産チョコ」をプレゼント！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18309.html</guid>
             <pubDate>Wed, 04 Mar 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/03/9zwvh0tgPIORiNiefdS8D8vmeyefB8HY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】エンスカイより、「トラベルステッカー2」と「スナップマイドSpecial2」が登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18278.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18278.html</guid>
-            <pubDate>Wed, 04 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/02/ZmcuyLDGAemK3qct17a6F13iu0J3VSeE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス音楽祭】学園アイドルマスター 初星音楽祭 正式版アーカイブが本日より配信開始！アンケートも実施中！]]></title>
-            <description><![CDATA[#学マス #学マス音楽祭‗DAY1 #学マス音楽祭_DAY2]]></description>
-            <link>https://idolmaster-official.jp/news/01_18245.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18245.html</guid>
-            <pubDate>Mon, 02 Mar 2026 09:12:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/03/VHpl4ajxNV5EeHS9qyUyLo0iMAjzkCMo.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
