@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Apr 2026 15:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 04:13:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 15 Apr 2026 15:04:45 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 04:13:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】花海咲季の1/7スケールフィギュアがPLUM PMOAより登場！ ご予約も受付中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18694.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18694.html</guid>
+            <pubDate>Thu, 16 Apr 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/L4Naimk3dS9nnt3E83f3wLC5PDpHni9U.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ユニット衣装に身を包んだアイドルたちのちびぐるみが2026年9月より順次登場予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18517.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18517.html</guid>
+            <pubDate>Thu, 16 Apr 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/idNqOffnquuX3m9EktrNsosgbY5GouBX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】エポック社より、ジグソーパズルが登場！🧩予約受付中！]]></title>
             <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18326.html</guid>
             <pubDate>Fri, 06 Mar 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/KBiPdHsc6u09tMSJxLUaKhfIfXGk38uK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 学マス 】‎姫崎莉波誕生日記念セット2026 受注受付中♬［3/29(日)まで］]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18352.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18352.html</guid>
-            <pubDate>Thu, 05 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/03/D57whLuTH03lzYNUJdPQqgl2KaZZoPl0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター×アニメイトカフェ リバイバルコラボ開催決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18309.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18309.html</guid>
-            <pubDate>Wed, 04 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1017/GAKUEN/2026/03/9zwvh0tgPIORiNiefdS8D8vmeyefB8HY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
