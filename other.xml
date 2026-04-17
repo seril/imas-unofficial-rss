@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 07:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 11:52:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 07:46:52 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 11:52:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 #アイマスIWSF2026 公式グッズの事前販売がスタート！！！！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18709.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18709.html</guid>
+            <pubDate>Fri, 17 Apr 2026 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷  続報配信決定のお知らせ！配信に向けたお便りも募集します！【生配信】]]></title>
             <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷  続報配信決定のお知らせ！配信に向けたお便りも募集します！【生配信】]]></description>
@@ -105,20 +113,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/03/XWmuRzHCcI4IKKbFOLl4P7fzJYPyQN93.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！メンバー限定876プロフェス特別配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18300.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18300.html</guid>
-            <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/Gk1ft04DiHnY7uaj41AFuTBZTvoeCnRf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第十弾】「お別れボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を期間限定販売！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
             <link>https://idolmaster-official.jp/news/01_18377.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18377.html</guid>
             <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/03/HiP5ce95KvhnYb1nJDnKjYVp65Xx17hB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！メンバー限定876プロフェス特別配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18300.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18300.html</guid>
+            <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/Gk1ft04DiHnY7uaj41AFuTBZTvoeCnRf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【Dearly Stars × vα-liv】「876 PRODUCTION FES 開催記念アニメイトフェア」は3月15日(日)まで！]]></title>
@@ -321,12 +329,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/01/mScPW8buSggNA5dYG2WBeTTY5ftkP6jG.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】来月2月開催「876 PRODUCTION FES」続報配信vol.4実施決定！新曲に関する新情報をお知らせ！ただいま現地チケット先着一般販売実施中！]]></title>
-            <description><![CDATA[#876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_17958.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17958.html</guid>
+            <title><![CDATA[【#ヴイアラ】2月21日リリースのライバーアイドル2nd ソロEPは本日1/18予約締切！試聴動画も公開中！<6th Single>一部音源を試聴動画内で”初解禁”！お見逃しなく！]]></title>
+            <description><![CDATA[#ASOBINOTES]]></description>
+            <link>https://idolmaster-official.jp/news/01_17959.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17959.html</guid>
             <pubDate>Sun, 18 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/RTgIms6OdHUiedgchx5i4yoWe6yABGlH.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/Qx4ZgtXe4NNQjKaz1bY4kSTafduQxrMC.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[本日まで！！【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチ]]></title>
@@ -337,12 +345,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2025/12/v0gYv6A6VgpkHmN6jyNvR33GpZoZUwZb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【#ヴイアラ】2月21日リリースのライバーアイドル2nd ソロEPは本日1/18予約締切！試聴動画も公開中！<6th Single>一部音源を試聴動画内で”初解禁”！お見逃しなく！]]></title>
-            <description><![CDATA[#ASOBINOTES]]></description>
-            <link>https://idolmaster-official.jp/news/01_17959.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17959.html</guid>
+            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】来月2月開催「876 PRODUCTION FES」続報配信vol.4実施決定！新曲に関する新情報をお知らせ！ただいま現地チケット先着一般販売実施中！]]></title>
+            <description><![CDATA[#876プロフェス]]></description>
+            <link>https://idolmaster-official.jp/news/01_17958.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17958.html</guid>
             <pubDate>Sun, 18 Jan 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/Qx4ZgtXe4NNQjKaz1bY4kSTafduQxrMC.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/01/RTgIms6OdHUiedgchx5i4yoWe6yABGlH.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】「THE IDOLM@STER SERiES × Ice-Watch」のコラボウォッチの受注は明日まで！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17834.html</guid>
             <pubDate>Sun, 04 Jan 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/01/CPTV9Yi40fUFwfl3ivDmOW1OshCo36Eo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】5分以内ですぐ完了！＜第三 四半期＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの一票がライバーアイドルの能力総合値に！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】5分以内ですぐ完了！＜第三 四半期＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの一票がライバーアイドルの能力総合値に！]]></description>
-            <link>https://idolmaster-official.jp/news/01_17832.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17832.html</guid>
-            <pubDate>Wed, 31 Dec 2025 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2025/12/sNswI1QLDiASZhaVoRXh17gCmor2xuLw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
