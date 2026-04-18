@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 03:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 07:08:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 03:47:06 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 07:08:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】Sweet Showcase 学園アイドルマスター ロリータテーマ 上海ポップアップストア 2026 グッズラインナップや入場予約などの詳細を公開！]]></title>
+            <description><![CDATA[#学園アイドルマスター #学園アイドルマスターロリータテーマポップアップストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18727.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18727.html</guid>
+            <pubDate>Sat, 18 Apr 2026 04:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学园偶像大师】Sweet Showcase 学园偶像大师 洛丽塔主题快闪 2026 周边一览、注意事项与预约规则等详情公开！]]></title>
+            <description><![CDATA[#偶像大师 #学园偶像大师 #学园偶像大师洛丽塔主题快闪店 ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18728.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18728.html</guid>
+            <pubDate>Sat, 18 Apr 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【学マス】一番くじ 学園アイドルマスター  Part6　2026年9月19日発売予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18333.html</guid>
             <pubDate>Tue, 10 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/SojOJsj736VMpL8ciV1njSahkrH8cBhd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】十王星南×gladgarbコラボアパレルのご予約は3月16日（月）13時まで！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18395.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18395.html</guid>
-            <pubDate>Tue, 10 Mar 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/PvOQMtDMcC2di0J1hJYd7PTvxeV3WdK1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アサヒ飲料「ドデカミン」コラボキャンペーンが開催決定！明日3/10(火)0:00からキャンペーンスタート🔥]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ドデカミン]]></description>
-            <link>https://idolmaster-official.jp/news/01_18350.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18350.html</guid>
-            <pubDate>Mon, 09 Mar 2026 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/CNbOrWBYVwxENkPBytxD0us7TRRxLYnR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
