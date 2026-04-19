@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 11:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 14:39:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 11:34:50 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 14:39:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 最新情報!!⫷　DAY1コレオチーム、DAY2バンドチームを発表！公演スポンサーも決定！現地チケットのアソビストア一般会員先行も受付中！]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 最新情報!!⫷　DAY1コレオチーム、DAY2バンドチームを発表！公演スポンサーも決定！現地チケットのアソビストア一般会員先行も受付中！]]></description>
+            <link>https://idolmaster-official.jp/news/01_18735.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18735.html</guid>
+            <pubDate>Sun, 19 Apr 2026 14:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/04/j104zLGi14lukVAlWIMS6LL0GB9vwV0S.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　現地チケット アソビストア一般会員先行抽選受付開始！イベントグッズも事前販売実施中！]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　現地チケット アソビストア一般会員先行抽選受付開始！イベントグッズも事前販売実施中！]]></description>
+            <link>https://idolmaster-official.jp/news/01_18734.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18734.html</guid>
+            <pubDate>Sun, 19 Apr 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/04/tAdSpjdzpOyJXtWaCaa20GmUS6hKOBkP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】 #アイマスIWSF2026 公式グッズが事前販売中！！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18366.html</guid>
             <pubDate>Sat, 14 Mar 2026 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/MNymUFLYXx1SaV1nLqqltttDt0oAEOS4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】コトブキヤより、アニメ「アイドルマスター ミリオンライブ！」メモリアルフィギュア発売決定！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリアニ #ミリオン11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18383.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18383.html</guid>
-            <pubDate>Sat, 14 Mar 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/ZdeBEZZ0F5cKY8wokzS03UnsPTwAjfec.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【アイマス】音楽をKAMIしめるカードゲーム『KAMISABI』で遊んでみた！」本日3/13(金) 22:00よりプレミア公開！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #KAMISABI #ミリオンライブ #SideM #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18196.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18196.html</guid>
-            <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/ISreMPTOdAeEMKQV8F11QMK73aGq2q1N.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
