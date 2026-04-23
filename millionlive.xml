@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 07:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 11:58:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 07:52:59 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 11:58:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[ 【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に「小宮果穂」「紫雲清夏」が登場！]]></title>
@@ -113,7 +113,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/04/TplcjaPip4czlMzJx6PT6vzltOoSC6Gr.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスタートラストBOT～Stick to my weapon～」を開催中！]]></title>
+            <title><![CDATA[【ミリシタ】＜2026.04.23更新＞期間限定イベントBATTLE OF THEATER「プラチナスタートラストBOT～Stick to my weapon～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
             <link>https://idolmaster-official.jp/news/01_18697.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18697.html</guid>
