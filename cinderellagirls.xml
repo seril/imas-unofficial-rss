@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 15:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 04:16:39 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 15:52:47 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 04:16:39 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」配信チケットの販売がスタート！！ミュージカル冒頭の無料生配信や振り返り上映会も実施予定♬]]></title>
+            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_ハイスクール #デレミュ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18680.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18680.html</guid>
+            <pubDate>Fri, 24 Apr 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/V98ESZn7aK8ZseAjLCwF3PU3lcenAwYe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】有楽町マルイ7Fにて『サイバーウィッチ』をテーマにした新規描き下ろしイラストグッズの販売が決定🌸グッズ情報も公開👀✨【5/2(土)より】]]></title>
             <description><![CDATA[#デレマス #サイバーウィッチポップアップ]]></description>
@@ -391,14 +399,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18402.html</guid>
             <pubDate>Thu, 12 Mar 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/H4bRsV4kWVmTcT1CnWbJQwneClBTGOtt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「15周年イヤー突入！ シンデレラガールズ生配信」ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #デレマス15thイヤー突入 #デレミュ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18342.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18342.html</guid>
-            <pubDate>Wed, 11 Mar 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/03/Sqp3k48fS7YIpj2GlElJSFxSO8d1YIx7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】15th Anniversary シンデレラガール総選挙2026 開催決定！]]></title>
