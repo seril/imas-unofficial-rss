@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 15:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 03:51:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 15:07:52 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 03:51:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと1日！！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18788.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18788.html</guid>
+            <pubDate>Sat, 25 Apr 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【あと２日！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18238.html</guid>
             <pubDate>Fri, 20 Feb 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/eJWKimZB1ymKTGUF5a3GTxIA6aXRJVBX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】あみあみより、如月千早武道館単独公演「OathONE」協賛商品の受注販売が決定！新規描き下ろしイラストを使用したグッズも登場！]]></title>
-            <description><![CDATA[#如月千早武道館単独公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_18226.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18226.html</guid>
-            <pubDate>Thu, 19 Feb 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/q8NS92pXHX6EBiLcgFUijOaBU32Eden3.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

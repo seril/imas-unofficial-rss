@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 15:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 03:51:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 15:07:52 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 03:51:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと1日！！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18788.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18788.html</guid>
+            <pubDate>Sat, 25 Apr 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【あと２日！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18429.html</guid>
             <pubDate>Sun, 15 Mar 2026 10:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/03/vDVgPnDC2AEdHeFaigSMl0iW8W13VZMW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM衣装展】情報解禁！2026年7月10日(金)～27日(月) 渋谷BEAM BEAMギャラリーにて初の衣装展「THE IDOLM@STER SideM STAGE COSTUME MUSEUM」開催決定！！]]></title>
-            <description><![CDATA[#SideM #SideM衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_18415.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18415.html</guid>
-            <pubDate>Sun, 15 Mar 2026 10:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/jQQr5KhvCD4yQTqbro10tYZMnjEneiMx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
