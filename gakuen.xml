@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 11:38:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 07:16:44 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 11:38:09 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと1日！！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18789.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18789.html</guid>
+            <pubDate>Sat, 25 Apr 2026 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【あと1日！！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18516.html</guid>
             <pubDate>Fri, 27 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/kq3i7x8GxlL42lKKsrZuXrWjzQRPp4Qr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス標ツアー】 学園アイドルマスター LIVE TOUR -標- 公演現地チケットアソビストアプレミアム会員先行（抽選）が本日3月27日(金)15:00よりスタート！]]></title>
-            <description><![CDATA[#学マス #標ツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_18528.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18528.html</guid>
-            <pubDate>Fri, 27 Mar 2026 06:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/03/Cz4cDU9Qk6gbKRtzgmBKsjIKjVTnxPv0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
