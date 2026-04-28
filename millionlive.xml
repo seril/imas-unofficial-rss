@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 15:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 04:33:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 15:48:01 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 04:33:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」現地チケットの一般発売2次(先着)が4月29日(水･祝)12:00よりスタート！！当日券の発売も決定！配信チケットも販売中♪]]></title>
+            <description><![CDATA[#ミリオン13th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18798.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18798.html</guid>
+            <pubDate>Tue, 28 Apr 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/QBakAQdDUrXx2vltL7WwvcpSOCpMWtSE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【AP配信】【ミリオンライブ！】THE IDOLM@STER MILLION LIVE! 13thLIVE 終了後感想会決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #ミリオンライブ #ミリオン13th]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18497.html</guid>
             <pubDate>Wed, 25 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/JbT5WcVoPNZWaYd7NTPP70hdatLXi2TV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年3月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_18467.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18467.html</guid>
-            <pubDate>Mon, 23 Mar 2026 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/D8mQj715oezor91tgXBrNKzV5zMcoxX0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
