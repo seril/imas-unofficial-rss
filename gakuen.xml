@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 04:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 08:24:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 04:33:19 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 08:24:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】PLUM PMOAより1/7スケールフィギュア藤田ことねの再販が決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18815.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18815.html</guid>
+            <pubDate>Tue, 28 Apr 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/dO03FkKp9Ra5L2bOx0GhxRBp8eckP0R0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】エフトイズ・コンフェクトより、キラキラ輝く「グリッター缶バッジ Howling over the World Ver.」が本日より販売！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18520.html</guid>
             <pubDate>Mon, 30 Mar 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/E4Km3yVVqVGUuHGFMbyV3lvCRiQ2myir.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】「【アイマス】2026年エイプリルフール企画を一挙紹介！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #エイプリルフール]]></description>
-            <link>https://idolmaster-official.jp/news/01_18531.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18531.html</guid>
-            <pubDate>Mon, 30 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/03/hxN5mfJgdJTmepvtgm6OaG87axZOMdtq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
