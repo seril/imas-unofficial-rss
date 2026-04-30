@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 04:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 08:21:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 04:31:13 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 08:21:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【事前二次販売開始！！】 #アイマスIWSF2026 公式グッズの事前二次販売がスタート！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18830.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18830.html</guid>
+            <pubDate>Thu, 30 Apr 2026 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 #アイマスIWSF2026 協賛社グッズの販売が本日よりスタート！！]]></title>
+            <description><![CDATA[#アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18809.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18809.html</guid>
+            <pubDate>Thu, 30 Apr 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/mMx88ecqoTI3HrBQOqVZeo6pJd0SNs86.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【〆まであと4時間!!!!】 #アイマスIWSF2026 公式グッズの事前販売は本日まで!!!!ライトなどの実物写真も公開中!!!!]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18459.html</guid>
             <pubDate>Sun, 22 Mar 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/CJPI3xBCIcogZw6iPjF6Fxk2NdfGAz5H.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】本日3月19日(木)より『Pop'n ToyBox!!』アソビストアプレミアム会員先行の受付がスタート！]]></title>
-            <description><![CDATA[#トイボCG #シンデレラxRライブ2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_18471.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18471.html</guid>
-            <pubDate>Thu, 19 Mar 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/kVk1OZmL1fXUE1yvtjTwUaZdYnkcr6l8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】高級感ただようインテリア「パーソナルパブミラー」シリーズに「黒埼ちとせ」「道明寺歌鈴」が登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18419.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18419.html</guid>
-            <pubDate>Wed, 18 Mar 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/ZvQjBsdCX2FEWSiFk4OuhKVdyQOcaGoj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

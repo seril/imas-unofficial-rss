@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 04:31:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 08:21:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 04:31:12 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 08:21:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【事前二次販売開始！！】 #アイマスIWSF2026 公式グッズの事前二次販売がスタート！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18830.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18830.html</guid>
+            <pubDate>Thu, 30 Apr 2026 08:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】 #アイマスIWSF2026 協賛社グッズの販売が本日よりスタート！！]]></title>
+            <description><![CDATA[#アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18809.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18809.html</guid>
+            <pubDate>Thu, 30 Apr 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/mMx88ecqoTI3HrBQOqVZeo6pJd0SNs86.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【〆まであと4時間!!!!】 #アイマスIWSF2026 公式グッズの事前販売は本日まで!!!!ライトなどの実物写真も公開中!!!!]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18131.html</guid>
             <pubDate>Wed, 04 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/02/Zv5PVKpGnijKaQEod3vxj8bFjJH2IqoG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】【876プロ】「これだけは押さえておきたい！876 PRODUCTION FES.」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18070.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18070.html</guid>
-            <pubDate>Mon, 02 Feb 2026 08:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/01/hhMgAD87WuTnisENJFx9fRDeQmjJJ2cz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年1月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_17911.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_17911.html</guid>
-            <pubDate>Tue, 20 Jan 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/01/SNXzOcPm9AoxlIgEpruKYTjd5RQkqVhD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
