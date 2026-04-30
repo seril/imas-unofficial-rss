@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 08:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 12:14:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 08:21:27 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 12:14:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></description>
+            <link>https://idolmaster-official.jp/news/01_18835.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18835.html</guid>
+            <pubDate>Thu, 30 Apr 2026 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/04/M4s7JUjJfZjkFnQXbYWGE6ZMPfXSzdtK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】つくりより『THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026』協賛先行販売商品公開！]]></title>
+            <description><![CDATA[#アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18749.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18749.html</guid>
+            <pubDate>Thu, 30 Apr 2026 08:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/T1l8zPygSpzYo7TtQB6sC6DnEhEgoIKm.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【事前二次販売開始！！】 #アイマスIWSF2026 公式グッズの事前二次販売がスタート！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18092.html</guid>
             <pubDate>Fri, 06 Feb 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/02/cIkIl7R3VoGls7zUVkyTrYZMYqDNfRCq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！DAY2トークパートに向けたお便りを募集開始！ただいまグッズ＆配信チケット販売中！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！DAY2トークパートに向けたお便りを募集開始！ただいまグッズ＆配信チケット販売中！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18140.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18140.html</guid>
-            <pubDate>Thu, 05 Feb 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/02/x5PfxZ7VKS2KDBJ6a6OiA3NgrEkGbR42.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！アソビステージにて全公演の有料配信の実施が決定！さらに当日の会場物販情報も更新！一部公演の現地チケットも数量限定で販売中！]]></title>
-            <description><![CDATA[【 #ヴイアラ 】【ディアリースターズ】 いよいよ今月開催 #876プロフェス ！アソビステージにて全公演の有料配信の実施が決定！さらに当日の会場物販情報も更新！一部公演の現地チケットも数量限定で販売中！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18131.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18131.html</guid>
-            <pubDate>Wed, 04 Feb 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/02/Zv5PVKpGnijKaQEod3vxj8bFjJH2IqoG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
