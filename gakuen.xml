@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Apr 2026 15:55:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 04:31:13 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Apr 2026 15:55:25 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 04:31:13 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[THE IDOLM@STER Gakuen The 2nd Period LIVE VIEWING in 香港 & 台灣 決定舉辦！]]></title>
+            <description><![CDATA[#学マス #学マス2nd]]></description>
+            <link>https://idolmaster-official.jp/news/01_18829.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18829.html</guid>
+            <pubDate>Thu, 30 Apr 2026 04:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/QcC2VUwxYEARySlmyrGZZI1orNDlJSrs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】5月15日(金)より、「学園アイドルマスター×アトレ秋葉原」開催決定！新規描き下ろしイラスト「アーリーサマー」公開✨]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18759.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18759.html</guid>
+            <pubDate>Thu, 30 Apr 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/I7ExYhBPXg6nPspe393SCQdYEZ1rki1N.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 学マス 】‎藤田ことね誕生日記念セット2026 受注受付が開始！［5/17(日)まで］]]></title>
             <description><![CDATA[#学マス]]></description>
@@ -241,19 +257,19 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学マス】Sweet Showcase 学園アイドルマスター ロリータテーマ 上海ポップアップストア 2026 グッズラインナップや入場予約などの詳細を公開！]]></title>
-            <description><![CDATA[#学園アイドルマスター #学園アイドルマスターロリータテーマポップアップストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_18727.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18727.html</guid>
-            <pubDate>Sat, 18 Apr 2026 04:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学园偶像大师】Sweet Showcase 学园偶像大师 洛丽塔主题快闪 2026 周边一览、注意事项与预约规则等详情公开！]]></title>
             <description><![CDATA[#偶像大师 #学园偶像大师 #学园偶像大师洛丽塔主题快闪店 ]]></description>
             <link>https://idolmaster-official.jp/news/01_18728.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18728.html</guid>
             <pubDate>Sat, 18 Apr 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】Sweet Showcase 学園アイドルマスター ロリータテーマ 上海ポップアップストア 2026 グッズラインナップや入場予約などの詳細を公開！]]></title>
+            <description><![CDATA[#学園アイドルマスター #学園アイドルマスターロリータテーマポップアップストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18727.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18727.html</guid>
+            <pubDate>Sat, 18 Apr 2026 04:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18610.html</guid>
             <pubDate>Fri, 03 Apr 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「初星学園HR #STEP3 花海 佑芽」配信記念！松田 彩音さんと花海 佑芽のサインが入ったイラスト色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#花海佑芽_学マスSTEP3 #松田彩音]]></description>
-            <link>https://idolmaster-official.jp/news/01_18518.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18518.html</guid>
-            <pubDate>Thu, 02 Apr 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/04/XQM4SKOD1kL1mg4xGInhySUSVoJJVBe3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「FigUnity」シリーズに学園アイドルマスターが登場！本日より予約スタート！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18537.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18537.html</guid>
-            <pubDate>Thu, 02 Apr 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/vddwlVY7xRJCMnCcKEOGP9PBFkGWwx6g.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
