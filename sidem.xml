@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 08:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 11:59:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 08:10:54 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 11:59:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズの事前二次販売中！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18854.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18854.html</guid>
+            <pubDate>Fri, 01 May 2026 09:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】Who goes first LIVE Blu-ray 店舗特典デザイン公開！ご好評につき、ASOBI STOREの受注期間を5月17日(日)まで延長！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_18825.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18825.html</guid>
+            <pubDate>Fri, 01 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/05/vRBlLFWGg4me6CEkulbNLKbrnRysUgCg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマス20周年イヤー】東京都町田市の「ふたマス!!!!!!グッズ」が6月6日より販売スタート！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18465.html</guid>
             <pubDate>Fri, 20 Mar 2026 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/03/6fMM8Ut7ctKSioWD9QWFDtzzAm7rubIe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM」JOL Collab StoreにてPOP UP SHOP ～Dream Showcase!～が2026年3月27日(金)より開催決定！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_18405.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18405.html</guid>
-            <pubDate>Thu, 19 Mar 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/vvG1hoBmm9G1FPJfrnA5rY7WQdl5gLwk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【3/22(日)まで】【SideM】衣装本「THE IDOLM@STER SideM STAGE COSTUME BOOK」ASOBI STOREにて予約受付中！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_18454.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18454.html</guid>
-            <pubDate>Wed, 18 Mar 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/hhcEWcCFp6tJ3db3Xe5OkRZFqVUZaLeI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

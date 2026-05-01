@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 08:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 11:59:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 08:10:54 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 11:59:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズの事前二次販売中！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18854.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18854.html</guid>
+            <pubDate>Fri, 01 May 2026 09:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></title>
             <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18155.html</guid>
             <pubDate>Sun, 08 Feb 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/CErVcVm20QQzpL4cNlirvmbHU7tliUEf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【Dearly Stars×vα-liv】「876 PRODUCTION FES 開催記念アニメイトフェア」の対象店舗に川崎店の追加が決定！]]></title>
-            <description><![CDATA[#ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18092.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18092.html</guid>
-            <pubDate>Fri, 06 Feb 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/02/cIkIl7R3VoGls7zUVkyTrYZMYqDNfRCq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
