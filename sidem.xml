@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 15:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 04:49:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 15:47:22 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 04:49:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【アイマス20周年イヤー】東京都町田市の「ふたマス!!!!!!グッズ」が6月6日より販売スタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18826.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18826.html</guid>
+            <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/llGEMHBGZ6EfSSp2Bdxgt5rumwN4lcj5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></title>
             <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></description>
@@ -105,7 +113,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/04/LAiIdIMmXwkQYVmLtXfB62fLermi8JLC.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideM】2026年5月11日 (月) 19:00～「アイドルマスター SideM　新緑キラキラ！舞台はクラクラ！！元気いっぱい生配信 」配信予定！]]></title>
+            <title><![CDATA[【5/1追記】【SideM】2026年5月11日 (月) 19:00～「アイドルマスター SideM　新緑キラキラ！舞台はクラクラ！！元気いっぱい生配信 」配信予定！]]></title>
             <description><![CDATA[#SideM #SideM生配信]]></description>
             <link>https://idolmaster-official.jp/news/01_18643.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18643.html</guid>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18454.html</guid>
             <pubDate>Wed, 18 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/03/hhcEWcCFp6tJ3db3Xe5OkRZFqVUZaLeI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】アイドルマスター SideM Spring Wolves ポップアップストアが2026年3月20日(金)から開催！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_18403.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18403.html</guid>
-            <pubDate>Tue, 17 Mar 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/hnb9iOemVhTKANfHftRC0VMliCM7NfSF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

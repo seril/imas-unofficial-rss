@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 15:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 04:49:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 15:47:21 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 04:49:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【アイマス20周年イヤー】東京都町田市の「ふたマス!!!!!!グッズ」が6月6日より販売スタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18826.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18826.html</guid>
+            <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/llGEMHBGZ6EfSSp2Bdxgt5rumwN4lcj5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 学マス 】‎篠澤 広×TRAVAS TOKYOの 受注受付が開始！［5月31日(日)まで］]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18716.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18716.html</guid>
+            <pubDate>Fri, 01 May 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/fLVUT7jFx2UqxHRQWMx8bxH476PMXDsP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></title>
             <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></description>
@@ -297,19 +313,19 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学マス】Sweet Showcase 学園アイドルマスター ロリータテーマ 上海ポップアップストア 2026 グッズラインナップや入場予約などの詳細を公開！]]></title>
-            <description><![CDATA[#学園アイドルマスター #学園アイドルマスターロリータテーマポップアップストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_18727.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18727.html</guid>
-            <pubDate>Sat, 18 Apr 2026 04:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学园偶像大师】Sweet Showcase 学园偶像大师 洛丽塔主题快闪 2026 周边一览、注意事项与预约规则等详情公开！]]></title>
             <description><![CDATA[#偶像大师 #学园偶像大师 #学园偶像大师洛丽塔主题快闪店 ]]></description>
             <link>https://idolmaster-official.jp/news/01_18728.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18728.html</guid>
             <pubDate>Sat, 18 Apr 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】Sweet Showcase 学園アイドルマスター ロリータテーマ 上海ポップアップストア 2026 グッズラインナップや入場予約などの詳細を公開！]]></title>
+            <description><![CDATA[#学園アイドルマスター #学園アイドルマスターロリータテーマポップアップストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18727.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18727.html</guid>
+            <pubDate>Sat, 18 Apr 2026 04:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/04/TaEUV6QpMQ8aPCyoH7t1NCodTVgTWmVs.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18666.html</guid>
             <pubDate>Fri, 10 Apr 2026 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/36zJf4axtB78HKllCUahtixsniUeckxB.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス2nd】5月16日(土)・17日(日)「The 2nd Period H.I.F選抜試験(セレクション)」一般販売(先着)＜現地チケット見切れ席・完全見切れ席＞を4月11日(土) 12:00より開始。さらに同日にリセール受付も開始！]]></title>
-            <description><![CDATA[#学マス #学マス2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_18629.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18629.html</guid>
-            <pubDate>Thu, 09 Apr 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/sLZ5V11h2viVQq78g34bad2oDgRoV2zF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス標ツアー】 学園アイドルマスター LIVE TOUR -標- 福井公演のイベント公式グッズ事前販売が本日4月9日(木)よりスタート！]]></title>
-            <description><![CDATA[#学マス #標ツアー]]></description>
-            <link>https://idolmaster-official.jp/news/01_18655.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18655.html</guid>
-            <pubDate>Thu, 09 Apr 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/HT3gsDUHo9UlsyNoMjermUEOzSKsOWTn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
