@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 08:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 11:41:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 08:00:39 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 11:41:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズの事前二次販売中！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18858.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18858.html</guid>
+            <pubDate>Sun, 03 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズの事前二次販売中！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18434.html</guid>
             <pubDate>Fri, 27 Mar 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/s6TxDM7MdOoI83DyrSjCeTotbKUfyk2t.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS confirmed to perform in Chicago and the Midwest’s biggest Japanese Pop Culture event “Anime Central 2026”!]]></title>
-            <description><![CDATA[#AnimeCentral #ACen2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_18512.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18512.html</guid>
-            <pubDate>Wed, 25 Mar 2026 14:11:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6ESZgrAPw7lMtMahTEgjkatbUwH5QPNQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

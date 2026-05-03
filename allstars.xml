@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 08:00:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 11:41:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 08:00:39 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 11:41:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズの事前二次販売中！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18858.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18858.html</guid>
+            <pubDate>Sun, 03 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズの事前二次販売中！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18379.html</guid>
             <pubDate>Wed, 11 Mar 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/lHrDwKPKVHWFzFXCG2OfTYH76suOzSSP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「たかつき観光大使」高槻やよいのバースデーイベントが2026年3月20日(金・祝) 安満遺跡公園にて開催✨詳細発表❣️]]></title>
-            <description><![CDATA[#たかつき観光大使 #高槻市]]></description>
-            <link>https://idolmaster-official.jp/news/01_18389.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18389.html</guid>
-            <pubDate>Tue, 10 Mar 2026 06:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/BF4rtA1d3fi7IcUUWLQo6jeinECUfflX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
