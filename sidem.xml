@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 08:33:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 12:28:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 08:33:11 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 12:28:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO vol.3」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18757.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18757.html</guid>
+            <pubDate>Thu, 07 May 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/bUI1dYKt7h2YNJM6cnlcmYFd7HU4yMEz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　8月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場♪ 本日より受注受付スタート！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18831.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18831.html</guid>
+            <pubDate>Thu, 07 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/EQ57DDPCAvMTcyZYaYc8XzSa4h5ccVi6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズの事前二次販売中！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18408.html</guid>
             <pubDate>Mon, 23 Mar 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in イオンモール新居浜』イベントレポート]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイに行きマス新居浜]]></description>
-            <link>https://idolmaster-official.jp/news/01_18489.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18489.html</guid>
-            <pubDate>Sun, 22 Mar 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2026/03/apSTGNvmRox5lnJth49NZXCMZdhSlsiG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【SideM】「ねこに転生したおじさん」×「アイドルマスター SideM」公式コラボグッズ受注は3月22日(日)まで🐈🐾！]]></title>
-            <description><![CDATA[#ねこに転生したおじさん #ねこおじ #SideM #猫の日 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18346.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18346.html</guid>
-            <pubDate>Sat, 21 Mar 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/udkeo1I6LzZ8EGR0nbJFeLlmWzrgTvu1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
