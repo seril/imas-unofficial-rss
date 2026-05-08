@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 07:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 15:21:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 07:41:58 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 15:21:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】いよいよ明日開催！「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」＜エントランスがオープン!!!＞　冒頭無料配信の実施やマルチアングルチケットもお見逃しなく♪]]></title>
+            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_ハイスクール #デレミュ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18862.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18862.html</guid>
+            <pubDate>Fri, 08 May 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/V98ESZn7aK8ZseAjLCwF3PU3lcenAwYe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『デレステ10thツアー Let’s AMUSEMENT!!!@OKINAWA＆FUKUOKA』Blu-rayの受注がスタート！！アソビストア版のご予約は6月21日(日)まで！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18861.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18861.html</guid>
+            <pubDate>Fri, 08 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/05/613w2q0l0jFXsTxjDFMuKmX6DcjsW37I.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】新グッズシリーズ「Memory Pict.」第2弾:｡･:*  本日より2nd Pict.（高森藍子・龍崎 薫）が受注開始です！]]></title>
+            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_18860.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18860.html</guid>
+            <pubDate>Fri, 08 May 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/EUODuJmGHwX5Z9aatT4CG2MVt2Z4pIZl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】いよいよ今週末！「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」開催！ミュージカルに向けて最終チェック♪振り返りラジオの追加出演者や、当日ハッシュタグもご案内！！]]></title>
             <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ #デレミュ_ハイスクール]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18511.html</guid>
             <pubDate>Sat, 28 Mar 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/ZJQkEyJ3xFTyTkPt8I1ESx3fNXas2A1g.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[◆今週末まで！◆ 【デレミリ衣装展】公式グッズの事後販売＆開催記念グッズ販売は今週末3月29日(日)まで！！]]></title>
-            <description><![CDATA[#デレミリ衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_18538.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18538.html</guid>
-            <pubDate>Fri, 27 Mar 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/7RVziDgZbS7fsQv9ErU7xMRbFptQHbxH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズ 公式ポータルサイトを公開！]]></title>
-            <description><![CDATA[#デレマス #シンデレラガール総選挙2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_18545.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18545.html</guid>
-            <pubDate>Fri, 27 Mar 2026 06:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/03/awzJfFkO4eswccaiZMfhv4xxHTG0xzFM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[5月9日(土)、10(日)開催 「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」に関するお知らせ]]></title>
-            <description><![CDATA[#シンデレラガールズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18515.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18515.html</guid>
-            <pubDate>Fri, 27 Mar 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2021/12/29/imas_news.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
