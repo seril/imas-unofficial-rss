@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 08:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 11:50:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 08:07:09 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 11:50:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売中！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18877.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18877.html</guid>
+            <pubDate>Sun, 10 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売中！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18095.html</guid>
             <pubDate>Mon, 16 Feb 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/02/y0tVUs98Pup8NtEoMdDPy3x2mstv7gu0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】vα-liv "プロジェクト新曲"リリース決定！6thシングルのデジタルリリースの決定に876プロフェスの当日のCD販売情報も解禁！【 #ASOBINOTES 】]]></title>
-            <description><![CDATA[#ヴイアラ #876プロフェス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18188.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18188.html</guid>
-            <pubDate>Sun, 15 Feb 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/02/kwZtyv0aWckUxQW7FWRe1VsOUV2GM5rQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
