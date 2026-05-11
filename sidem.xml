@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 04:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 09:38:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 04:57:47 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 09:38:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 08 C.FIRST」CD情報！]]></title>
+            <description><![CDATA[#SideM #315ソング]]></description>
+            <link>https://idolmaster-official.jp/news/01_18875.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18875.html</guid>
+            <pubDate>Mon, 11 May 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/g0TLKbNyD4gWzrX5KoWaoezG35xTkw2K.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売中！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18414.html</guid>
             <pubDate>Fri, 27 Mar 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/NsD5v0nlhLhcKWuFbdAo7Z2i8HFpD6nq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM in K@SHIBA」実施決定！イベント詳細公開！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_18526.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18526.html</guid>
-            <pubDate>Fri, 27 Mar 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/03/UPFObSxD71jQLp8Eeoj9Xvlt4gThAw1J.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
