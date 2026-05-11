@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 13:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 16:32:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 13:47:30 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 16:32:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS 7th LIVE TOUR 螺旋 -Halo around- “The origin on the axes”」Blu-ray 【初回生産限定版】アソビストア特装版 キャンセル受付につきまして]]></title>
@@ -137,20 +137,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】『シャニマス生配信 8th Anniversary SP ～8周年の愛を込めて～』お知らせまとめ]]></title>
-            <description><![CDATA[#シャニマス生配信 #シャイニーカラーズ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18604.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18604.html</guid>
-            <pubDate>Mon, 27 Apr 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/04/BBORpJZZIgsiJblANkz1dP3oXWrMi5Wb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[ 【シャニソン】『シャニマス生配信 8th Anniversary SP ～8周年の愛を込めて～』「シャニソン」お知らせまとめ]]></title>
             <description><![CDATA[#シャニマス生配信 #シャニマス  #シャニソン #シャイニーカラーズ ]]></description>
             <link>https://idolmaster-official.jp/news/01_18602.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18602.html</guid>
             <pubDate>Mon, 27 Apr 2026 12:40:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/04/s27fRpWlTNzQRU80ep2g2ogV9jNrdkDF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】『シャニマス生配信 8th Anniversary SP ～8周年の愛を込めて～』お知らせまとめ]]></title>
+            <description><![CDATA[#シャニマス生配信 #シャイニーカラーズ #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18604.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18604.html</guid>
+            <pubDate>Mon, 27 Apr 2026 12:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/04/BBORpJZZIgsiJblANkz1dP3oXWrMi5Wb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】「【シャニマス8周年】PJ: REFRACTIONSについて語ろう！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -193,6 +193,14 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/npl1JWIi9BkEVYDSkP6hMZvd9OzcTJGW.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【〆まであと4時間!!!!】 #アイマスIWSF2026 公式グッズの事前販売は本日まで!!!!ライトなどの実物写真も公開中!!!!]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18793.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18793.html</guid>
+            <pubDate>Sun, 26 Apr 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【シャニマス∞thLIVE】DAY2ご来場・ご視聴いただきありがとうございました！！ 本日のセットリスト&告知内容まとめはこちら！]]></title>
             <description><![CDATA[#シャニマス8th_day2 #シャニマス #シャイニーカラーズ]]></description>
             <link>https://idolmaster-official.jp/news/01_18730.html</link>
@@ -215,14 +223,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18792.html</guid>
             <pubDate>Sun, 26 Apr 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/04/W8jGrqEerQJMioRQZXVT7GtWiJTqX1xG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【〆まであと4時間!!!!】 #アイマスIWSF2026 公式グッズの事前販売は本日まで!!!!ライトなどの実物写真も公開中!!!!]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18793.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18793.html</guid>
-            <pubDate>Sun, 26 Apr 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【あと６時間！！！】 #アイマスIWSF2026 公式グッズの事前販売は本日まで！！！ライトなどの実物写真も公開中！！]]></title>
