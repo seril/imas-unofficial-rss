@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 04:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 May 2026 08:39:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 04:34:52 GMT</pubDate>
+        <pubDate>Tue, 12 May 2026 08:39:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【受注は本日まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売は本日まで！]]></title>
+            <description><![CDATA[#カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18902.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18902.html</guid>
+            <pubDate>Tue, 12 May 2026 07:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】生配信『シンデレラガール総選挙2026 詳細発表生配信！』が5/21(木)19:00より配信決定！]]></title>
             <description><![CDATA[#シンデレラガール総選挙2026 #CG総選挙2026詳細発表 #デレマス ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18566.html</guid>
             <pubDate>Thu, 02 Apr 2026 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/KrIA9ihLTYdYYrblL8jotVaieZtUji4D.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター英語版公式Xアカウント開設！｜The official English account of THE IDOLM@STER opens !]]></title>
-            <description><![CDATA[#アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18544.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18544.html</guid>
-            <pubDate>Mon, 30 Mar 2026 14:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/09WffJvGKCDFzPUUE6ir2UNeAz50Eyu6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
