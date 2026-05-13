@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 12 May 2026 16:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 04:43:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 May 2026 16:17:46 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 04:43:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】2周年記念グッズ受注受付中！ラインナップの一部をご紹介！受注は6/7(日)まで♪]]></title>
+            <description><![CDATA[#学マス #学マス2周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_18893.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18893.html</guid>
+            <pubDate>Wed, 13 May 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/05/XgvHFNm9zjBmjeokZDtiqELAVx2fblMc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【学マス】#もうすぐ学マス2ndアニバ ！H.I.F参戦ポスタープレゼントキャンペーン開催中！]]></title>
             <description><![CDATA[#もうすぐ学マス2ndアニバ　#学マス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18674.html</guid>
             <pubDate>Thu, 23 Apr 2026 09:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/04/GeJhS9p5lTdSksxz5SOszQeZC3FIGWKk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】4/27(月)より、学園アイドルマスター×カラオケまねきねこ コラボキャンペーン第二弾開催決定！【コラボルーム予約は4/23(木)18:00から🎤】]]></title>
-            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_18748.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18748.html</guid>
-            <pubDate>Thu, 23 Apr 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/04/oHNhOdXnvyjxyOAwebj5YH42hDtlSZNI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
