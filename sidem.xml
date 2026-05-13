@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 04:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 08:43:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 04:43:05 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 08:43:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】#アイマス20周年イヤーの思い出 写真＆映像を大募集！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー　#アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_18764.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18764.html</guid>
+            <pubDate>Wed, 13 May 2026 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/05/biIecdULDcemQdT40u1IE0lgA8uxdI7A.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【受注は本日まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売は本日まで！]]></title>
             <description><![CDATA[#カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18564.html</guid>
             <pubDate>Fri, 03 Apr 2026 02:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/03/g9K1AVBwA23Qz7Zb49TE10Vw00Dpq0mw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】【シャニマス】7月18日(土)･ 19日(日) Shibuya LOVEZにて開催！『Shibuya LOVEZ OPENING SERIES 「Lantis DAYZ」』にSideM＆シャイニーカラーズの出演が決定！！]]></title>
-            <description><![CDATA[#SideM #シャニマス #LantisDAYZ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18593.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18593.html</guid>
-            <pubDate>Fri, 03 Apr 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/VLhc3L1Vs4OhyTOKC0hCk4dw29VRopQs.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
