@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 08:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 13:10:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 08:43:27 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 13:10:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学園アイドルマスター】bilibili公式デジタルカードコレクション『甜蜜时光』発売決定！]]></title>
+            <description><![CDATA[#学マス　#学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18882.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18882.html</guid>
+            <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/xZ3X5qjkBDVPyiPOeawWAiU0mhQedMp0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学园偶像大师】bilibili官方收藏集『甜蜜时光』正式推出！ ]]></title>
+            <description><![CDATA[#学园偶像大师 #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18885.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18885.html</guid>
+            <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/cUeNL3BHSNlixZPX92P3JcSiN2NJtHrZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】#周年直前無料10連開催中 ！H.I.F参戦ポスタープレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#周年直前無料10連開催中　#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18866.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18866.html</guid>
+            <pubDate>Wed, 13 May 2026 08:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/05/whT5XlwMDyZZhVwuYWK3VzurYUECnHKe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】#アイマス20周年イヤーの思い出 写真＆映像を大募集！]]></title>
             <description><![CDATA[#アイマス20周年イヤー　#アイマスIWSF2026]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18751.html</guid>
             <pubDate>Fri, 24 Apr 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/wBEpH8kCrHWIQPToMGXWgu8wr8Q6G2CG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと２日！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18787.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18787.html</guid>
-            <pubDate>Fri, 24 Apr 2026 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「わたしが一番！」「アイドル、はじめっ！」のイラストをもとに、花海咲季と花海佑芽のプライズフィギュアが2026年4月28日より順次登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18596.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18596.html</guid>
-            <pubDate>Fri, 24 Apr 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/04/W1kLeeqcw1N3AnyLmlOBG8lxr6YpVg9i.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター 2nd Period H.I.F選抜試験(セレクション) 現地会場物販の実施が決定！整理券受付は5月6日(水・祝)23:59まで！]]></title>
-            <description><![CDATA[#学マス #学マス2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_18776.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18776.html</guid>
-            <pubDate>Fri, 24 Apr 2026 04:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/vY707vkY09zGFT6BXmtrpVahOlisb1KU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
