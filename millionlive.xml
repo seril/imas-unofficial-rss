@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 08:36:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 12:23:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 08:36:37 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 12:23:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】2026年5月25日(月)19:00～『究極Cuteな9周年直前ミリシタ生配信！』配信予定！]]></title>
+            <description><![CDATA[#ミリシタ生配信  #ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18664.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18664.html</guid>
+            <pubDate>Thu, 14 May 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/04/HH8O2BLGpap6IFrDRxPKqJeMuEeMxagE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】#アイマス20周年イヤーの思い出 写真＆映像を大募集！]]></title>
             <description><![CDATA[#アイマス20周年イヤー　#アイマスIWSF2026]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18697.html</guid>
             <pubDate>Sat, 18 Apr 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/04/QrhQ9wMF9ncce8hiwYGCt2Z56W9DT51W.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】オファマス開催中！パネルの写真投稿で、抽選で10名様に「お土産チョコ」をプレゼント！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_18677.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18677.html</guid>
-            <pubDate>Wed, 15 Apr 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/YnCdmhnvXWvNi4TxwXjRkSnm1jhNLUzL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
