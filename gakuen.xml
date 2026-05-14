@@ -4,17 +4,25 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 16:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 04:42:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 16:18:34 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 04:42:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【学マス標ツアー】 学園アイドルマスター LIVE TOUR -標- 　アソビストア一般会員先行（抽選）が本日5月14日(木)12:00よりスタート！]]></title>
+            <description><![CDATA[#学マス #標ツアー]]></description>
+            <link>https://idolmaster-official.jp/news/01_18806.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18806.html</guid>
+            <pubDate>Thu, 14 May 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/uimiSzKV6NL2unYJ4SlthQXr1srMmoIm.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学園アイドルマスター】bilibili公式デジタルカードコレクション『甜蜜时光』発売決定！]]></title>
             <description><![CDATA[#学マス　#学園アイドルマスター]]></description>
             <link>https://idolmaster-official.jp/news/01_18882.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18882.html</guid>
             <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/xZ3X5qjkBDVPyiPOeawWAiU0mhQedMp0.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/OVarB1OiBJwYmfhRx9E7P5WAD3nzx7aD.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学园偶像大师】bilibili官方收藏集『甜蜜时光』正式推出！ ]]></title>
@@ -22,7 +30,7 @@
             <link>https://idolmaster-official.jp/news/01_18885.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18885.html</guid>
             <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/cUeNL3BHSNlixZPX92P3JcSiN2NJtHrZ.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/rK5XbN4DbcHAGxC1wiRginoDEUw9zbow.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】#周年直前無料10連開催中 ！H.I.F参戦ポスタープレゼントキャンペーン開催中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18781.html</guid>
             <pubDate>Fri, 24 Apr 2026 09:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/04/QJ3ZYYtRGXOWrJ8GtVUSQ8vouHmiHXKj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【学マス】「The 2nd Period Hatsuboshi IDOL FESTIVAL」一般先着、リセールの販売が5月2日よりスタート！！]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18751.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18751.html</guid>
-            <pubDate>Fri, 24 Apr 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/wBEpH8kCrHWIQPToMGXWgu8wr8Q6G2CG.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
