@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 08:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 12:52:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 08:48:22 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 12:52:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM衣装展】入場特典&グッズ付きチケットに付属するブランケット・チェキ風カードのデザインを一部先行公開！入場チケット一般発売（先着）は5月17日(日)まで！]]></title>
+            <description><![CDATA[#SideM #SideM衣装展]]></description>
+            <link>https://idolmaster-official.jp/news/01_18920.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18920.html</guid>
+            <pubDate>Fri, 15 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/7cxlW1ML53OftoG8ly99VvfE3mtIdt0l.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】ムービックより「アイドルマスター SideM」の新商品「事務所ぬいぐるみショルダーバッグ」が登場！]]></title>
             <description><![CDATA[#SideM ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18553.html</guid>
             <pubDate>Sat, 04 Apr 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/03/Hd5vETfNSIm9NImMHkwx8A4eVObLMLOj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」　7月にお誕生日を迎えるアイドルたちのバースデー記念グッズが登場♪ 本日より受注受付スタート！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_18555.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18555.html</guid>
-            <pubDate>Fri, 03 Apr 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/iMlRaYeQCBdRvcv4eXPMJc9sYOoIsGFu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
