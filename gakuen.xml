@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 16:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 04:49:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 16:08:35 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 04:49:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【学マス】#学マスアニバあと2日 ！H.I.F参戦ポスタープレゼントキャンペーン開催中！]]></title>
@@ -153,20 +153,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/05/WYWj7gLftW6DeDZ0gAHhGCT0tGFfLeGv.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】【学マス】学園アイドルマスター The 2nd Period H.I.F選抜試験(セレクション) ばくすて！とーく 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #学マス2nd #アイマスch_ばくすて]]></description>
-            <link>https://idolmaster-official.jp/news/01_18799.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18799.html</guid>
-            <pubDate>Fri, 08 May 2026 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/04/wvRNu3Zp2R94EOHPeBnaYEzZLxVHyP4v.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【YouTube】【#APラウンジ】「【学マス】祝2周年！「H.I.F編」で月村手毬さんをプロデュース！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #APラウンジ #学マス]]></description>
             <link>https://idolmaster-official.jp/news/01_18582.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18582.html</guid>
             <pubDate>Fri, 08 May 2026 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/ySRKQktfRcrE1H5IrICYEDCMy0s7Q9SV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【学マス】学園アイドルマスター The 2nd Period H.I.F選抜試験(セレクション) ばくすて！とーく 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #学マス2nd #アイマスch_ばくすて]]></description>
+            <link>https://idolmaster-official.jp/news/01_18799.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18799.html</guid>
+            <pubDate>Fri, 08 May 2026 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/04/wvRNu3Zp2R94EOHPeBnaYEzZLxVHyP4v.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】"ジョイフルマーチング"ちびぐるみvol.3が5月12日、vol.4が5月14日より全国のクレーンゲームに順次登場！]]></title>
