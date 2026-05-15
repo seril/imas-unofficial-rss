@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 04:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 08:48:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 04:49:43 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 08:48:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【トイボ公演🎀お知らせ】『Pop'n ToyBox!!』公式グッズ事前販売が本日よりスタート！全員を個別に応援できる新機構のライトも登場！受注は5月24日(日)まで！]]></title>
@@ -153,20 +153,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/04/S3ScZ1aIO7af1t7Hm7oXbOd14nzW5sBa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】東京都町田市の「ふたマス!!!!!!グッズ」が6月6日より販売スタート！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18826.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18826.html</guid>
-            <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/llGEMHBGZ6EfSSp2Bdxgt5rumwN4lcj5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】現地チケット・5/10(日) 見切れ席 一般販売2次(先着)＆当日券の販売が決定！一般販売2次(先着)は5/2(土)13:00よりスタート！]]></title>
             <description><![CDATA[#デレミュ #デレミュ_ハイスクール #シンデレラガールズ #デレマス]]></description>
             <link>https://idolmaster-official.jp/news/01_18817.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18817.html</guid>
             <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/aLzCsSUYFU51QjNWMD9cAUgDlZGNzQMO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【アイマス20周年イヤー】東京都町田市の「ふたマス!!!!!!グッズ」が6月6日より販売スタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18826.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18826.html</guid>
+            <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/llGEMHBGZ6EfSSp2Bdxgt5rumwN4lcj5.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></title>
