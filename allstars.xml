@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 11:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 14:55:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 11:50:54 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 14:55:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【EN】​​​​​​​Thank you for attending Anime Central 2026 DAY1! 765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS  & Miki Hoshii SOLO SHOWCASE「THE FUTURE SPOTLIGHT」]]></title>
+            <description><![CDATA[#AnimeCentral #ACen2026 #MIKI_USA_LIVE]]></description>
+            <link>https://idolmaster-official.jp/news/01_18930.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18930.html</guid>
+            <pubDate>Sat, 16 May 2026 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/LSDgv6HJRpmZvEwupgwu54Ll4gp3yoYM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【EN】THE IDOLM@STER Giveaway campaign! ​​​​​​​Post your memories of THE IDOLM@STER!]]></title>
             <description><![CDATA[#AnimeCentral #ACen2026 #MyIdolmasterStory]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18543.html</guid>
             <pubDate>Thu, 26 Mar 2026 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/03/x4ogpkHzLevdm8VtxeRanvjNerTf6rOJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS confirmed to perform in Chicago and the Midwest’s biggest Japanese Pop Culture event “Anime Central 2026”!]]></title>
-            <description><![CDATA[#AnimeCentral #ACen2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_18512.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18512.html</guid>
-            <pubDate>Wed, 25 Mar 2026 14:11:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/03/6ESZgrAPw7lMtMahTEgjkatbUwH5QPNQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

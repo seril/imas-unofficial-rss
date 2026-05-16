@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 11:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 14:55:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 11:50:54 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 14:55:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【EN】​​​​​​​Thank you for attending Anime Central 2026 DAY1! 765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS  & Miki Hoshii SOLO SHOWCASE「THE FUTURE SPOTLIGHT」]]></title>
+            <description><![CDATA[#AnimeCentral #ACen2026 #MIKI_USA_LIVE]]></description>
+            <link>https://idolmaster-official.jp/news/01_18930.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18930.html</guid>
+            <pubDate>Sat, 16 May 2026 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/LSDgv6HJRpmZvEwupgwu54Ll4gp3yoYM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【EN】THE IDOLM@STER Giveaway campaign! ​​​​​​​Post your memories of THE IDOLM@STER!]]></title>
             <description><![CDATA[#AnimeCentral #ACen2026 #MyIdolmasterStory]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18417.html</guid>
             <pubDate>Fri, 03 Apr 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2025/12/9lZUWXKObc5IOI9XLEuxF19Qibn94j6g.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デニム衣装に身を包んだK.B.B.Bの新商品がeeo Store 池袋本店で発売決定！]]></title>
-            <description><![CDATA[#デレマス #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_18262.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18262.html</guid>
-            <pubDate>Fri, 03 Apr 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/02/vulM6ZEMYj9QjtSSOgR2qmdPwqZdZgQn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

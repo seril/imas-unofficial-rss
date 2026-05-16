@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 11:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 14:55:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 11:50:54 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 14:55:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【EN】​​​​​​​Thank you for attending Anime Central 2026 DAY1! 765PRO ALLSTARS and THE IDOLM@STER CINDERELLA GIRLS  & Miki Hoshii SOLO SHOWCASE「THE FUTURE SPOTLIGHT」]]></title>
+            <description><![CDATA[#AnimeCentral #ACen2026 #MIKI_USA_LIVE]]></description>
+            <link>https://idolmaster-official.jp/news/01_18930.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18930.html</guid>
+            <pubDate>Sat, 16 May 2026 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/LSDgv6HJRpmZvEwupgwu54Ll4gp3yoYM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」8月にお誕生日を迎えるアイドルたちのバースデー記念グッズの受注は明日5月17日(日)まで！！！]]></title>
             <description><![CDATA[#SideM #アソビストア]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_18877.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18877.html</guid>
             <pubDate>Sun, 10 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売中！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18876.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18876.html</guid>
-            <pubDate>Sat, 09 May 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
