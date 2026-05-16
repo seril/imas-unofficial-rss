@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 08:04:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 11:50:54 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 08:04:09 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 11:50:54 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【SideM】バースデー記念グッズ「Supreme 49 Cakes!!!」8月にお誕生日を迎えるアイドルたちのバースデー記念グッズの受注は明日5月17日(日)まで！！！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_18832.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18832.html</guid>
+            <pubDate>Sat, 16 May 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/OSgAP1n40NqFnQ9FW7ApzstiEADPMiX4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[※明日まで！※【シャニマス】「THE IDOLM@STER SHINY COLORS ORIGINAL SOUNDTRACK vol.2」がASOBI STOREで受注中！受注は明日5月17日(日)まで！！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18911.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18911.html</guid>
+            <pubDate>Sat, 16 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/1EEe3q5rgv0P5pUfTj85eWpYCsUimddG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[◆明日まで◆【シャニマス∞th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」開催記念グッズの受注は明日5月17日(日)まで！！]]></title>
             <description><![CDATA[#シャニマス8th #シャニマス8th_day1 #シャニマス8th_day2 #シャニマス #シャイニーカラーズ]]></description>
@@ -57,6 +73,14 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/05/yQ60gqWTlxwrhYHMtw9l99BTKrFksyUX.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[明後日まで！※5/17(日)締切！※ 【ミリシタ】《SEASONAL SNAPSHOT》8月に向けて天海春香、双海真美が登場！「ひまわり畑」をイメージしたグッズが受注開始！]]></title>
+            <description><![CDATA[#ミリオンシーズナル8月]]></description>
+            <link>https://idolmaster-official.jp/news/01_18795.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18795.html</guid>
+            <pubDate>Fri, 15 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/6nkb2A9i9siHoNuikVs8AtcGjpLLOAVC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【SideM衣装展】入場特典&グッズ付きチケットに付属するブランケット・チェキ風カードのデザインを一部先行公開！入場チケット一般発売（先着）は5月17日(日)まで！]]></title>
             <description><![CDATA[#SideM #SideM衣装展]]></description>
             <link>https://idolmaster-official.jp/news/01_18920.html</link>
@@ -71,14 +95,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18881.html</guid>
             <pubDate>Fri, 15 May 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/05/Ij9JQujsxsDeox5M9jLCxfixhFFhYpo0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[明後日まで！※5/17(日)締切！※ 【ミリシタ】《SEASONAL SNAPSHOT》8月に向けて天海春香、双海真美が登場！「ひまわり畑」をイメージしたグッズが受注開始！]]></title>
-            <description><![CDATA[#ミリオンシーズナル8月]]></description>
-            <link>https://idolmaster-official.jp/news/01_18795.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18795.html</guid>
-            <pubDate>Fri, 15 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/6nkb2A9i9siHoNuikVs8AtcGjpLLOAVC.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】ムービックより「アイドルマスター SideM」の新商品「事務所ぬいぐるみショルダーバッグ」が登場！]]></title>
@@ -265,20 +281,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/05/myTVVD5iSiM6W8ICoueOtbOj2QClA2OB.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideM衣装展】開催記念描き下ろしビジュアル一部先行公開＆追加展示衣装情報公開！入場チケット一般発売（先着）は5月17日(日)まで！]]></title>
-            <description><![CDATA[#SideM #SideM衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_18878.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18878.html</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/qnY6Pnc8vpyhDiyPRfUiFN7lNeL8IXVJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【SideM11th】「THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～」開催概要＆出演者＆チケット情報発表！！本日21:00よりアソビストアプレミアム会員先行お申込み受付開始！]]></title>
             <description><![CDATA[#SideM #SideM11th]]></description>
             <link>https://idolmaster-official.jp/news/01_18873.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18873.html</guid>
             <pubDate>Mon, 11 May 2026 11:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/5pxxIFzSmjxMcFsseg4Phdh3rudgdkOz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM衣装展】開催記念描き下ろしビジュアル一部先行公開＆追加展示衣装情報公開！入場チケット一般発売（先着）は5月17日(日)まで！]]></title>
+            <description><![CDATA[#SideM #SideM衣装展]]></description>
+            <link>https://idolmaster-official.jp/news/01_18878.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18878.html</guid>
+            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/qnY6Pnc8vpyhDiyPRfUiFN7lNeL8IXVJ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第3弾が登場！！本日よりASOBI STOREにて受注開始！！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18876.html</guid>
             <pubDate>Sat, 09 May 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】5/8(金)学マス生配信「初星学園HR 2周年目前SP」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_18708.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18708.html</guid>
-            <pubDate>Fri, 08 May 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/05/WYWj7gLftW6DeDZ0gAHhGCT0tGFfLeGv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】「【学マス】祝2周年！「H.I.F編」で月村手毬さんをプロデュース！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ #学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18582.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18582.html</guid>
-            <pubDate>Fri, 08 May 2026 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/ySRKQktfRcrE1H5IrICYEDCMy0s7Q9SV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
