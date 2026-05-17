@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 08:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 11:58:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 08:21:02 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 11:58:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年5月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_18720.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18720.html</guid>
+            <pubDate>Sun, 17 May 2026 11:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/fPjjQeEPwDEeIQXqldRTTnbHDzqG92ju.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【#学マス2nd_HIF選抜試験】「The 2nd Period H.I.F選抜試験(セレクション)」ご来場、ご視聴ありがとうございました！2日間のセットリスト＆告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#学マス2nd_HIF選抜試験DAY1 #学マス2nd_HIF選抜試験DAY2 #祝学マス2周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_18914.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18914.html</guid>
+            <pubDate>Sun, 17 May 2026 10:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/05/ojJyvNR4DPVNkFuJ8LWGceZWrCMV2QJa.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス2nd_H.I.F選抜試験】いよいよ明日！「学園アイドルマスター The 2nd Period H.I.F選抜試験(セレクション)」は5月16日(土)・5月17日(日)開催！配信視聴チケット販売中！]]></title>
             <description><![CDATA[#学マス #学マス2nd_HIF選抜試験]]></description>
@@ -65,20 +81,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/uimiSzKV6NL2unYJ4SlthQXr1srMmoIm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学園アイドルマスター】bilibili公式デジタルカードコレクション『甜蜜时光』発売決定！]]></title>
-            <description><![CDATA[#学マス　#学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_18882.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18882.html</guid>
-            <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/OVarB1OiBJwYmfhRx9E7P5WAD3nzx7aD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学园偶像大师】bilibili官方收藏集『甜蜜时光』正式推出！ ]]></title>
             <description><![CDATA[#学园偶像大师 #学マス #学園アイドルマスター]]></description>
             <link>https://idolmaster-official.jp/news/01_18885.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18885.html</guid>
             <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/rK5XbN4DbcHAGxC1wiRginoDEUw9zbow.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学園アイドルマスター】bilibili公式デジタルカードコレクション『甜蜜时光』発売決定！]]></title>
+            <description><![CDATA[#学マス　#学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18882.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18882.html</guid>
+            <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/OVarB1OiBJwYmfhRx9E7P5WAD3nzx7aD.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】#周年直前無料10連開催中 ！H.I.F参戦ポスタープレゼントキャンペーン開催中！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18815.html</guid>
             <pubDate>Tue, 28 Apr 2026 05:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/dO03FkKp9Ra5L2bOx0GhxRBp8eckP0R0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【学マス】「初星学園HR #STEP3 秦谷 美鈴」配信記念！春咲 暖さんと秦谷 美鈴のサインが入ったイラスト色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#秦谷美鈴_学マスSTEP3 #春咲暖]]></description>
-            <link>https://idolmaster-official.jp/news/01_18705.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18705.html</guid>
-            <pubDate>Mon, 27 Apr 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/04/XgCNezMkYHtTRG8AwTShn9cCjtue5BeA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】エフトイズ・コンフェクトより、キラキラ輝く「グリッター缶バッジ Howling over the World Ver.」が本日より販売！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_18123.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18123.html</guid>
-            <pubDate>Mon, 27 Apr 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/kxNE2IuUlrj0sI7e3PaVDhV0K9VxMC1x.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
