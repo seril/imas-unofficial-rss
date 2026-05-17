@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 11:58:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 14:55:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 11:58:58 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 14:55:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年5月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -113,20 +113,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/05/yQ60gqWTlxwrhYHMtw9l99BTKrFksyUX.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】つくりより「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」協賛商品の一般販売がスタート！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18881.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18881.html</guid>
-            <pubDate>Fri, 15 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/05/Ij9JQujsxsDeox5M9jLCxfixhFFhYpo0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【SideM衣装展】入場特典&グッズ付きチケットに付属するブランケット・チェキ風カードのデザインを一部先行公開！入場チケット一般発売（先着）は5月17日(日)まで！]]></title>
             <description><![CDATA[#SideM #SideM衣装展]]></description>
             <link>https://idolmaster-official.jp/news/01_18920.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18920.html</guid>
             <pubDate>Fri, 15 May 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/7cxlW1ML53OftoG8ly99VvfE3mtIdt0l.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】つくりより「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」協賛商品の一般販売がスタート！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18881.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18881.html</guid>
+            <pubDate>Fri, 15 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/05/Ij9JQujsxsDeox5M9jLCxfixhFFhYpo0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[明後日まで！※5/17(日)締切！※ 【ミリシタ】《SEASONAL SNAPSHOT》8月に向けて天海春香、双海真美が登場！「ひまわり畑」をイメージしたグッズが受注開始！]]></title>
@@ -225,20 +225,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/PirNN3L2bogQiov3GsgyhkI2HKIJ6e0P.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学園アイドルマスター】bilibili公式デジタルカードコレクション『甜蜜时光』発売決定！]]></title>
-            <description><![CDATA[#学マス　#学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_18882.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18882.html</guid>
-            <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/OVarB1OiBJwYmfhRx9E7P5WAD3nzx7aD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学园偶像大师】bilibili官方收藏集『甜蜜时光』正式推出！ ]]></title>
             <description><![CDATA[#学园偶像大师 #学マス #学園アイドルマスター]]></description>
             <link>https://idolmaster-official.jp/news/01_18885.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18885.html</guid>
             <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/rK5XbN4DbcHAGxC1wiRginoDEUw9zbow.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学園アイドルマスター】bilibili公式デジタルカードコレクション『甜蜜时光』発売決定！]]></title>
+            <description><![CDATA[#学マス　#学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18882.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18882.html</guid>
+            <pubDate>Wed, 13 May 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/05/OVarB1OiBJwYmfhRx9E7P5WAD3nzx7aD.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】#周年直前無料10連開催中 ！H.I.F参戦ポスタープレゼントキャンペーン開催中！]]></title>
