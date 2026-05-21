@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 05:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 09:39:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 05:08:26 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 09:39:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM11th】イベント公式グッズ事前販売第1弾が本日よりスタート！]]></title>
+            <description><![CDATA[#SideM #SideM11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_18933.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18933.html</guid>
+            <pubDate>Thu, 21 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/8rfzfCVY0KsbmSMTYySp8xJ8mUWhGRlO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】和歌山県白浜町の「ふたマス!!!!!!グッズ」が5月24日より販売スタート！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18942.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18942.html</guid>
+            <pubDate>Thu, 21 May 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/GqzisSXOxueVELs8yu91HvpAzRlTUxuJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM衣装展】明日5月22日(金)18：00より入場チケット一般発売2次（先着）のお申し込み受付がスタート！]]></title>
             <description><![CDATA[#SideM#SideM衣装展]]></description>
@@ -97,20 +113,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/05/myTVVD5iSiM6W8ICoueOtbOj2QClA2OB.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideM衣装展】開催記念描き下ろしビジュアル一部先行公開＆追加展示衣装情報公開！入場チケット一般発売（先着）は5月17日(日)まで！]]></title>
-            <description><![CDATA[#SideM #SideM衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_18878.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18878.html</guid>
-            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/qnY6Pnc8vpyhDiyPRfUiFN7lNeL8IXVJ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【SideM11th】「THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～」開催概要＆出演者＆チケット情報発表！！本日21:00よりアソビストアプレミアム会員先行お申込み受付開始！]]></title>
             <description><![CDATA[#SideM #SideM11th]]></description>
             <link>https://idolmaster-official.jp/news/01_18873.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18873.html</guid>
             <pubDate>Mon, 11 May 2026 11:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/5pxxIFzSmjxMcFsseg4Phdh3rudgdkOz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM衣装展】開催記念描き下ろしビジュアル一部先行公開＆追加展示衣装情報公開！入場チケット一般発売（先着）は5月17日(日)まで！]]></title>
+            <description><![CDATA[#SideM #SideM衣装展]]></description>
+            <link>https://idolmaster-official.jp/news/01_18878.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18878.html</guid>
+            <pubDate>Mon, 11 May 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/qnY6Pnc8vpyhDiyPRfUiFN7lNeL8IXVJ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第3弾が登場！！本日よりASOBI STOREにて受注開始！！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18724.html</guid>
             <pubDate>Sat, 18 Apr 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 #アイマスIWSF2026 公式グッズの事前販売がスタート！！！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18709.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18709.html</guid>
-            <pubDate>Fri, 17 Apr 2026 08:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】オファマス開催中！パネルの写真投稿で、抽選で10名様に「お土産チョコ」をプレゼント！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_18677.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18677.html</guid>
-            <pubDate>Wed, 15 Apr 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/YnCdmhnvXWvNi4TxwXjRkSnm1jhNLUzL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
