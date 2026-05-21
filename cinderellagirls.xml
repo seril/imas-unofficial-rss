@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 09:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 14:13:31 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 09:39:44 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 14:13:31 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ」 × Star Village ACHI コラボレーション2026開催！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18971.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18971.html</guid>
+            <pubDate>Thu, 21 May 2026 12:04:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/igdnrv3jLR5LlIib3IiUvcwdBDBunLBE.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「ヴァイスシュヴァルツpresents アイドルマスター シンデレラガールズ 15周年記念 POP UP SHOP in Annivroad」の開催が決定！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18970.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18970.html</guid>
+            <pubDate>Thu, 21 May 2026 12:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/hp59DJyrW8fR7yb1Av5P0xIdwns8iCF3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「シンデレラガール総選挙2026」×シナジードリンク「ASAP SYNERGY」投票券付きコラボ缶の発売が決定！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18967.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18967.html</guid>
+            <pubDate>Thu, 21 May 2026 12:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/1JOdMFomQBH8uULglKrMjCX4mXF4In2O.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『アイドルマスター シンデレラガールズ』 × 魅せるゲーミングPCメーカー「Astromeda」全190種の特別コラボレーションが決定！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18937.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18937.html</guid>
+            <pubDate>Thu, 21 May 2026 12:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/05/rcMqkER1ybB2i55DgiHVpGgFNCQR8E9l.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『シンデレラガール総選挙2026詳細発表生配信！』ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #CG総選挙2026詳細発表 #デレミュ ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18916.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18916.html</guid>
+            <pubDate>Thu, 21 May 2026 11:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/05/uMHU8N0XvG1ZaQOXOZkVcy8SuzAwOXEU.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】和歌山県白浜町の「ふたマス!!!!!!グッズ」が5月24日より販売スタート！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18734.html</guid>
             <pubDate>Sun, 19 Apr 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/04/tAdSpjdzpOyJXtWaCaa20GmUS6hKOBkP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 #アイマスIWSF2026 公式グッズが事前販売中！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18725.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18725.html</guid>
-            <pubDate>Sun, 19 Apr 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 #アイマスIWSF2026 公式グッズが事前販売中！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18724.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18724.html</guid>
-            <pubDate>Sat, 18 Apr 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 #アイマスIWSF2026 公式グッズの事前販売がスタート！！！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18709.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18709.html</guid>
-            <pubDate>Fri, 17 Apr 2026 08:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】オファマス開催中！パネルの写真投稿で、抽選で10名様に「お土産チョコ」をプレゼント！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_18677.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18677.html</guid>
-            <pubDate>Wed, 15 Apr 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/YnCdmhnvXWvNi4TxwXjRkSnm1jhNLUzL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷  続報配信決定のお知らせ！配信に向けたお便りも募集します！【生配信】]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷  続報配信決定のお知らせ！配信に向けたお便りも募集します！【生配信】]]></description>
-            <link>https://idolmaster-official.jp/news/01_18693.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18693.html</guid>
-            <pubDate>Tue, 14 Apr 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/04/otKcz33zMUVOsz8bpToYrSeTRBSCpqCB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
