@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 16:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 05:08:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 16:50:54 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 05:08:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】8月・9月お誕生日のアイドルの撮りおろしビジュアルをあしらった「283Birthday Collection」第5弾！グッズの受注がスタート♬]]></title>
+            <description><![CDATA[#283Birthday_Collection #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18947.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18947.html</guid>
+            <pubDate>Thu, 21 May 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/05/UenbxQDxICl9vc1LSOEOJbD55oK5Z3lp.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO vol.4」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18773.html</guid>
             <pubDate>Thu, 23 Apr 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/04/z5qfLOCGr8375Gd1xNEGUB9Q0opkm1n1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』に「小宮果穂」「紫雲清夏」が登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18747.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18747.html</guid>
-            <pubDate>Thu, 23 Apr 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/Ordj82OLPvGSW2s1J3QFKWy5Y9EQU5l0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
