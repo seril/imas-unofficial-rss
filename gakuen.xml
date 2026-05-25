@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 15:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 05:19:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 15:03:43 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 05:19:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】5/25(月)より、学園アイドルマスター×JOYSOUND 「ガラクタロード」リリース記念 コラボキャンペーン開催決定！]]></title>
+            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_18951.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18951.html</guid>
+            <pubDate>Mon, 25 May 2026 02:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/05/Ddgk43QK2Ix2W2gXYm1T0r9tNJ0fKfOy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】"ジョイフルマーチング"イラストのアクリルジオラマが2026年6月より全国のクレーンゲームで順次登場予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18923.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18923.html</guid>
+            <pubDate>Mon, 25 May 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/05/x4sduwQmLLp3g2jbVl3zA74kTB9R2DJj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】「学園アイドルマスター つまんでつなげてますこっと」がガシャポンに登場！✨]]></title>
             <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18716.html</guid>
             <pubDate>Fri, 01 May 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/fLVUT7jFx2UqxHRQWMx8bxH476PMXDsP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18835.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18835.html</guid>
-            <pubDate>Thu, 30 Apr 2026 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/04/M4s7JUjJfZjkFnQXbYWGE6ZMPfXSzdtK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】つくりより『THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026』協賛先行販売商品公開！]]></title>
-            <description><![CDATA[#アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_18749.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18749.html</guid>
-            <pubDate>Thu, 30 Apr 2026 08:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/T1l8zPygSpzYo7TtQB6sC6DnEhEgoIKm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
