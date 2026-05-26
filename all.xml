@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 05:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 09:55:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 05:03:04 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 09:55:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】『シャニソン 運営レター生配信』5月28日(木) 19:00より実施決定]]></title>
+            <description><![CDATA[#シャニソン #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18889.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18889.html</guid>
+            <pubDate>Tue, 26 May 2026 08:59:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/05/6C8hfDBu27NsJDBvsuSROyDp07vIaulb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「アイドルマスター シャイニーカラーズ × せいせき 40th アニバーサリー」事後通販開催中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18983.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18983.html</guid>
+            <pubDate>Tue, 26 May 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/05/vwz5lQYWiQzfSNWYgo1jc9M1tE472D6k.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】「アイドルマスター×相模原市」コラボキャンペーン～765PRO ALLSTARSと巡る宇宙のまち～開催決定！🚀✨]]></title>
             <description><![CDATA[#アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18720.html</guid>
             <pubDate>Sun, 17 May 2026 11:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/fPjjQeEPwDEeIQXqldRTTnbHDzqG92ju.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#学マス2nd_HIF選抜試験】「The 2nd Period H.I.F選抜試験(セレクション)」ご来場、ご視聴ありがとうございました！2日間のセットリスト＆告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#学マス2nd_HIF選抜試験DAY1 #学マス2nd_HIF選抜試験DAY2 #祝学マス2周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_18914.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18914.html</guid>
-            <pubDate>Sun, 17 May 2026 10:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/05/ojJyvNR4DPVNkFuJ8LWGceZWrCMV2QJa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[◇本日まで◇【シャニマス∞th】「THE IDOLM@STER SHINY COLORS ∞th LIVE iと夢」開催記念グッズの受注は本日5月17日(日)まで！！]]></title>
-            <description><![CDATA[#シャニマス8th #シャニマス8th_day1 #シャニマス8th_day2 #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18895.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18895.html</guid>
-            <pubDate>Sun, 17 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/npl1JWIi9BkEVYDSkP6hMZvd9OzcTJGW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
