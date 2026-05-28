@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 10:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 14:36:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 10:00:37 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 14:36:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【シャニマス】 283 PRODUCTION Solo Live Collection -Master ShowPiece- 公式グッズ事前販売が本日5月28日(木)よりスタート！]]></title>
@@ -15,6 +15,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19006.html</guid>
             <pubDate>Thu, 28 May 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/d5tNyIDIC0d9YSbnxNYs5BdakevZ4f5j.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】『シャニソン 運営レター生配信』情報まとめ]]></title>
+            <description><![CDATA[#シャニマス #シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_18890.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18890.html</guid>
+            <pubDate>Thu, 28 May 2026 11:09:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/9DDUIDqIEDejCOy9pNnooPDswVhonEN2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism カウントダウンラブ / KAWAII♡めたもる交響曲」発売記念イベント 会場物販のお知らせ]]></title>
@@ -281,20 +289,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】『シャニマス生配信 8th Anniversary SP ～8周年の愛を込めて～』お知らせまとめ]]></title>
-            <description><![CDATA[#シャニマス生配信 #シャイニーカラーズ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18604.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18604.html</guid>
-            <pubDate>Mon, 27 Apr 2026 12:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/04/BBORpJZZIgsiJblANkz1dP3oXWrMi5Wb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[ 【シャニソン】『シャニマス生配信 8th Anniversary SP ～8周年の愛を込めて～』「シャニソン」お知らせまとめ]]></title>
             <description><![CDATA[#シャニマス生配信 #シャニマス  #シャニソン #シャイニーカラーズ ]]></description>
             <link>https://idolmaster-official.jp/news/01_18602.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18602.html</guid>
             <pubDate>Mon, 27 Apr 2026 12:40:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/04/s27fRpWlTNzQRU80ep2g2ogV9jNrdkDF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】『シャニマス生配信 8th Anniversary SP ～8周年の愛を込めて～』お知らせまとめ]]></title>
+            <description><![CDATA[#シャニマス生配信 #シャイニーカラーズ #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18604.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18604.html</guid>
+            <pubDate>Mon, 27 Apr 2026 12:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/04/BBORpJZZIgsiJblANkz1dP3oXWrMi5Wb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】「【シャニマス8周年】PJ: REFRACTIONSについて語ろう！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_18789.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18789.html</guid>
             <pubDate>Sat, 25 Apr 2026 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと1日！！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18788.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18788.html</guid>
-            <pubDate>Sat, 25 Apr 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
