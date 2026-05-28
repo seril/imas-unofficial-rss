@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 05:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 10:00:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 05:08:01 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 10:00:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】eeo Store 池袋本店にて『下ツインテール3姉妹』の新商品が発売決定！]]></title>
+            <description><![CDATA[#デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_19008.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19008.html</guid>
+            <pubDate>Thu, 28 May 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/05/Hq9CJVdMgJo8C4NXPQvwgUvHdReM5tvu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　「DECOR@TION CAR MEETING」特典デザイン発表！IWSFプロデューサー参加型企画の応募締切は5/24(日)23:59まで！！]]></title>
             <description><![CDATA[ 【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　「DECOR@TION CAR MEETING」特典デザイン発表！IWSFプロデューサー参加型企画の応募締切は5/24(日)23:59まで！！]]></description>
@@ -265,20 +273,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/04/S3ScZ1aIO7af1t7Hm7oXbOd14nzW5sBa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】現地チケット・5/10(日) 見切れ席 一般販売2次(先着)＆当日券の販売が決定！一般販売2次(先着)は5/2(土)13:00よりスタート！]]></title>
-            <description><![CDATA[#デレミュ #デレミュ_ハイスクール #シンデレラガールズ #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18817.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18817.html</guid>
-            <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/aLzCsSUYFU51QjNWMD9cAUgDlZGNzQMO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[ 【アイマス20周年イヤー】東京都町田市の「ふたマス!!!!!!グッズ」が6月6日より販売スタート！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
             <link>https://idolmaster-official.jp/news/01_18826.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18826.html</guid>
             <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/llGEMHBGZ6EfSSp2Bdxgt5rumwN4lcj5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】現地チケット・5/10(日) 見切れ席 一般販売2次(先着)＆当日券の販売が決定！一般販売2次(先着)は5/2(土)13:00よりスタート！]]></title>
+            <description><![CDATA[#デレミュ #デレミュ_ハイスクール #シンデレラガールズ #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_18817.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18817.html</guid>
+            <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/aLzCsSUYFU51QjNWMD9cAUgDlZGNzQMO.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18710.html</guid>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/HEP5g5fdh4ViEislR1ycVlOJ1ws6ewPV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」現地チケット一般先着販売（全席指定）は4月25日(土)12:00より開始予定！同日時より「見切れ席」の先着追加販売も決定！]]></title>
-            <description><![CDATA[#デレミュ #デレミュ_ハイスクール #シンデレラガールズ #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18521.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18521.html</guid>
-            <pubDate>Mon, 20 Apr 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/6SEEzsTd1MxRhnuAoKOmKiOInZFiLjOK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
