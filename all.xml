@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 01 Jun 2026 06:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 16:36:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jun 2026 06:01:39 GMT</pubDate>
+        <pubDate>Mon, 01 Jun 2026 16:36:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ログイン限定】「ザ・ふたりトラベラー」衣装設定 公開！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_19033.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19033.html</guid>
+            <pubDate>Mon, 01 Jun 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/UvbgyManUvHvzZhrlM3yyS5lHDJkPIFs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【AP生配信】【学マス】学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL 終了後感想会 決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #AP生配信 #学マス #学マス2nd_HIF]]></description>
+            <link>https://idolmaster-official.jp/news/01_18935.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18935.html</guid>
+            <pubDate>Mon, 01 Jun 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/7PZt8eo3STFclcB83kvVPADpzyF2xv8L.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニラジHBTK】【初星学園放送部】配信プラットフォーム移管のお知らせ「アイドルマスターチャンネル」へのお引越しが決定！]]></title>
             <description><![CDATA[#シャニラジHBTK #放送部]]></description>
@@ -225,20 +241,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/eaTXLnMYcMhsKzefmGtoqJ8YvQkxdoq0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリオンライブ】『究極Cuteな9周年直前ミリシタ生配信！』お知らせまとめ]]></title>
-            <description><![CDATA[#ミリシタ　#ミリオンライブ　#ミリアニOVA]]></description>
-            <link>https://idolmaster-official.jp/news/01_18661.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18661.html</guid>
-            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/V232rYjD9yJVZ2HexGW0zYYPuQuv2iXE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリオン】「-The TIPSY Hour-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB」が6月26日（金）より開催決定！]]></title>
             <description><![CDATA[#ミリオンライブ　#ミリオンHUB3rd]]></description>
             <link>https://idolmaster-official.jp/news/01_18944.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18944.html</guid>
             <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/6Bw9oqcoJ8xr5BNDsY7wu8vvjFyGH4FC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『究極Cuteな9周年直前ミリシタ生配信！』お知らせまとめ]]></title>
+            <description><![CDATA[#ミリシタ　#ミリオンライブ　#ミリアニOVA]]></description>
+            <link>https://idolmaster-official.jp/news/01_18661.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18661.html</guid>
+            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/V232rYjD9yJVZ2HexGW0zYYPuQuv2iXE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリシタ】「#ミリシタドレスコード選考会」ASOBI STOREアンバサダー衣装コンテスト 開催！ ]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18937.html</guid>
             <pubDate>Thu, 21 May 2026 12:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/05/rcMqkER1ybB2i55DgiHVpGgFNCQR8E9l.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『シンデレラガール総選挙2026詳細発表生配信！』ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #CG総選挙2026詳細発表 #デレミュ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18916.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18916.html</guid>
-            <pubDate>Thu, 21 May 2026 11:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/05/uMHU8N0XvG1ZaQOXOZkVcy8SuzAwOXEU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM11th】イベント公式グッズ事前販売第1弾が本日よりスタート！]]></title>
-            <description><![CDATA[#SideM #SideM11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18933.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18933.html</guid>
-            <pubDate>Thu, 21 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/05/HKDo8JG1qHSiltdarT5Eh5P4oIFzVQNx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
