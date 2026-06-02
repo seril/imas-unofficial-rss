@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 02 Jun 2026 10:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jun 2026 14:51:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 02 Jun 2026 10:22:56 GMT</pubDate>
+        <pubDate>Tue, 02 Jun 2026 14:51:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.5」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18994.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18994.html</guid>
+            <pubDate>Tue, 02 Jun 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/R6IEu1aUjv1aY7ACyx6D1nT5qolpIJ1G.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[※本日まで！【シンデレラ】新グッズシリーズ「Memory Pict.」2nd Pict（高森藍子・龍崎 薫 ）が受注中です！ ୨୧]]></title>
             <description><![CDATA[#メモピク  #デレマス]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_18788.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18788.html</guid>
             <pubDate>Sat, 25 Apr 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと２日！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18787.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18787.html</guid>
-            <pubDate>Fri, 24 Apr 2026 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
