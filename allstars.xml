@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 03 Jun 2026 06:03:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 15:26:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 Jun 2026 06:03:05 GMT</pubDate>
+        <pubDate>Wed, 03 Jun 2026 15:26:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】2026年8月 双海 亜美・双海 真美 、三浦 あずさ・秋月 律子による『dual twin live tour』現地チケット アソビストア一般会員2次先行 受付開始！]]></title>
+            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
+            <link>https://idolmaster-official.jp/news/01_19041.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19041.html</guid>
+            <pubDate>Wed, 03 Jun 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/06/YX5zHYilA6dUYH33VpDcADrNV5uvqE4a.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.5」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18533.html</guid>
             <pubDate>Fri, 03 Apr 2026 06:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/04/wGbwaVg7sEN0EEMmikuYpBTs8UnT9pes.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【765】【本日4月3日(金)より！】「天海春香-THE IDOLM＠STER 20th anniversary-」のご予約受付開始！📢✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_18600.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18600.html</guid>
-            <pubDate>Fri, 03 Apr 2026 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/02/kdoATSC5HvD44I9DjpQXF3gA5O7HmRgr.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
