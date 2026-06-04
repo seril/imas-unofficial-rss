@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 05:56:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 09:58:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 05:56:07 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 09:58:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【トイボ公演🎀お知らせ】『Pop'n ToyBox!!』公式グッズ事前二次販売が本日よりスタート！受注は6月14日(日)まで！]]></title>
+            <description><![CDATA[#トイボCG #シンデレラxRライブ2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19038.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19038.html</guid>
+            <pubDate>Thu, 04 Jun 2026 09:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/kUVDWJ2L9ZQzWLGsOujKOq9UsJACS3JV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】6月4日にアーケードゲーム『アイドルマスター TOURS』5弾追加アップデート！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_18790.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18790.html</guid>
             <pubDate>Sun, 26 Apr 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと1日！！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18789.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18789.html</guid>
-            <pubDate>Sat, 25 Apr 2026 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
