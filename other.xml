@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 09:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 13:51:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 09:50:02 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 13:51:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】2026年7月1日(水) オンラインライブ「灯里愛夏 BIRTHDAY ONLINE LIVE 2026」本日より配信視聴チケット販売開始！現地ライブビューイングチケットも6月12日まで受付中！]]></title>
+            <description><![CDATA[#愛夏誕生祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19060.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19060.html</guid>
+            <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/06/iZbWiY3Gk5L4qBDINNkvCI4PbPn1gYTM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.5」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18268.html</guid>
             <pubDate>Fri, 27 Feb 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/5YXeHXDiicPulnmchQLR7exmwHRAGAId.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「"アイ"のキセキR@DIO」の配信が決定！！「MOIW2025」Blu-ray PERFECT BOXをご購入いただいた方の中から抽選で100名様を公開録音会にご招待！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18241.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18241.html</guid>
-            <pubDate>Thu, 26 Feb 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/02/dY0P10W2wCAOXyB9Bn52saRhcgNip3Wy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
