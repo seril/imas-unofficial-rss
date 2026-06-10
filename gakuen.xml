@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 09 Jun 2026 16:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jun 2026 05:17:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 09 Jun 2026 16:30:35 GMT</pubDate>
+        <pubDate>Wed, 10 Jun 2026 05:17:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】東京都町田市「ふたマス!!!!!!」ロコマンホールお披露目＆設置完了📢✨]]></title>
@@ -321,20 +321,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/05/yQ60gqWTlxwrhYHMtw9l99BTKrFksyUX.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL」 現地会場物販の実施が決定！整理券受付は5月22日(金)13：00より受付開始！]]></title>
-            <description><![CDATA[#学マス #学マス2nd]]></description>
-            <link>https://idolmaster-official.jp/news/01_18918.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18918.html</guid>
-            <pubDate>Fri, 15 May 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/KIX7sHGQoCuUfok8hW8MKVANXoaWYCG0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス】「学園アイドルマスター The 2nd Period Hatsuboshi IDOLFESTIVAL」にブシロードクリエイティブブースの出店が決定！✨]]></title>
             <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
             <link>https://idolmaster-official.jp/news/01_18770.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18770.html</guid>
             <pubDate>Fri, 15 May 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/04/MIH9uqZ243PDD1qSN98TdS4GFkHm13pM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL」 現地会場物販の実施が決定！整理券受付は5月22日(金)13：00より受付開始！]]></title>
+            <description><![CDATA[#学マス #学マス2nd]]></description>
+            <link>https://idolmaster-official.jp/news/01_18918.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18918.html</guid>
+            <pubDate>Fri, 15 May 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/KIX7sHGQoCuUfok8hW8MKVANXoaWYCG0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】#学マスアニバあと2日 ！H.I.F参戦ポスタープレゼントキャンペーン開催中！]]></title>
