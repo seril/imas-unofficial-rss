@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 05:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 10:23:50 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 05:46:58 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 10:23:50 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM衣装展】会場物販情報＆入場特典・グッズ付きチケットに付属するブランケット・チェキ風カードのデザイン公開！入場チケット販売中！]]></title>
+            <description><![CDATA[#SideM #SideM衣装展]]></description>
+            <link>https://idolmaster-official.jp/news/01_19067.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19067.html</guid>
+            <pubDate>Thu, 11 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/06/DErVRUJvYPbBrluoS7ZjAW7Wm3Aa5EAq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 09 Legenders」CD情報！]]></title>
+            <description><![CDATA[#SideM #315ソング]]></description>
+            <link>https://idolmaster-official.jp/news/01_19078.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19078.html</guid>
+            <pubDate>Thu, 11 Jun 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/dNStmGILodLqSXpJ3Q3Ndtir6p8o87RT.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】東京都町田市「ふたマス!!!!!!」ロコマンホールお披露目＆設置完了📢✨]]></title>
             <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18788.html</guid>
             <pubDate>Sat, 25 Apr 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと２日！！】 #アイマスIWSF2026 公式グッズの事前販売は4/26(日)まで！！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18787.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18787.html</guid>
-            <pubDate>Fri, 24 Apr 2026 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/Nb3PjRIycm7woK4S3pXTuuDwuGs65E9o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】アイドルマスター SideM リメンバーショットフェア第2弾＆ぱしゃこれ第10弾の詳細が解禁！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18714.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18714.html</guid>
-            <pubDate>Fri, 24 Apr 2026 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/8ri8IOlXuEzv7SS2PB4PKM8L6lyMUIjJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
