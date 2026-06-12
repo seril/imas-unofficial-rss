@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 14:35:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 05:48:38 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 14:35:28 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 05:48:38 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！ シアターデイズ×アキバ・トリム」コラボの詳細情報を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19072.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19072.html</guid>
+            <pubDate>Fri, 12 Jun 2026 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/7E1o8DuUtH6s8AXhit2zma72c7UNh0Qs.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】高級感ただようインテリア「パーソナルパブミラー」シリーズに「高坂海美」が登場！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -153,20 +161,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/V232rYjD9yJVZ2HexGW0zYYPuQuv2iXE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリシタ】「#ミリシタドレスコード選考会」ASOBI STOREアンバサダー衣装コンテスト 開催！ ]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18989.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18989.html</guid>
-            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/024/2026/05/AiOGTTq7rAWj1qjlr0KKS1lJnXfP4u9C.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリオン】「-The TIPSY Hour-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB」が6月26日（金）より開催決定！]]></title>
             <description><![CDATA[#ミリオンライブ　#ミリオンHUB3rd]]></description>
             <link>https://idolmaster-official.jp/news/01_18944.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18944.html</guid>
             <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/6Bw9oqcoJ8xr5BNDsY7wu8vvjFyGH4FC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】「#ミリシタドレスコード選考会」ASOBI STOREアンバサダー衣装コンテスト 開催！ ]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18989.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18989.html</guid>
+            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/024/2026/05/AiOGTTq7rAWj1qjlr0KKS1lJnXfP4u9C.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【生配信】THE IDOLM@STER MILLION LIVE! 14thLIVE 詳細情報発表生配信　実施決定！各種Blu-rayやカードフォリオも販売中！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18854.html</guid>
             <pubDate>Fri, 01 May 2026 09:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」YouTubeアイドルマスターチャンネルにて冒頭【無料】生配信の実施が決定！！現地チケット＆配信チケットも販売中♪]]></title>
-            <description><![CDATA[#ミリオン13th]]></description>
-            <link>https://idolmaster-official.jp/news/01_18845.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18845.html</guid>
-            <pubDate>Fri, 01 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/CzxT7HLxEojYA0hGLiZVpD7Tivhohh4x.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
