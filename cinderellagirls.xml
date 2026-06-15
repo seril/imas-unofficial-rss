@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 15:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 06:22:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 15:47:57 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 06:22:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『After20』＆『U149』の紙書籍新装版の発売決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス #After20 #U149]]></description>
+            <link>https://idolmaster-official.jp/news/01_19068.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19068.html</guid>
+            <pubDate>Mon, 15 Jun 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/0KBcmOJvHBjuVQsOGNxpy6YHVrXaWJTs.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「新潟市・佐渡市」×「アイドルマスター シンデレラガールズ」との コラボイベント“がたます”の開催が決定しました！]]></title>
+            <description><![CDATA[#imas_cg #デレマス #がたます]]></description>
+            <link>https://idolmaster-official.jp/news/01_19100.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19100.html</guid>
+            <pubDate>Mon, 15 Jun 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/G0BNhZknGkzztGUBvFRLjqv9n4a534qR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】グッズシリーズ「Memory Pict.」第3弾:｡･:*  本日より3rd Pict.（緒方智絵里・財前時子）が受注開始です！]]></title>
             <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
@@ -89,20 +105,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/M7X5Zpvdikd03waYT6gJbYSO3xVBcyP1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】本日5月30日(土)より『Pop'n ToyBox!!』アソビストア一般会員先行の受付がスタート！]]></title>
-            <description><![CDATA[#トイボCG #シンデレラxRライブ2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19004.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19004.html</guid>
-            <pubDate>Sat, 30 May 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/mciPtedlhDm50fW34fQV8BTMG4CjvxsF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[※明日まで！【シンデレラ】新グッズシリーズ「Memory Pict.」2nd Pict（高森藍子・龍崎 薫 ）が受注中です！ ˎˊ˗]]></title>
             <description><![CDATA[#メモピク  #デレマス]]></description>
             <link>https://idolmaster-official.jp/news/01_18978.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18978.html</guid>
             <pubDate>Sat, 30 May 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/M7X5Zpvdikd03waYT6gJbYSO3xVBcyP1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】本日5月30日(土)より『Pop'n ToyBox!!』アソビストア一般会員先行の受付がスタート！]]></title>
+            <description><![CDATA[#トイボCG #シンデレラxRライブ2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19004.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19004.html</guid>
+            <pubDate>Sat, 30 May 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/mciPtedlhDm50fW34fQV8BTMG4CjvxsF.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】『下ツインテール3姉妹』の新商品が本日より先行通販&店頭 受取予約の受付開始！✨]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18826.html</guid>
             <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/llGEMHBGZ6EfSSp2Bdxgt5rumwN4lcj5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】現地チケット・5/10(日) 見切れ席 一般販売2次(先着)＆当日券の販売が決定！一般販売2次(先着)は5/2(土)13:00よりスタート！]]></title>
-            <description><![CDATA[#デレミュ #デレミュ_ハイスクール #シンデレラガールズ #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_18817.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18817.html</guid>
-            <pubDate>Fri, 01 May 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/aLzCsSUYFU51QjNWMD9cAUgDlZGNzQMO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　プロデューサー参加型企画「オリジナル応援幕」＆「DECOR@TION CAR MEETING」募集決定！！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18835.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18835.html</guid>
-            <pubDate>Thu, 30 Apr 2026 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/04/M4s7JUjJfZjkFnQXbYWGE6ZMPfXSzdtK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
