@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 06:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 16:16:49 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 06:22:57 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 16:16:49 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【メン限】「若林直美さんDJデビュー！レッスンの様子を大公開！」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ミリシタ #祝ミリシタ9周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_18928.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18928.html</guid>
+            <pubDate>Mon, 15 Jun 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/tZEoXxmQKrg15kmgggIMXKSrHNIyUZyy.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン14th】『「THE IDOLM@STER MILLION LIVE! 14thLIVE」詳細情報発表生配信』お知らせまとめ]]></title>
             <description><![CDATA[#ミリオン14th]]></description>
@@ -193,20 +201,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/eaTXLnMYcMhsKzefmGtoqJ8YvQkxdoq0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリオンライブ】『究極Cuteな9周年直前ミリシタ生配信！』お知らせまとめ]]></title>
-            <description><![CDATA[#ミリシタ　#ミリオンライブ　#ミリアニOVA]]></description>
-            <link>https://idolmaster-official.jp/news/01_18661.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18661.html</guid>
-            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/V232rYjD9yJVZ2HexGW0zYYPuQuv2iXE.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリオン】「-The TIPSY Hour-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB」が6月26日（金）より開催決定！]]></title>
             <description><![CDATA[#ミリオンライブ　#ミリオンHUB3rd]]></description>
             <link>https://idolmaster-official.jp/news/01_18944.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18944.html</guid>
             <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/6Bw9oqcoJ8xr5BNDsY7wu8vvjFyGH4FC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『究極Cuteな9周年直前ミリシタ生配信！』お知らせまとめ]]></title>
+            <description><![CDATA[#ミリシタ　#ミリオンライブ　#ミリアニOVA]]></description>
+            <link>https://idolmaster-official.jp/news/01_18661.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18661.html</guid>
+            <pubDate>Mon, 25 May 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/V232rYjD9yJVZ2HexGW0zYYPuQuv2iXE.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリシタ】「#ミリシタドレスコード選考会」ASOBI STOREアンバサダー衣装コンテスト 開催！ ]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18844.html</guid>
             <pubDate>Thu, 07 May 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/Dp1uKXHTqRV5huFsdyAQ1yaMoNh9dxwD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン13th】「THE IDOLM@STER MILLION LIVE! DAY2 Grand bal masqué」ご来場・ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！！]]></title>
-            <description><![CDATA[#ミリオン13th #ミリオン13th_day2]]></description>
-            <link>https://idolmaster-official.jp/news/01_18797.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18797.html</guid>
-            <pubDate>Wed, 06 May 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/05/alE1E25HYyJ0yrWdTD0AUN1BgzUuwpfD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
