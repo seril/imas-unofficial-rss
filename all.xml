@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 06:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 15:52:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 06:33:05 GMT</pubDate>
+        <pubDate>Tue, 16 Jun 2026 15:52:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.6」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19085.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19085.html</guid>
+            <pubDate>Tue, 16 Jun 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/b06JulbuWSWU47BDuuUWMsobQFtbGw5W.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【メン限】「若林直美さんDJデビュー！レッスンの様子を大公開！」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ミリシタ #祝ミリシタ9周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_18928.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18928.html</guid>
+            <pubDate>Mon, 15 Jun 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/tZEoXxmQKrg15kmgggIMXKSrHNIyUZyy.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター まちぼうけ3」がガシャポンに登場！]]></title>
+            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19130.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19130.html</guid>
+            <pubDate>Tue, 16 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/miTpddqCjJcIk8pAgQYHwKcu37KFMK9W.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！×KARATEZ SPECIAL COLLABORATION」の詳細解禁🎤✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19124.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19124.html</guid>
+            <pubDate>Tue, 16 Jun 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/02gRuv1LLDjL05KaQfWw5YXYVwxKEcRD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～INVISIBLE LIGHT～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -47,14 +79,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19108.html</guid>
             <pubDate>Mon, 15 Jun 2026 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/06/eipyuE59N4GyV6JzLzYJpU6E3bEC15HX.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【メン限】「若林直美さんDJデビュー！レッスンの様子を大公開！」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ミリシタ #祝ミリシタ9周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_18928.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18928.html</guid>
-            <pubDate>Mon, 15 Jun 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/tZEoXxmQKrg15kmgggIMXKSrHNIyUZyy.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】　POP UP SHOP A MAGICAL CHEERS✨15thプロデューサー証風カード受注受付中✨6月19日(金)17:00まで！]]></title>
@@ -273,20 +297,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/hukdbgcfZK6WuSWzdUl3INHBbXrSymuA.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」現地チケット一般販売（先着）は6月13日(土)12:00より開始予定！同日時より「見切れ席」の先着追加販売も決定！]]></title>
-            <description><![CDATA[ #シンデレラガールズ #デレミュ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19065.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19065.html</guid>
-            <pubDate>Tue, 09 Jun 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/h5oAewJAElzejGacCn0iW7qRqLX4jEPf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス】カップケーキ姿がかわいい手のひらサイズのマスコット『カップケーキたぴぬい Vol.1＆Vol.2』が新登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
             <link>https://idolmaster-official.jp/news/01_19012.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19012.html</guid>
             <pubDate>Tue, 09 Jun 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/SyQgTZSMIsKvTAhY289EyPFAadPSP5tY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」現地チケット一般販売（先着）は6月13日(土)12:00より開始予定！同日時より「見切れ席」の先着追加販売も決定！]]></title>
+            <description><![CDATA[ #シンデレラガールズ #デレミュ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19065.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19065.html</guid>
+            <pubDate>Tue, 09 Jun 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/h5oAewJAElzejGacCn0iW7qRqLX4jEPf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 学マス 】‎初星学園 H.I.F Memorial Single「ガラクタロード」 予約受付中！ ボーナストラックが付属するASOBI STORE特装盤の予約は6/9(火)まで！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19020.html</guid>
             <pubDate>Fri, 05 Jun 2026 10:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/H8A2sb1hGHXU2kQCAtAxXth0e08xyXQs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「No 1 feel alone」 POP UP SHOP『PULSE COLLECTION』がSHIBUYA109渋谷店で開催決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19052.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19052.html</guid>
-            <pubDate>Fri, 05 Jun 2026 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/L0r2II1gXWbYPgRr4djao1p6XN0ioRd6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「-The TIPSY Hour-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB」が6月26日（金）より開催！ 6月8日12時より予約開始🍺メニュー・グッズ情報も公開♪]]></title>
-            <description><![CDATA[#ミリオンライブ　#ミリオンHUB]]></description>
-            <link>https://idolmaster-official.jp/news/01_19048.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19048.html</guid>
-            <pubDate>Fri, 05 Jun 2026 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/6Bw9oqcoJ8xr5BNDsY7wu8vvjFyGH4FC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」公式グッズの数量限定販売が本日よりスタート！！]]></title>
-            <description><![CDATA[#シンデレラガールズ #デレミュ #デレミュ_オブザデッド #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19040.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19040.html</guid>
-            <pubDate>Fri, 05 Jun 2026 09:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/SOyHdF3JZlN6QFsLeNciy2SCoL4o93OL.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

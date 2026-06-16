@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Jun 2026 06:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jun 2026 15:52:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Jun 2026 06:33:05 GMT</pubDate>
+        <pubDate>Tue, 16 Jun 2026 15:52:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.6」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19085.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19085.html</guid>
+            <pubDate>Tue, 16 Jun 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/b06JulbuWSWU47BDuuUWMsobQFtbGw5W.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】「No 1 feel alone」 POP UP SHOP『PULSE COLLECTION』イベント詳細公開！]]></title>
             <description><![CDATA[#シャニマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18679.html</guid>
             <pubDate>Wed, 29 Apr 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/04/F1Bkk1Zh3NNWrFDtfCKetyEvngh1Zb4B.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7th LIVE TOUR Blu-ray「早期予約者限定」先行に関するお詫びと訂正のご案内]]></title>
-            <description><![CDATA[#シャニマス  #シャイニーカラーズ ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18819.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18819.html</guid>
-            <pubDate>Tue, 28 Apr 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
