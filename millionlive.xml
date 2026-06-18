@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 10:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 14:09:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 10:19:46 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 14:09:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【ミリオン】「アイドルマスター ミリオンライブ！シアターデイズ×アトレ秋葉原」物販・特典・フードの情報を公開！]]></title>
@@ -193,20 +193,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/fNf5CWhSqyqdJTbJjbAyU05LEnaeqwgR.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターチーム～飛べない僕は泳いだ～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ #ミリアニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19007.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19007.html</guid>
-            <pubDate>Sun, 31 May 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/05/L1yDgPb8klIssdhlhSRlBD3UTgrcF1HH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリシタ】ASOBI STOREでロケットスタート！9周年記念でミリオンジュエルが最大17.5%増量！]]></title>
             <description><![CDATA[#ミリシタ #アソビストアでロケットスタート]]></description>
             <link>https://idolmaster-official.jp/news/01_19009.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19009.html</guid>
             <pubDate>Sun, 31 May 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/05/FmKYfhimrYn83oA8IfqA59eVusSzSNrh.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターチーム～飛べない僕は泳いだ～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリアニ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19007.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19007.html</guid>
+            <pubDate>Sun, 31 May 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/05/L1yDgPb8klIssdhlhSRlBD3UTgrcF1HH.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオン】アイドルマスター ミリオンライブ！ シアターデイズ 9th Anniversary in AKIHABARA ～秋葉原っぱフェスティバル～ 開催決定！✨]]></title>
@@ -278,7 +278,7 @@
             <link>https://idolmaster-official.jp/news/01_18960.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18960.html</guid>
             <pubDate>Sun, 24 May 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/05/FHZo2J6bj5oF0dWPOmLdnFPEIq68eTlI.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/06/jbv3ix6QWRR4I24pPcp4mk0TeDaq144Y.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[◇本日まで！◇【ミリオン13th】「THE IDOLM@STER MILLION LIVE! 13thLIVE」開催記念グッズの受注は本日5月24日(日)まで！]]></title>
