@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 05:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 10:19:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 05:54:48 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 10:19:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】【明日6月19日（金）から！】「アイドルマスター×相模原市」コラボキャンペーン～765PRO ALLSTARSと巡る宇宙のまち～　開催🚀✨]]></title>
+            <description><![CDATA[#アイドルマスター #相模原765ASコラボ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19129.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19129.html</guid>
+            <pubDate>Thu, 18 Jun 2026 09:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/hukdbgcfZK6WuSWzdUl3INHBbXrSymuA.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】ぷよぷよ!!クエスト×アイドルマスター　コラボイラストグッズがぷよクエカフェ2026にて販売決定！]]></title>
             <description><![CDATA[【765】ぷよぷよ!!クエスト×アイドルマスター　コラボイラストグッズがぷよクエカフェ2026にて販売決定！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18710.html</guid>
             <pubDate>Tue, 21 Apr 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/HEP5g5fdh4ViEislR1ycVlOJ1ws6ewPV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 最新情報!!⫷　DAY1コレオチーム、DAY2バンドチームを発表！公演スポンサーも決定！現地チケットのアソビストア一般会員先行も受付中！]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 最新情報!!⫷　DAY1コレオチーム、DAY2バンドチームを発表！公演スポンサーも決定！現地チケットのアソビストア一般会員先行も受付中！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18735.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18735.html</guid>
-            <pubDate>Sun, 19 Apr 2026 14:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/04/j104zLGi14lukVAlWIMS6LL0GB9vwV0S.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
