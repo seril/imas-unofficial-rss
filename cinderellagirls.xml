@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 06:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 14:11:59 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 06:19:25 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 14:11:59 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19042.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19042.html</guid>
+            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/7VJCfUIS9RBkhMzrV1zQnKdqB76eDIP1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
+            <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19117.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19117.html</guid>
+            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/5gXUtjyTQB0FQBsnC06kmsKmAXQMN5Jq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」配信チケットの販売がスタート！！ミュージカル冒頭の無料生配信や振り返りラジオ配信も実施予定♬]]></title>
             <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_デレオブザデッド #デレミュ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18862.html</guid>
             <pubDate>Fri, 08 May 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/V98ESZn7aK8ZseAjLCwF3PU3lcenAwYe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『デレステ10thツアー Let’s AMUSEMENT!!!@OKINAWA＆FUKUOKA』Blu-rayの受注がスタート！！アソビストア版のご予約は6月21日(日)まで！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18861.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18861.html</guid>
-            <pubDate>Fri, 08 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/05/613w2q0l0jFXsTxjDFMuKmX6DcjsW37I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】新グッズシリーズ「Memory Pict.」第2弾:｡･:*  本日より2nd Pict.（高森藍子・龍崎 薫）が受注開始です！]]></title>
-            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_18860.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18860.html</guid>
-            <pubDate>Fri, 08 May 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/EUODuJmGHwX5Z9aatT4CG2MVt2Z4pIZl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
