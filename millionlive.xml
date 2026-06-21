@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 06:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 13:05:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 06:00:44 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 13:05:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 現地チケット <立見指定・ステージサイド席>先着販売とリセールの実施が決定！先着販売は6月27日(土)昼12時より受付開始！]]></title>
@@ -15,14 +15,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19179.html</guid>
             <pubDate>Sat, 20 Jun 2026 04:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/D4NiTpRvVNQZQ1gaFAO9M784ho8F79ns.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
-            <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19117.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19117.html</guid>
-            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/5gXUtjyTQB0FQBsnC06kmsKmAXQMN5Jq.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></title>
@@ -39,6 +31,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19028.html</guid>
             <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/zADTj5h6nZqiFYJwAAmplmsw2b6AKBOZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
+            <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19117.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19117.html</guid>
+            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/5gXUtjyTQB0FQBsnC06kmsKmAXQMN5Jq.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【ミリシタ】『祝9周年！Pたちの仁義なき闘い🔥』配信のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -105,20 +105,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/06/WmgZkawIWMEP7E5Q6OU7KzsxSBsp1qLN.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」プロデューサー参加型企画開催決定！主演アイドルに歌唱してほしい楽曲やキャッチフレーズを大募集！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19074.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19074.html</guid>
-            <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/18aTRpxP6PJw98M3XArDxiUwiT7aTdQj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリオン14th】『「THE IDOLM@STER MILLION LIVE! 14thLIVE」詳細情報発表生配信』お知らせまとめ]]></title>
             <description><![CDATA[#ミリオン14th]]></description>
             <link>https://idolmaster-official.jp/news/01_19103.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19103.html</guid>
             <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/005/2026/06/WvpErkPQBZF2Oic29H2TRxYqUFGGFlaV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」プロデューサー参加型企画開催決定！主演アイドルに歌唱してほしい楽曲やキャッチフレーズを大募集！]]></title>
+            <description><![CDATA[#ミリオン14th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19074.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19074.html</guid>
+            <pubDate>Sat, 13 Jun 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/18aTRpxP6PJw98M3XArDxiUwiT7aTdQj.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオン】ミリオン商事株式会社よりミリシタ９周年をお祝いしたシャンパン・関連グッズが発売！試飲会の開催も決定！]]></title>
