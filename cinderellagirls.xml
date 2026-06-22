@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 06:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 15:50:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 06:28:42 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 15:50:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年6月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_19098.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19098.html</guid>
+            <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/7C1Tkf7HElIEiOw68OmAUiW4XszAbvPl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」会場物販の実施が決定！！グッズ販売コーナーの整理券の抽選お申し込みは6月25日(木)まで受付中！！]]></title>
             <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_デレオブザデッド #デレミュ]]></description>
@@ -385,14 +393,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/7T6QYtOAeinqoJvbSMVSOSzSz7qQsr3M.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」全公演ありがとうございました！セットリストとお知らせを公開♪]]></title>
-            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ #デレミュ_ハイスクール #デレミュハイスクール_観劇レポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_18827.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18827.html</guid>
-            <pubDate>Sun, 10 May 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/05/WWAFTVKMElI6gVHeadfZDgaRw03mZ41B.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」開催記念グッズ販売が開始！！高級ピンズやイラストレーターコラボSDをお見逃しなく♪]]></title>
             <description><![CDATA[ #シンデレラガールズ #デレミュ_ハイスクール #デレマス]]></description>
             <link>https://idolmaster-official.jp/news/01_18869.html</link>
@@ -401,12 +401,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/05/ZEI8edaefQh2tXIMk3tiSpVUcOfKY5au.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売中！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18877.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18877.html</guid>
-            <pubDate>Sun, 10 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL STARLIGHT HIGH SCHOOL!」全公演ありがとうございました！セットリストとお知らせを公開♪]]></title>
+            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ #デレミュ_ハイスクール #デレミュハイスクール_観劇レポート]]></description>
+            <link>https://idolmaster-official.jp/news/01_18827.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18827.html</guid>
+            <pubDate>Sun, 10 May 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/05/WWAFTVKMElI6gVHeadfZDgaRw03mZ41B.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
