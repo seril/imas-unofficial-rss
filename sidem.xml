@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jun 2026 16:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 05:08:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jun 2026 16:23:22 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 05:08:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026 已經決定在香港・臺灣進行現場直播！！ #アイマスIWSF2026]]></title>
+            <description><![CDATA[THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026 已經決定在香港・臺灣進行現場直播！！ #アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19225.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19225.html</guid>
+            <pubDate>Fri, 26 Jun 2026 04:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/nc9ok6nzlYXWm5KAVpd2Z5bQGHZB0lUI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 全国映画館にてライブビューイングの実施が決定！先行販売を6月27日(土)昼12時より受付開始！]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 全国映画館にてライブビューイングの実施が決定！先行販売を6月27日(土)昼12時より受付開始！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19224.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19224.html</guid>
+            <pubDate>Fri, 26 Jun 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/YPe2m26Mk3xwtdHhAzDMyGFf9j0qiK6k.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【SideM衣装展】会場物販全アイテムのデザイン公開！入場チケット販売中！]]></title>
             <description><![CDATA[#SideM #SideM衣装展]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18876.html</guid>
             <pubDate>Sat, 09 May 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】THE IDOLM@STER SideM TRANSCENDENT T@LESリリース記念グッズ第2弾発売決定！]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18715.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18715.html</guid>
-            <pubDate>Fri, 08 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM TRANSCENDENT T@LES 10」CD情報！]]></title>
-            <description><![CDATA[#SideM #315ソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_18864.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18864.html</guid>
-            <pubDate>Fri, 08 May 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/bp1E06ur9SFzg1pdmbR05yupHdrYjECw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
