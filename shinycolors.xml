@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 26 Jun 2026 09:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jun 2026 13:10:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 26 Jun 2026 09:26:32 GMT</pubDate>
+        <pubDate>Fri, 26 Jun 2026 13:10:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 続報配信VOL.2の実施決定！関連情報を一気にお知らせ！7月8日(水)20:00より放送開始！【生配信】]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 続報配信VOL.2の実施決定！関連情報を一気にお知らせ！7月8日(水)20:00より放送開始！【生配信】]]></description>
+            <link>https://idolmaster-official.jp/news/01_19226.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19226.html</guid>
+            <pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/HhCl2iJZbIiFuzji4yFA67v21glfALej.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】 283 PRODUCTION Solo Live Collection -Master ShowPiece- の公演キービジュアルを公開！アソビストア一般会員先行が6/27(土)よりスタート！]]></title>
             <description><![CDATA[#シャニマスソロライブMSP #シャニマス #シャイニーカラーズ]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_18877.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18877.html</guid>
             <pubDate>Sun, 10 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【5/12(火)まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売中！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18876.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18876.html</guid>
-            <pubDate>Sat, 09 May 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
