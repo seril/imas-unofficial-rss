@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 13:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 16:21:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 13:08:29 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 16:21:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『CG総選挙ST@TION ～ミッション開始直前SP！～』ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #CG総選挙STATION #デレミュ #トイボCG #デレマス #メモピク]]></description>
+            <link>https://idolmaster-official.jp/news/01_19209.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19209.html</guid>
+            <pubDate>Tue, 30 Jun 2026 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/MEnjalZqm9HOO6Bvwj5QajcwZdRed67u.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】7月19日（日）より「ワンステップス」×「& Yogurt（アンドヨーグルト）」コラボキャンペーンが開催決定！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19247.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19247.html</guid>
+            <pubDate>Tue, 30 Jun 2026 13:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/Y0RvKqEBS63JdXpQDYnefuKb7YfEvBRO.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】ミズノスポーツサービス株式会社が「シンデレラガール総選挙2026」のスポンサーに決定！記念商品の販売は7月11日(土)から♪サッカー(フットサル)の体験プログラムも開催決定！]]></title>
             <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19196.html</guid>
             <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/ivJsQJHYPBBGZRdn9wsNUaKNsvzLrW1u.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】7月1日(水)より「学園アイドルマスター COLLABORATION CAFE～Deep Marine Stage～」が順次開催！🫧]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19193.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19193.html</guid>
-            <pubDate>Wed, 24 Jun 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/9DpocvXkqEDmk9XxsSIrpdMOysvBe3sl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオンライブ】『ミリシタ9周年生配信 Ultimate Party Night！@namco TOKYO』開催記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
-            <description><![CDATA[#ミリシタ9周年Party]]></description>
-            <link>https://idolmaster-official.jp/news/01_19172.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19172.html</guid>
-            <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/06/MYABMP4bw6VhyltTUxEc0MRZC4FXD0rj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
