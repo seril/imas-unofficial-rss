@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 05:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 09:34:53 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 05:02:45 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 09:34:53 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】北海道鹿追町「ふたマス!!!!!!」担当アイドルが倉本千奈に決定！！📢✨その他詳細情報も公開！！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19128.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19128.html</guid>
+            <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/7bvgQbrC5pdJsgioRUw68GxGDWXLIn17.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター POP UP SHOP in 有楽町マルイが開催決定！店頭受注も実施決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19195.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19195.html</guid>
+            <pubDate>Tue, 30 Jun 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/hTJJ1RdhOpkWqb921EYpdcrcgGSRqytR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】SEA BREEZEコラボキャンペーン開催！「瞬間クールに、もっと輝け！」]]></title>
             <description><![CDATA[#シーブリーズ学マスコラボ #学マス ＃学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19039.html</guid>
             <pubDate>Tue, 02 Jun 2026 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/msD1hpcgLoy6uIletSivAEaqcmkCDm66.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【AP生配信】【学マス】学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL 終了後感想会 決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #AP生配信 #学マス #学マス2nd_HIF]]></description>
-            <link>https://idolmaster-official.jp/news/01_18935.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18935.html</guid>
-            <pubDate>Mon, 01 Jun 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/7PZt8eo3STFclcB83kvVPADpzyF2xv8L.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニラジHBTK】【初星学園放送部】配信プラットフォーム移管のお知らせ「アイドルマスターチャンネル」へのお引越しが決定！]]></title>
-            <description><![CDATA[#シャニラジHBTK #放送部]]></description>
-            <link>https://idolmaster-official.jp/news/01_18999.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18999.html</guid>
-            <pubDate>Mon, 01 Jun 2026 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/06/ohHFZzY6jExSNmyoqrVOX7QWfBpNCU4O.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
