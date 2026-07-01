@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 13:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 16:25:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 13:33:01 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 16:25:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【オファマス】終了まであと少し！パネルの写真投稿で、抽選で10名様に「お出かけセット」をプレゼント！]]></title>
@@ -289,20 +289,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/3bk6hJcn4l9Tw14jUKnZPhJynTT0H1AY.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学マス】カップケーキ姿がかわいい手のひらサイズのマスコット『カップケーキたぴぬい Vol.1＆Vol.2』が新登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19012.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19012.html</guid>
-            <pubDate>Tue, 09 Jun 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/SyQgTZSMIsKvTAhY289EyPFAadPSP5tY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【 学マス 】‎初星学園 H.I.F Memorial Single「ガラクタロード」 予約受付中！ ボーナストラックが付属するASOBI STORE特装盤の予約は6/9(火)まで！]]></title>
             <description><![CDATA[#学マス ]]></description>
             <link>https://idolmaster-official.jp/news/01_19070.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19070.html</guid>
             <pubDate>Tue, 09 Jun 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/06/3cvNwUq05iMTYrENm6fA5n3dEoNwgcIh.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】カップケーキ姿がかわいい手のひらサイズのマスコット『カップケーキたぴぬい Vol.1＆Vol.2』が新登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19012.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19012.html</guid>
+            <pubDate>Tue, 09 Jun 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/SyQgTZSMIsKvTAhY289EyPFAadPSP5tY.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ 【学マス】学園アイドルマスターThe 2nd Period Hatsuboshi IDOL FESTIVAL 視聴コメント付きアーカイブが本日より配信開始！アンケートも実施中！]]></title>
@@ -361,20 +361,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/05/4NmsgkjYtolifAGqMBzq2ZRvZeazlsJJ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイマス20周年イヤー】和歌山県白浜町の「ふたマス!!!!!!」に新グッズが登場！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19050.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19050.html</guid>
-            <pubDate>Fri, 05 Jun 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/4hYkT3UYF0D1w5M5DUd2xMMAAYw40Zcm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス】『学園アイドルマスター』ビックカメラグループグッズフェアが、本日6月5日(金)より開催！【📢6月21日(日)まで】]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
             <link>https://idolmaster-official.jp/news/01_19051.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19051.html</guid>
             <pubDate>Fri, 05 Jun 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/9w4OegRZ4Odcpodd4uGlQK8Li2fZ5rec.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】和歌山県白浜町の「ふたマス!!!!!!」に新グッズが登場！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19050.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19050.html</guid>
+            <pubDate>Fri, 05 Jun 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/4hYkT3UYF0D1w5M5DUd2xMMAAYw40Zcm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】6月4日にアーケードゲーム『アイドルマスター TOURS』5弾追加アップデート！]]></title>
