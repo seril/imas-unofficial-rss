@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 09:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 13:33:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 09:45:41 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 13:33:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】灯里愛夏バースデー記念グッズ2026が販売決定！本日より受注販売開始！【  #灯里愛夏バースデーパーティ2026 】]]></title>
+            <description><![CDATA[【 #ヴイアラ 】灯里愛夏バースデー記念グッズ2026が販売決定！本日より受注販売開始！【  #灯里愛夏バースデーパーティ2026 】]]></description>
+            <link>https://idolmaster-official.jp/news/01_19238.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19238.html</guid>
+            <pubDate>Wed, 01 Jul 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/06/HJKeeGdCMr0rfb1skb9MJ8FkiwYpKplQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.7」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -73,20 +81,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/D4NiTpRvVNQZQ1gaFAO9M784ho8F79ns.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 現地チケット <一般先着販売>実施決定！6月20日(土)昼12時より受付開始！]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 現地チケット <一般先着販売>実施決定！6月20日(土)昼12時より受付開始！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19148.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19148.html</guid>
-            <pubDate>Wed, 17 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/Y618J0s0A8SDr0ll3KODnOQLjrvBjrDo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2026」限定グッズ付き現地ライブビューイングチケットの一般先着販売が6月20日(土)12時より開始！]]></title>
             <description><![CDATA[#愛夏誕生祭2026]]></description>
             <link>https://idolmaster-official.jp/news/01_19127.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19127.html</guid>
             <pubDate>Wed, 17 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/06/iZbWiY3Gk5L4qBDINNkvCI4PbPn1gYTM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 現地チケット <一般先着販売>実施決定！6月20日(土)昼12時より受付開始！]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 現地チケット <一般先着販売>実施決定！6月20日(土)昼12時より受付開始！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19148.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19148.html</guid>
+            <pubDate>Wed, 17 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/Y618J0s0A8SDr0ll3KODnOQLjrvBjrDo.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.6」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_18487.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18487.html</guid>
             <pubDate>Sun, 29 Mar 2026 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/uJbjgwNkMVY3NQi7xZqjHSqiZNcSlRvx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[今週末まで！【アイマスMOIW2025】THE IDOLM@STER M@STERS OF IDOL WORLD 2025 開催記念の描き下ろしイラストであなただけのオリジナルTシャツをプロデュースしよう！受注は3月29日(日)まで！詳しくはASOBI STOREをチェック！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18477.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18477.html</guid>
-            <pubDate>Fri, 27 Mar 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/03/uJbjgwNkMVY3NQi7xZqjHSqiZNcSlRvx.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
