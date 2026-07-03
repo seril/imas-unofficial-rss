@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 16:04:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 04:40:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 16:04:41 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 04:40:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』新シリーズ開幕のお知らせ＆7月27日に豪華キャストをお招きしたイベント開催決定！✨]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19284.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19284.html</guid>
+            <pubDate>Fri, 03 Jul 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/jxVSwG7zhXoyvIMe6047wAK9eX1jBJid.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】2026年7月17日 (金) 19:00～「アイドルマスター SideM　Our cozy dozen YearZ!!!!!!!!!!!! 生配信」配信予定！]]></title>
+            <description><![CDATA[#SideM #SideM生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_19138.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19138.html</guid>
+            <pubDate>Fri, 03 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/YPEDmDXO3CImsTB34hLplCD3EH7UlWM0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オファマス】終了まであと少し！パネルの写真投稿で、抽選で10名様に「お出かけセット」をプレゼント！]]></title>
             <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo #オファマス現地レポート]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18764.html</guid>
             <pubDate>Wed, 13 May 2026 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/05/biIecdULDcemQdT40u1IE0lgA8uxdI7A.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【受注は本日まで！！】 #アイマスIWSF2026 公式グッズが事前二次販売は本日まで！]]></title>
-            <description><![CDATA[#カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18902.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18902.html</guid>
-            <pubDate>Tue, 12 May 2026 07:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/04/dgfIsPrMVAXyCCaSA8bXxhxG4eiGusKU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM　新緑キラキラ！舞台はクラクラ！！元気いっぱい生配信 」告知まとめ]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_18642.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18642.html</guid>
-            <pubDate>Mon, 11 May 2026 12:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/05/myTVVD5iSiM6W8ICoueOtbOj2QClA2OB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
