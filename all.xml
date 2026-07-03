@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 09:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 12:55:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 09:17:05 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 12:55:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【あと2日！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前販売は7/5(日)まで！！！]]></title>
+            <description><![CDATA[#ミリオン14th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19293.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19293.html</guid>
+            <pubDate>Fri, 03 Jul 2026 11:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/FUzfBZZSJkOQxU7timQevfKh48HRhYUW.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】いよいよ明日開催！「CINDERELLA GIRLS MUSICAL DERE of the DEAD」＜エントランスがオープン!!!＞　冒頭無料配信の実施やマルチアングルチケットもお見逃しなく♪]]></title>
+            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_デレオブザデッド #デレミュ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19180.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19180.html</guid>
+            <pubDate>Fri, 03 Jul 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/vwJouA6QRkTiHyk4OXkwEnflVownpYSv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】Reバース for you トライアルセット&ブースターパック「vα-liv」本日より発売！]]></title>
+            <description><![CDATA[【 #ヴイアラ】Reバース for you トライアルセット&ブースターパック「vα-liv」本日より発売！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19292.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19292.html</guid>
+            <pubDate>Fri, 03 Jul 2026 09:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/06/jJgEF6KS3w4WdDzRAGezgHh90GvchHHw.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM衣装展】入場チケット当日券の情報公開！＆一般発売2次（先着）のお申し込み受付中！]]></title>
             <description><![CDATA[#SideM#SideM衣装展]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19057.html</guid>
             <pubDate>Sat, 27 Jun 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/mciPtedlhDm50fW34fQV8BTMG4CjvxsF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 続報配信VOL.2の実施決定！関連情報を一気にお知らせ！7月8日(水)20:00より放送開始！【生配信】]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 続報配信VOL.2の実施決定！関連情報を一気にお知らせ！7月8日(水)20:00より放送開始！【生配信】]]></description>
-            <link>https://idolmaster-official.jp/news/01_19226.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19226.html</guid>
-            <pubDate>Fri, 26 Jun 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/HhCl2iJZbIiFuzji4yFA67v21glfALej.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONGリリース記念グッズ第2弾発売決定！]]></title>
-            <description><![CDATA[#SideM #315ソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_19206.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19206.html</guid>
-            <pubDate>Fri, 26 Jun 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[初星学園『初星音楽祭 SONG COLLECTION』 をご購入のお客様へ商品誤表記に関するお詫び]]></title>
-            <description><![CDATA[初星学園『初星音楽祭 SONG COLLECTION』 をご購入のお客様へ商品誤表記に関するお詫び]]></description>
-            <link>https://idolmaster-official.jp/news/01_19223.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19223.html</guid>
-            <pubDate>Fri, 26 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
