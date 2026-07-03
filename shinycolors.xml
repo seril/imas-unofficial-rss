@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 04:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 09:17:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 04:40:39 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 09:17:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】7月14日より「アイドルマスター シャイニーカラーズ×カラオケまねきねこ」コラボキャンペーン開始！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19269.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19269.html</guid>
+            <pubDate>Fri, 03 Jul 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/fsabHiE2HLe3D1n4fFsXcJlaFFT8A2hj.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】【Merry】 樋口円香のスケールフィギュアが登場！本日7月3日（金）から予約開始！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18895.html</guid>
             <pubDate>Sun, 17 May 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/04/npl1JWIi9BkEVYDSkP6hMZvd9OzcTJGW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※本日まで！※【シャニマス】「THE IDOLM@STER SHINY COLORS ORIGINAL SOUNDTRACK vol.2」がASOBI STOREで受注中！受注は本日5月17日(日)まで！！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_18912.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18912.html</guid>
-            <pubDate>Sun, 17 May 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/05/C2O9pf32I9SNyNBY9qJfeoirvBgF1u97.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
