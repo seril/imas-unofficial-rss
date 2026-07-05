@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 12:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 15:11:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 12:15:23 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 15:11:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【あと4時間!!!!】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前販売は本日7/5(日)まで！！！]]></title>
@@ -273,6 +273,14 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/D4NiTpRvVNQZQ1gaFAO9M784ho8F79ns.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
+            <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19117.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19117.html</guid>
+            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/5gXUtjyTQB0FQBsnC06kmsKmAXQMN5Jq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></description>
             <link>https://idolmaster-official.jp/news/01_19042.html</link>
@@ -287,14 +295,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19028.html</guid>
             <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/zADTj5h6nZqiFYJwAAmplmsw2b6AKBOZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
-            <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19117.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19117.html</guid>
-            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/5gXUtjyTQB0FQBsnC06kmsKmAXQMN5Jq.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】【ミリシタ】『祝9周年！Pたちの仁義なき闘い🔥』配信のお知らせ【アイドルマスターチャンネル】]]></title>
