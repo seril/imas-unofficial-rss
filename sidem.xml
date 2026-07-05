@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 15:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 04:55:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 15:04:51 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 04:55:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【明日まで！】【SideM11th】イベント公式グッズ事前販売第2弾は7月5日(日)まで！新衣装「トランセンデントリルード」を身にまとったアイドルたちのグッズなどを販売！]]></title>
@@ -177,20 +177,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/D4NiTpRvVNQZQ1gaFAO9M784ho8F79ns.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19042.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19042.html</guid>
-            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/7VJCfUIS9RBkhMzrV1zQnKdqB76eDIP1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
             <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
             <link>https://idolmaster-official.jp/news/01_19117.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19117.html</guid>
             <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/5gXUtjyTQB0FQBsnC06kmsKmAXQMN5Jq.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19042.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19042.html</guid>
+            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/7VJCfUIS9RBkhMzrV1zQnKdqB76eDIP1.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM11th】イベント公式グッズ事前販売第2弾が本日よりスタート！]]></title>
