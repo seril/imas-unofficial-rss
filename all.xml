@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 15:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 05:10:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 15:11:33 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 05:10:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】Team.Lunaのちびぐるみが2026年7月9日(木)より全国のクレーンゲームに順次登場予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19265.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19265.html</guid>
+            <pubDate>Mon, 06 Jul 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/pYhhHVf6wIZUB6qOJPNh6ddt4CpaJrRa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】有村麻央、葛城リーリヤ、倉本千奈をイメージした腕時計・バッグ・長財布が予約受付開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19168.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19168.html</guid>
+            <pubDate>Mon, 06 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/gtMqfLLekavoubMRcOk87qqIs4b1cuSP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【あと4時間!!!!】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前販売は本日7/5(日)まで！！！]]></title>
             <description><![CDATA[#ミリオン14th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19128.html</guid>
             <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/7bvgQbrC5pdJsgioRUw68GxGDWXLIn17.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】学園アイドルマスター POP UP SHOP in 有楽町マルイが開催決定！店頭受注も実施決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19195.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19195.html</guid>
-            <pubDate>Tue, 30 Jun 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/hTJJ1RdhOpkWqb921EYpdcrcgGSRqytR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレミュ「DERE of the DEAD」現地チケット・7/5(日)〈A席〉〈見切れ席〉の一般販売2次(先着)＆当日券販売決定！2次先着は7/1(水)18:00よりスタート！]]></title>
-            <description><![CDATA[ #シンデレラガールズ #デレミュ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19235.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19235.html</guid>
-            <pubDate>Tue, 30 Jun 2026 03:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/kY93FTR4t0ggIWGqbpDSTym3gS7tZKao.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
