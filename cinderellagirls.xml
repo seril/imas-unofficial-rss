@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 09:39:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 13:20:34 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 09:39:59 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 13:20:34 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】「IWSF直前！アイドルライブ特集」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ]]></description>
+            <link>https://idolmaster-official.jp/news/01_18699.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18699.html</guid>
+            <pubDate>Tue, 07 Jul 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/zqdEoTUByRu5lXAucklbc1WYx5twxV7u.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
             <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_オブザデッド #デレミュ]]></description>
@@ -113,7 +121,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/Y0RvKqEBS63JdXpQDYnefuKb7YfEvBRO.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】ミズノスポーツサービス株式会社が「シンデレラガール総選挙2026」のスポンサーに決定！記念商品の販売は7月11日(土)から♪サッカー(フットサル)の体験プログラムも開催決定！]]></title>
+            <title><![CDATA[【シンデレラ】ミズノスポーツサービス株式会社が「シンデレラガール総選挙2026」のスポンサーに決定！記念商品の販売は7月17日(金)から♪サッカー(フットサル)の体験プログラムも開催決定！]]></title>
             <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
             <link>https://idolmaster-official.jp/news/01_19214.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19214.html</guid>
@@ -241,20 +249,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/4h310YinN0qGWu9vAvbZvlE56pYQ1nX7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[  【シンデレラ】グッズシリーズ「Memory Pict.」第3弾:｡･:*  3rd Pict.（緒方智絵里・財前時子）の受注受付は明日まで！]]></title>
-            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_19170.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19170.html</guid>
-            <pubDate>Sat, 27 Jun 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/4h310YinN0qGWu9vAvbZvlE56pYQ1nX7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】◆明日まで！◆アソビストア一般会員先行『Pop'n ToyBox!!』のお申込みは6月28日(日)23:59まで！]]></title>
             <description><![CDATA[#トイボCG #シンデレラxRライブ2026]]></description>
             <link>https://idolmaster-official.jp/news/01_19057.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19057.html</guid>
             <pubDate>Sat, 27 Jun 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/05/mciPtedlhDm50fW34fQV8BTMG4CjvxsF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[  【シンデレラ】グッズシリーズ「Memory Pict.」第3弾:｡･:*  3rd Pict.（緒方智絵里・財前時子）の受注受付は明日まで！]]></title>
+            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_19170.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19170.html</guid>
+            <pubDate>Sat, 27 Jun 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/4h310YinN0qGWu9vAvbZvlE56pYQ1nX7.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 続報配信VOL.2の実施決定！関連情報を一気にお知らせ！7月8日(水)20:00より放送開始！【生配信】]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19119.html</guid>
             <pubDate>Tue, 16 Jun 2026 04:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/06/xXLxwXmsfWBRpN7dJLs9MYX5ew4GLDVm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】生配信『CG総選挙ST@TION ～ミッション開始直前SP！～』が6/30(火)20:30より配信決定！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #CG総選挙STATION #デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19108.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19108.html</guid>
-            <pubDate>Mon, 15 Jun 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/06/eipyuE59N4GyV6JzLzYJpU6E3bEC15HX.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
