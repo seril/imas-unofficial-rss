@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 14:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 04:51:28 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 14:24:28 GMT</pubDate>
+        <pubDate>Tue, 07 Jul 2026 04:51:28 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】PJ: REFRAC7IONSのユニット衣装を着た「ちびぐるみ」がナムコ限定で11月より登場♪今週末から順次ナムコオンラインクレーン先行も実施！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19267.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19267.html</guid>
+            <pubDate>Tue, 07 Jul 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/qw1AiqERxVinZE0EaoaP9PvfGVaPKhRK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】コトブキヤよりフィギュア「秦谷美鈴-ツキノカメ-」ご予約受付開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19240.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19240.html</guid>
+            <pubDate>Tue, 07 Jul 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/qotZUeY3okRWVLL3Z5Gc1DRx09uqHWNv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】ローソンオリジナルグッズ販売中！好評の描き下ろしイラストを使用したグッズが登場！✨]]></title>
+            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19184.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19184.html</guid>
+            <pubDate>Tue, 07 Jul 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/pxEffHwiB69LmvG1fr17S5ltlFl2lHhF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」視聴コメント付きアーカイブ本日18:00より配信開始！／公演アンケート実施のご案内]]></title>
             <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_オブザデッド #デレミュ]]></description>
@@ -41,20 +65,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/FUzfBZZSJkOQxU7timQevfKh48HRhYUW.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」全公演ありがとうございました！セットリストとお知らせを公開♪]]></title>
-            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ #デレミュ_オブザデッド #デレミュオブザデッド_観劇レポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_19055.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19055.html</guid>
-            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/B0L5orP3ELvKPN4M6QTC7ju5zKn5zYuv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」開催記念グッズ販売がスタート！！]]></title>
             <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_デレオブザデッド #デレミュ]]></description>
             <link>https://idolmaster-official.jp/news/01_19282.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19282.html</guid>
             <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/1zJhyFznQRcN9cYbqhgp9H2NzzRibyNd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」全公演ありがとうございました！セットリストとお知らせを公開♪]]></title>
+            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ #デレミュ_オブザデッド #デレミュオブザデッド_観劇レポート]]></description>
+            <link>https://idolmaster-official.jp/news/01_19055.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19055.html</guid>
+            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/B0L5orP3ELvKPN4M6QTC7ju5zKn5zYuv.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【本日まで！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前販売は本日7/5(日)まで！！！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19233.html</guid>
             <pubDate>Tue, 30 Jun 2026 13:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/QKQEA8Y8aw2j3sTcbVzD9sfncu3ermX7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「アイドルマスター オフィシャルショップ POPUP シンデレラガール総選挙2026 アトレ川崎店」が7月21日(火)より期間限定開催！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19232.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19232.html</guid>
-            <pubDate>Tue, 30 Jun 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/4g9E9gFh4Yub0250msGCBKRH5b26qrWF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「シンデレラガール総選挙2026」スポットチェックインで「コッペ亭」が対象店舗に決定！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19097.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19097.html</guid>
-            <pubDate>Tue, 30 Jun 2026 12:31:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/P0KOxumowexbIBvI2z1oVYdNd47IaWOT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.7」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19200.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19200.html</guid>
-            <pubDate>Tue, 30 Jun 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/CQH5E5MGjOdYRmPrTTQ06d6QA85U6Atv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
