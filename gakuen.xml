@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 16:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 04:13:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 16:30:22 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 04:13:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】BIGフェイスぬいぐるみvol.2が登場！本日から予約受付開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19306.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19306.html</guid>
+            <pubDate>Wed, 08 Jul 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/CDsC00MHgj5LPHm7S6nWBjj6TXi9FiB5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】「IWSF直前！アイドルライブ特集」配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ]]></description>
@@ -233,14 +241,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/D4NiTpRvVNQZQ1gaFAO9M784ho8F79ns.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学マス】みてぬい第1弾受注中！販売情報はこちら♪]]></title>
-            <description><![CDATA[#学マス #みてぬい]]></description>
-            <link>https://idolmaster-official.jp/news/01_19132.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19132.html</guid>
-            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/06/9BmCy0rHbKveR8oZTtOAwpJlnamKikqF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
             <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
             <link>https://idolmaster-official.jp/news/01_19117.html</link>
@@ -255,6 +255,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19042.html</guid>
             <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/7VJCfUIS9RBkhMzrV1zQnKdqB76eDIP1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】みてぬい第1弾受注中！販売情報はこちら♪]]></title>
+            <description><![CDATA[#学マス #みてぬい]]></description>
+            <link>https://idolmaster-official.jp/news/01_19132.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19132.html</guid>
+            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/06/9BmCy0rHbKveR8oZTtOAwpJlnamKikqF.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 現地チケット <一般先着販売>実施決定！6月20日(土)昼12時より受付開始！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18992.html</guid>
             <pubDate>Sat, 06 Jun 2026 11:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/H3jBiETfrImImOVXN8IyknbHo1n6v6T3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス2nd】抽選で色紙プレゼントも！ H.I.F選抜試験(セレクション) 配信プロデュースレポ投稿キャンペーン！]]></title>
-            <description><![CDATA[#学マス2nd #学マス2nd_HIF選抜試験_プロデュースレポ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19053.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19053.html</guid>
-            <pubDate>Sat, 06 Jun 2026 10:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/06/vR84LVjK6Gbg5AIuzUUkNZehbQkhF4mW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

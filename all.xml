@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 07 Jul 2026 16:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 04:13:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jul 2026 16:30:22 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 04:13:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】BIGフェイスぬいぐるみvol.2が登場！本日から予約受付開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19306.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19306.html</guid>
+            <pubDate>Wed, 08 Jul 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/CDsC00MHgj5LPHm7S6nWBjj6TXi9FiB5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】2026年8月 双海 亜美・双海 真美 、三浦 あずさ・秋月 律子による『dual twin live tour』最新情報まとめ！]]></title>
             <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
@@ -81,20 +89,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/FUzfBZZSJkOQxU7timQevfKh48HRhYUW.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」全公演ありがとうございました！セットリストとお知らせを公開♪]]></title>
-            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ #デレミュ_オブザデッド #デレミュオブザデッド_観劇レポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_19055.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19055.html</guid>
-            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/B0L5orP3ELvKPN4M6QTC7ju5zKn5zYuv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」開催記念グッズ販売がスタート！！]]></title>
             <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_デレオブザデッド #デレミュ]]></description>
             <link>https://idolmaster-official.jp/news/01_19282.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19282.html</guid>
             <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/1zJhyFznQRcN9cYbqhgp9H2NzzRibyNd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」全公演ありがとうございました！セットリストとお知らせを公開♪]]></title>
+            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ #デレミュ_オブザデッド #デレミュオブザデッド_観劇レポート]]></description>
+            <link>https://idolmaster-official.jp/news/01_19055.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19055.html</guid>
+            <pubDate>Sun, 05 Jul 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/B0L5orP3ELvKPN4M6QTC7ju5zKn5zYuv.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【本日まで！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前販売は本日7/5(日)まで！！！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19243.html</guid>
             <pubDate>Tue, 30 Jun 2026 13:04:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/rMroz6Les1dfmOwnWwbx1pbXiNFXW67l.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】【明日7月1日(水)12時より受注開始！】「シンデレラガール総選挙2026」×シナジードリンク「ASAP SYNERGY」コラボ缶詳細公開！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19242.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19242.html</guid>
-            <pubDate>Tue, 30 Jun 2026 13:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/BdmHoYZcFglfE1QNogFizxIV4KQssDYE.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
