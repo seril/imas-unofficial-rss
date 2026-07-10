@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 16:26:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 04:51:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 16:26:40 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 04:51:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】12周年を記念して、JR博多駅前広場にてMV「SUPREME STARS !!!」を放映！]]></title>
+            <description><![CDATA[#SideM ＃SideM12周年記念広告in博多駅]]></description>
+            <link>https://idolmaster-official.jp/news/01_19324.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19324.html</guid>
+            <pubDate>Fri, 10 Jul 2026 02:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/07/toshpLVOy2Vv1DpHDz23Uxn2s6SsHgJt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」第2弾グッズ発売決定🐱💕]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
+            <link>https://idolmaster-official.jp/news/01_19318.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19318.html</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/3QXQRXRebqXG6mq584ziamnKv5gJ3hGo.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM衣装展】いよいよ明日開催！！撮影可能エリアの公開！＆現地物販商品の実物サンプル公開！当日券も販売予定！]]></title>
             <description><![CDATA[#SideM #SideM衣装展]]></description>
@@ -81,20 +97,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/06/r85smUzjVE8qnQjga1Vok8pazrjLrpj2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
-            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19249.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
-            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></description>
             <link>https://idolmaster-official.jp/news/01_19234.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19234.html</guid>
             <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/2BPBKTnJGVE7pGNZ6yJjXqZtAQkuzpqO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
+            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19249.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
+            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM衣装展】入場チケット当日券の情報公開！＆一般発売2次（先着）のお申し込み受付中！]]></title>
@@ -113,7 +129,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/jxVSwG7zhXoyvIMe6047wAK9eX1jBJid.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideM】2026年7月17日 (金) 19:00～「アイドルマスター SideM　Our cozy dozen YearZ!!!!!!!!!!!! 生配信」配信予定！]]></title>
+            <title><![CDATA[【7/10追記】【SideM】2026年7月17日 (金) 19:00～「アイドルマスター SideM　Our cozy dozen YearZ!!!!!!!!!!!! 生配信」配信予定！]]></title>
             <description><![CDATA[#SideM #SideM生配信]]></description>
             <link>https://idolmaster-official.jp/news/01_19138.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19138.html</guid>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18651.html</guid>
             <pubDate>Fri, 29 May 2026 12:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/JXNbjwyJhJ83Kz0wzAsU9h6rW3PX0YsM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】アクセサリーブランド『TAKE-UP』コラボ第二弾！コラボシリーズ『TUfave』よりアイドル達をモチーフにしたアクセサリーが新登場！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_18952.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18952.html</guid>
-            <pubDate>Fri, 29 May 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/05/0B0vGyrcj9Qhi9jkKMYA93Mo3bTboYsc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　「DECOR@TION CAR MEETING」特典デザイン発表！IWSFプロデューサー参加型企画の応募締切は5/24(日)23:59まで！！]]></title>
-            <description><![CDATA[ 【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷　「DECOR@TION CAR MEETING」特典デザイン発表！IWSFプロデューサー参加型企画の応募締切は5/24(日)23:59まで！！]]></description>
-            <link>https://idolmaster-official.jp/news/01_18975.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18975.html</guid>
-            <pubDate>Fri, 22 May 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/05/rUJDvrhZJaSn2Lp0fcevmPkcR5PTZM8U.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

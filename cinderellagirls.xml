@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 16:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 04:51:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 16:26:41 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 04:51:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「旅ろっ！愛知」×「アイドルマスター シンデレラガールズ」コラボイベントの詳細情報が解禁！]]></title>
+            <description><![CDATA[#imas_cg #デレマス #旅ろ愛知]]></description>
+            <link>https://idolmaster-official.jp/news/01_19336.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19336.html</guid>
+            <pubDate>Fri, 10 Jul 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/rFCKd59Ko4FLfQy3w1iO0Vkj1tZFVXFI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」第2弾グッズ発売決定🐱💕]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
+            <link>https://idolmaster-official.jp/news/01_19318.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19318.html</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/3QXQRXRebqXG6mq584ziamnKv5gJ3hGo.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」振り返りトークラジオの配信はいよいよ明日、7/10(金)21:00からを予定！！配信情報を最終チェック♪]]></title>
             <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ #デレミュ_オブザデッド]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19196.html</guid>
             <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/ivJsQJHYPBBGZRdn9wsNUaKNsvzLrW1u.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年6月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_19098.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19098.html</guid>
-            <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/7C1Tkf7HElIEiOw68OmAUiW4XszAbvPl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「CINDERELLA GIRLS MUSICAL DERE of the DEAD」会場物販の実施が決定！！グッズ販売コーナーの整理券の抽選お申し込みは6月25日(木)まで受付中！！]]></title>
-            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_デレオブザデッド #デレミュ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19162.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19162.html</guid>
-            <pubDate>Mon, 22 Jun 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/rHTglpxyWiR3BwESWtTuJjt9F5cgtmPJ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

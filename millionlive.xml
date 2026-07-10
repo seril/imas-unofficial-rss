@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 16:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 04:51:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 16:26:41 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 04:51:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」アソビストア一般会員先行が本日7月10日(金)よりスタート！！]]></title>
+            <description><![CDATA[#ミリオン14th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19351.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19351.html</guid>
+            <pubDate>Fri, 10 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/VxPJtOlOqkNPParUCyjeRksY7ba6NCfn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」第2弾グッズ発売決定🐱💕]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
+            <link>https://idolmaster-official.jp/news/01_19318.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19318.html</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/3QXQRXRebqXG6mq584ziamnKv5gJ3hGo.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】高級感ただようインテリア「パーソナルパブミラー」シリーズに「ロコ」が登場！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -97,20 +113,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/FUzfBZZSJkOQxU7timQevfKh48HRhYUW.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
-            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19249.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
-            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></description>
             <link>https://idolmaster-official.jp/news/01_19234.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19234.html</guid>
             <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/2BPBKTnJGVE7pGNZ6yJjXqZtAQkuzpqO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
+            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19249.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
+            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【明日まで！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前販売は7/5(日)まで！！！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19148.html</guid>
             <pubDate>Wed, 17 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/Y618J0s0A8SDr0ll3KODnOQLjrvBjrDo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.6」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19085.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19085.html</guid>
-            <pubDate>Tue, 16 Jun 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/b06JulbuWSWU47BDuuUWMsobQFtbGw5W.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【メン限】「若林直美さんDJデビュー！レッスンの様子を大公開！」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ミリシタ #祝ミリシタ9周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_18928.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18928.html</guid>
-            <pubDate>Mon, 15 Jun 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/05/tZEoXxmQKrg15kmgggIMXKSrHNIyUZyy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

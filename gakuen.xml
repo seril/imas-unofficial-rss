@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 09 Jul 2026 16:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 04:51:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 09 Jul 2026 16:26:41 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 04:51:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】PROOFよりカードゲームサプライ商品の第7弾と新アイテムが登場！]]></title>
+            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19298.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19298.html</guid>
+            <pubDate>Fri, 10 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/Um5O9K7GjlMu0uYgXdSsdgs1y39OJTdM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】愛知県常滑市の前川みく「ふたマス!!!!!!」第2弾グッズ発売決定🐱💕]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス #常滑市]]></description>
+            <link>https://idolmaster-official.jp/news/01_19318.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19318.html</guid>
+            <pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/3QXQRXRebqXG6mq584ziamnKv5gJ3hGo.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス標ツアー】 学園アイドルマスター LIVE TOUR -標- ファイナル公演のイベント公式グッズ事前販売が本日7月9日(木)16:00よりスタート！]]></title>
             <description><![CDATA[#学マス #標ツアー]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19069.html</guid>
             <pubDate>Mon, 15 Jun 2026 03:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/oLcGUBScQK7loDDFja4W2G79XPhBxgpy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】つくりより「学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL」協賛商品の一般販売がスタート！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19019.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19019.html</guid>
-            <pubDate>Fri, 12 Jun 2026 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/jc5UbyP937M2ecTeVwn1HCuaeRkUEoIG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#学マス2nd_HIF_DAY1】「学園アイドルマスター The 2nd Period Hatsuboshi IDOL FESTIVAL」 DAY1のスタッフ生オーディオコメンタリー付同時視聴上映会の実施が決定！]]></title>
-            <description><![CDATA[#学マス2nd #学マス2nd_HIF #学マス2nd_HIF_DAY1]]></description>
-            <link>https://idolmaster-official.jp/news/01_19080.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19080.html</guid>
-            <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/06/XnVSj4bf3Xf6PeFP7W0Uav8RTghhyUbZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
