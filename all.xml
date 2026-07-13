@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 04:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 09:25:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 13 Jul 2026 04:29:02 GMT</pubDate>
+        <pubDate>Mon, 13 Jul 2026 09:25:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】2026年8月 双海 亜美・双海 真美 、三浦 あずさ・秋月 律子による『dual twin live tour』リセール受付 & 現地チケット先着発売中！]]></title>
+            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
+            <link>https://idolmaster-official.jp/news/01_19365.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19365.html</guid>
+            <pubDate>Mon, 13 Jul 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/07/FUX4QvSXoPkuqH8h67f6gEUH7OMrGIz0.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ」 × Star Village ACHI コラボレーション 2026 コラボカフェ、コラボグッズの内容決定！ ]]></title>
             <description><![CDATA[#デレマス #阿智村]]></description>
@@ -81,20 +89,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/unh4bMZKG3QouECOS5mOp2I42L1SvTwQ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[『THE IDOLM@STER MILLION LIVE! 14thLIVE 応援セット』販売中！]]></title>
-            <description><![CDATA[#ミリシタ #ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19352.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19352.html</guid>
-            <pubDate>Fri, 10 Jul 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/024/2026/07/ZJosVFjbGUM8uKqs9y39oK8XfEmaZv5a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリシタ】『14thLIVE 応援セット』購入者限定！サイン入り等身大パネルプレゼントキャンペーン実施中！]]></title>
             <description><![CDATA[#ミリシタ #ミリオン14th]]></description>
             <link>https://idolmaster-official.jp/news/01_19353.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19353.html</guid>
             <pubDate>Fri, 10 Jul 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/024/2026/07/1X73q0SRgxegnuMWyztMwt6WMD992Cxj.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[『THE IDOLM@STER MILLION LIVE! 14thLIVE 応援セット』販売中！]]></title>
+            <description><![CDATA[#ミリシタ #ミリオン14th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19352.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19352.html</guid>
+            <pubDate>Fri, 10 Jul 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/024/2026/07/ZJosVFjbGUM8uKqs9y39oK8XfEmaZv5a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】「旅ろっ！愛知」×「アイドルマスター シンデレラガールズ」コラボイベントの詳細情報が解禁！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19293.html</guid>
             <pubDate>Fri, 03 Jul 2026 11:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/FUzfBZZSJkOQxU7timQevfKh48HRhYUW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】いよいよ明日開催！「CINDERELLA GIRLS MUSICAL DERE of the DEAD」＜エントランスがオープン!!!＞　冒頭無料配信の実施やマルチアングルチケットもお見逃しなく♪]]></title>
-            <description><![CDATA[#シンデレラガールズ #デレマス #デレミュ_デレオブザデッド #デレミュ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19180.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19180.html</guid>
-            <pubDate>Fri, 03 Jul 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/vwJouA6QRkTiHyk4OXkwEnflVownpYSv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
