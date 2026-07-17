@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 04:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 08:08:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 04:05:28 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 08:08:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】7月24日(金)より、『アイドルマスター TOURS』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】7月24日(金)より、『アイドルマスター TOURS』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19387.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19387.html</guid>
+            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/RHNMmrYKvjLcOxq2uo9pzWWl5lpnppic.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスIWSF2026】『アイマスMYプレイリストジェネレーター』あなたのオリジナルプレイリストを投稿して、20周年記念セットをゲットしよう！🎧✨]]></title>
+            <description><![CDATA[#プレイリスト作りマス #アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19264.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19264.html</guid>
+            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/07/Ly9H33VAAvcEAv6t1uMhT6qa8kKTSxRV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】「IWSF2026」ライブ入場特典・「アイマスオフィシャルショップ」購入特典として『ツアマス』の特別な【プロモーションカード】配布！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -97,20 +113,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/HqDAvo0JEnizsJKck6Ni1RyiCtBUQaMm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】【アイマス】THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026 ばくすて！とーく 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch_ばくすて  #アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19198.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19198.html</guid>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/LiLDzqMY5ch8C7VNT4AGMsT7onI2TF9m.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイドルマスターシリーズ】THE IDOLM@STER 20th Anniversary Piano Collection発売決定！収録楽曲アンケートも募集中！【ピアノ】]]></title>
             <description><![CDATA[#アイマス #アイマスIWSF2026]]></description>
             <link>https://idolmaster-official.jp/news/01_19328.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19328.html</guid>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/07/2TYkscgVOka3DiQfuR5nmWOXRC7crjTI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【アイマス】THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026 ばくすて！とーく 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch_ばくすて  #アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19198.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19198.html</guid>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/LiLDzqMY5ch8C7VNT4AGMsT7onI2TF9m.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】2026年7月26日(日) IWSF2026 DAY3終了後 『アイドルマスター』シリーズ 20周年ありがとう！SP 配信決定！]]></title>
@@ -145,20 +161,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/zqdEoTUByRu5lXAucklbc1WYx5twxV7u.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19234.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19234.html</guid>
-            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/2BPBKTnJGVE7pGNZ6yJjXqZtAQkuzpqO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
             <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
             <link>https://idolmaster-official.jp/news/01_19249.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
             <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19234.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19234.html</guid>
+            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/2BPBKTnJGVE7pGNZ6yJjXqZtAQkuzpqO.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【765】2026年8月 双海 亜美・双海 真美 、三浦 あずさ・秋月 律子による『dual twin live tour』現地チケット 一般先着発売がスタート！お申し込みお忘れなく！]]></title>
@@ -241,20 +257,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/xyllheY6SDVVRLx82n0SpieBL74Swymf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年6月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_19098.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19098.html</guid>
-            <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/7C1Tkf7HElIEiOw68OmAUiW4XszAbvPl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【YouTube】【生配信】「765production dual twin live tour 特別生配信『つみまつふたごぼし』」 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
             <link>https://idolmaster-official.jp/news/01_19173.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19173.html</guid>
             <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/5UtdsEJTnCVUzpDA37gSE0NNYLuBCHxO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年6月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_19098.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19098.html</guid>
+            <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/7C1Tkf7HElIEiOw68OmAUiW4XszAbvPl.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 現地チケット <立見指定・ステージサイド席>先着販売とリセールの実施が決定！先着販売は6月27日(土)昼12時より受付開始！]]></title>
@@ -265,20 +281,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/D4NiTpRvVNQZQ1gaFAO9M784ho8F79ns.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
-            <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19117.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19117.html</guid>
-            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/5gXUtjyTQB0FQBsnC06kmsKmAXQMN5Jq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】「第25回漫画博覧会」に『アイドルマスター』シリーズが参加決定！]]></description>
             <link>https://idolmaster-official.jp/news/01_19042.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19042.html</guid>
             <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/7VJCfUIS9RBkhMzrV1zQnKdqB76eDIP1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></title>
+            <description><![CDATA[《偶像大師》系列確定參展「第25屆漫畫博覽會」！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19117.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19117.html</guid>
+            <pubDate>Fri, 19 Jun 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/06/5gXUtjyTQB0FQBsnC06kmsKmAXQMN5Jq.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【765】【明日6月19日（金）から！】「アイドルマスター×相模原市」コラボキャンペーン～765PRO ALLSTARSと巡る宇宙のまち～　開催🚀✨]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18906.html</guid>
             <pubDate>Mon, 25 May 2026 08:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/rj30LNzkz4ZRXmirNEivoFfq2oqFrJry.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[✧本日まで✧【765】dual twin live tour  双海 亜美･双海 真美 twin live “ふたごぼしのつばさ” / 三浦 あずさ･秋月 律子 twin live “つみまつよるまち” 公式グッズ事前2次販売]]></title>
-            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
-            <link>https://idolmaster-official.jp/news/01_18973.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18973.html</guid>
-            <pubDate>Sun, 24 May 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/05/uKFkbTVVLr9NCbj3frU7vRtN6sRrYAPO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[✦明日まで✦【765】dual twin live tour  双海 亜美･双海 真美 twin live “ふたごぼしのつばさ” / 三浦 あずさ･秋月 律子 twin live “つみまつよるまち” 公式グッズ事前2次販売]]></title>
-            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
-            <link>https://idolmaster-official.jp/news/01_18972.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_18972.html</guid>
-            <pubDate>Sat, 23 May 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/05/uKFkbTVVLr9NCbj3frU7vRtN6sRrYAPO.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

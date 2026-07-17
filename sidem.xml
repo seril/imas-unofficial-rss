@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 04:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 08:08:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 04:05:28 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 08:08:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】7月24日(金)より、『アイドルマスター TOURS』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】7月24日(金)より、『アイドルマスター TOURS』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19387.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19387.html</guid>
+            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/RHNMmrYKvjLcOxq2uo9pzWWl5lpnppic.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスIWSF2026】『アイマスMYプレイリストジェネレーター』あなたのオリジナルプレイリストを投稿して、20周年記念セットをゲットしよう！🎧✨]]></title>
+            <description><![CDATA[#プレイリスト作りマス #アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19264.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19264.html</guid>
+            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/07/Ly9H33VAAvcEAv6t1uMhT6qa8kKTSxRV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】315!!!SHOP「カフェコーナー」にて、好きな絵柄を左右で組み合わせて楽しめる「フォーチューンラテ」が新登場！7月28日(火)発売開始！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_19378.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19378.html</guid>
+            <pubDate>Fri, 17 Jul 2026 06:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/uorLlPpAYgOF8gca40ahwZsyuNaOiGRH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】「IWSF2026」ライブ入場特典・「アイマスオフィシャルショップ」購入特典として『ツアマス』の特別な【プロモーションカード】配布！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19076.html</guid>
             <pubDate>Fri, 12 Jun 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/0fqmPMVvPkCYSaFwXOM1WNth7UaUtA1o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM衣装展】会場物販情報＆入場特典・グッズ付きチケットに付属するブランケット・チェキ風カードのデザイン公開！入場チケット販売中！]]></title>
-            <description><![CDATA[#SideM #SideM衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_19067.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19067.html</guid>
-            <pubDate>Thu, 11 Jun 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/06/DErVRUJvYPbBrluoS7ZjAW7Wm3Aa5EAq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 09 Legenders」CD情報！]]></title>
-            <description><![CDATA[#SideM #315ソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_19078.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19078.html</guid>
-            <pubDate>Thu, 11 Jun 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/dNStmGILodLqSXpJ3Q3Ndtir6p8o87RT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】東京都町田市「ふたマス!!!!!!」ロコマンホールお披露目＆設置完了📢✨]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19062.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19062.html</guid>
-            <pubDate>Tue, 09 Jun 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/3bk6hJcn4l9Tw14jUKnZPhJynTT0H1AY.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 04:05:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 08:08:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Jul 2026 04:05:27 GMT</pubDate>
+        <pubDate>Fri, 17 Jul 2026 08:08:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスIWSF2026】『アイマスMYプレイリストジェネレーター』あなたのオリジナルプレイリストを投稿して、20周年記念セットをゲットしよう！🎧✨]]></title>
+            <description><![CDATA[#プレイリスト作りマス #アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19264.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19264.html</guid>
+            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/07/Ly9H33VAAvcEAv6t1uMhT6qa8kKTSxRV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】7月24日(金)より、『アイドルマスター TOURS』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】7月24日(金)より、『アイドルマスター TOURS』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19387.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19387.html</guid>
+            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/RHNMmrYKvjLcOxq2uo9pzWWl5lpnppic.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【7月24日(金)より】アイドルフォトパネルに新柄が登場！同日よりアイドルマスター オフィシャルショップ各店にて取り扱い予定♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19390.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19390.html</guid>
+            <pubDate>Fri, 17 Jul 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/bA24SYHO43QLcNAkc8jCiSd2SXyaPIgt.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】「IWSF2026」ライブ入場特典・「アイマスオフィシャルショップ」購入特典として『ツアマス』の特別な【プロモーションカード】配布！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19204.html</guid>
             <pubDate>Wed, 24 Jun 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/FUzfBZZSJkOQxU7timQevfKh48HRhYUW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオンライブ】『ミリシタ9周年生配信 Ultimate Party Night！@namco TOKYO』開催記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
-            <description><![CDATA[#ミリシタ9周年Party]]></description>
-            <link>https://idolmaster-official.jp/news/01_19172.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19172.html</guid>
-            <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/06/MYABMP4bw6VhyltTUxEc0MRZC4FXD0rj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオンライブ】『ミリシタ9周年生配信 Ultimate Party Night！@namco TOKYO』お知らせまとめ]]></title>
-            <description><![CDATA[#ミリシタ9周年Party #dualtwinlive_765]]></description>
-            <link>https://idolmaster-official.jp/news/01_19037.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19037.html</guid>
-            <pubDate>Tue, 23 Jun 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/06/19VYk2ioJdP9GshjKmzuuTo4S6BGGrOG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年6月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_19098.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19098.html</guid>
-            <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/7C1Tkf7HElIEiOw68OmAUiW4XszAbvPl.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
