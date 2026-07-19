@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 04:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 08:17:04 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Jul 2026 04:20:08 GMT</pubDate>
+        <pubDate>Sun, 19 Jul 2026 08:17:04 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～BLACK LIPS～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19389.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19389.html</guid>
+            <pubDate>Sun, 19 Jul 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/07/RKyjSXzViISjyZenEfHUV6loqFlTQ5PP.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 国内有料配信チケット販売中！今回は通常配信に加え現地のステージの様子を全景で観れる全景定点セットもご用意！]]></title>
             <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 国内有料配信チケット販売中！今回は通常配信に加え現地のステージの様子を全景で観れる全景定点セットもご用意！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19186.html</guid>
             <pubDate>Thu, 25 Jun 2026 09:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/E71wHoq4n7bpsBqJSgEz8mcBxXcJljIc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【明日6月26日(金)より！】Sofmap×アイドルマスター ミリオンライブ！「S-CLASS SYNC」が開催！]]></title>
-            <description><![CDATA[#ミリオンライブ　#ミリオン秋葉原っぱフェスティバル]]></description>
-            <link>https://idolmaster-official.jp/news/01_19144.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19144.html</guid>
-            <pubDate>Thu, 25 Jun 2026 09:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/x3AUH9ci68tx9iUyYcrdTSzBnbYF7iWq.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
