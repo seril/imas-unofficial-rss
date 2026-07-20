@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Jul 2026 08:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jul 2026 13:05:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Jul 2026 08:56:47 GMT</pubDate>
+        <pubDate>Mon, 20 Jul 2026 13:05:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】生配信『CG総選挙ST@TION ～決戦前日！15周年イベント詳細も発表！～』が8/2(日) 15:00より配信決定！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #CG総選挙決戦前日 #デレマス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19338.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19338.html</guid>
+            <pubDate>Mon, 20 Jul 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/yi2yhgzhXd8z03AW7pDGWdP2bouFcQy2.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 国内有料配信チケット販売中！今回は通常配信に加え現地のステージの様子を全景で観れる全景定点セットもご用意！]]></title>
             <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 国内有料配信チケット販売中！今回は通常配信に加え現地のステージの様子を全景で観れる全景定点セットもご用意！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19128.html</guid>
             <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/7bvgQbrC5pdJsgioRUw68GxGDWXLIn17.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】デレミュ「DERE of the DEAD」現地チケット・7/5(日)〈A席〉〈見切れ席〉の一般販売2次(先着)＆当日券販売決定！2次先着は7/1(水)18:00よりスタート！]]></title>
-            <description><![CDATA[ #シンデレラガールズ #デレミュ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19235.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19235.html</guid>
-            <pubDate>Tue, 30 Jun 2026 03:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/kY93FTR4t0ggIWGqbpDSTym3gS7tZKao.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
