@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 04:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jul 2026 08:27:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 04:14:19 GMT</pubDate>
+        <pubDate>Tue, 21 Jul 2026 08:27:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】「20周年イヤー＆IWSFを振り返ろう！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19340.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19340.html</guid>
+            <pubDate>Tue, 21 Jul 2026 08:06:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/r7BweVUjUKMxw2Gm0VAk9epGAzlsRXYV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年7月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_19383.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19383.html</guid>
+            <pubDate>Tue, 21 Jul 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/zN9WOfNomIMXHiy2gOZa2DApJMkfFf1n.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスターツアービンゴ～BLACK LIPS～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19151.html</guid>
             <pubDate>Thu, 25 Jun 2026 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/05/02gRuv1LLDjL05KaQfWw5YXYVwxKEcRD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【明日6月26日(金)から！】「アイドルマスター ミリオンライブ！シアターデイズ×アトレ秋葉原」が開催✨]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19154.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19154.html</guid>
-            <pubDate>Thu, 25 Jun 2026 09:04:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/qB3LrurVUp5GxL03FR6X5YiwaoMEe7po.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【明日6/26（金）から！】ミリオン商事株式会社よりミリシタ９周年をお祝いしたシャンパン・関連グッズが発売！試飲会も開催！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19186.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19186.html</guid>
-            <pubDate>Thu, 25 Jun 2026 09:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/E71wHoq4n7bpsBqJSgEz8mcBxXcJljIc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
