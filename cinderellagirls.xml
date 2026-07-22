@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Jul 2026 15:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jul 2026 04:15:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Jul 2026 15:42:31 GMT</pubDate>
+        <pubDate>Wed, 22 Jul 2026 04:15:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ばくだん焼本舗が出店！]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ばくだん焼本舗が出店！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19398.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19398.html</guid>
+            <pubDate>Wed, 22 Jul 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/2ThGdfiBhsVhqIqRMMat4ksmEmoSJSWP.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷おおはらベーカリー出張販売所」「冬馬のバターチキンカレーパン出張販売所」出店！※7月23日12:00～事前先着整理券受付開始！]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷おおはらベーカリー出張販売所」「冬馬のバターチキンカレーパン出張販売所」出店！※7月23日12:00～事前先着整理券受付開始！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19399.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19399.html</guid>
+            <pubDate>Wed, 22 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/VSWWoSKzfz0fvBU5EzgZscFpuuniBd2N.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】【#APラウンジ】「20周年イヤー＆IWSFを振り返ろう！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ]]></description>
@@ -57,20 +73,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/bq5mgN5yHgZeyEbPX5SvNB75oxGlYhl2.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイマスIWSF2026】『アイマスMYプレイリストジェネレーター』あなたのオリジナルプレイリストを投稿して、20周年記念セットをゲットしよう！🎧✨]]></title>
-            <description><![CDATA[#プレイリスト作りマス #アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19264.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19264.html</guid>
-            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/07/Ly9H33VAAvcEAv6t1uMhT6qa8kKTSxRV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイドルマスターシリーズ】7月24日(金)より、『アイドルマスター TOURS』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】7月24日(金)より、『アイドルマスター TOURS』オリジナルグッズをアイドルマスター オフィシャルショップにて販売！]]></description>
             <link>https://idolmaster-official.jp/news/01_19387.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19387.html</guid>
             <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/RHNMmrYKvjLcOxq2uo9pzWWl5lpnppic.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマスIWSF2026】『アイマスMYプレイリストジェネレーター』あなたのオリジナルプレイリストを投稿して、20周年記念セットをゲットしよう！🎧✨]]></title>
+            <description><![CDATA[#プレイリスト作りマス #アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19264.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19264.html</guid>
+            <pubDate>Fri, 17 Jul 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/07/Ly9H33VAAvcEAv6t1uMhT6qa8kKTSxRV.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】 二次元コスパより《シンデレラガール総選挙2026》にむけて、「限定 ホログラムミニステッカー(5種)」が7月25日より登場！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19233.html</guid>
             <pubDate>Tue, 30 Jun 2026 13:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/QKQEA8Y8aw2j3sTcbVzD9sfncu3ermX7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「アイドルマスター オフィシャルショップ POPUP シンデレラガール総選挙2026 アトレ川崎店」が7月21日(火)より期間限定開催！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19232.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19232.html</guid>
-            <pubDate>Tue, 30 Jun 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/4g9E9gFh4Yub0250msGCBKRH5b26qrWF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「シンデレラガール総選挙2026」スポットチェックインで「コッペ亭」が対象店舗に決定！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19097.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19097.html</guid>
-            <pubDate>Tue, 30 Jun 2026 12:31:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/P0KOxumowexbIBvI2z1oVYdNd47IaWOT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
