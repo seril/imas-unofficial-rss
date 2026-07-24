@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 04:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jul 2026 08:26:10 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 04:13:19 GMT</pubDate>
+        <pubDate>Fri, 24 Jul 2026 08:26:10 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】初星学園放送部　映像付き生配信のゲストを発表！]]></title>
+            <description><![CDATA[#初星学園放送部]]></description>
+            <link>https://idolmaster-official.jp/news/01_19436.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19436.html</guid>
+            <pubDate>Fri, 24 Jul 2026 05:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/07/a3ksXFl2D9huLlxoQJ2hgk0dPIeYAmat.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 「アイドルマスター カードフォリオ IWSF2026 プレミアムパック」が会場物販とASOBI STOREで数量限定販売スタート！！会場物販では関連アイテムも販売中♪]]></title>
             <description><![CDATA[#アイマスIWSF2026 #カードフォリオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19155.html</guid>
             <pubDate>Wed, 01 Jul 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/JnTYOD3AyEOknQ4YYhIks471549q82UC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.7」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19200.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19200.html</guid>
-            <pubDate>Tue, 30 Jun 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/CQH5E5MGjOdYRmPrTTQ06d6QA85U6Atv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
