@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Jul 2026 12:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 15:01:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Jul 2026 12:01:43 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 15:01:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[ 【シンデレラ】グッズシリーズ「Memory Pict.」第4弾 ෆ⸒⸒　4th Pict.（ 輿水幸子 ・横山千佳）の受注は明日まで！♡♪*˚]]></title>
@@ -401,12 +401,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/uorLlPpAYgOF8gca40ahwZsyuNaOiGRH.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【REFRAC7IONS】「shiny, the first REFRAC7IONS " Still blue "」ゲーム先行がスタート！DAY1追加出演者も発表！]]></title>
-            <description><![CDATA[#シャニマスリフラクションズライブ #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19374.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19374.html</guid>
+            <title><![CDATA[【学マス】「初星学園HR #STEP3 雨夜 燕」 ミラー配信大歓迎！実施ポリシーを公開！]]></title>
+            <description><![CDATA[#初星学園HR  #雨夜燕]]></description>
+            <link>https://idolmaster-official.jp/news/01_19394.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19394.html</guid>
             <pubDate>Fri, 17 Jul 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/VPGCOEB4hzdvV3Xn8JWT9zDXsWK41eHt.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/07/xD8gimBlqCfLn1ZCVAAb4eOGnew5AJac.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
