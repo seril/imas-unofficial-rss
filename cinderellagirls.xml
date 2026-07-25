@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 15:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jul 2026 04:09:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Jul 2026 15:24:35 GMT</pubDate>
+        <pubDate>Sat, 25 Jul 2026 04:09:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【シンデレラ】グッズシリーズ「Memory Pict.」第4弾 ෆ⸒⸒　4th Pict.（ 輿水幸子 ・横山千佳）の受注は明日まで！♡♪*˚]]></title>
+            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_19331.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19331.html</guid>
+            <pubDate>Sat, 25 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/4beq4OsXQxZCr1S6IFVgfWwMlmGGoL4B.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「30MS」シリーズより島村卯月（20th Anniv. YOU AND アイ！）が7月25日（土）発売！]]></title>
             <description><![CDATA[【シンデレラ】「30MS」シリーズより島村卯月（20th Anniv. YOU AND アイ！）が7月25日（土）発売！]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19155.html</guid>
             <pubDate>Wed, 01 Jul 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/JnTYOD3AyEOknQ4YYhIks471549q82UC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】『CG総選挙ST@TION ～ミッション開始直前SP！～』ご視聴ありがとうございました！ 本日のお知らせと告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #CG総選挙STATION #デレミュ #トイボCG #デレマス #メモピク]]></description>
-            <link>https://idolmaster-official.jp/news/01_19209.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19209.html</guid>
-            <pubDate>Tue, 30 Jun 2026 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/06/MEnjalZqm9HOO6Bvwj5QajcwZdRed67u.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
