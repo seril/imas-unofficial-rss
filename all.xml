@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Jul 2026 16:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jul 2026 04:08:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Jul 2026 16:19:00 GMT</pubDate>
+        <pubDate>Tue, 28 Jul 2026 04:08:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 台湾漫画博覧会』イベントレポート]]></title>
+            <description><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 台湾漫画博覧会』イベントレポート]]></description>
+            <link>https://idolmaster-official.jp/news/01_19445.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19445.html</guid>
+            <pubDate>Tue, 28 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/VujlJuXKyNPcZ8hXsxQsUr9A6nwDiU7I.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】2026年8月 双海 亜美・双海 真美 、三浦 あずさ・秋月 律子による『dual twin live tour』配信チケット発売開始！アーカイブは9/27(日)まで！]]></title>
             <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19397.html</guid>
             <pubDate>Sat, 18 Jul 2026 00:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/07/QImdKSd7U8ygBRooknnr66Ngm0HwVGdv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「アイドルマスター SideM　Our cozy dozen YearZ!!!!!!!!!!!! 生配信」告知まとめ]]></title>
-            <description><![CDATA[#SideM #SideM生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_19135.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19135.html</guid>
-            <pubDate>Fri, 17 Jul 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/07/ddpZVEiUhStVSUFgfQQBjDbVPpYyQUSm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
