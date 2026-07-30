@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Jul 2026 03:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 08:25:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Jul 2026 03:55:44 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 08:25:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「→→→SP」が配信中！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「→→→SP」が配信中！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19443.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19443.html</guid>
+            <pubDate>Thu, 30 Jul 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/07/ICmcy1Jam96hmTlko5TuggTtYMC0yaB5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニラジHBTK】リニューアル記念生配信の出演者が決定！生配信は8月1日（土）17:00~ 配信予定【シャニマス】]]></title>
             <description><![CDATA[#シャニラジHBTK]]></description>
@@ -345,6 +353,14 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/HqDAvo0JEnizsJKck6Ni1RyiCtBUQaMm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【アイマス20周年イヤー】2026年7月26日(日) IWSF2026 DAY3終了後 『アイドルマスター』シリーズ 20周年ありがとう！SP 配信決定！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ＃アイマス20周年ありがとう]]></description>
+            <link>https://idolmaster-official.jp/news/01_19207.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19207.html</guid>
+            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/06/jWmlDgerK64U0tMzIZVfXcjrxqAS8Iqr.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【アイドルマスターシリーズ】THE IDOLM@STER 20th Anniversary Piano Collection発売決定！収録楽曲アンケートも募集中！【ピアノ】]]></title>
             <description><![CDATA[#アイマス #アイマスIWSF2026]]></description>
             <link>https://idolmaster-official.jp/news/01_19328.html</link>
@@ -359,14 +375,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19198.html</guid>
             <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/LiLDzqMY5ch8C7VNT4AGMsT7onI2TF9m.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】2026年7月26日(日) IWSF2026 DAY3終了後 『アイドルマスター』シリーズ 20周年ありがとう！SP 配信決定！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ＃アイマス20周年ありがとう]]></description>
-            <link>https://idolmaster-official.jp/news/01_19207.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19207.html</guid>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/06/jWmlDgerK64U0tMzIZVfXcjrxqAS8Iqr.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 For Overseas Producers 】IDOL WORLD SUPER FESTIVAL 2026：Stream in 19 Countries/Regions!／19개 국가 및 지역에 스트리밍 확정!／確定可於19個國家/地區線上收看！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19240.html</guid>
             <pubDate>Tue, 07 Jul 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/qotZUeY3okRWVLL3Z5Gc1DRx09uqHWNv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ローソンオリジナルグッズ販売中！好評の描き下ろしイラストを使用したグッズが登場！✨]]></title>
-            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19184.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19184.html</guid>
-            <pubDate>Tue, 07 Jul 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/pxEffHwiB69LmvG1fr17S5ltlFl2lHhF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
