@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 15:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jul 2026 03:55:44 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 29 Jul 2026 15:48:05 GMT</pubDate>
+        <pubDate>Thu, 30 Jul 2026 03:55:44 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニラジHBTK】リニューアル記念生配信の出演者が決定！生配信は8月1日（土）17:00~ 配信予定【シャニマス】]]></title>
+            <description><![CDATA[#シャニラジHBTK]]></description>
+            <link>https://idolmaster-official.jp/news/01_19455.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19455.html</guid>
+            <pubDate>Thu, 30 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/07/INxNvEsBGgR14sXILRmYxws797welTHF.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 台湾漫画博覧会』イベントレポート]]></title>
             <description><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 台湾漫画博覧会』イベントレポート]]></description>
@@ -377,14 +385,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/pYhhHVf6wIZUB6qOJPNh6ddt4CpaJrRa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
-            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19249.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
-            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></description>
             <link>https://idolmaster-official.jp/news/01_19234.html</link>
@@ -393,20 +393,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/2BPBKTnJGVE7pGNZ6yJjXqZtAQkuzpqO.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
+            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19249.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
+            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【シャニマス】7月14日より「アイドルマスター シャイニーカラーズ×カラオケまねきねこ」コラボキャンペーン開始！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
             <link>https://idolmaster-official.jp/news/01_19269.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19269.html</guid>
             <pubDate>Fri, 03 Jul 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/fsabHiE2HLe3D1n4fFsXcJlaFFT8A2hj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】【Merry】 樋口円香のスケールフィギュアが登場！本日7月3日（金）から予約開始！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19175.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19175.html</guid>
-            <pubDate>Fri, 03 Jul 2026 04:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/iiNJO3WwsarJislltCTscbqDDOk4c7Aa.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
