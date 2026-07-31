@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 08:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 12:54:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 08:48:45 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 12:54:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】「アイマスの夏☀各ブランドのトピックを総ざらい！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #APラウンジ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19421.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19421.html</guid>
+            <pubDate>Fri, 31 Jul 2026 12:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/vd86UUFxT8djQXQ7YsGm0og25jNOymjC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【SideM】「THE IDOLM@STER SideM」Royal Chess Loungeのコラボカフェ開催が決定！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_19442.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19442.html</guid>
+            <pubDate>Fri, 31 Jul 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/7dz0eOfpewBKDwhulgWcqjgNHhR3388J.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【9/11(金) より】POP UP SHOP「オペラセリア」が開催決定🌹]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19450.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19450.html</guid>
+            <pubDate>Fri, 31 Jul 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/4cT65e4qd4rL7zYUCEwgKzcHY8coQsxM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」アソビストア一般会員2次先行が本日7月31日(金)よりスタート！ご好評につき立見指定・ステージサイド席の追加も決定！！]]></title>
             <description><![CDATA[#ミリオン14th]]></description>
@@ -161,20 +185,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/07/3fsKNKGCLHAgLRqMJJay6atlj3KzRve0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ ご来場、ご視聴ありがとうございました！セットリストなどの公演情報と本日発表の告知内容をお知らせ！配信アーカイブチケットも発売中！]]></title>
-            <description><![CDATA[#xR_765vs961]]></description>
-            <link>https://idolmaster-official.jp/news/01_19439.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19439.html</guid>
-            <pubDate>Sun, 26 Jul 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/07/zRziATJp7F7obxpcuWphjENUY342V3oo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ 20周年ありがとう！SP生配信 抽選でキャストのサイン色紙をプレゼント！]]></title>
             <description><![CDATA[#アイマス20周年イヤー ＃アイマス20周年ありがとう ]]></description>
             <link>https://idolmaster-official.jp/news/01_19266.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19266.html</guid>
             <pubDate>Sun, 26 Jul 2026 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/OMgNrgNOaiMRC25P28BCl0lIvw7ASYjC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ ご来場、ご視聴ありがとうございました！セットリストなどの公演情報と本日発表の告知内容をお知らせ！配信アーカイブチケットも発売中！]]></title>
+            <description><![CDATA[#xR_765vs961]]></description>
+            <link>https://idolmaster-official.jp/news/01_19439.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19439.html</guid>
+            <pubDate>Sun, 26 Jul 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/07/zRziATJp7F7obxpcuWphjENUY342V3oo.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスピアノ】CD限定で収録される新規ピアノアレンジ楽曲が決定！ASOBI STOREにて予約受付中📢【アイドルマスターシリーズ】]]></title>
@@ -265,20 +289,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/MWfmmKh53cG0cu1H1ThvjTQU94z2SOFr.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 開催記念グッズ販売が本日7月24日(金)より受注スタート！！]]></title>
-            <description><![CDATA[#アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19424.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19424.html</guid>
-            <pubDate>Fri, 24 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/KJU6aShHIkfSq4q7qrsL2Gt6ElxphXWm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】グッズシリーズ「Memory Pict.」第4弾.°◌　4th Pict.（ 輿水幸子 ・横山千佳）の受注は今週末まで！♡ˎˊ˗]]></title>
             <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
             <link>https://idolmaster-official.jp/news/01_19330.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19330.html</guid>
             <pubDate>Fri, 24 Jul 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/4beq4OsXQxZCr1S6IFVgfWwMlmGGoL4B.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 開催記念グッズ販売が本日7月24日(金)より受注スタート！！]]></title>
+            <description><![CDATA[#アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19424.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19424.html</guid>
+            <pubDate>Fri, 24 Jul 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/KJU6aShHIkfSq4q7qrsL2Gt6ElxphXWm.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷の開催を記念して、出演アイドル43名のビジュアルがカスタマイズ "Tシャツ" と"トートバッグ" で登場🌟]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19415.html</guid>
             <pubDate>Tue, 21 Jul 2026 11:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/07/48L9pKdxLQ56yrO1mZWTjf0VZcwIiHNr.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】JOL Collab Storeにて、POP UP STORE『Stillness＆Motion』が2026年8月7日(金)より開催決定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19345.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19345.html</guid>
-            <pubDate>Tue, 21 Jul 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/cPDM1qSv8kgxE89cNFuOE9pauuz5ZHEd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】「20周年イヤー＆IWSFを振り返ろう！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマスch #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19340.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19340.html</guid>
-            <pubDate>Tue, 21 Jul 2026 08:06:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/MyrximMIMphg17ANFwb4MoB1UpkciJHa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年7月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_19383.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19383.html</guid>
-            <pubDate>Tue, 21 Jul 2026 08:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/zN9WOfNomIMXHiy2gOZa2DApJMkfFf1n.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

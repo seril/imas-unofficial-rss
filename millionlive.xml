@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 08:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 12:54:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 Jul 2026 08:48:45 GMT</pubDate>
+        <pubDate>Fri, 31 Jul 2026 12:54:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】【#APラウンジ】「アイマスの夏☀各ブランドのトピックを総ざらい！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #APラウンジ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19421.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19421.html</guid>
+            <pubDate>Fri, 31 Jul 2026 12:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/vd86UUFxT8djQXQ7YsGm0og25jNOymjC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【9/11(金) より】POP UP SHOP「オペラセリア」が開催決定🌹]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19450.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19450.html</guid>
+            <pubDate>Fri, 31 Jul 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/4cT65e4qd4rL7zYUCEwgKzcHY8coQsxM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」アソビストア一般会員2次先行が本日7月31日(金)よりスタート！ご好評につき立見指定・ステージサイド席の追加も決定！！]]></title>
             <description><![CDATA[#ミリオン14th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19300.html</guid>
             <pubDate>Sat, 04 Jul 2026 11:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/FUzfBZZSJkOQxU7timQevfKh48HRhYUW.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19234.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19234.html</guid>
-            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/2BPBKTnJGVE7pGNZ6yJjXqZtAQkuzpqO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
-            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19249.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
-            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
