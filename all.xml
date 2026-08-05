@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 12:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 16:00:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 12:50:59 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 16:00:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】✨🌃狙え！公式宣材写真🌃✨亜美真美・あずさ律子による「dual twin live tour」配信プロデュースショット投稿キャンペーン📷のご案内]]></title>
+            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
+            <link>https://idolmaster-official.jp/news/01_19558.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19558.html</guid>
+            <pubDate>Wed, 05 Aug 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/ZRgoYIklhY5PSLSUamv2J7BFR3YA6hOv.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.10」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -209,14 +217,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/8FijAccfbkeq1etgGUf9qFH1dtNA9oyd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」詳細発表！アソビストアプレミアム会員最速先行＆公式グッズ事前販売も開始！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #シンデレラ15thPARTY #CG総選挙決戦前日]]></description>
-            <link>https://idolmaster-official.jp/news/01_19446.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19446.html</guid>
-            <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/teMz2oYLVKAbqsCQE61vklvIgY0gB6dn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】「シンデレラガール総選挙2026」開催記念公式グッズの受注販売スタート！190人全員の新規描きおろしビジュアルのグッズやカードフォリオがラインナップに登場！]]></title>
             <description><![CDATA[#シンデレラガール総選挙2026 #CG総選挙決戦前日 #シンデレラ15thPARTY]]></description>
             <link>https://idolmaster-official.jp/news/01_19448.html</link>
@@ -231,6 +231,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19451.html</guid>
             <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/n4CmuGoDOBDgol4wFtOYuCc5NgCBIBCu.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」詳細発表！アソビストアプレミアム会員最速先行＆公式グッズ事前販売も開始！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #シンデレラ15thPARTY #CG総選挙決戦前日]]></description>
+            <link>https://idolmaster-official.jp/news/01_19446.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19446.html</guid>
+            <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/teMz2oYLVKAbqsCQE61vklvIgY0gB6dn.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】「シンデレラガール」候補アイドル190人！一挙紹介配信]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19445.html</guid>
             <pubDate>Tue, 28 Jul 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/VujlJuXKyNPcZ8hXsxQsUr9A6nwDiU7I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】2026年8月 双海 亜美・双海 真美 、三浦 あずさ・秋月 律子による『dual twin live tour』配信チケット発売開始！アーカイブは9/27(日)まで！]]></title>
-            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
-            <link>https://idolmaster-official.jp/news/01_19447.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19447.html</guid>
-            <pubDate>Mon, 27 Jul 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/07/uEiCtj3xRGTmMBPdQg7UBDsBVY65OpOF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
