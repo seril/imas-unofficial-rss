@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 16:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Aug 2026 04:08:06 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 04 Aug 2026 16:11:02 GMT</pubDate>
+        <pubDate>Wed, 05 Aug 2026 04:08:06 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】Giftの新作ぬいぐるみがコミックマーケット108で先行販売決定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19416.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19416.html</guid>
+            <pubDate>Wed, 05 Aug 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/KNQj65UX8Q35cF4gke0tiTeZIhExADkg.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「No 1 feel alone」 POP UP SHOP『PULSE COLLECTION』のグッズが7月31日(金)よりEC販売中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19482.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19482.html</guid>
+            <pubDate>Wed, 05 Aug 2026 01:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/yu9SqpYnpSvjHB0nDq8i46nFa1IkC4Rz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！メンバー限定IWSF2026特別配信」配信のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマス20周年イヤー #アイマスch  #アイマスIWSF2026]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19161.html</guid>
             <pubDate>Mon, 27 Jul 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/06/mor9hqPQ27nelfLyJtpAGS9mMei4azha.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「コトブキヤくじ」アイドルマスター Summer Live st@geが開催決定！⛱✨]]></title>
-            <description><![CDATA[#アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19428.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19428.html</guid>
-            <pubDate>Mon, 27 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/v7ZEXDbi7oyj1ZD6kMeGIJGq0JYZGjwv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】 『アイドルマスター』シリーズ 20周年ありがとう！SP生配信 お知らせまとめ]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #アイマス20周年ありがとう]]></description>
-            <link>https://idolmaster-official.jp/news/01_19349.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19349.html</guid>
-            <pubDate>Sun, 26 Jul 2026 14:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/07/3fsKNKGCLHAgLRqMJJay6atlj3KzRve0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
