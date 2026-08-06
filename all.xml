@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 04:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 08:34:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Aug 2026 04:11:22 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 08:34:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「アイドルマスター カードフォリオ」に「学園アイドルマスター」が登場！第1弾が本日よりASOBI STOREで受注スタート！]]></title>
+            <description><![CDATA[#学マス #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19530.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19530.html</guid>
+            <pubDate>Thu, 06 Aug 2026 07:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/6lISssckWfPjfqfe1TSm8VukAYQQ9yG0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス標ツアー】 学園アイドルマスター LIVE TOUR -標- ファイナル公演のイベント公式グッズ事前販売ファイナルが本日8月6日(木)16:00よりスタート！]]></title>
+            <description><![CDATA[#学マス #標ツアーファイナル公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_19521.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19521.html</guid>
+            <pubDate>Thu, 06 Aug 2026 07:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/qVALKJECHBPvH2sWMRbNxYtVBblFkVr9.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「Pop'n ToyBox!!」会場物販の実施が決定！！かわいいアイテムをお見逃しなく♡]]></title>
+            <description><![CDATA[#シンデレラガールズ #デレマス #トイボ公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_19562.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19562.html</guid>
+            <pubDate>Thu, 06 Aug 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/08/2y9cgiMKwkQAUURaReu35x1K968JLOfG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【REFRAC7IONS】「shiny, the first REFRAC7IONS " Still blue "」公式グッズ事前販売が本日8月6日(木)よりスタート！！受注は8月23日(日)まで！]]></title>
+            <description><![CDATA[#シャニマス_リフラクションズライブ #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19533.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19533.html</guid>
+            <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/5jqzfDJusyTogvVeIs1fkEsBhWKCVHVc.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』大型アップデート！ 8月6日より新シリーズ1弾をスタートし、「ツアーモード」やオリジナル楽曲『→→→SP』が登場！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -22,7 +54,7 @@
             <link>https://idolmaster-official.jp/news/01_19532.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19532.html</guid>
             <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/HVMLJrzlP4iFeNCV8FoxVFtEmfYa23ny.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/1JQZsfTNVLjwuKqdjKTVzXHt1XuUaWLn.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズの「バースデープレート」が登場！第1弾は8月31日(月)までASOBI STOREで受注中♪]]></title>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19443.html</guid>
             <pubDate>Thu, 30 Jul 2026 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/07/ICmcy1Jam96hmTlko5TuggTtYMC0yaB5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「旅マス」と「でらます」の情報を一挙公開！スタートは8/3(月)から！]]></title>
-            <description><![CDATA[#SideM #でらますエム #旅マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19449.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19449.html</guid>
-            <pubDate>Thu, 30 Jul 2026 06:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/07/GVikF1WUAi2N1vt1uG3KLg8OgcKQsABa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『シャニマス生配信 ～君と過ごしたあの夏スペシャル～』お知らせまとめ]]></title>
-            <description><![CDATA[#シャイニーカラーズ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19142.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19142.html</guid>
-            <pubDate>Thu, 30 Jul 2026 04:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/07/dzQPhsAAchJp2eAE5Ye8SEYe5OSHWGbb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】「KIMCHIKURA Fes ‘26」出演記念！星井美希海外ライブ第2弾「THE FUTURE SPOTLIGHT」in KOREA 開催決定！！！]]></title>
-            <description><![CDATA[#김치쿠라 #キムチクラ #KIMCHIKURA #MIKI_KOREA_LIVE]]></description>
-            <link>https://idolmaster-official.jp/news/01_19478.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19478.html</guid>
-            <pubDate>Thu, 30 Jul 2026 04:40:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/07/bNbrReiBq2dsUVhMw05vWRuRcppoQuAm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】【7月30日(木)12:00～受注開始！】Anidealより一ノ瀬志希・宮本フレデリカプロデュースシャンプーセット受注受付中！]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19463.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19463.html</guid>
-            <pubDate>Thu, 30 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/8BBvdDM32hNcb8nYjTpSMVP5jUCqiEQp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
