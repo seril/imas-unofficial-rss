@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 16:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 04:11:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 16:00:07 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 04:11:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』大型アップデート！ 8月6日より新シリーズ1弾をスタートし、「ツアーモード」やオリジナル楽曲『→→→SP』が登場！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19544.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19544.html</guid>
+            <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/UwbNAXbtyIZ3S2TOpMivhLnerPz2Y851.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】アイドルマスター シャイニーカラーズの「バースデープレート」が登場！第1弾は8月31日(月)までASOBI STOREで受注中♪]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19480.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19480.html</guid>
+            <pubDate>Thu, 06 Aug 2026 02:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/08/sew64SjAaX4s8428htVG489bgbgWL87I.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.10」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19372.html</guid>
             <pubDate>Mon, 13 Jul 2026 19:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/t2EeCV5aY73ygajvZakgtQSRSZFyAKve.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[✦本日まで✦【シャニマス】283 PRODUCTION Solo Live Collection -Master ShowPiece- 公式グッズ事前販売ファイナル＆協賛社グッズ販売は本日7月12日(日)まで！！]]></title>
-            <description><![CDATA[#シャニマスソロライブMSP #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19346.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19346.html</guid>
-            <pubDate>Sun, 12 Jul 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/q9xiLaxR3LLziQ3eJdcEWkVUS48fsQIv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニソン】「シャニソンサマーコンテスト」開催！]]></title>
-            <description><![CDATA[#シャニソン]]></description>
-            <link>https://idolmaster-official.jp/news/01_19274.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19274.html</guid>
-            <pubDate>Fri, 10 Jul 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/MOj1RoGowTsC9l0MrwSNAstp5feWMgTZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

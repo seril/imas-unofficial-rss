@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 05 Aug 2026 16:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Aug 2026 04:11:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 05 Aug 2026 16:00:07 GMT</pubDate>
+        <pubDate>Thu, 06 Aug 2026 04:11:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』大型アップデート！ 8月6日より新シリーズ1弾をスタートし、「ツアーモード」やオリジナル楽曲『→→→SP』が登場！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19544.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19544.html</guid>
+            <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/UwbNAXbtyIZ3S2TOpMivhLnerPz2Y851.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.10」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19327.html</guid>
             <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/07/7gusIW1D5LiAhRoXuqderuIBWaT054Xf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 物販＆展示情報公開！関連グッズや会場オリジナルCDに加え、カードフォリオも販売決定！展示エリアでは協賛展示に加えキッチンカーも出店！]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 物販＆展示情報公開！関連グッズや会場オリジナルCDに加え、カードフォリオも販売決定！展示エリアでは協賛展示に加えキッチンカーも出店！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19323.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19323.html</guid>
-            <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/07/dlbLnUDexi0Iej6EtV9iW3WMTpLlYlC9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
