@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 11:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 14:51:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 07 Aug 2026 11:43:49 GMT</pubDate>
+        <pubDate>Fri, 07 Aug 2026 14:51:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【SideM】アイドルマスター SideM 「SUMMER SPLASH！POP UP SHOP」事後通販決定！]]></title>
@@ -15,6 +15,22 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19499.html</guid>
             <pubDate>Fri, 07 Aug 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/08/YhD1ghcqNIafezn1GgXIavmna9BxZ9WK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】dual twin live tour 『三浦 あずさ・秋月 律子 twin live “ つみまつよるまち ”』＜大阪公演＞ のご来場・ご視聴ありがとうございました！本日のセットリスト＆各種情報まとめはこちら！ ]]></title>
+            <description><![CDATA[#三浦あずさ_秋月律子_twinlive #つみまつ_大阪]]></description>
+            <link>https://idolmaster-official.jp/news/01_19572.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19572.html</guid>
+            <pubDate>Fri, 07 Aug 2026 13:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/VPqTq1NagAOo24x1k5Wfpa2O1DDGkjP1.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】スナップシリーズが受注中！受注締め切りは9/13(日)まで♪]]></title>
+            <description><![CDATA[#学マス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19570.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19570.html</guid>
+            <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/XIS2Cxc32VofCNdY4gEYYxpAkLXvKYFU.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】MOIW2025のBlu-rayの受注は8/30(日)まで！描きマスMOIW2025やオリジナルのぼりの新情報も！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19472.html</guid>
             <pubDate>Mon, 03 Aug 2026 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/iu6cXDfOXCJr2cPRxCrdKCc82jUhAoDP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】開催終了！ご参加いただいた企業・自治体の皆様からのメッセージを公開！②]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_19456.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19456.html</guid>
-            <pubDate>Mon, 03 Aug 2026 02:31:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/h3gr4Fdu8FhIBEoOsV94jckXiJycUlA9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】開催終了！ご参加いただいた企業・自治体の皆様からのメッセージを公開！①]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_19444.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19444.html</guid>
-            <pubDate>Mon, 03 Aug 2026 02:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/h3gr4Fdu8FhIBEoOsV94jckXiJycUlA9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
