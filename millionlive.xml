@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 08 Aug 2026 02:53:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Aug 2026 04:10:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 08 Aug 2026 02:53:35 GMT</pubDate>
+        <pubDate>Sat, 08 Aug 2026 04:10:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスIWSF2026】連休中も思い出を楽しもう！サイン入りノベリティが当たる『 #IWSF2026のいいところ 』ハッシュタグ投稿キャンペーン実施決定！配信アーカイブのご購入は8/17(月)18:00まで！]]></title>
+            <description><![CDATA[#アイマスIWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19586.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19586.html</guid>
+            <pubDate>Sat, 08 Aug 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/08/YzZuZYJupixkKWxeLz2SIqrBmdIGxCBe.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【8/16(日)まで！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前二次販売は全商品数量限定！ライトの実物写真公開中！]]></title>
+            <description><![CDATA[#ミリオン14th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19583.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19583.html</guid>
+            <pubDate>Sat, 08 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/1JQZsfTNVLjwuKqdjKTVzXHt1XuUaWLn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマス20周年イヤー】本日より同時視聴上映会開催！！ ⫸ #アイマスIWSF2026 ⫷ 開催記念グッズの受注は8月16日(日)まで！！カードフォリオ IWSF2026 プレミアムパックも数量限定で販売中！]]></title>
             <description><![CDATA[#アイマスIWSF2026 #カードフォリオ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19361.html</guid>
             <pubDate>Fri, 17 Jul 2026 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/CvDbZSbaY4jWGo0okOD7NErFIcq85ToH.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】『アイドルマスター ミリオンライブ！』新規撮り下ろしボイス搭載ワイヤレスイヤホン再受注決定！！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19190.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19190.html</guid>
-            <pubDate>Thu, 16 Jul 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/06/6GmDu6ypnsWmjBC5DxyDjmElU9UGSzwV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 一部公演での上映館追加も決定！国内ライブビューイングの一般販売は今週末7月18日(土)AM10:00受付開始！！]]></title>
-            <description><![CDATA[ 【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 一部公演での上映館追加も決定！国内ライブビューイングの一般販売は今週末7月18日(土)AM10:00受付開始！！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19386.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19386.html</guid>
-            <pubDate>Wed, 15 Jul 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/07/ob1LU6flW1pqrcUaliRQoo7pl7Mfc2wh.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
