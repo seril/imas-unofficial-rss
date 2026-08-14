@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 07:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 11:41:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 14 Aug 2026 07:23:05 GMT</pubDate>
+        <pubDate>Fri, 14 Aug 2026 11:41:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】8/14 (金) 学マス生配信「初星学園HR #11」お知らせまとめ]]></title>
+            <description><![CDATA[ #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19430.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19430.html</guid>
+            <pubDate>Fri, 14 Aug 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/FfDRnNCyvTgHQELAfoKxvqtUDdDgf7vR.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「初星学園HR #11」配信記念！出演キャストのサイン色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター #夏の学マス水着配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_19459.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19459.html</guid>
+            <pubDate>Thu, 13 Aug 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/RMUqBfWMMXBRwz56EkT6VJg7Utem3LvI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年8月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch]]></description>
@@ -313,20 +329,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/07/3fsKNKGCLHAgLRqMJJay6atlj3KzRve0.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ 20周年ありがとう！SP生配信 抽選でキャストのサイン色紙をプレゼント！]]></title>
-            <description><![CDATA[#アイマス20周年イヤー ＃アイマス20周年ありがとう ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19266.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19266.html</guid>
-            <pubDate>Sun, 26 Jul 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/OMgNrgNOaiMRC25P28BCl0lIvw7ASYjC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ ご来場、ご視聴ありがとうございました！セットリストなどの公演情報と本日発表の告知内容をお知らせ！配信アーカイブチケットも発売中！]]></title>
             <description><![CDATA[#xR_765vs961]]></description>
             <link>https://idolmaster-official.jp/news/01_19439.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19439.html</guid>
             <pubDate>Sun, 26 Jul 2026 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/07/zRziATJp7F7obxpcuWphjENUY342V3oo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】『アイドルマスター』シリーズ 20周年ありがとう！SP生配信 抽選でキャストのサイン色紙をプレゼント！]]></title>
+            <description><![CDATA[#アイマス20周年イヤー ＃アイマス20周年ありがとう ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19266.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19266.html</guid>
+            <pubDate>Sun, 26 Jul 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/OMgNrgNOaiMRC25P28BCl0lIvw7ASYjC.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスピアノ】CD限定で収録される新規ピアノアレンジ楽曲が決定！ASOBI STOREにて予約受付中📢【アイドルマスターシリーズ】]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19429.html</guid>
             <pubDate>Thu, 23 Jul 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/07/PK4ITaLStyVmsEPBfKusDfeMlG6GLYSx.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】花海咲季・月村手毬・藤田ことねがRe;IRIS Ver.で1/7スケールフィギュア化！ご予約受付中♪]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19373.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19373.html</guid>
-            <pubDate>Thu, 23 Jul 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/A7PbEd4ZXzReKG0hRIk20kY7k7QPeaxK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター LIVE TOUR -標- 福井公演」一般先着、リセールの販売が7/25(土)よりスタート！！]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19413.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19413.html</guid>
-            <pubDate>Wed, 22 Jul 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/b3mmPMzuSF96TkIqzQCPQcaSk018K6Nb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
