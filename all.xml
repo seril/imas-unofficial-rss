@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 15 Aug 2026 11:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2026 14:20:40 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 15 Aug 2026 11:19:01 GMT</pubDate>
+        <pubDate>Sat, 15 Aug 2026 14:20:40 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【SideM衣装展】FiFS描き下ろし アイドル49名のビジュアルがカスタマイズ "Tシャツ" と"トートバッグ" で登場🌟ˎˊ˗ まもなく受注終了です！！！]]></title>
+            <description><![CDATA[#SideM #SideM衣装展]]></description>
+            <link>https://idolmaster-official.jp/news/01_19316.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19316.html</guid>
+            <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/hEkzu82DGcuQ4nFSjdvNA7DJe64J91pz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明日まで！】【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 開催を記念出演アイドル43名のビジュアルがカスタマイズ "Tシャツ" と"トートバッグ" で登場🌟受注締切は明日8月16日(日)まで！]]></title>
+            <description><![CDATA[#IWSF2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19309.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19309.html</guid>
+            <pubDate>Sat, 15 Aug 2026 11:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/jjRXMXtuDsisZgOAoptKJCqeRE2ffp5f.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前二次販売は全商品数量限定！一部グッズの実物写真を公開中！]]></title>
             <description><![CDATA[#ミリオン14th]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19561.html</guid>
             <pubDate>Fri, 07 Aug 2026 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/q9hDZkBk6WyASiL2ycefi7kJOVYrKpY6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター」× Chugai Grace Café リバイバル が9月3日(木)から開催！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19534.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19534.html</guid>
-            <pubDate>Fri, 07 Aug 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/ApoKVxCx8amhvLOafUHTpUsFOl9uSORA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】 283 PRODUCTION Solo Live Collection -Master ShowPiece-  楽屋花・プレゼントについてのご案内]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマスソロライブMSP]]></description>
-            <link>https://idolmaster-official.jp/news/01_19531.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19531.html</guid>
-            <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/08/uLWEcSR3vweidAh5qPgkGBXxXpua3j24.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
