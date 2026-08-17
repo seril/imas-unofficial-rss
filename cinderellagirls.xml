@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 06:53:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 11:24:18 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 06:53:31 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 11:24:18 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』視聴コメント付きアーカイブ配信開始！／公演アンケート実施のご案内]]></title>
+            <description><![CDATA[#トイボ公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_19614.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19614.html</guid>
+            <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/lgia5jvdXd3j2NVGUyozryT2gC6mQ0o6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』ご来場、ご視聴ありがとうございました！セットリスト＆告知まとめはこちら！]]></title>
             <description><![CDATA[#トイボ公演]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19432.html</guid>
             <pubDate>Fri, 24 Jul 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/ziTSnF4FHa7adW5Ae4EnhZrlkmIO6Xnj.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「アイドルマスター オフィシャルショップ POPUPシンデレラガール総選挙2026」がアトレ川崎にて開催中！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19431.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19431.html</guid>
-            <pubDate>Fri, 24 Jul 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/ToabBb4kk2kSPrZNKafWJeQS9REVOl2U.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
