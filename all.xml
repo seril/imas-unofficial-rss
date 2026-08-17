@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 02:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 03:49:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 02:18:35 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 03:49:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】8月25日(火) 19:00～ 声優陣2名が出演するシャニマス生配信を実施予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ  #シャニソン  #シャニマス生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_19507.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19507.html</guid>
+            <pubDate>Mon, 17 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/w6diZOCX6b0ZF7Oj1FMNtiUr3QJJDO3Y.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】ソロ曲の衣装を身にまとったアイドル達のちびぐるみが2027年2月より全国のクレーンゲームに登場予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19420.html</guid>
             <pubDate>Fri, 07 Aug 2026 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/9dQ2zNRCn5Y0Zc19LzCO0H5iw9vQrDAk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【9/11(金) より】POP UP SHOP「オペラセリア」コラボ情報 第2弾公開⚔]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19483.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19483.html</guid>
-            <pubDate>Fri, 07 Aug 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/7D499aiG0oRVxva31lvPAMwmd43Q9b9a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
