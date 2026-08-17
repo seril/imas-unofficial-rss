@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 11:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 14:26:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Aug 2026 11:24:18 GMT</pubDate>
+        <pubDate>Mon, 17 Aug 2026 14:26:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】本日より「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」の配信視聴チケット販売開始！現地ライブビューイングチケットも8月24日まで受付中！]]></title>
+            <description><![CDATA[#宇宙誕生祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19623.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19623.html</guid>
+            <pubDate>Mon, 17 Aug 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/QNAEXveRcJehoGfhD26bOKG3E3Vzuznv.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】本日8月17日（月）より「アイドルマスター シャイニーカラーズ」がDMMスクラッチに登場！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19535.html</guid>
             <pubDate>Fri, 07 Aug 2026 16:55:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/C2ofajQmGzF5E1Tn1X8FGq7KEbKncr3G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】dual twin live tour 『三浦 あずさ・秋月 律子 twin live “ つみまつよるまち ”』＜大阪公演＞ のご来場・ご視聴ありがとうございました！本日のセットリスト＆各種情報まとめはこちら！ ]]></title>
-            <description><![CDATA[#三浦あずさ_秋月律子_twinlive #つみまつ_大阪]]></description>
-            <link>https://idolmaster-official.jp/news/01_19572.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19572.html</guid>
-            <pubDate>Fri, 07 Aug 2026 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/VPqTq1NagAOo24x1k5Wfpa2O1DDGkjP1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
