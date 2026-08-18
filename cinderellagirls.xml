@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 06:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 11:23:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 18 Aug 2026 06:40:46 GMT</pubDate>
+        <pubDate>Tue, 18 Aug 2026 11:23:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.11」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19612.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19612.html</guid>
+            <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/sse1ATYeZHY1PtJtQ8TGbj2iNW43pebO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「TOPPA!!! BASE アイドルマスター シンデレラガールズ POPUP SHOP 凸凹 GAMING WORLD」販売商品を公開！8月27日（木）より開催スタート！]]></title>
+            <description><![CDATA[#シンデレラガール総選挙2026 #imas_cg #デレマス #凸凹デレマスTB]]></description>
+            <link>https://idolmaster-official.jp/news/01_19581.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19581.html</guid>
+            <pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/7NzamwG8HucMu6l6VQjeTJygC2Va2ncf.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』視聴コメント付きアーカイブ配信開始！／公演アンケート実施のご案内]]></title>
             <description><![CDATA[#トイボ公演]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19332.html</guid>
             <pubDate>Sun, 26 Jul 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/4beq4OsXQxZCr1S6IFVgfWwMlmGGoL4B.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】グッズシリーズ「Memory Pict.」第4弾 ෆ⸒⸒　4th Pict.（ 輿水幸子 ・横山千佳）の受注は明日まで！♡♪*˚]]></title>
-            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_19331.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19331.html</guid>
-            <pubDate>Sat, 25 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/4beq4OsXQxZCr1S6IFVgfWwMlmGGoL4B.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「30MS」シリーズより島村卯月（20th Anniv. YOU AND アイ！）が7月25日（土）発売！]]></title>
-            <description><![CDATA[【シンデレラ】「30MS」シリーズより島村卯月（20th Anniv. YOU AND アイ！）が7月25日（土）発売！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19432.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19432.html</guid>
-            <pubDate>Fri, 24 Jul 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/ziTSnF4FHa7adW5Ae4EnhZrlkmIO6Xnj.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
