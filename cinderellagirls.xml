@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 20 Aug 2026 11:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Aug 2026 14:34:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 20 Aug 2026 11:24:54 GMT</pubDate>
+        <pubDate>Thu, 20 Aug 2026 14:34:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【シンデレラ】本格ゲーミングキーボードなどデスク周りを彩るアイテム多数！アイドルマスター シンデレラガールズ×ふもコレのコラボグッズ第2弾が予約受付中！]]></title>
@@ -305,6 +305,14 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/8FijAccfbkeq1etgGUf9qFH1dtNA9oyd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【シンデレラ】グッズシリーズ「Memory Pict.」第5弾:｡･:*  本日より5th Pict.（佐城雪美・遊佐こずえ）が受注開始です！]]></title>
+            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_19451.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19451.html</guid>
+            <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/n4CmuGoDOBDgol4wFtOYuCc5NgCBIBCu.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」詳細発表！アソビストアプレミアム会員最速先行＆公式グッズ事前販売も開始！]]></title>
             <description><![CDATA[#シンデレラガール総選挙2026 #シンデレラ15thPARTY #CG総選挙決戦前日]]></description>
             <link>https://idolmaster-official.jp/news/01_19446.html</link>
@@ -319,14 +327,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19448.html</guid>
             <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/XwSM6R9ezpMjcb1E1TnSSt9N3S9R0x6e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】グッズシリーズ「Memory Pict.」第5弾:｡･:*  本日より5th Pict.（佐城雪美・遊佐こずえ）が受注開始です！]]></title>
-            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_19451.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19451.html</guid>
-            <pubDate>Sun, 02 Aug 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/n4CmuGoDOBDgol4wFtOYuCc5NgCBIBCu.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】「シンデレラガール」候補アイドル190人！一挙紹介配信]]></title>
