@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 06:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 11:19:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 06:38:05 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 11:19:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター LIVE TOUR -標- 福井公演 視聴コメント付きアーカイブ配信開始！アンケートも実施中！]]></title>
+            <description><![CDATA[#学マス標ツアー #学マス標ツアー_福井公演_DAY1 #学マス標ツアー_福井公演_DAY2]]></description>
+            <link>https://idolmaster-official.jp/news/01_19688.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19688.html</guid>
+            <pubDate>Sat, 22 Aug 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/08/RhlEedIJ3HyWM5ZePyb5HTUBwYRqymhY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
             <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
@@ -17,20 +25,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19656.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
-            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- 福井公演 DAY2 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
             <description><![CDATA[#学マス #学マス標ツアー_福井公演　#学マス標ツアー_福井公演_DAY2]]></description>
             <link>https://idolmaster-official.jp/news/01_19616.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19616.html</guid>
             <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/L3nBD6OBvNHEKxuPpMhET5jNmIjNkHlL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19656.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
+            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19492.html</guid>
             <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/KJU6aShHIkfSq4q7qrsL2Gt6ElxphXWm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 学マス 】‎倉本千奈誕生日記念セット2026 受注受付が開始！［8/23(日)まで］]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター #‎倉本千奈生誕祭2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19491.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19491.html</guid>
-            <pubDate>Fri, 31 Jul 2026 15:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/wsbRXbBxA0qUbaX8m0m11aZbBKtY3CSu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
