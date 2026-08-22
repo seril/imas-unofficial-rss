@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 03:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 06:38:05 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 03:40:30 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 06:38:05 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】明日まで！「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」アソビストアプレミアム会員最速先行のお申込みは8月23日(日)23:59まで！]]></title>
+            <description><![CDATA[#シンデレラ15thPARTY]]></description>
+            <link>https://idolmaster-official.jp/news/01_19644.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19644.html</guid>
+            <pubDate>Sat, 22 Aug 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/teMz2oYLVKAbqsCQE61vklvIgY0gB6dn.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
             <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19443.html</guid>
             <pubDate>Thu, 30 Jul 2026 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/07/ICmcy1Jam96hmTlko5TuggTtYMC0yaB5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】【7月30日(木)12:00～受注開始！】Anidealより一ノ瀬志希・宮本フレデリカプロデュースシャンプーセット受注受付中！]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19463.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19463.html</guid>
-            <pubDate>Thu, 30 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/8BBvdDM32hNcb8nYjTpSMVP5jUCqiEQp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
