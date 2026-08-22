@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 02:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 03:40:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 02:14:47 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 03:40:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_19685.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19685.html</guid>
+            <pubDate>Sat, 22 Aug 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明日まで！！】《SEASONAL SNAPSHOT》音無小鳥、青羽美咲が登場！受注は明日まで！商品の実物を公開中！！]]></title>
+            <description><![CDATA[#ミリオンシーズナル11月]]></description>
+            <link>https://idolmaster-official.jp/news/01_19681.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19681.html</guid>
+            <pubDate>Sat, 22 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/vek7rupdBMhUdQlVdbPRN1c3mRcswLVk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【あと3日！】《SEASONAL SNAPSHOT》音無小鳥、青羽美咲が登場！受注は8/23(日)まで！商品の実物を公開中！！]]></title>
             <description><![CDATA[#ミリオンシーズナル11月]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19450.html</guid>
             <pubDate>Fri, 31 Jul 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/4cT65e4qd4rL7zYUCEwgKzcHY8coQsxM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」アソビストア一般会員2次先行が本日7月31日(金)よりスタート！ご好評につき立見指定・ステージサイド席の追加も決定！！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19481.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19481.html</guid>
-            <pubDate>Fri, 31 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/sHg5CrU5NraxJpyXzXNICW1XEzOxIQYs.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「→→→SP」が配信中！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「→→→SP」が配信中！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19443.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19443.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/07/ICmcy1Jam96hmTlko5TuggTtYMC0yaB5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

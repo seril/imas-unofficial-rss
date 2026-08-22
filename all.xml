@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Aug 2026 02:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Aug 2026 03:40:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Aug 2026 02:14:48 GMT</pubDate>
+        <pubDate>Sat, 22 Aug 2026 03:40:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_19685.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19685.html</guid>
+            <pubDate>Sat, 22 Aug 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[✧明日まで✧【REFRAC7IONS】「shiny, the first REFRAC7IONS " Still blue "」公式グッズ事前販売は明日8月23日(日)まで！カードフォリオ第3弾も受注中♪]]></title>
+            <description><![CDATA[#シャニマス_リフラクションズライブ #シャニマス #シャイニーカラーズ #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19661.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19661.html</guid>
+            <pubDate>Sat, 22 Aug 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/qxBTyWE7h9smzW3Eee7KDoaiTre5zCTw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【明日まで！！】《SEASONAL SNAPSHOT》音無小鳥、青羽美咲が登場！受注は明日まで！商品の実物を公開中！！]]></title>
+            <description><![CDATA[#ミリオンシーズナル11月]]></description>
+            <link>https://idolmaster-official.jp/news/01_19681.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19681.html</guid>
+            <pubDate>Sat, 22 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/vek7rupdBMhUdQlVdbPRN1c3mRcswLVk.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】亜美真美・あずさ律子による『dual twin live tour ＜大阪公演＞＜名古屋公演＞』　同時視聴上映会 明日より開催！＜東京公演＞現地チケットも発売中！]]></title>
             <description><![CDATA[#双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
@@ -33,14 +57,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/utRGLNfucFddvP8Vv3gTtue2kWrEPP0e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19656.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
-            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ログイン限定】「No 1 feel alone」衣装設定 公開！]]></title>
             <description><![CDATA[#シャニソン]]></description>
             <link>https://idolmaster-official.jp/news/01_19485.html</link>
@@ -55,6 +71,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19616.html</guid>
             <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/L3nBD6OBvNHEKxuPpMhET5jNmIjNkHlL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19656.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
+            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM11th】会場物販、CD・映像販売情報公開！& 配信チケットも販売中！]]></title>
@@ -257,20 +281,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/6DsZvtdmtkewaD10ym9QcYV4pLqHVcJV.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】本日8月17日（月）より「アイドルマスター シャイニーカラーズ」がDMMスクラッチに登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19486.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19486.html</guid>
-            <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/pBWugkpHdHR0zma5MTHQ2hB7Lmxxhbs4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』視聴コメント付きアーカイブ配信開始！／公演アンケート実施のご案内]]></title>
             <description><![CDATA[#トイボ公演]]></description>
             <link>https://idolmaster-official.jp/news/01_19614.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19614.html</guid>
             <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/lgia5jvdXd3j2NVGUyozryT2gC6mQ0o6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】本日8月17日（月）より「アイドルマスター シャイニーカラーズ」がDMMスクラッチに登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19486.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19486.html</guid>
+            <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/pBWugkpHdHR0zma5MTHQ2hB7Lmxxhbs4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】#学マスサマー無料100連 QUOカードプレゼントキャンペーン開催中！]]></title>
@@ -313,20 +337,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/1JQZsfTNVLjwuKqdjKTVzXHt1XuUaWLn.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』ご来場、ご視聴ありがとうございました！セットリスト＆告知まとめはこちら！]]></title>
-            <description><![CDATA[#トイボ公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_19578.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19578.html</guid>
-            <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/YM9KFGjjpH0AOxAIOVRVlTIuHrbxsAhT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』開催記念グッズ受注開始！新規ビジュアルのアイテムやお顔ぬいパスケースなどが登場です♪]]></title>
             <description><![CDATA[#トイボ公演 #デレマス #シンデレラガール総選挙2026]]></description>
             <link>https://idolmaster-official.jp/news/01_19603.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19603.html</guid>
             <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/08/MrncOurou0p4OmsPZI0CO8QW26c5SBRU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』ご来場、ご視聴ありがとうございました！セットリスト＆告知まとめはこちら！]]></title>
+            <description><![CDATA[#トイボ公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_19578.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19578.html</guid>
+            <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/YM9KFGjjpH0AOxAIOVRVlTIuHrbxsAhT.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19597.html</guid>
             <pubDate>Sat, 15 Aug 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/1JQZsfTNVLjwuKqdjKTVzXHt1XuUaWLn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第十四弾】「ゆずれないボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を期間限定販売！]]></title>
-            <description><![CDATA[#ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19604.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19604.html</guid>
-            <pubDate>Sat, 15 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/YIrwiiD9pw08tKBREnW2hSg7B4ENOsZF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】亜美真美・あずさ律子による『dual twin live tour ＜大阪公演＞＜名古屋公演＞』　同時視聴上映会 実施決定！視聴コメント付きアーカイブも配信中！]]></title>
-            <description><![CDATA[#双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
-            <link>https://idolmaster-official.jp/news/01_19609.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19609.html</guid>
-            <pubDate>Sat, 15 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/wdMtZDlJUqLeuuKheU0JG5tKPeks7vjK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】アイドルマスター SideM 「SUMMER SPLASH！POP UP SHOP」事後通販決定！]]></title>
-            <description><![CDATA[8/7～9/11]]></description>
-            <link>https://idolmaster-official.jp/news/01_19499.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19499.html</guid>
-            <pubDate>Fri, 07 Aug 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/08/YhD1ghcqNIafezn1GgXIavmna9BxZ9WK.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
