@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 06:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 11:28:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 06:47:25 GMT</pubDate>
+        <pubDate>Wed, 26 Aug 2026 11:28:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></title>
+            <description><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></description>
+            <link>https://idolmaster-official.jp/news/01_19730.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19730.html</guid>
+            <pubDate>Wed, 26 Aug 2026 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】9月20日(日)より『アイドルマスター シャイニーカラーズ POP UP SHOP パラレル回廊』の開催が決定！]]></title>
+            <description><![CDATA[＃シャニマス　＃シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19700.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19700.html</guid>
+            <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/n41Ji7p6QunDRH3v9XbmGPtsI50psI4T.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「30MS」シリーズよりオプションヘアスタイル＆フェイスパーツセット(七草にちか/七草はづき)が2027年1月に発売予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19692.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19692.html</guid>
+            <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/G2Ro608lVt79H6YwSBIHFbZIJRm7jg43.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「30MS」シリーズより緋田美琴が2027年1月に発売予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19693.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19693.html</guid>
+            <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/8hbQxMgTVMB17dVJ3CKBEV17d4QnCdHp.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.12」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19441.html</guid>
             <pubDate>Thu, 30 Jul 2026 08:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/07/6BMqUCiSZBsdOQKB705tovoHZfZFv5Nq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「→→→SP」が配信中！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「→→→SP」が配信中！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19443.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19443.html</guid>
-            <pubDate>Thu, 30 Jul 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/07/ICmcy1Jam96hmTlko5TuggTtYMC0yaB5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】『シャニマス生配信 ～君と過ごしたあの夏スペシャル～』お知らせまとめ]]></title>
-            <description><![CDATA[#シャイニーカラーズ #シャニマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19142.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19142.html</guid>
-            <pubDate>Thu, 30 Jul 2026 04:55:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/07/dzQPhsAAchJp2eAE5Ye8SEYe5OSHWGbb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニラジHBTK】リニューアル記念生配信の出演者が決定！生配信は8月1日（土）17:00~ 配信予定【シャニマス】]]></title>
-            <description><![CDATA[#シャニラジHBTK]]></description>
-            <link>https://idolmaster-official.jp/news/01_19455.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19455.html</guid>
-            <pubDate>Thu, 30 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/07/INxNvEsBGgR14sXILRmYxws797welTHF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 台湾漫画博覧会』イベントレポート]]></title>
-            <description><![CDATA[【アイマス20周年イヤー】『アイマス、アイに行きマス！ in 台湾漫画博覧会』イベントレポート]]></description>
-            <link>https://idolmaster-official.jp/news/01_19445.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19445.html</guid>
-            <pubDate>Tue, 28 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/VujlJuXKyNPcZ8hXsxQsUr9A6nwDiU7I.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
