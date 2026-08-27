@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 14:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 10:55:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 14:42:27 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 10:55:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【シンデレラ】グッズシリーズ「Memory Pict.」第6弾:｡･:*  本日より6th Pict.（小日向美穂・依田芳乃）が受注開始です！]]></title>
+            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_19657.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19657.html</guid>
+            <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/HNr7wuxsfed1beXgUKRtCuTx0hUwRPZ8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></title>
             <description><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19465.html</guid>
             <pubDate>Sun, 02 Aug 2026 09:03:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/08/tf94CWldo5g7TKEnhypSHREbGeGpXMer.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】＼明日8月3日18時より発売開始／「アイドルマスター シンデレラガールズ」がDMMスクラッチに登場！]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19503.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19503.html</guid>
-            <pubDate>Sun, 02 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/8FijAccfbkeq1etgGUf9qFH1dtNA9oyd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

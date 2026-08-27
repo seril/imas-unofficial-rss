@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 14:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 10:55:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 14:42:26 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 10:55:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】全アイドルがほわぬいになって2026年8月29日(土)よりクレーンゲームに登場予定！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_19732.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19732.html</guid>
+            <pubDate>Thu, 27 Aug 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/RKkAsSs5xlWpwAX4dVJ0Nn2FekSTsvRl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></title>
             <description><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19425.html</guid>
             <pubDate>Fri, 24 Jul 2026 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/9QIzQuiMiML1vIQeXkD5r85JU3cpqEpM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 開催記念グッズ販売が本日7月24日(金)より受注スタート！！]]></title>
-            <description><![CDATA[#アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19424.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19424.html</guid>
-            <pubDate>Fri, 24 Jul 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/KJU6aShHIkfSq4q7qrsL2Gt6ElxphXWm.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

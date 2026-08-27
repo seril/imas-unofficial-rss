@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 14:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Aug 2026 10:55:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Aug 2026 14:42:27 GMT</pubDate>
+        <pubDate>Thu, 27 Aug 2026 10:55:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】BIGフェイスぬいぐるみvol.3が登場！本日から予約受付開始！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19691.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19691.html</guid>
+            <pubDate>Thu, 27 Aug 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/UTFpgJuF1z9NDMUngELZnVyZdkl1ZLvB.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></title>
             <description><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19527.html</guid>
             <pubDate>Tue, 04 Aug 2026 13:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/cyoFn818E9CDbhsuCNPGg8nzxRoKPHVv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】サントリー自販機とのタイアップキャンペーン第二弾が本日8月4日(火)よりスタート！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19418.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19418.html</guid>
-            <pubDate>Tue, 04 Aug 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/fFW3cBcKp1jMjGpF6S60tziPEtYAOtec.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
