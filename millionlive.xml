@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 27 Aug 2026 20:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 12:31:09 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 27 Aug 2026 20:54:51 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 12:31:09 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「京都国際マンガ・アニメフェア2026（京まふ）」事後物販POP UP SHOP開催決定🌸]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19735.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19735.html</guid>
+            <pubDate>Fri, 28 Aug 2026 09:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/t9vaFrGOxOe7BfJHtuNcIgw1yJsgXpoK.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】【9/11(金) より】POP UP SHOP「オペラセリア」の詳細情報を公開🌹]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19665.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19665.html</guid>
+            <pubDate>Fri, 28 Aug 2026 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/XkFoQjrLuwMMP1D063nriFUIjKH0R52u.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】2026年9月2日(水)19:00～『10年目の新シリーズ発表！ ミリシタ Extreme 生配信』配信予定！]]></title>
             <description><![CDATA[#ミリシタ生配信  #ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19527.html</guid>
             <pubDate>Tue, 04 Aug 2026 13:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/cyoFn818E9CDbhsuCNPGg8nzxRoKPHVv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.9」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19433.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19433.html</guid>
-            <pubDate>Mon, 03 Aug 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/4r4W3Hv00ve3perASbu7Srf7BzQoI7Ah.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】開催終了！ご参加いただいた企業・自治体の皆様からのメッセージを公開！②]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_19456.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19456.html</guid>
-            <pubDate>Mon, 03 Aug 2026 02:31:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/h3gr4Fdu8FhIBEoOsV94jckXiJycUlA9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
