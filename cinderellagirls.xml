@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 12:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 23:24:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 12:31:09 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 23:24:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】ラジオ新番組「IM＠S RADIO」放送開始決定！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ラジマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19721.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19721.html</guid>
+            <pubDate>Fri, 28 Aug 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/08/WpmGEIdAAV0oE29uoMoE9BzKNoMf6TDV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「京都国際マンガ・アニメフェア2026（京まふ）」事後物販POP UP SHOP開催決定🌸]]></title>
             <description><![CDATA[#imas_cg #デレマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19472.html</guid>
             <pubDate>Mon, 03 Aug 2026 03:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/iu6cXDfOXCJr2cPRxCrdKCc82jUhAoDP.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】開催終了！ご参加いただいた企業・自治体の皆様からのメッセージを公開！②]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_19456.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19456.html</guid>
-            <pubDate>Mon, 03 Aug 2026 02:31:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/h3gr4Fdu8FhIBEoOsV94jckXiJycUlA9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 12:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Aug 2026 23:24:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 12:31:09 GMT</pubDate>
+        <pubDate>Fri, 28 Aug 2026 23:24:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】ラジオ新番組「IM＠S RADIO」放送開始決定！【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #ラジマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19721.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19721.html</guid>
+            <pubDate>Fri, 28 Aug 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/08/WpmGEIdAAV0oE29uoMoE9BzKNoMf6TDV.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></title>
             <description><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></description>
@@ -361,20 +369,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/06/zqdEoTUByRu5lXAucklbc1WYx5twxV7u.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
-            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19249.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
-            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】アイドルマスター公式DOUYINアカウント開設！]]></description>
             <link>https://idolmaster-official.jp/news/01_19234.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19234.html</guid>
             <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/2BPBKTnJGVE7pGNZ6yJjXqZtAQkuzpqO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></title>
+            <description><![CDATA[【偶像大师系列】偶像大师官方DOUYIN账号开设！]]></description>
+            <link>https://idolmaster-official.jp/news/01_19249.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19249.html</guid>
+            <pubDate>Sat, 04 Jul 2026 04:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/06/BzN7QkcXHCx3uKo31IRmMJAKvXD9kRLe.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ】Reバース for you トライアルセット&ブースターパック「vα-liv」本日より発売！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19238.html</guid>
             <pubDate>Wed, 01 Jul 2026 11:50:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/06/HJKeeGdCMr0rfb1skb9MJ8FkiwYpKplQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.7」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19200.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19200.html</guid>
-            <pubDate>Tue, 30 Jun 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/06/CQH5E5MGjOdYRmPrTTQ06d6QA85U6Atv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
