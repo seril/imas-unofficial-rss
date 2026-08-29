@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 28 Aug 2026 23:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 07:40:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 28 Aug 2026 23:24:51 GMT</pubDate>
+        <pubDate>Sat, 29 Aug 2026 07:40:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】MOIW2025のBlu-rayの受注は8/30(日)まで！期間限定のダイジェスト映像公開中！]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_19742.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19742.html</guid>
+            <pubDate>Sat, 29 Aug 2026 01:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】ラジオ新番組「IM＠S RADIO」放送開始決定！【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch #ラジマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19272.html</guid>
             <pubDate>Thu, 02 Jul 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/VAPRzbCAdEBr0eISJRw8ChRufFFUERop.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】灯里愛夏バースデー記念グッズ2026が販売決定！本日より受注販売開始！【  #灯里愛夏バースデーパーティ2026 】]]></title>
-            <description><![CDATA[【 #ヴイアラ 】灯里愛夏バースデー記念グッズ2026が販売決定！本日より受注販売開始！【  #灯里愛夏バースデーパーティ2026 】]]></description>
-            <link>https://idolmaster-official.jp/news/01_19238.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19238.html</guid>
-            <pubDate>Wed, 01 Jul 2026 11:50:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/06/HJKeeGdCMr0rfb1skb9MJ8FkiwYpKplQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
