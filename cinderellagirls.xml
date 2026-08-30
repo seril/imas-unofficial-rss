@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 15:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 06:15:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 15:29:53 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 06:15:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【明日まで！】MOIW2025のBlu-rayの受注は8/30(日)まで！期間限定のダイジェスト映像公開中！]]></title>
@@ -201,20 +201,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/lgia5jvdXd3j2NVGUyozryT2gC6mQ0o6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』ご来場、ご視聴ありがとうございました！セットリスト＆告知まとめはこちら！]]></title>
-            <description><![CDATA[#トイボ公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_19578.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19578.html</guid>
-            <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/YM9KFGjjpH0AOxAIOVRVlTIuHrbxsAhT.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』開催記念グッズ受注開始！新規ビジュアルのアイテムやお顔ぬいパスケースなどが登場です♪]]></title>
             <description><![CDATA[#トイボ公演 #デレマス #シンデレラガール総選挙2026]]></description>
             <link>https://idolmaster-official.jp/news/01_19603.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19603.html</guid>
             <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/08/MrncOurou0p4OmsPZI0CO8QW26c5SBRU.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』ご来場、ご視聴ありがとうございました！セットリスト＆告知まとめはこちら！]]></title>
+            <description><![CDATA[#トイボ公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_19578.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19578.html</guid>
+            <pubDate>Sun, 16 Aug 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/YM9KFGjjpH0AOxAIOVRVlTIuHrbxsAhT.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>

@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 15:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Aug 2026 06:15:35 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 29 Aug 2026 15:29:53 GMT</pubDate>
+        <pubDate>Sun, 30 Aug 2026 06:15:35 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[明日締め切り！【SideM衣装展】イベント公式グッズの受注期間8月30日(日)まで！]]></title>
@@ -281,20 +281,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/JQz2NbwAB5qc8lu2I9EjKQVUm5RJwsAw.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』一部オーディオコメンタリー付き同時視聴上映会＆スタッフ振り返りトークの配信が決定！]]></title>
-            <description><![CDATA[#トイボ公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_19708.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19708.html</guid>
-            <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/08/J668fTi4YXFgOy2DYJlnI0bpAA2cWy9W.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【 #ヴイアラ】「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」限定グッズ付き現地ライブビューイングチケットの一般先着販売が8月31日(月)12時より開始！]]></title>
             <description><![CDATA[#宇宙誕生祭2026]]></description>
             <link>https://idolmaster-official.jp/news/01_19706.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19706.html</guid>
             <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/gVN61hFblYUQLFR4srA5Ig0MrrFnL5ae.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』一部オーディオコメンタリー付き同時視聴上映会＆スタッフ振り返りトークの配信が決定！]]></title>
+            <description><![CDATA[#トイボ公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_19708.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19708.html</guid>
+            <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/08/J668fTi4YXFgOy2DYJlnI0bpAA2cWy9W.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】バンダイナムコヌイより、ぷっくりかわいい！ぬいピンvol.2が登場！]]></title>
