@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 15:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 06:41:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 15:09:59 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 06:41:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～秘密のメモリーズ～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19738.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19738.html</guid>
+            <pubDate>Mon, 31 Aug 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/08/Lw1LTmuj4YQ4KTYKmY1mCDNF3zp6TX0I.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】MOIW2025のBlu-rayの受注は8/30(日)まで！期間限定のダイジェスト映像公開中！]]></title>
             <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
@@ -391,14 +399,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19546.html</guid>
             <pubDate>Thu, 06 Aug 2026 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/vek7rupdBMhUdQlVdbPRN1c3mRcswLVk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前二次販売が本日よりスタート！！数量限定販売のためお見逃しなく！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19532.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19532.html</guid>
-            <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/1JQZsfTNVLjwuKqdjKTVzXHt1XuUaWLn.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』大型アップデート！ 8月6日より新シリーズ1弾をスタートし、「ツアーモード」やオリジナル楽曲『→→→SP』が登場！]]></title>

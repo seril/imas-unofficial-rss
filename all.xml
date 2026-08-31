@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 30 Aug 2026 15:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Aug 2026 06:41:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 30 Aug 2026 15:09:59 GMT</pubDate>
+        <pubDate>Mon, 31 Aug 2026 06:41:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターシアター～秘密のメモリーズ～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19738.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19738.html</guid>
+            <pubDate>Mon, 31 Aug 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/08/Lw1LTmuj4YQ4KTYKmY1mCDNF3zp6TX0I.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】本日12時より「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」限定グッズ付き現地ライブビューイングチケットの一般先着販売が開始！]]></title>
+            <description><![CDATA[#宇宙誕生祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19748.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19748.html</guid>
+            <pubDate>Mon, 31 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/4lJsWUu8Y7V2OeOQn77RI2hJh8aHeNup.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】[初志貫徹][一番星]のイラストをもとに、雨夜 燕と十王星南のプライズフィギュアが2026年9月より順次登場予定！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19641.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19641.html</guid>
+            <pubDate>Mon, 31 Aug 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/5xJaKCV5DjERyPyvAFhWQPDlXu4i4upz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[明日締め切り！【SideM衣装展】イベント公式グッズの受注期間8月30日(日)まで！]]></title>
             <description><![CDATA[#SideM #SideM衣装展]]></description>
@@ -281,20 +305,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/JQz2NbwAB5qc8lu2I9EjKQVUm5RJwsAw.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【 #ヴイアラ】「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」限定グッズ付き現地ライブビューイングチケットの一般先着販売が8月31日(月)12時より開始！]]></title>
-            <description><![CDATA[#宇宙誕生祭2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19706.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19706.html</guid>
-            <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/gVN61hFblYUQLFR4srA5Ig0MrrFnL5ae.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】『Pop'n ToyBox!!』一部オーディオコメンタリー付き同時視聴上映会＆スタッフ振り返りトークの配信が決定！]]></title>
             <description><![CDATA[#トイボ公演]]></description>
             <link>https://idolmaster-official.jp/news/01_19708.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19708.html</guid>
             <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/08/J668fTi4YXFgOy2DYJlnI0bpAA2cWy9W.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」限定グッズ付き現地ライブビューイングチケットの一般先着販売が8月31日(月)12時より開始！]]></title>
+            <description><![CDATA[#宇宙誕生祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19706.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19706.html</guid>
+            <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/gVN61hFblYUQLFR4srA5Ig0MrrFnL5ae.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】バンダイナムコヌイより、ぷっくりかわいい！ぬいピンvol.2が登場！]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19681.html</guid>
             <pubDate>Sat, 22 Aug 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/vek7rupdBMhUdQlVdbPRN1c3mRcswLVk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】亜美真美・あずさ律子による『dual twin live tour ＜大阪公演＞＜名古屋公演＞』　同時視聴上映会 明日より開催！＜東京公演＞現地チケットも発売中！]]></title>
-            <description><![CDATA[#双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
-            <link>https://idolmaster-official.jp/news/01_19687.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19687.html</guid>
-            <pubDate>Fri, 21 Aug 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/qMCntFifauFMeX4fVqv5hmMQzOh6eDoK.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと3日！】《SEASONAL SNAPSHOT》音無小鳥、青羽美咲が登場！受注は8/23(日)まで！商品の実物を公開中！！]]></title>
-            <description><![CDATA[#ミリオンシーズナル11月]]></description>
-            <link>https://idolmaster-official.jp/news/01_19680.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19680.html</guid>
-            <pubDate>Fri, 21 Aug 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/vek7rupdBMhUdQlVdbPRN1c3mRcswLVk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」現地チケットの一般販売(先着)・公式リセールが8月30日(日)よりスタート！楽屋花・プレゼントに関するご案内を更新！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19676.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19676.html</guid>
-            <pubDate>Fri, 21 Aug 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/utRGLNfucFddvP8Vv3gTtue2kWrEPP0e.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
