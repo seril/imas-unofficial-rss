@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 05:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 10:44:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 05:27:59 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 10:44:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター LIVE TOUR -標- 福井公演」 現地会場物販にて販売の、全国銘品セレクション「眼鏡堅麵麭」がASOBI STOREにて数量限定販売！]]></title>
+            <description><![CDATA[#学マス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19775.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19775.html</guid>
+            <pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/wP9caeIEXPAvqHZKDl24VOT5CNDdrArz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】【追加出演者決定！】9/9(水) 20:00から生配信予定！　学園アイドルマスター 「はつぼし放課後とーく」]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19728.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19728.html</guid>
+            <pubDate>Wed, 02 Sep 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/5ZkkAw58kbTEqNEbmkCGdAKlwPYuuoEM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】ユニオンクリエイティブより、「月村手毬 1/6スケール完成品フィギュア」の予約が開始！10月30日(金)まで！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19530.html</guid>
             <pubDate>Thu, 06 Aug 2026 07:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/6lISssckWfPjfqfe1TSm8VukAYQQ9yG0.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス標ツアー】 学園アイドルマスター LIVE TOUR -標- ファイナル公演のイベント公式グッズ事前販売ファイナルが本日8月6日(木)16:00よりスタート！]]></title>
-            <description><![CDATA[#学マス #標ツアーファイナル公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_19521.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19521.html</guid>
-            <pubDate>Thu, 06 Aug 2026 07:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/qVALKJECHBPvH2sWMRbNxYtVBblFkVr9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』大型アップデート！ 8月6日より新シリーズ1弾をスタートし、「ツアーモード」やオリジナル楽曲『→→→SP』が登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19544.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19544.html</guid>
-            <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/UwbNAXbtyIZ3S2TOpMivhLnerPz2Y851.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
