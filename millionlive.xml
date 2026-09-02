@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 10:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 14:58:27 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 10:44:00 GMT</pubDate>
+        <pubDate>Wed, 02 Sep 2026 14:58:27 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオンライブ】『10年目の新シリーズ発表！ ミリシタ Extreme 生配信』お知らせまとめ]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリシタExtreme​生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_19457.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19457.html</guid>
+            <pubDate>Wed, 02 Sep 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/fwUKtw961cl2IVSW0Mm3S8tFEfMGuOQT.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE」主演別の公演ロゴ初公開！配信視聴チケット・会場物販情報も公開！現地チケットの一般販売（先着）は9月12日(土)まで！]]></title>
+            <description><![CDATA[#ミリオン14th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19782.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19782.html</guid>
+            <pubDate>Wed, 02 Sep 2026 12:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/zZ4J77ASIieyGoZ1QLHz06YPX63K8lUi.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】北海道壮瞥町の「壮瞥町りんご大使」に「木下ひなた」が本年も就任！ 10月2日（金）より壮瞥町にて「そうべつりんごめぐり」がスタート🍎]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19747.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19747.html</guid>
+            <pubDate>Wed, 02 Sep 2026 12:16:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/AHV7aosnELLDExRI1AAJTucEWn5ahEY6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】「ARC-FLAGS POP UP CORNER」開催決定‼🏹]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19737.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19737.html</guid>
+            <pubDate>Wed, 02 Sep 2026 12:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/6ldmeISKEyIN2fTSTBcF6H1TYuSgrAvY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】MEDICOS SHOP 渋谷・アベノラクバスにてCyber Planet POP UP SHOP開催決定！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19749.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19749.html</guid>
+            <pubDate>Wed, 02 Sep 2026 12:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/3T5BjT98HsZ3SIApKo1jTsZVTbs9FKxS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオンライブ】『10年目の新シリーズ発表！  ミリシタ Extreme 生配信』放送記念！サイン入り描き下ろしイラスト色紙プレゼントキャンペーン実施中！]]></title>
             <description><![CDATA[#ミリシタExtreme​生配信 #ミリシタ]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19586.html</guid>
             <pubDate>Sat, 08 Aug 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/08/YzZuZYJupixkKWxeLz2SIqrBmdIGxCBe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【8/16(日)まで！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前二次販売は全商品数量限定！ライトの実物写真公開中！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19583.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19583.html</guid>
-            <pubDate>Sat, 08 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/1JQZsfTNVLjwuKqdjKTVzXHt1XuUaWLn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】本日より同時視聴上映会開催！！ ⫸ #アイマスIWSF2026 ⫷ 開催記念グッズの受注は8月16日(日)まで！！カードフォリオ IWSF2026 プレミアムパックも数量限定で販売中！]]></title>
-            <description><![CDATA[#アイマスIWSF2026 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19566.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19566.html</guid>
-            <pubDate>Sat, 08 Aug 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/KJU6aShHIkfSq4q7qrsL2Gt6ElxphXWm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】MOIW2025のBlu-rayの受注は8/30(日)まで！描きマスMOIW2025やオリジナルのぼりの新情報も！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_19574.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19574.html</guid>
-            <pubDate>Fri, 07 Aug 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【9/11(金) より】POP UP SHOP「オペラセリア」コラボ情報 第2弾公開⚔]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19483.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19483.html</guid>
-            <pubDate>Fri, 07 Aug 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/7D499aiG0oRVxva31lvPAMwmd43Q9b9a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【本日8月7日(金)より！】「アイドルマスター ミリオンライブ！×KARATEZ SPECIAL COLLABORATION」のコラボグッズEC販売開始！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19550.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19550.html</guid>
-            <pubDate>Fri, 07 Aug 2026 05:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/J1lzIOqc2hJ6SKJN8Nebc4N1gekEdYbg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
