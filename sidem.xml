@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 14:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 05:29:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 02 Sep 2026 14:58:27 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 05:29:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】THE IDOLM@STER SideM 2DMV公開記念グッズ第2弾 & TRANSCENDENT T@LESリリース記念グッズ第3弾発売決定！]]></title>
+            <description><![CDATA[#SideM ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19786.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19786.html</guid>
+            <pubDate>Thu, 03 Sep 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】315!!!SHOPにて、テーマ『いらっしゃいませ！315にゃお店屋さん』の猫耳執事衣装の描き下ろしイラストを使用した各種展開が9月11日(金)10時より開始！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_19456.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19456.html</guid>
             <pubDate>Mon, 03 Aug 2026 02:31:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/h3gr4Fdu8FhIBEoOsV94jckXiJycUlA9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【オファマス】開催終了！ご参加いただいた企業・自治体の皆様からのメッセージを公開！①]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #オファマス #オファマスinfo]]></description>
-            <link>https://idolmaster-official.jp/news/01_19444.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19444.html</guid>
-            <pubDate>Mon, 03 Aug 2026 02:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/h3gr4Fdu8FhIBEoOsV94jckXiJycUlA9.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
