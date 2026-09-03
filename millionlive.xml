@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 03 Sep 2026 05:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Sep 2026 10:44:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 03 Sep 2026 05:29:22 GMT</pubDate>
+        <pubDate>Thu, 03 Sep 2026 10:44:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》12月に向けて高槻やよい、伊吹 翼が登場！「クリスマス」をイメージしたグッズが受注開始！！]]></title>
+            <description><![CDATA[#ミリオンシーズナル12月]]></description>
+            <link>https://idolmaster-official.jp/news/01_19784.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19784.html</guid>
+            <pubDate>Thu, 03 Sep 2026 09:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/jCSvMOFemJRt3IoZr1kwPV7L3CHLTCdY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】-The TIPSY Hour-　THE IDOLM@STER MILLION LIVE! × BRITISH PUB HUB　がミリオン14thに合わせて期間限定開催決定！本日より予約開始🍺]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリオンHUB]]></description>
+            <link>https://idolmaster-official.jp/news/01_19740.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19740.html</guid>
+            <pubDate>Thu, 03 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/O1gwDIh1MrMt8UeXgKVHQ9egvRtJPr1o.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】コトブキヤくじ 「アイドルマスター ミリオンライブ！ stage04」が開催決定！]]></title>
             <description><![CDATA[#アイドルマスター]]></description>
@@ -390,22 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_19582.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19582.html</guid>
             <pubDate>Sun, 09 Aug 2026 04:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/vek7rupdBMhUdQlVdbPRN1c3mRcswLVk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【8/16(日)まで！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前二次販売は全商品数量限定！ライトの実物写真公開中！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19584.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19584.html</guid>
-            <pubDate>Sun, 09 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/1JQZsfTNVLjwuKqdjKTVzXHt1XuUaWLn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》11月に向けて音無小鳥、青羽美咲が登場！「勤労感謝」をイメージしたグッズが受注中！！]]></title>
-            <description><![CDATA[#ミリオンシーズナル11月]]></description>
-            <link>https://idolmaster-official.jp/news/01_19547.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19547.html</guid>
-            <pubDate>Sat, 08 Aug 2026 04:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/vek7rupdBMhUdQlVdbPRN1c3mRcswLVk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
