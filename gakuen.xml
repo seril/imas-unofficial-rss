@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 05:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 10:48:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 05:34:57 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 10:48:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[學園偶像大師 LIVE TOUR -標- 岩手公演 LIVE VIEWING  決定舉辦！]]></title>
+            <description><![CDATA[#学マス #標ツアー_岩手公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_19783.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19783.html</guid>
+            <pubDate>Fri, 04 Sep 2026 10:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/BIWLOKcKEoCK8le1YHYM5StLNp04IQjh.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【学マス】学園アイドルマスター LIVE TOUR -標- 福岡公演はいよいよ明日から！ 福岡サンパレス ホテル＆ホールにて開催！]]></title>
+            <description><![CDATA[#学マス　#学マス標ツアー　#学マス標ツアー_福岡公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_19745.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19745.html</guid>
+            <pubDate>Fri, 04 Sep 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/H7C9IG7wKnDXVtwvto118oaZSjQPFDqD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】#学マス水着明日まで QUOカードプレゼントキャンペーン開催中！]]></title>
             <description><![CDATA[#学マス水着明日まで　#学マス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19561.html</guid>
             <pubDate>Fri, 07 Aug 2026 03:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/q9hDZkBk6WyASiL2ycefi7kJOVYrKpY6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター」× Chugai Grace Café リバイバル が9月3日(木)から開催！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19534.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19534.html</guid>
-            <pubDate>Fri, 07 Aug 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/ApoKVxCx8amhvLOafUHTpUsFOl9uSORA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』オリジナルグッズをASOBI STOREにて販売！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』オリジナルグッズをASOBI STOREにて販売！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19525.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19525.html</guid>
-            <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/buSW3LRS4m6bQ1LCVAzO7uBhDpAuDrms.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

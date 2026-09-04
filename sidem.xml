@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 05:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 10:48:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 05:34:57 GMT</pubDate>
+        <pubDate>Fri, 04 Sep 2026 10:48:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【SideM】THE IDOLM@STER SideM 11th STAGE記念「TOYOTA ARENA TOKYO」にてオリジナルコースター付コラボドリンクを販売！]]></title>
@@ -105,20 +105,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/NFr3zHnS7fRRnx0MFemyX7qOF2cHzRDf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></title>
-            <description><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19734.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19734.html</guid>
-            <pubDate>Fri, 28 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1003/2026/08/Oz9Fl2gepdprGzxRbKppHgfIgGrrvE4l.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【SideM】2026年9月1日 (火) 19:00～「アイドルマスター SideM　特別生配信」配信予定！]]></title>
             <description><![CDATA[#SideM #SideM特別生配信]]></description>
             <link>https://idolmaster-official.jp/news/01_19452.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19452.html</guid>
             <pubDate>Fri, 28 Aug 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/KQqjSvkksLRw4gK4JZCeG85jdEz9Exu3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></title>
+            <description><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19734.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19734.html</guid>
+            <pubDate>Fri, 28 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1003/2026/08/Oz9Fl2gepdprGzxRbKppHgfIgGrrvE4l.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】全アイドルがほわぬいになって2026年8月29日(土)よりクレーンゲームに登場予定！]]></title>
