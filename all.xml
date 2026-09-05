@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 14:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 05:17:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 14:48:38 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 05:17:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】dual twin live tour ＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！「つみまつよるまち」オーコメは明日9/6(日) 20時から！！]]></title>
+            <description><![CDATA[#dualtwinlive_765 #三浦あずさ_秋月律子_twinlive #つみまつ_オーコメ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19814.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19814.html</guid>
+            <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/RkZbnmkouLGddFK3zg0molhXtLL4Zybw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【9/20(日)まで！】《SEASONAL SNAPSHOT》12月に向けて高槻やよい、伊吹 翼が登場！「クリスマス」をイメージしたグッズが受注中！]]></title>
+            <description><![CDATA[#ミリオンシーズナル12月]]></description>
+            <link>https://idolmaster-official.jp/news/01_19809.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19809.html</guid>
+            <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/jCSvMOFemJRt3IoZr1kwPV7L3CHLTCdY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】「バースデー記念ボイス2026 上水流宇宙」BOOTHにて期間限定販売開始！！販売は9/27(日)まで！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19709.html</guid>
             <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/NFr3zHnS7fRRnx0MFemyX7qOF2cHzRDf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「アイドルマスター シンデレラガールズ」15周年を記念したPOPUP「Parfait Coquette Celebration」が開催決定‼🎀🍓]]></title>
-            <description><![CDATA[#imas_cg #デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19703.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19703.html</guid>
-            <pubDate>Fri, 28 Aug 2026 08:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/2BfVlXUcQI1g0BUKwUHAC6ttph0Zrqp8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】一番くじ 学園アイドルマスター Part6が2026年9月19日(土)より順次発売予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19668.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19668.html</guid>
-            <pubDate>Fri, 28 Aug 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/P2dtB8RGjFIrYU5LaQTrF1e2xiI7cmpA.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

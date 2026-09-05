@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 14:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 05:17:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 14:48:38 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 05:17:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[學園偶像大師 LIVE TOUR -標- 岩手公演 LIVE VIEWING  決定舉辦！]]></title>
@@ -105,20 +105,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学マス】 「学園アイドルマスター ねむらせ隊」がガシャポンに登場！予約受付中！]]></title>
-            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19667.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19667.html</guid>
-            <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/K2OnMl4lDnXJgXp4sA1XBoTqAgcJTPR3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス】#美鈴水着ガシャ開催中 夏の思い出ポスター プレゼントキャンペーン開催中！]]></title>
             <description><![CDATA[#美鈴水着ガシャ開催中　#学マス]]></description>
             <link>https://idolmaster-official.jp/news/01_19666.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19666.html</guid>
             <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/08/WhvMWIXvoR2JeZfLgs7dryJx0iL5Phe2.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】 「学園アイドルマスター ねむらせ隊」がガシャポンに登場！予約受付中！]]></title>
+            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19667.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19667.html</guid>
+            <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/K2OnMl4lDnXJgXp4sA1XBoTqAgcJTPR3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.12」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>

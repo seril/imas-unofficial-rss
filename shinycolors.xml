@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 14:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 05:17:12 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Sep 2026 14:48:38 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 05:17:12 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】dual twin live tour ＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！「つみまつよるまち」オーコメは明日9/6(日) 20時から！！]]></title>
+            <description><![CDATA[#dualtwinlive_765 #三浦あずさ_秋月律子_twinlive #つみまつ_オーコメ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19814.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19814.html</guid>
+            <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/RkZbnmkouLGddFK3zg0molhXtLL4Zybw.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】dual twin live tour ＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！！「つみまつよるまち」オーコメは9/6(日) 20時から！]]></title>
             <description><![CDATA[#dualtwinlive_765 #三浦あずさ_秋月律子_twinlive #つみまつ_オーコメ]]></description>
@@ -337,20 +345,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/07/MOj1RoGowTsC9l0MrwSNAstp5feWMgTZ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】 283 PRODUCTION Solo Live Collection -Master ShowPiece-  楽屋花・プレゼントについてのご案内]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマスソロライブMSP]]></description>
-            <link>https://idolmaster-official.jp/news/01_19531.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19531.html</guid>
-            <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/08/uLWEcSR3vweidAh5qPgkGBXxXpua3j24.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』オリジナルグッズをASOBI STOREにて販売！]]></title>
             <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』オリジナルグッズをASOBI STOREにて販売！]]></description>
             <link>https://idolmaster-official.jp/news/01_19525.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19525.html</guid>
             <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/buSW3LRS4m6bQ1LCVAzO7uBhDpAuDrms.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】 283 PRODUCTION Solo Live Collection -Master ShowPiece-  楽屋花・プレゼントについてのご案内]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ #シャニマスソロライブMSP]]></description>
+            <link>https://idolmaster-official.jp/news/01_19531.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19531.html</guid>
+            <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/08/uLWEcSR3vweidAh5qPgkGBXxXpua3j24.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【REFRAC7IONS】「shiny, the first REFRAC7IONS " Still blue "」公式グッズ事前販売が本日8月6日(木)よりスタート！！受注は8月23日(日)まで！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19517.html</guid>
             <pubDate>Tue, 04 Aug 2026 13:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/8i2Ta4W4qW5iAEl6sFaFPc0F0k712IYO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】「APかっしー卒業配信〜6年間ありがとうございました！〜」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19527.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19527.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/cyoFn818E9CDbhsuCNPGg8nzxRoKPHVv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
