@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 05:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 10:21:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 05:32:10 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 10:21:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></title>
+            <description><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></description>
+            <link>https://idolmaster-official.jp/news/01_19815.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19815.html</guid>
+            <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- 福岡公演 DAY2 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
+            <description><![CDATA[#学マス #学マス標ツアー_福岡公演　#学マス標ツアー_福岡公演_DAY2]]></description>
+            <link>https://idolmaster-official.jp/news/01_19744.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19744.html</guid>
+            <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/eaiC1kWKStlIyDrBovZtLjViR83y3W7S.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- 福岡公演 DAY1 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
             <description><![CDATA[#学マス #学マス標ツアー_福岡公演　#学マス標ツアー_福岡公演_DAY1]]></description>
@@ -169,20 +185,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19656.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
-            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- 福井公演 DAY2 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
             <description><![CDATA[#学マス #学マス標ツアー_福井公演　#学マス標ツアー_福井公演_DAY2]]></description>
             <link>https://idolmaster-official.jp/news/01_19616.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19616.html</guid>
             <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/L3nBD6OBvNHEKxuPpMhET5jNmIjNkHlL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19656.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
+            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19526.html</guid>
             <pubDate>Fri, 07 Aug 2026 09:10:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/04/T1l8zPygSpzYo7TtQB6sC6DnEhEgoIKm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】DOLKより、篠澤 広 キャストドール再販決定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19420.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19420.html</guid>
-            <pubDate>Fri, 07 Aug 2026 09:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/9dQ2zNRCn5Y0Zc19LzCO0H5iw9vQrDAk.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】一番くじ 学園アイドルマスター Part7　2026年12月12日(土)発売予定！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19297.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19297.html</guid>
-            <pubDate>Fri, 07 Aug 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/07/sUnDY7cRfr7ntVx3YQmXM4wrfbDOKTpy.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
