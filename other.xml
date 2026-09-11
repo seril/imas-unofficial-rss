@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 05:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 10:41:41 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 05:38:28 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 10:41:41 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】いよいよ明日開催！「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」の配信チケット販売中！お見逃しなく！]]></title>
+            <description><![CDATA[#宇宙誕生祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19858.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19858.html</guid>
+            <pubDate>Fri, 11 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/09/sYz5a96QT0SiQzU36auPQRThFiDEgeYe.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】【第13回オンライン1on1】限定オンライン1on1のチケット抽選受付開始！ライバーアイドルと2人きりでのオンラインミーティングにぜひご参加ください！]]></title>
             <description><![CDATA[#ヴイアラ]]></description>
@@ -383,14 +391,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19323.html</guid>
             <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/07/dlbLnUDexi0Iej6EtV9iW3WMTpLlYlC9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】THE IDOLM@STER 20th Anniversary Piano Collection発売決定！収録楽曲アンケートも募集中！【ピアノ】]]></title>
-            <description><![CDATA[#アイマス #アイマスIWSF2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19328.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19328.html</guid>
-            <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/07/2TYkscgVOka3DiQfuR5nmWOXRC7crjTI.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】【アイマス】THE IDOLM@STER 20th Anniversary MORE RE@LITY LIVE IDOL WORLD SUPER FESTIVAL 2026 ばくすて！とーく 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
