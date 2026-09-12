@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 10:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 13:53:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Sep 2026 10:10:51 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 13:53:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM11th】THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～ DAY1 ご来場&ご視聴いただきありがとうございました！！本日の告知情報とセットリストはこちら！]]></title>
+            <description><![CDATA[#SideM #SideM11th_day1]]></description>
+            <link>https://idolmaster-official.jp/news/01_19805.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19805.html</guid>
+            <pubDate>Sat, 12 Sep 2026 12:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/g95wnOGlynRkg7tx9WCnV5fjm5Udo4fh.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMシャニマス対バンライブ】2027年6月5日(土)・6日(日) 横浜アリーナにて「THE IDOLM@STER SideM × SHINY COLORS SPARKLE SHOWDOWN」開催決定！本日よりアソビストアプレミアム会員先行受付スタート！]]></title>
+            <description><![CDATA[#SideMシャニマス対バンライブ #SideM  #シャニマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19789.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19789.html</guid>
+            <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/ZhDG3L6zmR8KoLNgqk1TiNvKGxJQV3Zm.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】『Mフェス 2026 in Winter Wonderland』開催決定🎄🌟]]></title>
+            <description><![CDATA[#SideM #Mフェス2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19860.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19860.html</guid>
+            <pubDate>Sat, 12 Sep 2026 11:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/09/aiCYqTYTBkxutg8WI2U36vFt6lCKot9W.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMプロミ2027】2027年3月13日(土)･14日(日) 京王アリーナTOKYOにて「THE IDOLM@STER SideM PRODUCER MEETING ～AJewelholIc!!!～」開催決定！！本日よりアソビストアプレミアム会員先行お申込み受付開始！]]></title>
+            <description><![CDATA[#SideM #SideMプロミ2027]]></description>
+            <link>https://idolmaster-official.jp/news/01_19799.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19799.html</guid>
+            <pubDate>Sat, 12 Sep 2026 11:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/3RhtdipwHVbdtnQEQTxvG6DuFu00kscO.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「315 MODE」vol.1 SPRINGのグッズが登場！本日より受注受付スタート！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_19800.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19800.html</guid>
+            <pubDate>Fri, 11 Sep 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/gCBKUPnviv5pZOss9fltIYlVyisItMD1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 12」CD情報！]]></title>
             <description><![CDATA[#SideM #315ソング]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19586.html</guid>
             <pubDate>Sat, 08 Aug 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/08/YzZuZYJupixkKWxeLz2SIqrBmdIGxCBe.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】本日より同時視聴上映会開催！！ ⫸ #アイマスIWSF2026 ⫷ 開催記念グッズの受注は8月16日(日)まで！！カードフォリオ IWSF2026 プレミアムパックも数量限定で販売中！]]></title>
-            <description><![CDATA[#アイマスIWSF2026 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19566.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19566.html</guid>
-            <pubDate>Sat, 08 Aug 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/KJU6aShHIkfSq4q7qrsL2Gt6ElxphXWm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】MOIW2025のBlu-rayの受注は8/30(日)まで！描きマスMOIW2025やオリジナルのぼりの新情報も！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_19574.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19574.html</guid>
-            <pubDate>Fri, 07 Aug 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』オリジナルグッズをASOBI STOREにて販売！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』オリジナルグッズをASOBI STOREにて販売！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19525.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19525.html</guid>
-            <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/buSW3LRS4m6bQ1LCVAzO7uBhDpAuDrms.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』大型アップデート！ 8月6日より新シリーズ1弾をスタートし、「ツアーモード」やオリジナル楽曲『→→→SP』が登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19544.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19544.html</guid>
-            <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/UwbNAXbtyIZ3S2TOpMivhLnerPz2Y851.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.10」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19495.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19495.html</guid>
-            <pubDate>Wed, 05 Aug 2026 11:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/s7P6Zi7p6v2wMa6gdMaKYDZjhoQPszUQ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
