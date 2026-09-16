@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 17:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 05:39:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 17:56:25 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 05:39:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オケマス2025】オケマス2025の音源が9月16日より音楽配信開始！]]></title>
+            <description><![CDATA[ #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_19872.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19872.html</guid>
+            <pubDate>Wed, 16 Sep 2026 03:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/09/aa48u6E56tVDYxJUDpbS8pHm2nJMRJqG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS HOPEFUL FE@THERS」CD発売記念グッズ通販実施決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19888.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19888.html</guid>
+            <pubDate>Wed, 16 Sep 2026 03:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2026/09/39A0DouOEOOsan9vkkR2GLJp4YBNXEG9.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は9月29日(火)20時～ゲスト神原 大地さん！]]></title>
             <description><![CDATA[#アイマスch #ラジマス]]></description>
@@ -225,20 +241,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/qxBTyWE7h9smzW3Eee7KDoaiTre5zCTw.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19656.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
-            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ログイン限定】「No 1 feel alone」衣装設定 公開！]]></title>
             <description><![CDATA[#シャニソン]]></description>
             <link>https://idolmaster-official.jp/news/01_19485.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19485.html</guid>
             <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/07/qZrJKftrA5GVQDd42zaDAl4iA5zIjIjF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19656.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
+            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19531.html</guid>
             <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/08/uLWEcSR3vweidAh5qPgkGBXxXpua3j24.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』オリジナルグッズをASOBI STOREにて販売！]]></title>
-            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』オリジナルグッズをASOBI STOREにて販売！]]></description>
-            <link>https://idolmaster-official.jp/news/01_19525.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19525.html</guid>
-            <pubDate>Fri, 07 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/buSW3LRS4m6bQ1LCVAzO7uBhDpAuDrms.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【REFRAC7IONS】「shiny, the first REFRAC7IONS " Still blue "」公式グッズ事前販売が本日8月6日(木)よりスタート！！受注は8月23日(日)まで！]]></title>
-            <description><![CDATA[#シャニマス_リフラクションズライブ #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19533.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19533.html</guid>
-            <pubDate>Thu, 06 Aug 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/5jqzfDJusyTogvVeIs1fkEsBhWKCVHVc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

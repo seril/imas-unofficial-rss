@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 17:56:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 05:39:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 17:56:30 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 05:39:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【オケマス2025】オケマス2025の音源が9月16日より音楽配信開始！]]></title>
+            <description><![CDATA[ #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_19872.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19872.html</guid>
+            <pubDate>Wed, 16 Sep 2026 03:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/09/aa48u6E56tVDYxJUDpbS8pHm2nJMRJqG.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】アイドルマスター ミリオンライブ！×三越のおせち 2027 特設ページ＆描き下ろしイラスト公開！商品の販売情報も♪]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19847.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19847.html</guid>
+            <pubDate>Wed, 16 Sep 2026 01:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/fuMGljuCA9qRvsVEr4lUVqpk0femJPTM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は9月29日(火)20時～ゲスト神原 大地さん！]]></title>
             <description><![CDATA[#アイマスch #ラジマス]]></description>
@@ -81,20 +97,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【9/20(日)まで！】《SEASONAL SNAPSHOT》12月に向けて高槻やよい、伊吹 翼が登場！「クリスマス」をイメージしたグッズが受注中！]]></title>
-            <description><![CDATA[#ミリオンシーズナル12月]]></description>
-            <link>https://idolmaster-official.jp/news/01_19809.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19809.html</guid>
-            <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/jCSvMOFemJRt3IoZr1kwPV7L3CHLTCdY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【765】dual twin live tour ＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！「つみまつよるまち」オーコメは明日9/6(日) 20時から！！]]></title>
             <description><![CDATA[#dualtwinlive_765 #三浦あずさ_秋月律子_twinlive #つみまつ_オーコメ]]></description>
             <link>https://idolmaster-official.jp/news/01_19814.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19814.html</guid>
             <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/RkZbnmkouLGddFK3zg0molhXtLL4Zybw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【9/20(日)まで！】《SEASONAL SNAPSHOT》12月に向けて高槻やよい、伊吹 翼が登場！「クリスマス」をイメージしたグッズが受注中！]]></title>
+            <description><![CDATA[#ミリオンシーズナル12月]]></description>
+            <link>https://idolmaster-official.jp/news/01_19809.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19809.html</guid>
+            <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/jCSvMOFemJRt3IoZr1kwPV7L3CHLTCdY.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【765】dual twin live tour ＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！！「つみまつよるまち」オーコメは9/6(日) 20時から！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19612.html</guid>
             <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/sse1ATYeZHY1PtJtQ8TGbj2iNW43pebO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】期間限定イベントBATTLE OF THEATER「プラチナスタートラストBOT～Glow Together～」を開催中！]]></title>
-            <description><![CDATA[#ミリシタ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19579.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19579.html</guid>
-            <pubDate>Tue, 18 Aug 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/08/S3i5mWk0CAiS47bYbyWlSBPNDGQKpQBD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと2時間!!!!】「THE IDOLM@STER MILLION LIVE! 14thLIVE」イベントグッズ事前二次販売は全商品数量限定！販売は本日まで！！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19599.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19599.html</guid>
-            <pubDate>Sun, 16 Aug 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/1JQZsfTNVLjwuKqdjKTVzXHt1XuUaWLn.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

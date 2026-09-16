@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 17:56:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 05:39:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 17:56:25 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 05:39:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】スポーツクラブ ルネサンスとのコラボ企画「315 Fitness Project in RENAISSANCE – からだも、こころも、315更新！」開催決定！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_19822.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19822.html</guid>
+            <pubDate>Wed, 16 Sep 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/09/TtGztjzqQusQp7rTEOq7JefJJHLdH25H.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【オケマス2025】オケマス2025の音源が9月16日より音楽配信開始！]]></title>
+            <description><![CDATA[ #オケマス2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_19872.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19872.html</guid>
+            <pubDate>Wed, 16 Sep 2026 03:20:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/09/aa48u6E56tVDYxJUDpbS8pHm2nJMRJqG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は9月29日(火)20時～ゲスト神原 大地さん！]]></title>
             <description><![CDATA[#アイマスch #ラジマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19602.html</guid>
             <pubDate>Sun, 16 Aug 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※本日まで！※【アイマス20周年イヤー】⫸ #アイマスIWSF2026 ⫷ 開催記念グッズの受注は本日8月16日(日)まで！！カードフォリオ IWSF2026 プレミアムパックも数量限定で販売中！]]></title>
-            <description><![CDATA[#アイマスIWSF2026 #カードフォリオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19567.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19567.html</guid>
-            <pubDate>Sun, 16 Aug 2026 03:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/KJU6aShHIkfSq4q7qrsL2Gt6ElxphXWm.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【SideM衣装展】FiFS描き下ろし アイドル49名のビジュアルがカスタマイズ "Tシャツ" と"トートバッグ" で登場🌟ˎˊ˗ まもなく受注終了です！！！]]></title>
-            <description><![CDATA[#SideM #SideM衣装展]]></description>
-            <link>https://idolmaster-official.jp/news/01_19316.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19316.html</guid>
-            <pubDate>Sat, 15 Aug 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/hEkzu82DGcuQ4nFSjdvNA7DJe64J91pz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
