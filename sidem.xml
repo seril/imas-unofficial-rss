@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 05:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 11:04:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 05:47:23 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 11:04:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【YouTube】【SideM】【TOYOTA ARENA TOKYO】11th STAGEのライブ会場ができるまで 【タイムラプス】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch #SideM11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19825.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19825.html</guid>
+            <pubDate>Thu, 17 Sep 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/77HTL0B6kvh4Tp2v51jXphxzh4zL0xJv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM11th】配信視聴チケットご購入者限定！キャスト生出演オーディオコメンタリー付き同時視聴上映会は今週9/19(土)、20(日)開催！]]></title>
+            <description><![CDATA[#SideM #SideM11th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19904.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19904.html</guid>
+            <pubDate>Thu, 17 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/7f9euJdyMOYPhbHSzqSSSIji6ltJHRbd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】9月17日よりアーケードゲーム『アイドルマスター TOURS』に周防桃子が登場！ソロ曲『ローリング△さんかく』を追加！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -265,20 +281,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/NFr3zHnS7fRRnx0MFemyX7qOF2cHzRDf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></title>
-            <description><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19734.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19734.html</guid>
-            <pubDate>Fri, 28 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1003/2026/08/Oz9Fl2gepdprGzxRbKppHgfIgGrrvE4l.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【SideM】2026年9月1日 (火) 19:00～「アイドルマスター SideM　特別生配信」配信予定！]]></title>
             <description><![CDATA[#SideM #SideM特別生配信]]></description>
             <link>https://idolmaster-official.jp/news/01_19452.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19452.html</guid>
             <pubDate>Fri, 28 Aug 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/KQqjSvkksLRw4gK4JZCeG85jdEz9Exu3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></title>
+            <description><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19734.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19734.html</guid>
+            <pubDate>Fri, 28 Aug 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1003/2026/08/Oz9Fl2gepdprGzxRbKppHgfIgGrrvE4l.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【SideM】全アイドルがほわぬいになって2026年8月29日(土)よりクレーンゲームに登場予定！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19612.html</guid>
             <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/sse1ATYeZHY1PtJtQ8TGbj2iNW43pebO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「姫野 かのん」キャスト変更に関するお知らせ]]></title>
-            <description><![CDATA[「姫野 かのん」キャスト変更に関するお知らせ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19611.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19611.html</guid>
-            <pubDate>Tue, 18 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1003/2026/08/Qvnr49K1mSmBVPflDo49msYpuzGxxwO2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM11th】「THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～」 2026年8月22日(土)12:00より現地チケット一般販売スタート！リセールも実施予定！]]></title>
-            <description><![CDATA[#SideM #SideM11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19610.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19610.html</guid>
-            <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/6DsZvtdmtkewaD10ym9QcYV4pLqHVcJV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

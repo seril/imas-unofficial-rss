@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 05:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 11:04:01 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 05:47:22 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 11:04:01 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】「Anime Girls Project Store」が9月22日より上海にてオープン予定！『アイドルマスター』シリーズも参加✨]]></title>
+            <description><![CDATA[#AnimeGirlsProjectStore #偶像大师]]></description>
+            <link>https://idolmaster-official.jp/news/01_19895.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19895.html</guid>
+            <pubDate>Thu, 17 Sep 2026 08:31:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/rP0DQKk0BsdrAXGk0FLHiQrwGvJ4luXt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【偶像大师系列】「Anime Girls Project Store」将预计于9月22日在上海开业！「偶像大师」系列也将参加✨]]></title>
+            <description><![CDATA[#AnimeGirlsProjectStore #偶像大师]]></description>
+            <link>https://idolmaster-official.jp/news/01_19922.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19922.html</guid>
+            <pubDate>Thu, 17 Sep 2026 08:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/rP0DQKk0BsdrAXGk0FLHiQrwGvJ4luXt.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【アイドルマスターシリーズ】9月17日よりアーケードゲーム『アイドルマスター TOURS』に周防桃子が登場！ソロ曲『ローリング△さんかく』を追加！]]></title>
             <description><![CDATA[#ツアマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19601.html</guid>
             <pubDate>Sat, 15 Aug 2026 05:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】#初星サマーリンク 「初星巨大ビーチフラッグ」プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#初星サマーリンク　#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19519.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19519.html</guid>
-            <pubDate>Fri, 14 Aug 2026 23:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/08/qE1VlNDCVIeSIXHyaj3MG1fHaYwc0rto.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】8/14 (金) 学マス生配信「初星学園HR #11」お知らせまとめ]]></title>
-            <description><![CDATA[ #学マス #学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19430.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19430.html</guid>
-            <pubDate>Fri, 14 Aug 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/FfDRnNCyvTgHQELAfoKxvqtUDdDgf7vR.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
