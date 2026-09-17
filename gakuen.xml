@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 15:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 05:47:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 15:19:56 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 05:47:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】9月17日よりアーケードゲーム『アイドルマスター TOURS』に周防桃子が登場！ソロ曲『ローリング△さんかく』を追加！]]></title>
+            <description><![CDATA[#ツアマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19901.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19901.html</guid>
+            <pubDate>Thu, 17 Sep 2026 03:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/AfQBwXWcAqVTNxxuLyzv0hZ0Y81OWYT8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【オケマス2025】オケマス2025の音源が9月16日より音楽配信開始！]]></title>
             <description><![CDATA[ #オケマス2025]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19430.html</guid>
             <pubDate>Fri, 14 Aug 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/FfDRnNCyvTgHQELAfoKxvqtUDdDgf7vR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「初星学園HR #11」配信記念！出演キャストのサイン色紙プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #夏の学マス水着配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_19459.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19459.html</guid>
-            <pubDate>Thu, 13 Aug 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/RMUqBfWMMXBRwz56EkT6VJg7Utem3LvI.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
