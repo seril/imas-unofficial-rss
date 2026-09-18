@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 17:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 05:34:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 17:56:36 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 05:34:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマス】彼岸流×湯~ねる「ジャパニーズ・オリエンタル・スパ 」開催決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19836.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19836.html</guid>
+            <pubDate>Fri, 18 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/ZHIK0tnTZQz1wbMnrMY8zsx70sUDuUHQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】コトブキヤくじ アイドルマスター ミリオンライブ！ stage04 販売開始！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19832.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19832.html</guid>
+            <pubDate>Fri, 18 Sep 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/3Uu1HkLiwQ42BiQtjzQaIUKWFTE2AWrZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【シンデレラ】アイドル応援投稿祭　各部門賞を発表！総選挙の投票は明日9月18日（金）まで！]]></title>
             <description><![CDATA[#シンデレラガール総選挙2026　#CG総選挙2026応援投稿祭　#CG総選挙アートコンテスト]]></description>
@@ -97,20 +113,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/kV2jf6P80SatdJtHBkStbQfT2HGXU3n6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ 【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」現地チケットアソビストア一般会員先行のお申込みは9月30日(水)12:00より開始予定！]]></title>
-            <description><![CDATA[#シンデレラ15thPARTY]]></description>
-            <link>https://idolmaster-official.jp/news/01_19915.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19915.html</guid>
-            <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/8jyfGxstudtjpwUgawSXr5iHRuHkAykt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリオン14th】音楽をKAMIしめるゲーム「KAMISABI」ミリオン14thにて会場販売決定＆「源Pに挑め！KAMISABIバトル大会！」を開催！]]></title>
             <description><![CDATA[#ミリオン14th]]></description>
             <link>https://idolmaster-official.jp/news/01_19913.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19913.html</guid>
             <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/m0PE6GkSoh1Tx3GvRAJnW6Ktc1VuEhYt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」現地チケットアソビストア一般会員先行のお申込みは9月30日(水)12:00より開始予定！]]></title>
+            <description><![CDATA[#シンデレラ15thPARTY]]></description>
+            <link>https://idolmaster-official.jp/news/01_19915.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19915.html</guid>
+            <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/8jyfGxstudtjpwUgawSXr5iHRuHkAykt.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】ようこそ八戸へ！「はちます」×「アイドルマスター シンデレラガールズ」のキービジュアルと情報の一部が解禁！！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19850.html</guid>
             <pubDate>Fri, 11 Sep 2026 07:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/GAUaziywfW4c0txC7txLr1XdqulS2Tre.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】今週末まで！！！総選挙投票券付与対象商品のグッズ受注は9月13日(日)23:59まで！総選挙グッズ、15周年記念ライブ公式グッズ等、お見逃しなく！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #シンデレラ15thPARTY #トイボ公演 #メモピク ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19833.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19833.html</guid>
-            <pubDate>Fri, 11 Sep 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/emAs2shif0pZZ2aNzfU2uhZl1qFrYyEp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】​​​​​​​ALTERより、1/7スケールフィギュア「藤田ことね 冠菊Ver.」がご予約受付中！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19778.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19778.html</guid>
-            <pubDate>Fri, 11 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/Gku7KeR3IDObN7GVksGXWaLW9lPbevOD.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
