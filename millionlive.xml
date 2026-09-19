@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 10:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 14:11:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 10:23:54 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 14:11:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE DAY1 夢咲くワンダーミラージュ」ご来場・ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！！]]></title>
+            <description><![CDATA[#ミリオン14th #ミリオン14th_day1]]></description>
+            <link>https://idolmaster-official.jp/news/01_19882.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19882.html</guid>
+            <pubDate>Sat, 19 Sep 2026 12:35:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/09/cUmSI1QET9as79aDbLGevT9ZWmPngp5K.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】dual twin live tour 「ふたごぼしのつばさ」＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！亜美・真美 千秋楽のオーコメは9/23(水) 19時配信スタート！！]]></title>
             <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #ふたごぼし_オーコメ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19720.html</guid>
             <pubDate>Wed, 26 Aug 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/l5TarWt9Quc0o4PMhkfFvdODqHkeMEeu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.12」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19696.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19696.html</guid>
-            <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/6T7hqVV8svYsirXli9wDnmZVLYpbQQpV.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
