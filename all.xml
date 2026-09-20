@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 14:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 05:45:22 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 14:11:25 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 05:45:22 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【本日まで!!】《SEASONAL SNAPSHOT》12月に向けて高槻やよい、伊吹 翼が登場！「クリスマス」をイメージしたグッズは本日まで！お見逃しなく！]]></title>
+            <description><![CDATA[#ミリオンシーズナル12月]]></description>
+            <link>https://idolmaster-official.jp/news/01_19958.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19958.html</guid>
+            <pubDate>Sun, 20 Sep 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/jCSvMOFemJRt3IoZr1kwPV7L3CHLTCdY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE DAY1 夢咲くワンダーミラージュ」ご来場・ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！！]]></title>
             <description><![CDATA[#ミリオン14th #ミリオン14th_day1]]></description>
@@ -57,20 +65,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/vvSYlbrgzhoVBWBmaqIuTLRunkmkzXb4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリオン】THE IDOLM@STER MILLION X-STREAM THEATER CD情報！ドラマパート企画についてお知らせ]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19838.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19838.html</guid>
-            <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/tWXTZ4CwdGiZEn310KnP3GO0sI9YdByQ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年9月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch]]></description>
             <link>https://idolmaster-official.jp/news/01_19690.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19690.html</guid>
             <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/Yx0QvJ297PSrZkIaBbqESdf0TUnKHnfS.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】THE IDOLM@STER MILLION X-STREAM THEATER CD情報！ドラマパート企画についてお知らせ]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19838.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19838.html</guid>
+            <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/tWXTZ4CwdGiZEn310KnP3GO0sI9YdByQ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】　POP UP SHOP A MAGICAL CHEERSグッズがAnimoにて受付開始‼💎]]></title>
@@ -233,12 +241,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/AfQBwXWcAqVTNxxuLyzv0hZ0Y81OWYT8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリアニ】🦋OVA「アイドルマスター ミリオンライブ！～いつか、真ん中で～」🦋 新規録り下ろしボイス搭載≪イヤーカフ型≫ワイヤレスイヤホン登場！！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリアニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19843.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19843.html</guid>
+            <title><![CDATA[ 【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」現地チケットアソビストア一般会員先行のお申込みは9月30日(水)12:00より開始予定！]]></title>
+            <description><![CDATA[#シンデレラ15thPARTY]]></description>
+            <link>https://idolmaster-official.jp/news/01_19915.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19915.html</guid>
             <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/kV2jf6P80SatdJtHBkStbQfT2HGXU3n6.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/8jyfGxstudtjpwUgawSXr5iHRuHkAykt.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリオン14th】音楽をKAMIしめるゲーム「KAMISABI」ミリオン14thにて会場販売決定＆「源Pに挑め！KAMISABIバトル大会！」を開催！]]></title>
@@ -249,12 +257,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/m0PE6GkSoh1Tx3GvRAJnW6Ktc1VuEhYt.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ 【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」現地チケットアソビストア一般会員先行のお申込みは9月30日(水)12:00より開始予定！]]></title>
-            <description><![CDATA[#シンデレラ15thPARTY]]></description>
-            <link>https://idolmaster-official.jp/news/01_19915.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19915.html</guid>
+            <title><![CDATA[【ミリアニ】🦋OVA「アイドルマスター ミリオンライブ！～いつか、真ん中で～」🦋 新規録り下ろしボイス搭載≪イヤーカフ型≫ワイヤレスイヤホン登場！！]]></title>
+            <description><![CDATA[#ミリオンライブ #ミリアニ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19843.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19843.html</guid>
             <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/8jyfGxstudtjpwUgawSXr5iHRuHkAykt.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/kV2jf6P80SatdJtHBkStbQfT2HGXU3n6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】ようこそ八戸へ！「はちます」×「アイドルマスター シンデレラガールズ」のキービジュアルと情報の一部が解禁！！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19831.html</guid>
             <pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/whWZXInpLoslY1LAlTWRuTmksnh5gZXR.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリアニ】コトブキヤより1/8スケールフィギュア「最上静香-The Animation-」ご予約受付開始！さらに第二弾「伊吹 翼-The Animation-」のデコマスも公開！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリアニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19854.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19854.html</guid>
-            <pubDate>Mon, 14 Sep 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/OMhb6Z5OiJsCJBNQquZtbl4BvS1iSIpM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
