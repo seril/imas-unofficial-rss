@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 10:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 14:31:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 10:43:32 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 14:31:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン14th】「THE IDOLM@STER MILLION LIVE! 14thLIVE DAY2 Blooming Sign」ご来場・ご視聴ありがとうございました！本日のセットリスト＆告知内容まとめはこちら！！]]></title>
+            <description><![CDATA[#ミリオン14th #ミリオン14th_day2]]></description>
+            <link>https://idolmaster-official.jp/news/01_19883.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19883.html</guid>
+            <pubDate>Sun, 20 Sep 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/09/T0llYqxLt1X4QJApGCKYjfk2NCqLfo4f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】ミリシタ9周年イラストを使用した公式グッズが販売開始！]]></title>
+            <description><![CDATA[#ミリシタ　#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19968.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19968.html</guid>
+            <pubDate>Sun, 20 Sep 2026 11:45:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/09/9f8gbEE80F3JAM1wbSeoZ2vzukY932IH.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで!!】《SEASONAL SNAPSHOT》12月に向けて高槻やよい、伊吹 翼が登場！「クリスマス」をイメージしたグッズは本日まで！お見逃しなく！]]></title>
             <description><![CDATA[#ミリオンシーズナル12月]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19665.html</guid>
             <pubDate>Fri, 28 Aug 2026 03:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/XkFoQjrLuwMMP1D063nriFUIjKH0R52u.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリシタ】2026年9月2日(水)19:00～『10年目の新シリーズ発表！ ミリシタ Extreme 生配信』配信予定！]]></title>
-            <description><![CDATA[#ミリシタ生配信  #ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19454.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19454.html</guid>
-            <pubDate>Thu, 27 Aug 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/NnUdvFJGhEsKNrIh6UEvQPdm1VdQVTUi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></title>
-            <description><![CDATA[【#アイマスピアノ】パッケージデザインと特典詳細を公開📢 ピアノ譜面の表紙は"田宮清高さん完全監修"の描き下ろしイラスト✨【アイドルマスターシリーズ】]]></description>
-            <link>https://idolmaster-official.jp/news/01_19730.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19730.html</guid>
-            <pubDate>Wed, 26 Aug 2026 10:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
