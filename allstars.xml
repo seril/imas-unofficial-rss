@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 05:45:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 10:43:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 05:45:25 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 10:43:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】偶像大师 765PRO ALLSTARS bilibili官方收藏集正式推出！]]></title>
+            <description><![CDATA[#偶像大师 #アイマス #アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_19921.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19921.html</guid>
+            <pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/09/bkji6wgfBNi14tE9SnZkMTMS7WtVPlF4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】アイドルマスター 765PRO ALLSTARS bilibili公式デジタルカードコレクション発売決定！]]></title>
+            <description><![CDATA[#アイドルマスター#アイマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19925.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19925.html</guid>
+            <pubDate>Sun, 20 Sep 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/020/2026/09/Et2F9K1YA3Pd09c8hlFVNSzKzcp8omBM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】菊地 真・萩原雪歩の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場！]]></title>
             <description><![CDATA[【765】菊地 真・萩原雪歩の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場！]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19563.html</guid>
             <pubDate>Thu, 06 Aug 2026 14:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/oGHNmaDMtdKylNuMszcECjDRbwtbSjFL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイドルマスターシリーズ】アーケードゲーム『アイドルマスター TOURS』大型アップデート！ 8月6日より新シリーズ1弾をスタートし、「ツアーモード」やオリジナル楽曲『→→→SP』が登場！]]></title>
-            <description><![CDATA[#ツアマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19544.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19544.html</guid>
-            <pubDate>Thu, 06 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/UwbNAXbtyIZ3S2TOpMivhLnerPz2Y851.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】✨🌃狙え！公式宣材写真🌃✨亜美真美・あずさ律子による「dual twin live tour」配信プロデュースショット投稿キャンペーン📷のご案内]]></title>
-            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
-            <link>https://idolmaster-official.jp/news/01_19558.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19558.html</guid>
-            <pubDate>Wed, 05 Aug 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/ZRgoYIklhY5PSLSUamv2J7BFR3YA6hOv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
