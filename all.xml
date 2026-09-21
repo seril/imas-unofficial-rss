@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 21 Sep 2026 12:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Sep 2026 19:05:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Sep 2026 12:15:46 GMT</pubDate>
+        <pubDate>Mon, 21 Sep 2026 19:05:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ】「灯里愛夏 BIRTHDAY ONLINE LIVE 2026」延期公演が2026年10月28日(水) に開催決定！本日より限定グッズ付き現地ライブビューイングチケット・配信チケットの販売開始！]]></title>
+            <description><![CDATA[#愛夏誕生祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_19896.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19896.html</guid>
+            <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/09/0NdEy0U45S5YiUjuTNEC8QKkrBVvKOnv.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】学園アイドルマスター LIVE TOUR -標- 岩手公演はいよいよ明日から！ トーサイクラシックホール岩手（岩手県民会館） 大ホールにて開催！]]></title>
             <description><![CDATA[#学マス　#学マス標ツアー　#学マス標ツアー_岩手公演]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19861.html</guid>
             <pubDate>Tue, 15 Sep 2026 09:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/msNlTO0qoTSxCB4T4C8EATmAq9a3Enyq.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「学園アイドルマスター リバラバ！」がガシャポンに登場！]]></title>
-            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19856.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19856.html</guid>
-            <pubDate>Tue, 15 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/uhTKTdcrtZ65PVsHHwF1H56WvslbgrG2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
