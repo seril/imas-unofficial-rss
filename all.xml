@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 05:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 11:11:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 05:52:31 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 11:11:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター LIVE TOUR -標- 岩手公演 視聴コメント付きアーカイブ配信開始！アンケートも実施中！]]></title>
+            <description><![CDATA[#学マス標ツアー #学マス標ツアー_岩手公演_DAY1 #学マス標ツアー_岩手公演_DAY2]]></description>
+            <link>https://idolmaster-official.jp/news/01_19876.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19876.html</guid>
+            <pubDate>Thu, 24 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/NYBeLqWULV7a0dBpPArtVZS3M6GEXxU0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765】「如月千早」が「いまだけ月見食べ美」と共演！マクドナルド「月見バーガー」のWEBCMに出演🌕]]></title>
+            <description><![CDATA[#いまだけ月見食べ美]]></description>
+            <link>https://idolmaster-official.jp/news/01_19947.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19947.html</guid>
+            <pubDate>Thu, 24 Sep 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/z6vNEH8cIFVoAvBHN4IDorjAMvRxaXvz.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】9/28(月) 19:00～ 学園アイドルマスター「初星学園HR #12」生配信実施予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19888.html</guid>
             <pubDate>Wed, 16 Sep 2026 03:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/014/2026/09/39A0DouOEOOsan9vkkR2GLJp4YBNXEG9.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY ORCHESTRA CONCERT ～ シンデレラの演奏会 ～」が2027年1月11日(月・祝)・12日(火)に開催決定！現地チケット最速先行が本日スタート♪]]></title>
-            <description><![CDATA[#デレマスオーケストラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19894.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19894.html</guid>
-            <pubDate>Wed, 16 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/VeOXg03U9PNBXt5XiKDdUtuPdw80ZrFI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】アイドルマスター ミリオンライブ！×三越のおせち 2027 特設ページ＆描き下ろしイラスト公開！商品の販売情報も♪]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19847.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19847.html</guid>
-            <pubDate>Wed, 16 Sep 2026 01:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/fuMGljuCA9qRvsVEr4lUVqpk0femJPTM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
