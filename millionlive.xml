@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 05:52:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 11:16:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 05:52:47 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 11:16:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【ミリオン】Cyber Planet POP UP SHOPの詳細情報を公開！]]></title>
@@ -137,20 +137,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/AfQBwXWcAqVTNxxuLyzv0hZ0Y81OWYT8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリオン14th】音楽をKAMIしめるゲーム「KAMISABI」ミリオン14thにて会場販売決定＆「源Pに挑め！KAMISABIバトル大会！」を開催！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19913.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19913.html</guid>
-            <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/m0PE6GkSoh1Tx3GvRAJnW6Ktc1VuEhYt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリアニ】🦋OVA「アイドルマスター ミリオンライブ！～いつか、真ん中で～」🦋 新規録り下ろしボイス搭載≪イヤーカフ型≫ワイヤレスイヤホン登場！！]]></title>
             <description><![CDATA[#ミリオンライブ #ミリアニ]]></description>
             <link>https://idolmaster-official.jp/news/01_19843.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19843.html</guid>
             <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/kV2jf6P80SatdJtHBkStbQfT2HGXU3n6.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン14th】音楽をKAMIしめるゲーム「KAMISABI」ミリオン14thにて会場販売決定＆「源Pに挑め！KAMISABIバトル大会！」を開催！]]></title>
+            <description><![CDATA[#ミリオン14th]]></description>
+            <link>https://idolmaster-official.jp/news/01_19913.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19913.html</guid>
+            <pubDate>Thu, 17 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/m0PE6GkSoh1Tx3GvRAJnW6Ktc1VuEhYt.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【オケマス2025】オケマス2025の音源が9月16日より音楽配信開始！]]></title>
@@ -241,20 +241,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【9/20(日)まで！】《SEASONAL SNAPSHOT》12月に向けて高槻やよい、伊吹 翼が登場！「クリスマス」をイメージしたグッズが受注中！]]></title>
-            <description><![CDATA[#ミリオンシーズナル12月]]></description>
-            <link>https://idolmaster-official.jp/news/01_19809.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19809.html</guid>
-            <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/jCSvMOFemJRt3IoZr1kwPV7L3CHLTCdY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【765】dual twin live tour ＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！「つみまつよるまち」オーコメは明日9/6(日) 20時から！！]]></title>
             <description><![CDATA[#dualtwinlive_765 #三浦あずさ_秋月律子_twinlive #つみまつ_オーコメ]]></description>
             <link>https://idolmaster-official.jp/news/01_19814.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19814.html</guid>
             <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/RkZbnmkouLGddFK3zg0molhXtLL4Zybw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【9/20(日)まで！】《SEASONAL SNAPSHOT》12月に向けて高槻やよい、伊吹 翼が登場！「クリスマス」をイメージしたグッズが受注中！]]></title>
+            <description><![CDATA[#ミリオンシーズナル12月]]></description>
+            <link>https://idolmaster-official.jp/news/01_19809.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19809.html</guid>
+            <pubDate>Sat, 05 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/jCSvMOFemJRt3IoZr1kwPV7L3CHLTCdY.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【765】dual twin live tour ＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！！「つみまつよるまち」オーコメは9/6(日) 20時から！]]></title>
