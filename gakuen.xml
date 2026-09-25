@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 18:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 05:52:47 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 18:13:48 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 05:52:47 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター「初星学園HR #12」 ミラー配信大歓迎！実施ポリシーを公開！]]></title>
+            <description><![CDATA[#初星学園HR #花海咲季 #花海佑芽]]></description>
+            <link>https://idolmaster-official.jp/news/01_19974.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19974.html</guid>
+            <pubDate>Fri, 25 Sep 2026 02:55:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/cdAB1vBPBjTM0zq19tS3N9biDJgsIMs3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】学園アイドルマスター LIVE TOUR -標- 岩手公演 視聴コメント付きアーカイブ配信開始！アンケートも実施中！]]></title>
             <description><![CDATA[#学マス標ツアー #学マス標ツアー_岩手公演_DAY1 #学マス標ツアー_岩手公演_DAY2]]></description>
@@ -169,20 +177,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/c4mMX4j4oO3l07AIzT3PdBykTbN4HIia.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></title>
-            <description><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></description>
-            <link>https://idolmaster-official.jp/news/01_19815.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19815.html</guid>
-            <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- 福岡公演 DAY2 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
             <description><![CDATA[#学マス #学マス標ツアー_福岡公演　#学マス標ツアー_福岡公演_DAY2]]></description>
             <link>https://idolmaster-official.jp/news/01_19744.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19744.html</guid>
             <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/eaiC1kWKStlIyDrBovZtLjViR83y3W7S.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></title>
+            <description><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></description>
+            <link>https://idolmaster-official.jp/news/01_19815.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19815.html</guid>
+            <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- 福岡公演 DAY1 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19643.html</guid>
             <pubDate>Wed, 19 Aug 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/kX4TFDppJ9PGUgJz76LGnFChPuoy0UW4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.11」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19612.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19612.html</guid>
-            <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/sse1ATYeZHY1PtJtQ8TGbj2iNW43pebO.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
