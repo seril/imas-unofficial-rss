@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 05:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 10:53:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 05:52:49 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 10:53:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[明日締め切り！ 【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第4弾の受注は9/27(日)まで！！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_19851.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19851.html</guid>
+            <pubDate>Sat, 26 Sep 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/RWfQB4n258gcjXxrP9U9mQ16wQ17hjEg.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】「THE IDOLM@STER 765PRO ALLSTARS LIVE ～NEVER END IDOL!!!!!!!!!!!!!～」Blu-rayの受注は9/27(日)まで！ダイジェスト映像も公開中！]]></title>
             <description><![CDATA[#アイマス765単独NEI ]]></description>
@@ -57,20 +65,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/DOTGDom27hGlUz0WHGKi3F8NuaCbm6Oy.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマスソロライブMSP】いよいよ明日から！配信チケットも販売中！一部イベントグッズの追加販売もスタート！！]]></title>
-            <description><![CDATA[#シャニマスソロライブMSP #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19955.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19955.html</guid>
-            <pubDate>Fri, 25 Sep 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/m18LGjVuTIZexxUqGVmMWXQovuWjf36J.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【765】【961】アイドルたちの「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイで予約受付中！高槻やよいと水瀬伊織のご予約は今週末9月27日まで📢]]></title>
             <description><![CDATA[【765】【961】アイドルたちの「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイで予約受付中！高槻やよいと水瀬伊織のご予約は今週末9月27日まで📢]]></description>
             <link>https://idolmaster-official.jp/news/01_19952.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19952.html</guid>
             <pubDate>Fri, 25 Sep 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/9lvIGNfdRLvCHPbeXa386ZUpQl1Er41R.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマスソロライブMSP】いよいよ明日から！配信チケットも販売中！一部イベントグッズの追加販売もスタート！！]]></title>
+            <description><![CDATA[#シャニマスソロライブMSP #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19955.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19955.html</guid>
+            <pubDate>Fri, 25 Sep 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/m18LGjVuTIZexxUqGVmMWXQovuWjf36J.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】Re;IRISとBegraziaのユニット衣装を着た"ちびぐるみ"が9月25日より全国のクレーンゲームに順次登場中！]]></title>
@@ -97,20 +105,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/cdAB1vBPBjTM0zq19tS3N9biDJgsIMs3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ 【シンデレラ】＼今週末まで！／「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY ORCHESTRA CONCERT ～ シンデレラの演奏会 ～」の現地チケット最速先行は今週末まで！]]></title>
-            <description><![CDATA[#デレマスオーケストラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20003.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20003.html</guid>
-            <pubDate>Fri, 25 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/VeOXg03U9PNBXt5XiKDdUtuPdw80ZrFI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】「パズドラ」とのコラボが9月25日（金）より開催中！]]></title>
             <description><![CDATA[#デレマス　#パズドラ]]></description>
             <link>https://idolmaster-official.jp/news/01_19976.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19976.html</guid>
             <pubDate>Fri, 25 Sep 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/09/GRMlIHpgD71oqbv3lTRhZgcgrvfshLbz.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】＼今週末まで！／「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY ORCHESTRA CONCERT ～ シンデレラの演奏会 ～」の現地チケット最速先行は今週末まで！]]></title>
+            <description><![CDATA[#デレマスオーケストラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20003.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20003.html</guid>
+            <pubDate>Fri, 25 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/VeOXg03U9PNBXt5XiKDdUtuPdw80ZrFI.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】インフォメーション配信発表まとめ！3rdLIVE&MEETINGが開催決定！！2027年1月30-31日に愛知・愛知県芸術劇場 大ホール、2027年3月21-22日に東京・日本工学院アリーナにて開催！初の二都市開催！！詳細は後日！]]></title>
@@ -137,20 +145,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/z6vNEH8cIFVoAvBHN4IDorjAMvRxaXvz.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【ミリオン】Cyber Planet POP UP SHOPの詳細情報を公開！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19973.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19973.html</guid>
-            <pubDate>Thu, 24 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/3T5BjT98HsZ3SIApKo1jTsZVTbs9FKxS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス】9/28(月) 19:00～ 学園アイドルマスター「初星学園HR #12」生配信実施予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター]]></description>
             <link>https://idolmaster-official.jp/news/01_19794.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19794.html</guid>
             <pubDate>Thu, 24 Sep 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/u4v6PImDe07xsaPoV8Me3RmgSVHAEwUX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリオン】Cyber Planet POP UP SHOPの詳細情報を公開！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19973.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19973.html</guid>
+            <pubDate>Thu, 24 Sep 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/3T5BjT98HsZ3SIApKo1jTsZVTbs9FKxS.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- 岩手公演 DAY2 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
@@ -257,20 +265,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/RkZbnmkouLGddFK3zg0molhXtLL4Zybw.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマスソロライブMSP】配信チケットご購入者限定！キャスト生出演オーディオコメンタリー付きアーカイブ同時視聴会開催決定！]]></title>
-            <description><![CDATA[#シャニマスソロライブMSP #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19917.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19917.html</guid>
-            <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/IhExzvXUtJhTZXiEZJ4faVV3561HbWWb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シャニマス】全国のサントリー自販機約600台で、オリジナルラベルのレモンスカッシュを発売！「283 PRODUCTION Solo Live Collection -Master ShowPiece-」会場にも専用自販機が登場！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
             <link>https://idolmaster-official.jp/news/01_19924.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19924.html</guid>
             <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/09/y53lDO62yuyXUWDXfOkM9lnmyuOLp7Rn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマスソロライブMSP】配信チケットご購入者限定！キャスト生出演オーディオコメンタリー付きアーカイブ同時視聴会開催決定！]]></title>
+            <description><![CDATA[#シャニマスソロライブMSP #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19917.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19917.html</guid>
+            <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/IhExzvXUtJhTZXiEZJ4faVV3561HbWWb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism SUPER DUPER DREAMER / BEAST MODE」発売記念イベント 会場物販のお知らせ]]></title>
@@ -281,20 +289,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/vvSYlbrgzhoVBWBmaqIuTLRunkmkzXb4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年9月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_19690.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19690.html</guid>
-            <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/Yx0QvJ297PSrZkIaBbqESdf0TUnKHnfS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【ミリオン】THE IDOLM@STER MILLION X-STREAM THEATER CD情報！ドラマパート企画についてお知らせ]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
             <link>https://idolmaster-official.jp/news/01_19838.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19838.html</guid>
             <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/tWXTZ4CwdGiZEn310KnP3GO0sI9YdByQ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年9月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_19690.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19690.html</guid>
+            <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/Yx0QvJ297PSrZkIaBbqESdf0TUnKHnfS.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】　POP UP SHOP A MAGICAL CHEERSグッズがAnimoにて受付開始‼💎]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19926.html</guid>
             <pubDate>Thu, 17 Sep 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/DOTGDom27hGlUz0WHGKi3F8NuaCbm6Oy.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM11th】配信視聴チケットご購入者限定！キャスト生出演オーディオコメンタリー付き同時視聴上映会は今週9/19(土)、20(日)開催！]]></title>
-            <description><![CDATA[#SideM #SideM11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19904.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19904.html</guid>
-            <pubDate>Thu, 17 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/7f9euJdyMOYPhbHSzqSSSIji6ltJHRbd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
