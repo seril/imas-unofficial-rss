@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 14:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 06:17:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 14:52:55 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 06:17:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[※本日締め切り！※【SideMF@NFES】 ～Wanna step in～イベント公式グッズ 事前販売は本日締め切り！一部アイテムのサンプル画像も公開中！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
+            <link>https://idolmaster-official.jp/news/01_20017.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20017.html</guid>
+            <pubDate>Sun, 27 Sep 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/09/JLJpBGK6DfHSMFlVfUxWz2FuCJXfRaDZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[明日締め切り！ 【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第4弾の受注は9/27(日)まで！！]]></title>
             <description><![CDATA[#SideM #アソビストア]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19684.html</guid>
             <pubDate>Fri, 21 Aug 2026 06:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】Teddy's Collection POP UP STORE IIが2026年9月4日より順次開催🧸]]></title>
-            <description><![CDATA[#SideM ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19646.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19646.html</guid>
-            <pubDate>Fri, 21 Aug 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/V6BIkTNlUkCyREIGCL2aEZK5Ktz3DNcc.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
