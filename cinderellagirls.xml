@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Sep 2026 06:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 18:29:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Sep 2026 06:20:15 GMT</pubDate>
+        <pubDate>Mon, 28 Sep 2026 18:29:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「ATHOME xR LIVE Apple of my アイ」が2027年2月13日(土)・14日(日)に開催決定！現地チケット最速先行が本日スタート♪]]></title>
+            <description><![CDATA[#あぷあい公演 #おかえりんご]]></description>
+            <link>https://idolmaster-official.jp/news/01_20020.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20020.html</guid>
+            <pubDate>Mon, 28 Sep 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/09/zjtpSQ8caJg89W97XCVAstXCtCzVnCum.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】＼本日まで！／「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY ORCHESTRA CONCERT ～ シンデレラの演奏会 ～」の現地チケット最速先行は本日まで！]]></title>
             <description><![CDATA[#デレマスオーケストラ]]></description>
@@ -337,20 +345,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/08/J668fTi4YXFgOy2DYJlnI0bpAA2cWy9W.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_19686.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19686.html</guid>
-            <pubDate>Sun, 23 Aug 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】本日まで！「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」アソビストアプレミアム会員最速先行のお申込みは8月23日(日)23:59まで！]]></title>
             <description><![CDATA[#シンデレラ15thPARTY]]></description>
             <link>https://idolmaster-official.jp/news/01_19529.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19529.html</guid>
             <pubDate>Sun, 23 Aug 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/teMz2oYLVKAbqsCQE61vklvIgY0gB6dn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
+            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
+            <link>https://idolmaster-official.jp/news/01_19686.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19686.html</guid>
+            <pubDate>Sun, 23 Aug 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】明日まで！「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」アソビストアプレミアム会員最速先行のお申込みは8月23日(日)23:59まで！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19580.html</guid>
             <pubDate>Fri, 21 Aug 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/BP2kS33tFPRBKTzzoADarkpEGrw4Yz9k.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】本格ゲーミングキーボードなどデスク周りを彩るアイテム多数！アイドルマスター シンデレラガールズ×ふもコレのコラボグッズ第2弾が予約受付中！]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19564.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19564.html</guid>
-            <pubDate>Thu, 20 Aug 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/08/dVDF4YUSsqJre8NqAPDN4tDJqiZ9aTKv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

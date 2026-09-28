@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 28 Sep 2026 06:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 18:29:17 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Sep 2026 06:20:18 GMT</pubDate>
+        <pubDate>Mon, 28 Sep 2026 18:29:17 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニマスソロライブMSP】視聴コメント付きアーカイブ配信本日より開始！公演アンケートも実施中！]]></title>
+            <description><![CDATA[#シャニマスソロライブMSP #シャニマスソロライブMSP_day1 #シャニマスソロライブMSP_day2 #シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19956.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19956.html</guid>
+            <pubDate>Mon, 28 Sep 2026 09:06:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/09/R7EvVji9ZoMp1YIJ4CrcoWS0eTWO1dZo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】10月7日（水）より「８番らーめん×アイドルマスター シャイニーカラーズコラボ」の開催が決定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20022.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20022.html</guid>
+            <pubDate>Mon, 28 Sep 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/09/UJSHOU9SW9ndMG4Wu15bQwtg2XaN4ZTD.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【283_noctchill】2027年3月27日(土)・28日(日) ゼビオアリーナ仙台　283 Production LIVE Performance noctchill 開催決定！アソビストアプレミアム会員先行が開始されました！]]></title>
             <description><![CDATA[#ノクチル_さよなら透明]]></description>
@@ -97,20 +113,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/RkZbnmkouLGddFK3zg0molhXtLL4Zybw.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】全国のサントリー自販機約600台で、オリジナルラベルのレモンスカッシュを発売！「283 PRODUCTION Solo Live Collection -Master ShowPiece-」会場にも専用自販機が登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19924.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19924.html</guid>
-            <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/09/y53lDO62yuyXUWDXfOkM9lnmyuOLp7Rn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シャニマスソロライブMSP】配信チケットご購入者限定！キャスト生出演オーディオコメンタリー付きアーカイブ同時視聴会開催決定！]]></title>
             <description><![CDATA[#シャニマスソロライブMSP #シャニマス #シャイニーカラーズ]]></description>
             <link>https://idolmaster-official.jp/news/01_19917.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19917.html</guid>
             <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/IhExzvXUtJhTZXiEZJ4faVV3561HbWWb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】全国のサントリー自販機約600台で、オリジナルラベルのレモンスカッシュを発売！「283 PRODUCTION Solo Live Collection -Master ShowPiece-」会場にも専用自販機が登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19924.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19924.html</guid>
+            <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/09/y53lDO62yuyXUWDXfOkM9lnmyuOLp7Rn.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism SUPER DUPER DREAMER / BEAST MODE」発売記念イベント 会場物販のお知らせ]]></title>
@@ -345,20 +361,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/n41Ji7p6QunDRH3v9XbmGPtsI50psI4T.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】「30MS」シリーズよりオプションヘアスタイル＆フェイスパーツセット(七草にちか/七草はづき)が2027年1月に発売予定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19692.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19692.html</guid>
-            <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/G2Ro608lVt79H6YwSBIHFbZIJRm7jg43.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シャニマス】「30MS」シリーズより緋田美琴が2027年1月に発売予定！]]></title>
             <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
             <link>https://idolmaster-official.jp/news/01_19693.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19693.html</guid>
             <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/8hbQxMgTVMB17dVJ3CKBEV17d4QnCdHp.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】「30MS」シリーズよりオプションヘアスタイル＆フェイスパーツセット(七草にちか/七草はづき)が2027年1月に発売予定！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19692.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19692.html</guid>
+            <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/G2Ro608lVt79H6YwSBIHFbZIJRm7jg43.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.12」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19140.html</guid>
             <pubDate>Tue, 25 Aug 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/JQz2NbwAB5qc8lu2I9EjKQVUm5RJwsAw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_19686.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19686.html</guid>
-            <pubDate>Sun, 23 Aug 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[✧本日まで✧【REFRAC7IONS】「shiny, the first REFRAC7IONS " Still blue "」公式グッズ事前販売は本日8月23日(日)まで！新ユニットカラーのアイテムが初登場♪お見逃しなく！]]></title>
-            <description><![CDATA[#シャニマス_リフラクションズライブ #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19662.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19662.html</guid>
-            <pubDate>Sun, 23 Aug 2026 03:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/Wbx5uznB44UnDYS8uaSJRzaxQ4z5KrtN.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
