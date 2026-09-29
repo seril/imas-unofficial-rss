@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 06:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2026 16:47:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 06:35:45 GMT</pubDate>
+        <pubDate>Tue, 29 Sep 2026 16:47:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【生配信】「IM＠S RADIO」次回放送は10月13日(火)20時～ スタマス5周年特番 ゲスト山崎 はるかさん、田中 あいみさん！]]></title>
+            <description><![CDATA[#アイマスch #ラジマス #スタマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_19986.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19986.html</guid>
+            <pubDate>Tue, 29 Sep 2026 12:25:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/6jDalwr8rFASCzoVb1lO9hXHMTDXZZpY.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】明日締切！「315 MODE」vol.1 SPRING 公式グッズの受注は9/30(水)まで！]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_20008.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20008.html</guid>
+            <pubDate>Tue, 29 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/QMtlOaR43QIxQmWi5kqwQ1HaudiHjsvl.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[※本日締め切り！※【SideMF@NFES】 ～Wanna step in～イベント公式グッズ 事前販売は本日締め切り！一部アイテムのサンプル画像も公開中！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19645.html</guid>
             <pubDate>Fri, 21 Aug 2026 07:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/G49ImLyAAWY8kpdHdmfJst3OYiGm0Ckv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 10 」CD情報！]]></title>
-            <description><![CDATA[#SideM #315ソング]]></description>
-            <link>https://idolmaster-official.jp/news/01_19354.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19354.html</guid>
-            <pubDate>Fri, 21 Aug 2026 07:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/07/f0qmc1z0g8obC9G5eMU2wNn124lwKEZz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_19684.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19684.html</guid>
-            <pubDate>Fri, 21 Aug 2026 06:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
