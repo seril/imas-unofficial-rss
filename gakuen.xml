@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Oct 2026 17:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 06:43:58 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Oct 2026 17:16:22 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 06:43:58 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】ゆめぱしー・REVERSI・RippleSignのユニット衣装を着たアイドルたちの"ちびぐるみ"が10月6日と8日より全国のクレーンゲームに順次登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20006.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20006.html</guid>
+            <pubDate>Fri, 02 Oct 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/0jSV9TOQb1pBU7llNdJ6b7t3n0IGI5Nb.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】MiraiMiraよりフィギュア「藤田ことね 雨上がりのアイリス 特訓前Ver.」予約受付開始！12月1日(火)まで！]]></title>
             <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19663.html</guid>
             <pubDate>Tue, 25 Aug 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/BH9WJ9XpMN5germ5YSQUxF9RhOc9c4Ow.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_19686.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19686.html</guid>
-            <pubDate>Sun, 23 Aug 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
