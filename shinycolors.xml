@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 02 Oct 2026 06:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Oct 2026 16:30:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 02 Oct 2026 06:43:58 GMT</pubDate>
+        <pubDate>Fri, 02 Oct 2026 16:30:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】『Pioneer Impact』3DMV実装記念！Xプレゼントキャンペーン開催！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_20048.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20048.html</guid>
+            <pubDate>Fri, 02 Oct 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/10/S5PSpIO8PadpH9c0wan3Wf7xN0tEZw14.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】樋口円香の1/7スケールフィギュアが登場！ご予約受付中♪]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20050.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20050.html</guid>
+            <pubDate>Fri, 02 Oct 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/10/JbGcmlT8Rrf9wiZ01YOEQLSJsOJmGB1I.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
             <description><![CDATA[#スタマス5周年]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19730.html</guid>
             <pubDate>Wed, 26 Aug 2026 10:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】9月20日(日)より『アイドルマスター シャイニーカラーズ POP UP SHOP パラレル回廊』の開催が決定！]]></title>
-            <description><![CDATA[＃シャニマス　＃シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19700.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19700.html</guid>
-            <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/n41Ji7p6QunDRH3v9XbmGPtsI50psI4T.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「30MS」シリーズより緋田美琴が2027年1月に発売予定！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19693.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19693.html</guid>
-            <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/8hbQxMgTVMB17dVJ3CKBEV17d4QnCdHp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
