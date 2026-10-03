@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 06:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Oct 2026 15:02:56 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 06:03:34 GMT</pubDate>
+        <pubDate>Sat, 03 Oct 2026 15:02:56 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】【シンデレラ】12月12・13日大阪・オリックス劇場にて「xR LIVE REVIVAL」開催決定！あの公演をもう一度！]]></title>
+            <description><![CDATA[#アイマスxR_REVIVAL #はんげつ_REVIVAL #トイボ公演_もういっかい]]></description>
+            <link>https://idolmaster-official.jp/news/01_20062.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20062.html</guid>
+            <pubDate>Sat, 03 Oct 2026 10:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/10/XqFSVA3i3gqzejuMej1FdGmRW4vY8huY.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】上水流宇宙 バースデー記念グッズセットの受注は明日まで！！]]></title>
             <description><![CDATA[ #宇宙誕生祭2026]]></description>
@@ -73,20 +81,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【スタマス】スタマス5周年記念！「アイドルマスター スターリットシーズン」Steamセール過去最大70%OFF！]]></title>
-            <description><![CDATA[#スタマス5周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_20054.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【スタマス】スタマス5周年記念！特別施策が本日より順次スタート！]]></title>
             <description><![CDATA[#スタマス5周年]]></description>
             <link>https://idolmaster-official.jp/news/01_20036.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20036.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/xIQru9wUKpwZme6paZHETkJvLdb6W7aI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】スタマス5周年記念！「アイドルマスター スターリットシーズン」Steamセール過去最大70%OFF！]]></title>
+            <description><![CDATA[#スタマス5周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_20054.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
+            <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】ゆめぱしー・REVERSI・RippleSignのユニット衣装を着たアイドルたちの"ちびぐるみ"が10月6日と8日より全国のクレーンゲームに順次登場！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19919.html</guid>
             <pubDate>Fri, 25 Sep 2026 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism 散花-sanka- / 紅花-benibana-」発売記念イベント 会場物販のお知らせ]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19892.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19892.html</guid>
-            <pubDate>Fri, 25 Sep 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/M6y0nge0tD0T809uJPMkXivTIbhPBIKM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
