@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 15:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 06:34:19 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 15:40:30 GMT</pubDate>
+        <pubDate>Mon, 05 Oct 2026 06:34:19 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】東京都町田市のロコ「ふたマス!!!!!!」グッズセット　ふるさと納税返礼品＜2026年分＞がスタート🕊💛]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20051.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20051.html</guid>
+            <pubDate>Mon, 05 Oct 2026 01:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/10/hLqkgNqr6LKAvZ9LLCwtHyj7baMAcCJ5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》1月に向けて舞浜 歩、百瀬莉緒が登場！「初日の出」をイメージしたグッズが受注受付中！！]]></title>
             <description><![CDATA[#ミリオンシーズナル1月]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19782.html</guid>
             <pubDate>Wed, 02 Sep 2026 12:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/zZ4J77ASIieyGoZ1QLHz06YPX63K8lUi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】北海道壮瞥町の「壮瞥町りんご大使」に「木下ひなた」が本年も就任！ 10月2日（金）より壮瞥町にて「そうべつりんごめぐり」がスタート🍎]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19747.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19747.html</guid>
-            <pubDate>Wed, 02 Sep 2026 12:16:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/AHV7aosnELLDExRI1AAJTucEWn5ahEY6.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

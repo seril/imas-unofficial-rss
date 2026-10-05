@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 15:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Oct 2026 06:34:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 15:40:31 GMT</pubDate>
+        <pubDate>Mon, 05 Oct 2026 06:34:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイマス20周年イヤー】東京都町田市のロコ「ふたマス!!!!!!」グッズセット　ふるさと納税返礼品＜2026年分＞がスタート🕊💛]]></title>
+            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20051.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20051.html</guid>
+            <pubDate>Mon, 05 Oct 2026 01:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/10/hLqkgNqr6LKAvZ9LLCwtHyj7baMAcCJ5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】【シンデレラ】12月12・13日大阪・オリックス劇場にて「xR LIVE REVIVAL」開催決定！あの公演をもう一度！]]></title>
             <description><![CDATA[#アイマスxR_REVIVAL #はんげつ_REVIVAL #トイボ公演_もういっかい]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19601.html</guid>
             <pubDate>Sat, 15 Aug 2026 05:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】dual twin live tour 『三浦 あずさ・秋月 律子 twin live “ つみまつよるまち ”』＜名古屋公演＞ のご来場・ご視聴ありがとうございました！本日のセットリスト＆各種情報まとめはこちら！ ]]></title>
-            <description><![CDATA[#三浦あずさ_秋月律子_twinlive #つみまつ_名古屋]]></description>
-            <link>https://idolmaster-official.jp/news/01_19607.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19607.html</guid>
-            <pubDate>Fri, 14 Aug 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/JGlQZ6HzZskjuXNvltfoBMveFRxUUx1G.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
