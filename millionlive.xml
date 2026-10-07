@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Oct 2026 17:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 06:52:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 06 Oct 2026 17:02:43 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 06:52:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレミリ合同ライブ】「THE IDOLM@STER CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!!」開催記念ラジオの配信が決定！第1回は「フレあかラジオ」♪アイドルへのおたよりを募集開始！]]></title>
+            <description><![CDATA[#デレミリ合同ライブ #フレあかラジオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20073.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20073.html</guid>
+            <pubDate>Wed, 07 Oct 2026 03:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/BN3SEyyZ3gk9VplpQrEAJXyc3La6MHPF.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【デレミリ合同ライブ】本日よりアソビストア一般会員先行スタート！10月30日(金)20:00より生配信『デレミリ合同ライブ「CLASH M@TCH!!」開催記念！ウォームアップ生配信』も配信決定！]]></title>
+            <description><![CDATA[#デレミリ合同ライブ #デレミリ合同ライブ生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_20072.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20072.html</guid>
+            <pubDate>Wed, 07 Oct 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/qFqbO5UYcuPppkhIfMKpnHNXgWQqj8sI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「京都国際マンガ・アニメフェア2026（京まふ）」事後物販POP UP SHOP 詳細情報を公開！]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19740.html</guid>
             <pubDate>Thu, 03 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/O1gwDIh1MrMt8UeXgKVHQ9egvRtJPr1o.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】コトブキヤくじ 「アイドルマスター ミリオンライブ！ stage04」が開催決定！]]></title>
-            <description><![CDATA[#アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19766.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19766.html</guid>
-            <pubDate>Thu, 03 Sep 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/08/tMyqvJZ1yYxUytPHuElHy0TLSzBeze0G.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオンライブ】『10年目の新シリーズ発表！ ミリシタ Extreme 生配信』お知らせまとめ]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリシタExtreme​生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_19457.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19457.html</guid>
-            <pubDate>Wed, 02 Sep 2026 12:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/fwUKtw961cl2IVSW0Mm3S8tFEfMGuOQT.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
