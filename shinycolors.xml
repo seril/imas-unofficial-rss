@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 06:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 16:06:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 06:42:27 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 16:06:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【シャニマス】「SHINY Style COLLECTION」グッズ第2弾の受注がスタート！第2弾は「Sonic Heart (and Signal)」＆「No 1 feel alone」が登場！]]></title>
@@ -57,6 +57,14 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/10/JbGcmlT8Rrf9wiZ01YOEQLSJsOJmGB1I.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【スタマス】スタマス5周年記念！特別施策が本日より順次スタート！]]></title>
+            <description><![CDATA[#スタマス5周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_20036.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20036.html</guid>
+            <pubDate>Fri, 02 Oct 2026 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/xIQru9wUKpwZme6paZHETkJvLdb6W7aI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
             <description><![CDATA[#スタマス5周年]]></description>
             <link>https://idolmaster-official.jp/news/01_20009.html</link>
@@ -71,14 +79,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【スタマス】スタマス5周年記念！特別施策が本日より順次スタート！]]></title>
-            <description><![CDATA[#スタマス5周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_20036.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20036.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/xIQru9wUKpwZme6paZHETkJvLdb6W7aI.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】FAMくじにて「アイドルマスター シャイニーカラーズ」vol.2 が登場！]]></title>
@@ -201,20 +201,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/RkZbnmkouLGddFK3zg0molhXtLL4Zybw.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【シャニマス】全国のサントリー自販機約600台で、オリジナルラベルのレモンスカッシュを発売！「283 PRODUCTION Solo Live Collection -Master ShowPiece-」会場にも専用自販機が登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19924.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19924.html</guid>
-            <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/09/y53lDO62yuyXUWDXfOkM9lnmyuOLp7Rn.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シャニマスソロライブMSP】配信チケットご購入者限定！キャスト生出演オーディオコメンタリー付きアーカイブ同時視聴会開催決定！]]></title>
             <description><![CDATA[#シャニマスソロライブMSP #シャニマス #シャイニーカラーズ]]></description>
             <link>https://idolmaster-official.jp/news/01_19917.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19917.html</guid>
             <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/IhExzvXUtJhTZXiEZJ4faVV3561HbWWb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】全国のサントリー自販機約600台で、オリジナルラベルのレモンスカッシュを発売！「283 PRODUCTION Solo Live Collection -Master ShowPiece-」会場にも専用自販機が登場！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_19924.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19924.html</guid>
+            <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/09/y53lDO62yuyXUWDXfOkM9lnmyuOLp7Rn.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism SUPER DUPER DREAMER / BEAST MODE」発売記念イベント 会場物販のお知らせ]]></title>

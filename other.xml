@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 06:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 16:06:32 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 06:42:27 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 16:06:32 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第十六弾】「今日からいきなり!?お義兄ちゃんボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を期間限定販売！]]></title>
+            <description><![CDATA[#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20106.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20106.html</guid>
+            <pubDate>Sat, 10 Oct 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/10/SxjRSluGZlEGQV47UCrIeKvKQqaxOg7c.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】5分以内ですぐ完了！＜26年度第2回＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの一票がライバーアイドルの能力総合値に！]]></title>
             <description><![CDATA[【 #ヴイアラ 】5分以内ですぐ完了！＜26年度第2回＞「ライバーアイドル中間能力評価」実施中！プロデューサーの皆さんからの一票がライバーアイドルの能力総合値に！]]></description>
@@ -169,20 +177,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/09/SnZxZdIxr6ZMQyUc0CFj6McMYXACWlkx.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【765×961】xRライブ「765 PRODUCTION × 961 PRODUCTION IDOL ULTIMATE ONCE AND FOR ALL」公演詳細発表＆チケット販売開始！]]></title>
-            <description><![CDATA[#xR_765vs961]]></description>
-            <link>https://idolmaster-official.jp/news/01_19816.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19816.html</guid>
-            <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/09/EkjZZtmWYDqCFi99VPZZnP1XiQAmg1WA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></title>
             <description><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></description>
             <link>https://idolmaster-official.jp/news/01_19815.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19815.html</guid>
             <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【765×961】xRライブ「765 PRODUCTION × 961 PRODUCTION IDOL ULTIMATE ONCE AND FOR ALL」公演詳細発表＆チケット販売開始！]]></title>
+            <description><![CDATA[#xR_765vs961]]></description>
+            <link>https://idolmaster-official.jp/news/01_19816.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19816.html</guid>
+            <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/09/EkjZZtmWYDqCFi99VPZZnP1XiQAmg1WA.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】「バースデー記念ボイス2026 上水流宇宙」BOOTHにて期間限定販売開始！！販売は9/27(日)まで！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19433.html</guid>
             <pubDate>Mon, 03 Aug 2026 11:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/07/4r4W3Hv00ve3perASbu7Srf7BzQoI7Ah.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】「アイマスの夏☀各ブランドのトピックを総ざらい！」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19421.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19421.html</guid>
-            <pubDate>Fri, 31 Jul 2026 12:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/07/vd86UUFxT8djQXQ7YsGm0og25jNOymjC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
