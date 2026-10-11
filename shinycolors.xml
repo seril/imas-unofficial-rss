@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 16:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2026 06:49:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 16:06:32 GMT</pubDate>
+        <pubDate>Sun, 11 Oct 2026 06:49:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_noctchill】『283 Production LIVE Performance noctchill』アソビストアプレミアム会員先行は明日10/12(月・祝)23:59まで！]]></title>
+            <description><![CDATA[#ノクチル_さよなら透明]]></description>
+            <link>https://idolmaster-official.jp/news/01_20098.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20098.html</guid>
+            <pubDate>Sun, 11 Oct 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/qzRJdupAo1Ko4hS8kDRR4RHKcDjJ4hXM.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】「SHINY Style COLLECTION」グッズ第2弾の受注がスタート！第2弾は「Sonic Heart (and Signal)」＆「No 1 feel alone」が登場！]]></title>
             <description><![CDATA[#シャイニーカラーズ #シャニマス #SHINY_Style_COLLECTION]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19721.html</guid>
             <pubDate>Fri, 28 Aug 2026 13:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/08/WpmGEIdAAV0oE29uoMoE9BzKNoMf6TDV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】dual twin live tour 『三浦 あずさ・秋月 律子 twin live “ つみまつよるまち ”』＜東京公演＞ のご来場・ご視聴ありがとうございました！本日のセットリスト＆告知情報まとめはこちら！ ]]></title>
-            <description><![CDATA[#三浦あずさ_秋月律子_twinlive #つみまつ_東京]]></description>
-            <link>https://idolmaster-official.jp/news/01_19698.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19698.html</guid>
-            <pubDate>Fri, 28 Aug 2026 12:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/DbGbNP5XkaLCZqAXHBa1vffQ34YHNkW1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
