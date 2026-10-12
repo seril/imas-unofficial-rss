@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Oct 2026 16:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Oct 2026 06:59:42 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Oct 2026 16:33:38 GMT</pubDate>
+        <pubDate>Mon, 12 Oct 2026 06:59:42 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[<本日まで!!>【 #ヴイアラ】「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」のアーカイブ配信チケット販売は本日18時まで！同時視聴上映会も本日13時より実施！]]></title>
+            <description><![CDATA[#宇宙誕生祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_20125.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20125.html</guid>
+            <pubDate>Mon, 12 Oct 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/10/Q8ym0SzcYR6fl1YSAfEQkwjXwCN4yIgq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[<本日締切!!>【 #ヴイアラ】「レトラ BIRTHDAY ONLINE LIVE 2026」の限定グッズ付き現地ライブビューイングチケット先行抽選受付は本日23:59まで！]]></title>
             <description><![CDATA[#レトラ誕生祭2026]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19517.html</guid>
             <pubDate>Tue, 04 Aug 2026 13:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/8i2Ta4W4qW5iAEl6sFaFPc0F0k712IYO.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【#APラウンジ】「APかっしー卒業配信〜6年間ありがとうございました！〜」配信のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #APラウンジ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19527.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19527.html</guid>
-            <pubDate>Tue, 04 Aug 2026 13:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/cyoFn818E9CDbhsuCNPGg8nzxRoKPHVv.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
