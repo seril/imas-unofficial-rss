@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 07:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 17:56:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 07:23:50 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 17:56:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【SideM】「THE IDOLM@STER SideM ～P@SSION CHALLENGE We are 315！～ MONTHLY THEME SONG 13」CD情報！]]></title>
@@ -193,7 +193,7 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/09/OHmBz77jNX9jjyfxfZooqS0JX2FJjCJD.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideMF@NFES】情報解禁「劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～」！11月20日(金)公開決定！！予告映像＆ムビチケ情報を公開！]]></title>
+            <title><![CDATA[【SideMF@NFES】「劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～」！11月20日(金)公開決定！！さらに週替わり映像の上映が決定！(10月13日更新)]]></title>
             <description><![CDATA[#SideM #劇場版SideMFANFES_WGF]]></description>
             <link>https://idolmaster-official.jp/news/01_19798.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19798.html</guid>
