@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 18:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 05:35:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 18:18:25 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 05:35:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[ 【SideM】THE IDOLM@STER SideM 2DMV公開記念グッズ第3弾発売決定！]]></title>
+            <description><![CDATA[#SideM #315ソング]]></description>
+            <link>https://idolmaster-official.jp/news/01_20074.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20074.html</guid>
+            <pubDate>Thu, 15 Oct 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2021/09/14/アイマスブログ用SideMロゴ_2.jpg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【生配信】「IM＠S RADIO」次回放送は10月27日(火)20時～ ゲスト長谷川 明子さん！]]></title>
             <description><![CDATA[#アイマスch #ラジマス ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19709.html</guid>
             <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/NFr3zHnS7fRRnx0MFemyX7qOF2cHzRDf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></title>
-            <description><![CDATA[「姫野 かのん」新キャスト決定のお知らせ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19734.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19734.html</guid>
-            <pubDate>Fri, 28 Aug 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1003/2026/08/Oz9Fl2gepdprGzxRbKppHgfIgGrrvE4l.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
