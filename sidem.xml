@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 05:35:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 10:55:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 05:35:24 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 10:55:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年10月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[#アイマスch]]></description>
+            <link>https://idolmaster-official.jp/news/01_20103.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20103.html</guid>
+            <pubDate>Thu, 15 Oct 2026 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/wMEKP2rbGbCKA3Hqy8NGQlRElp6Gt0hC.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】 ～Wanna step in～イベント公式グッズ 直前販売スタート！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
+            <link>https://idolmaster-official.jp/news/01_20165.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20165.html</guid>
+            <pubDate>Thu, 15 Oct 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/10/qTm0INZkUvaenl6VnSAPCn0BPty6fENS.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ 【SideM】THE IDOLM@STER SideM 2DMV公開記念グッズ第3弾発売決定！]]></title>
             <description><![CDATA[#SideM #315ソング]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19742.html</guid>
             <pubDate>Sat, 29 Aug 2026 01:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】ラジオ新番組「IM＠S RADIO」放送開始決定！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ラジマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19721.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19721.html</guid>
-            <pubDate>Fri, 28 Aug 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/08/WpmGEIdAAV0oE29uoMoE9BzKNoMf6TDV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM11th】THE IDOLM@STER SideM 11th STAGE「EVER EVER KITCHEN」出店決定！]]></title>
-            <description><![CDATA[#SideM #SideM11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19709.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19709.html</guid>
-            <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/NFr3zHnS7fRRnx0MFemyX7qOF2cHzRDf.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
