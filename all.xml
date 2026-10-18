@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 14:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 05:27:48 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Oct 2026 14:03:43 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 05:27:48 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【本日まで！】《SEASONAL SNAPSHOT》1月に向けて舞浜 歩、百瀬莉緒が登場！「初日の出」をイメージしたグッズの受注は本日まで！！]]></title>
+            <description><![CDATA[#ミリオンシーズナル1月]]></description>
+            <link>https://idolmaster-official.jp/news/01_20180.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20180.html</guid>
+            <pubDate>Sun, 18 Oct 2026 03:15:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/10/zSyzG1dF7LDWvpAGMV33dBBCZotSMKYX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[※本日まで【シンデレラ】グッズシリーズ「Memory Pict.」第7弾:｡･:*  7th Pict.（佐藤 心・白菊ほたる）の受注は本日10月18日(日)まで！]]></title>
+            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_20139.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20139.html</guid>
+            <pubDate>Sun, 18 Oct 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/1lH5uK91CQEgZV3eETr7UxIg1fFaYNXd.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】初の2都市開催！3rdLIVE&MEETINGの詳細発表！！本日より現地チケットの最速先行受付も開始！早期限定でヴイアラぬいが付いてくるグッズ付きチケットも！]]></title>
             <description><![CDATA[#ヴイアラ3rdイベ開催決定]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20073.html</guid>
             <pubDate>Wed, 07 Oct 2026 03:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/BN3SEyyZ3gk9VplpQrEAJXyc3La6MHPF.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレミリ合同ライブ】本日よりアソビストア一般会員先行スタート！10月30日(金)20:00より生配信『デレミリ合同ライブ「CLASH M@TCH!!」開催記念！ウォームアップ生配信』も配信決定！]]></title>
-            <description><![CDATA[#デレミリ合同ライブ #デレミリ合同ライブ生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_20072.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20072.html</guid>
-            <pubDate>Wed, 07 Oct 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/qFqbO5UYcuPppkhIfMKpnHNXgWQqj8sI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ】10月12日(月・祝)13時より「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」の同時視聴上映会 実施決定！]]></title>
-            <description><![CDATA[#宇宙誕生祭2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_20085.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20085.html</guid>
-            <pubDate>Wed, 07 Oct 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/10/C2rBolED2m25ojFsUVyPqUvaQysVKx3x.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
