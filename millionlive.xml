@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 05:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 10:28:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Oct 2026 05:27:48 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 10:28:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「THE IDOLM@STER MILLION X-STREAM THEATER」シリーズCD  ドラマパート企画「ラジオ#プレイリスト」のお便り募集！【～10/25まで】]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20037.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20037.html</guid>
+            <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/10/Ma9pk2qzgH0SdhDzi3llNKoLQpbyJtYn.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【ミリシタ】期間限定イベントX-STREAM THEATER「プラチナスターティアラ～ハピピス♡～」を開催中！]]></title>
+            <description><![CDATA[#ミリシタ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20148.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20148.html</guid>
+            <pubDate>Sun, 18 Oct 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/10/QQV6hLRPRBNAbD1MTiz683YZxp1rHUNh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで！】《SEASONAL SNAPSHOT》1月に向けて舞浜 歩、百瀬莉緒が登場！「初日の出」をイメージしたグッズの受注は本日まで！！]]></title>
             <description><![CDATA[#ミリオンシーズナル1月]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19870.html</guid>
             <pubDate>Mon, 14 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/1tmdEG06i5iEirgMZZHQ1iYRVQlF76SZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】【9月18日(金)より】アイドルマスター オフィシャルショップの抽選くじに新賞品11種が登場！アイドルフォトパネルの新柄3種も発売♪]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19821.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19821.html</guid>
-            <pubDate>Mon, 14 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/MCe7QgW0xXLrT0LR9q82pIHc6Ve2J8LM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリアニ】コトブキヤより1/8スケールフィギュア「最上静香-The Animation-」ご予約受付開始！さらに第二弾「伊吹 翼-The Animation-」のデコマスも公開！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリアニ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19854.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19854.html</guid>
-            <pubDate>Mon, 14 Sep 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/OMhb6Z5OiJsCJBNQquZtbl4BvS1iSIpM.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
