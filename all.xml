@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 11:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 18:19:07 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 11:14:10 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 18:19:07 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【シンデレラ】佐久間まゆをイメージしたコラボネックレスが登場🎀本日10月21日より予約開始！]]></title>
@@ -385,20 +385,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/10/N4nHlWNHVVkhsqFKeqdpoO2HOtVOCdbz.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[<本日締切!!>【 #ヴイアラ】「レトラ BIRTHDAY ONLINE LIVE 2026」の限定グッズ付き現地ライブビューイングチケット先行抽選受付は本日23:59まで！]]></title>
-            <description><![CDATA[#レトラ誕生祭2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_20086.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20086.html</guid>
-            <pubDate>Sun, 11 Oct 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/10/O7VSRoPYNRBNtVlYsFgvyX2AWhrl9wiN.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【283_noctchill】『283 Production LIVE Performance noctchill』アソビストアプレミアム会員先行は明日10/12(月・祝)23:59まで！]]></title>
             <description><![CDATA[#ノクチル_さよなら透明]]></description>
             <link>https://idolmaster-official.jp/news/01_20098.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20098.html</guid>
             <pubDate>Sun, 11 Oct 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/qzRJdupAo1Ko4hS8kDRR4RHKcDjJ4hXM.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[<本日締切!!>【 #ヴイアラ】「レトラ BIRTHDAY ONLINE LIVE 2026」の限定グッズ付き現地ライブビューイングチケット先行抽選受付は本日23:59まで！]]></title>
+            <description><![CDATA[#レトラ誕生祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_20086.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20086.html</guid>
+            <pubDate>Sun, 11 Oct 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/10/O7VSRoPYNRBNtVlYsFgvyX2AWhrl9wiN.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[※本日締切！※【SideM11th】開催記念グッズ販売は本日まで！各アイテムのサンプル写真も公開中！]]></title>
