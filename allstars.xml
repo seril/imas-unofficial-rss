@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 05:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 10:22:08 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 05:25:01 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 10:22:08 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【765】【961】アイドルたちの「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイで予約受付中！ご予約は今週末10月18日まで📢]]></title>
@@ -73,6 +73,14 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/10/XqFSVA3i3gqzejuMej1FdGmRW4vY8huY.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
+            <description><![CDATA[#スタマス5周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_20009.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
+            <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[【スタマス】スタマス5周年記念！特別施策が本日より順次スタート！]]></title>
             <description><![CDATA[#スタマス5周年]]></description>
             <link>https://idolmaster-official.jp/news/01_20036.html</link>
@@ -87,14 +95,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
-            <description><![CDATA[#スタマス5周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_20009.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【765×961】xRライブ「765 PRODUCTION × 961 PRODUCTION IDOL ULTIMATE ONCE AND FOR ALL」出演アイドルの所属発表！]]></title>
@@ -241,20 +241,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/CntQHiSL03NihxEzqGdhku36IqsDMLn8.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></title>
-            <description><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></description>
-            <link>https://idolmaster-official.jp/news/01_19815.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19815.html</guid>
-            <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【765×961】xRライブ「765 PRODUCTION × 961 PRODUCTION IDOL ULTIMATE ONCE AND FOR ALL」公演詳細発表＆チケット販売開始！]]></title>
             <description><![CDATA[#xR_765vs961]]></description>
             <link>https://idolmaster-official.jp/news/01_19816.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19816.html</guid>
             <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/09/EkjZZtmWYDqCFi99VPZZnP1XiQAmg1WA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></title>
+            <description><![CDATA[【#アイマスピアノ】本日予約締切📢 ”田宮清高さん”完全監修の描き下ろしイラストを表紙にあしらった「THE IDOLM@STER」譜面も同梱【アイドルマスターシリーズ】]]></description>
+            <link>https://idolmaster-official.jp/news/01_19815.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19815.html</guid>
+            <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【765】我那覇響・星井美希・四条貴音の「ちびぐるみ」がおなまえ入りポーチとセットでプレミアムバンダイに登場！]]></title>
