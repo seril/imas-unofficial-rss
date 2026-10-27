@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 05:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 11:59:46 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 05:59:43 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 11:59:46 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は11月10日(火)20時～ゲスト天音 ゆかりさん！]]></title>
+            <description><![CDATA[#アイマスch #ラジマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20184.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20184.html</guid>
+            <pubDate>Tue, 27 Oct 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/axQSIHTqv2AIHhdkJ0YweaUg9seYeLdt.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】初の2都市開催！3rdLIVE&MEETINGの詳細発表！！本日より現地チケットの最速先行受付も開始！早期限定でヴイアラぬいが付いてくるグッズ付きチケットも！]]></title>
             <description><![CDATA[#ヴイアラ3rdイベ開催決定]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19309.html</guid>
             <pubDate>Sat, 15 Aug 2026 11:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/08/jjRXMXtuDsisZgOAoptKJCqeRE2ffp5f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】【シチュエーションボイス第十四弾】「ゆずれないボイス」BOOTHにて販売開始！ライバーアイドルとのIFの世界が楽しめる人気シリーズ最新作を期間限定販売！]]></title>
-            <description><![CDATA[#ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19604.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19604.html</guid>
-            <pubDate>Sat, 15 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/YIrwiiD9pw08tKBREnW2hSg7B4ENOsZF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 05:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 11:59:45 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 05:59:43 GMT</pubDate>
+        <pubDate>Tue, 27 Oct 2026 11:59:45 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は11月10日(火)20時～ゲスト天音 ゆかりさん！]]></title>
+            <description><![CDATA[#アイマスch #ラジマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20184.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20184.html</guid>
+            <pubDate>Tue, 27 Oct 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/axQSIHTqv2AIHhdkJ0YweaUg9seYeLdt.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】「-The Last Order-THE IDOLM@STER CINDERELLA GIRLS ×HUB」が11月20日（金）より開催決定！]]></title>
+            <description><![CDATA[#デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20203.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20203.html</guid>
+            <pubDate>Tue, 27 Oct 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/10/tvF9VnFmY9BqQUStnNmtMo8Sv19Qfn2M.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】佐久間まゆをイメージしたコラボネックレスが登場🎀本日10月21日より予約開始！]]></title>
             <description><![CDATA[#デレマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19848.html</guid>
             <pubDate>Wed, 16 Sep 2026 01:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/YQXniPOrB5sr1eQILNZJUGcI2ItamGoS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は9月29日(火)20時～ゲスト神原 大地さん！]]></title>
-            <description><![CDATA[#アイマスch #ラジマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19845.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19845.html</guid>
-            <pubDate>Tue, 15 Sep 2026 13:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/CntQHiSL03NihxEzqGdhku36IqsDMLn8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】本日23:59まで！！！総選挙投票券付与対象商品のグッズ受注は9月13日(日)23:59まで！総選挙グッズ、15周年記念ライブ公式グッズ等、お見逃しなく！]]></title>
-            <description><![CDATA[#シンデレラガール総選挙2026 #シンデレラ15thPARTY #トイボ公演 #メモピク ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19853.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19853.html</guid>
-            <pubDate>Sun, 13 Sep 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/emAs2shif0pZZ2aNzfU2uhZl1qFrYyEp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
