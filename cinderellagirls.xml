@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 19:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 06:38:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 19:13:32 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 06:38:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」現地チケットの一般販売(先着)＆公式リセールの実施が決定！！]]></title>
+            <description><![CDATA[#シンデレラ15thPARTY]]></description>
+            <link>https://idolmaster-official.jp/news/01_20192.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20192.html</guid>
+            <pubDate>Wed, 28 Oct 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/nK4X1WzcTCUgB9pVPEcUfFMHBqKFaB3f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「SYMPHONY」が配信決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「SYMPHONY」が配信決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20213.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20213.html</guid>
+            <pubDate>Wed, 28 Oct 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/10/LLpyqKHtLmRoQJlxZICo5jdyU7Ldtftu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は11月10日(火)20時～ゲスト天音 ゆかりさん！]]></title>
             <description><![CDATA[#アイマスch #ラジマス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19872.html</guid>
             <pubDate>Wed, 16 Sep 2026 03:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/09/aa48u6E56tVDYxJUDpbS8pHm2nJMRJqG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY ORCHESTRA CONCERT ～ シンデレラの演奏会 ～」が2027年1月11日(月・祝)・12日(火)に開催決定！現地チケット最速先行が本日スタート♪]]></title>
-            <description><![CDATA[#デレマスオーケストラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19894.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19894.html</guid>
-            <pubDate>Wed, 16 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/VeOXg03U9PNBXt5XiKDdUtuPdw80ZrFI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】アイドルマスター シンデレラガールズ×伊勢丹のおせち 2027 特設ページ＆描き下ろしイラスト公開！商品の販売情報も♪]]></title>
-            <description><![CDATA[#デレマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19848.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19848.html</guid>
-            <pubDate>Wed, 16 Sep 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/YQXniPOrB5sr1eQILNZJUGcI2ItamGoS.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

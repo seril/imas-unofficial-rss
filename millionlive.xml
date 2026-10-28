@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Oct 2026 19:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 06:38:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 27 Oct 2026 19:13:32 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 06:38:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「SYMPHONY」が配信決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『アイドルマスター TOURS』新曲「SYMPHONY」が配信決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20213.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20213.html</guid>
+            <pubDate>Wed, 28 Oct 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1007/2026/10/LLpyqKHtLmRoQJlxZICo5jdyU7Ldtftu.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は11月10日(火)20時～ゲスト天音 ゆかりさん！]]></title>
             <description><![CDATA[#アイマスch #ラジマス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19847.html</guid>
             <pubDate>Wed, 16 Sep 2026 01:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/fuMGljuCA9qRvsVEr4lUVqpk0femJPTM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は9月29日(火)20時～ゲスト神原 大地さん！]]></title>
-            <description><![CDATA[#アイマスch #ラジマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19845.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19845.html</guid>
-            <pubDate>Tue, 15 Sep 2026 13:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/CntQHiSL03NihxEzqGdhku36IqsDMLn8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
