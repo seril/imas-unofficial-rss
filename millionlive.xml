@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 07:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 20:37:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Nov 2026 07:16:46 GMT</pubDate>
+        <pubDate>Mon, 02 Nov 2026 20:37:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】「DMMスクラッチ」にて新規描き下ろしイラストを使用したオンラインくじが販売開始✨]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20186.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20186.html</guid>
+            <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/10/pshNaLckNqcshNq7kTRD6yKNvc3uUH79.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリシタ】期間限定イベント「プラチナスターチューン～夜と、明かりと。～」を開催中！]]></title>
             <description><![CDATA[#ミリシタ]]></description>
@@ -241,14 +249,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/10/zSyzG1dF7LDWvpAGMV33dBBCZotSMKYX.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
-            <description><![CDATA[#スタマス5周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_20009.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【スタマス】スタマス5周年記念！特別施策が本日より順次スタート！]]></title>
             <description><![CDATA[#スタマス5周年]]></description>
             <link>https://idolmaster-official.jp/news/01_20036.html</link>
@@ -263,6 +263,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
+            <description><![CDATA[#スタマス5周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_20009.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
+            <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【ミリシタ】《SEASONAL SNAPSHOT》1月に向けて舞浜 歩、百瀬莉緒が登場！「初日の出」をイメージしたグッズが受注開始！！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19903.html</guid>
             <pubDate>Fri, 18 Sep 2026 06:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1001/2026/09/RfpD5VJcA7bbuADo00HiPD9vo5NYNYf8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】コトブキヤくじ アイドルマスター ミリオンライブ！ stage04 販売開始！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19832.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19832.html</guid>
-            <pubDate>Fri, 18 Sep 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/3Uu1HkLiwQ42BiQtjzQaIUKWFTE2AWrZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

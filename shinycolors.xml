@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Nov 2026 07:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2026 20:37:55 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Nov 2026 07:16:46 GMT</pubDate>
+        <pubDate>Mon, 02 Nov 2026 20:37:55 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シャニソン】「#シャニソン3周年アート」X投稿キャンペーン開催！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_20261.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20261.html</guid>
+            <pubDate>Mon, 02 Nov 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2026/10/cKymuH4Wcz0uZyVyuuiqOksJpN2Bt4YN.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】８番らーめん×『アイドルマスター シャイニーカラーズ』コラボ限定パッケージの「８番箱らーめん３個セット」を受注限定で販売中！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20271.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20271.html</guid>
+            <pubDate>Mon, 02 Nov 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/11/mdXbKb3voaIiCSbzJkYZMiwCFKzwzWoO.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマス】アルストロメリア×五島軒 クリスマスオードブルが10/30(金)より予約受付中！]]></title>
             <description><![CDATA[#シャニマス]]></description>
@@ -193,20 +209,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/xIQru9wUKpwZme6paZHETkJvLdb6W7aI.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【スタマス】スタマス5周年記念！「アイドルマスター スターリットシーズン」Steamセール過去最大70%OFF！]]></title>
-            <description><![CDATA[#スタマス5周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_20054.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
             <description><![CDATA[#スタマス5周年]]></description>
             <link>https://idolmaster-official.jp/news/01_20009.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】スタマス5周年記念！「アイドルマスター スターリットシーズン」Steamセール過去最大70%OFF！]]></title>
+            <description><![CDATA[#スタマス5周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_20054.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
+            <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】FAMくじにて「アイドルマスター シャイニーカラーズ」vol.2 が登場！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19895.html</guid>
             <pubDate>Thu, 17 Sep 2026 08:31:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/rP0DQKk0BsdrAXGk0FLHiQrwGvJ4luXt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【偶像大师系列】「Anime Girls Project Store」将预计于9月22日在上海开业！「偶像大师」系列也将参加✨]]></title>
-            <description><![CDATA[#AnimeGirlsProjectStore #偶像大师]]></description>
-            <link>https://idolmaster-official.jp/news/01_19922.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19922.html</guid>
-            <pubDate>Thu, 17 Sep 2026 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/rP0DQKk0BsdrAXGk0FLHiQrwGvJ4luXt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【REFRAC7IONS】「shiny, the first REFRAC7IONS " Still blue "」公式グッズ事前販売ファイナル＆協賛社グッズ販売が本日よりスタート！一部グッズは数量限定販売のためお見逃しなく！]]></title>
-            <description><![CDATA[#シャニマス_リフラクションズライブ #シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19914.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19914.html</guid>
-            <pubDate>Thu, 17 Sep 2026 07:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/NVYLshdzUeYhPusmat4a6ZkHXM9Q1qft.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
