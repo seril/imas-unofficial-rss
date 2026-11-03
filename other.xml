@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 07:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 18:14:00 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 07:36:34 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 18:14:00 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】サイン入りポスターが当たる『  #ヴイアラ3rdイベ開催決定』ハッシュタグ投稿キャンペーン実施決定！3rdLIVE&MEETINGの最速先行受付は11月15日(日)23:59まで！]]></title>
+            <description><![CDATA[【 #ヴイアラ 】サイン入りポスターが当たる『  #ヴイアラ3rdイベ開催決定』ハッシュタグ投稿キャンペーン実施決定！3rdLIVE&MEETINGの最速先行受付は11月15日(日)23:59まで！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20276.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20276.html</guid>
+            <pubDate>Tue, 03 Nov 2026 12:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/11/UzEAD15oBPiuLR2xi5it5pQaies0JhEw.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】3rdLIVE&MEETINGの続報発表！スペシャルゲスト第一弾発表！開催を記念し2ndLIVEの限定公開も決定！現地チケット最速先行好評受付中！]]></title>
+            <description><![CDATA[#ヴイアラ3rdイベ開催決定]]></description>
+            <link>https://idolmaster-official.jp/news/01_20277.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20277.html</guid>
+            <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/11/C6wKrN5LMB3oQeslmak0rhCVXMfF56RL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ】「レトラ BIRTHDAY ONLINE LIVE 2026」の限定グッズ付き現地ライブビューイングチケット一般先着が11/4(水)12時より受付開始！]]></title>
             <description><![CDATA[#レトラ誕生祭2026]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19686.html</guid>
             <pubDate>Sun, 23 Aug 2026 04:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【締め切り迫る！】MOIW2025のBlu-rayの受注は8/30(日)まで！20周年記念合同ライブをお見逃しなく♪]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #描きマスMOIW2025]]></description>
-            <link>https://idolmaster-official.jp/news/01_19685.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19685.html</guid>
-            <pubDate>Sat, 22 Aug 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】【公式】夏祭り編「アイドルマスター」シリーズ楽曲プレイリスト動画公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19656.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19656.html</guid>
-            <pubDate>Fri, 21 Aug 2026 09:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/08/ShwVlhZuDzyvDzG1WqpSrSjrVl3IGh5t.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
