@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 07:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 17:48:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 07:41:28 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 17:48:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【For Overseas Producers】THE IDOLM@STER Series End of Year Livestream／"아이돌마스터" 시리즈 연말 라이브 스트리밍／《偶像大師》系列年末直播]]></title>
+            <description><![CDATA[#IMASYearEndStream2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_20240.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20240.html</guid>
+            <pubDate>Fri, 06 Nov 2026 10:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/lnvvfOxsB7J2vvY7exOHaVXRPSt7QD45.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[12月24日(木) 19:00～(JST) アイマス年末感謝祭🌎みんなで振り返りM@S 配信決定！WW特別アンケート企画も開始！]]></title>
+            <description><![CDATA[#アイマス年末感謝祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_20112.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20112.html</guid>
+            <pubDate>Fri, 06 Nov 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/iPd73aNVwm35k9x3YEqbBOzWMAfsKav7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ】いよいよ来週11/11(水)開催「レトラ BIRTHDAY ONLINE LIVE 2026」のスペシャルゲストはジュリア！！現地LV一般先着・配信チケット受付中！]]></title>
             <description><![CDATA[#レトラ誕生祭2026]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19730.html</guid>
             <pubDate>Wed, 26 Aug 2026 10:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマスMOIW2025】合同ライブを振り返るラジオ「“アイ”のキセキR@DIO vol.12」の配信を記念して、サイン入りグッズが当たるプレゼントキャンペーンを開催！]]></title>
-            <description><![CDATA[#アイマスMOIW2025 #アイマスMOIW2025ラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19696.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19696.html</guid>
-            <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/08/6T7hqVV8svYsirXli9wDnmZVLYpbQQpV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ】「上水流宇宙 BIRTHDAY ONLINE LIVE 2026」限定グッズ付き現地ライブビューイングチケットの一般先着販売が8月31日(月)12時より開始！]]></title>
-            <description><![CDATA[#宇宙誕生祭2026]]></description>
-            <link>https://idolmaster-official.jp/news/01_19706.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19706.html</guid>
-            <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/08/gVN61hFblYUQLFR4srA5Ig0MrrFnL5ae.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

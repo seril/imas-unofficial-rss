@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 07:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 17:48:23 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 07:41:24 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 17:48:23 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】11月21日(土)より『アイドルマスター シンデレラガールズ “シンデレラガール総選挙＆15th” Invitational P@rty !!』の開催が決定！本日より入場事前予約の抽選受付開始♬]]></title>
+            <description><![CDATA[#デレマス #シンデレラガール総選挙2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_20309.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20309.html</guid>
+            <pubDate>Fri, 06 Nov 2026 10:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/11/8VQVtzhGkwGW3pZN5UFgMKppynkOUg9a.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【For Overseas Producers】THE IDOLM@STER Series End of Year Livestream／"아이돌마스터" 시리즈 연말 라이브 스트리밍／《偶像大師》系列年末直播]]></title>
+            <description><![CDATA[#IMASYearEndStream2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_20240.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20240.html</guid>
+            <pubDate>Fri, 06 Nov 2026 10:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/lnvvfOxsB7J2vvY7exOHaVXRPSt7QD45.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[12月24日(木) 19:00～(JST) アイマス年末感謝祭🌎みんなで振り返りM@S 配信決定！WW特別アンケート企画も開始！]]></title>
+            <description><![CDATA[#アイマス年末感謝祭2026]]></description>
+            <link>https://idolmaster-official.jp/news/01_20112.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20112.html</guid>
+            <pubDate>Fri, 06 Nov 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/iPd73aNVwm35k9x3YEqbBOzWMAfsKav7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「-The Last Order-THE IDOLM@STER CINDERELLA GIRLS ×HUB」が11月20日（金）より開催！  11月6日（金）17時より予約開始🍺メニュー・グッズ情報も公開♪]]></title>
             <description><![CDATA[#デレマス]]></description>
@@ -15,14 +39,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20295.html</guid>
             <pubDate>Thu, 05 Nov 2026 09:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/11/9PdBOUEwsp2FwEaLLjjlK4miH1nfGJoL.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】元町ドリアコラボ『ももぺあべりーのごほうびドリア』開催決定！]]></title>
-            <description><![CDATA[#デレマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20259.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20259.html</guid>
-            <pubDate>Thu, 05 Nov 2026 09:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/pTLe0JDtl0GiOH62jsQZSQ5k0o0ZnwRS.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シンデレラ】横浜マリンタワーとのコラボイベントが開催決定！]]></title>
@@ -73,14 +89,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/mRd1IaDUFeLIhsKkFiv0bqfaGY0enPvo.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ 【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE』Blu-rayの受注がスタート！！アソビストア版のご予約は12月20日(日)まで！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20245.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20245.html</guid>
-            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/okvhG5my3uaFqMYnROdTXB7DHoYqK1Qu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】グッズシリーズ「Memory Pict.」第8弾:｡･:*  本日より8th Pict.（神崎蘭子・的場梨沙）が受注開始です！]]></title>
             <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
             <link>https://idolmaster-official.jp/news/01_20171.html</link>
@@ -103,6 +111,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20227.html</guid>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/10/AmkcEHB1BBhusARmTG3p5Md8BTUSvAcv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE』Blu-rayの受注がスタート！！アソビストア版のご予約は12月20日(日)まで！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20245.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20245.html</guid>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/okvhG5my3uaFqMYnROdTXB7DHoYqK1Qu.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【デレミリ合同ライブ】「THE IDOLM@STER CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!!」第2回は「よしちづラジオ」♪アイドルへのおたよりを募集中！第1回「フレあかラジオ」の配信日情報も公開！]]></title>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20035.html</guid>
             <pubDate>Wed, 30 Sep 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/8jyfGxstudtjpwUgawSXr5iHRuHkAykt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【生配信】「IM＠S RADIO」次回放送は10月13日(火)20時～ スタマス5周年特番 ゲスト山崎 はるかさん、田中 あいみさん！]]></title>
-            <description><![CDATA[#アイマスch #ラジマス #スタマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19986.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19986.html</guid>
-            <pubDate>Tue, 29 Sep 2026 12:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/6jDalwr8rFASCzoVb1lO9hXHMTDXZZpY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】グッズシリーズ「Memory Pict.」第7弾:｡･:*  本日より7th Pict.（佐藤 心・白菊ほたる）が受注開始です！]]></title>
-            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
-            <link>https://idolmaster-official.jp/news/01_19916.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19916.html</guid>
-            <pubDate>Tue, 29 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/1lH5uK91CQEgZV3eETr7UxIg1fFaYNXd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
