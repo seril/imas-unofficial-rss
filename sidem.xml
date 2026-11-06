@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 18:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 07:41:24 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 18:31:21 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 07:41:24 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～　劇場物販情報を公開！]]></title>
+            <description><![CDATA[#SideM #劇場版SideMFANFES_WGF]]></description>
+            <link>https://idolmaster-official.jp/news/01_20160.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20160.html</guid>
+            <pubDate>Fri, 06 Nov 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/11/vSKZ7PClRWowA1khkDV7ezVzKi3SCJg8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】新たなバースデー記念グッズ「THE IDOLM@STER SideM 315 Celebration Bouquet」発売決定！本日11月5日(木)18:00より2月にお誕生日を迎えるアイドルたちのバースデー記念グッズが受注開始！]]></title>
             <description><![CDATA[#SideM #アソビストア]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19815.html</guid>
             <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】THE IDOLM@STER SideM 11th STAGE記念「TOYOTA ARENA TOKYO」にてオリジナルコースター付コラボドリンクを販売！]]></title>
-            <description><![CDATA[#SideM　#SideM11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19795.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19795.html</guid>
-            <pubDate>Fri, 04 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/09/Ixon8wMU79sRI6sDcWXqwBVUNbOvOiht.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
