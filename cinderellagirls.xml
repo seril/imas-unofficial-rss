@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 17:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 06:50:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 17:48:23 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 06:50:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレミリ合同】CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!!公式グッズ事前販売中！2ブランドのアイドル応援必須アイテム♪]]></title>
+            <description><![CDATA[#デレミリ合同ライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20306.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20306.html</guid>
+            <pubDate>Sat, 07 Nov 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/10/AmkcEHB1BBhusARmTG3p5Md8BTUSvAcv.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】11月21日(土)より『アイドルマスター シンデレラガールズ “シンデレラガール総選挙＆15th” Invitational P@rty !!』の開催が決定！本日より入場事前予約の抽選受付開始♬]]></title>
             <description><![CDATA[#デレマス #シンデレラガール総選挙2026]]></description>
@@ -81,14 +89,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/11/EHeWBzgiYMl7iJc20QHMtZxDC1ZAUHuv.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【YouTube】 【シンデレラ】THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~ ばくすて！とーく 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[ #imas_cg  #アイマスch_ばくすて #シンデレラ15thPARTY]]></description>
-            <link>https://idolmaster-official.jp/news/01_20197.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20197.html</guid>
-            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/mRd1IaDUFeLIhsKkFiv0bqfaGY0enPvo.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【シンデレラ】グッズシリーズ「Memory Pict.」第8弾:｡･:*  本日より8th Pict.（神崎蘭子・的場梨沙）が受注開始です！]]></title>
             <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
             <link>https://idolmaster-official.jp/news/01_20171.html</link>
@@ -97,12 +97,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/By59yfLXivLMvqjog2AgfAdfvixyycxp.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【デレミリ合同ライブ】生配信『デレミリ合同ライブ「CLASH M@TCH!!」開催記念！ウォームアップ生配信』お知らせまとめ]]></title>
-            <description><![CDATA[#デレミリ合同ライブ #デレミリ合同ライブ生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_20183.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20183.html</guid>
+            <title><![CDATA[【YouTube】 【シンデレラ】THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~ ばくすて！とーく 配信決定のお知らせ【アイドルマスターチャンネル】]]></title>
+            <description><![CDATA[ #imas_cg  #アイマスch_ばくすて #シンデレラ15thPARTY]]></description>
+            <link>https://idolmaster-official.jp/news/01_20197.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20197.html</guid>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/10/AoV6aakrGmIDUpGv8LtROqSWvme6FQEC.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/mRd1IaDUFeLIhsKkFiv0bqfaGY0enPvo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[ 【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE』Blu-rayの受注がスタート！！アソビストア版のご予約は12月20日(日)まで！]]></title>
+            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20245.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20245.html</guid>
+            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/okvhG5my3uaFqMYnROdTXB7DHoYqK1Qu.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【デレミリ合同】CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!!公式グッズ事前販売が開始！2ブランドのアイドル応援必須アイテム♪]]></title>
@@ -113,12 +121,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/10/AmkcEHB1BBhusARmTG3p5Md8BTUSvAcv.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[ 【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE』Blu-rayの受注がスタート！！アソビストア版のご予約は12月20日(日)まで！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20245.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20245.html</guid>
+            <title><![CDATA[【デレミリ合同ライブ】生配信『デレミリ合同ライブ「CLASH M@TCH!!」開催記念！ウォームアップ生配信』お知らせまとめ]]></title>
+            <description><![CDATA[#デレミリ合同ライブ #デレミリ合同ライブ生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_20183.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20183.html</guid>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/okvhG5my3uaFqMYnROdTXB7DHoYqK1Qu.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/10/AoV6aakrGmIDUpGv8LtROqSWvme6FQEC.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【デレミリ合同ライブ】「THE IDOLM@STER CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!!」第2回は「よしちづラジオ」♪アイドルへのおたよりを募集中！第1回「フレあかラジオ」の配信日情報も公開！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」現地チケットアソビストア一般会員先行のお申込みは本日9月30日(水)12:00より開始！]]></title>
-            <description><![CDATA[#シンデレラ15thPARTY]]></description>
-            <link>https://idolmaster-official.jp/news/01_20035.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20035.html</guid>
-            <pubDate>Wed, 30 Sep 2026 03:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/8jyfGxstudtjpwUgawSXr5iHRuHkAykt.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

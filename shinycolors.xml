@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 17:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 06:50:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 17:48:23 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 06:50:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_noctchill】キービジュアル公開！本日11月7日(土)より 283 Production LIVE Performance noctchill アソビストア一般会員先行抽選申込の受付が開始！]]></title>
+            <description><![CDATA[#ノクチル_さよなら透明]]></description>
+            <link>https://idolmaster-official.jp/news/01_20299.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20299.html</guid>
+            <pubDate>Sat, 07 Nov 2026 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/11/CiS663U7i50BDBmHldK2VWXliE1P5G4b.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【For Overseas Producers】THE IDOLM@STER Series End of Year Livestream／"아이돌마스터" 시리즈 연말 라이브 스트리밍／《偶像大師》系列年末直播]]></title>
             <description><![CDATA[#IMASYearEndStream2026]]></description>
@@ -241,14 +249,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/10/JbGcmlT8Rrf9wiZ01YOEQLSJsOJmGB1I.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【スタマス】スタマス5周年記念！特別施策が本日より順次スタート！]]></title>
-            <description><![CDATA[#スタマス5周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_20036.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20036.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/xIQru9wUKpwZme6paZHETkJvLdb6W7aI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【スタマス】スタマス5周年記念！「アイドルマスター スターリットシーズン」Steamセール過去最大70%OFF！]]></title>
             <description><![CDATA[#スタマス5周年]]></description>
             <link>https://idolmaster-official.jp/news/01_20054.html</link>
@@ -263,6 +263,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】スタマス5周年記念！特別施策が本日より順次スタート！]]></title>
+            <description><![CDATA[#スタマス5周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_20036.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20036.html</guid>
+            <pubDate>Fri, 02 Oct 2026 02:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/xIQru9wUKpwZme6paZHETkJvLdb6W7aI.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】FAMくじにて「アイドルマスター シャイニーカラーズ」vol.2 が登場！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19917.html</guid>
             <pubDate>Fri, 18 Sep 2026 09:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/IhExzvXUtJhTZXiEZJ4faVV3561HbWWb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「THE IDOLM@STER SHINY COLORS Song for Prism SUPER DUPER DREAMER / BEAST MODE」発売記念イベント 会場物販のお知らせ]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19891.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19891.html</guid>
-            <pubDate>Fri, 18 Sep 2026 09:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/vvSYlbrgzhoVBWBmaqIuTLRunkmkzXb4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
