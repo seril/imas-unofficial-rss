@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 16:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 07:40:30 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 16:55:20 GMT</pubDate>
+        <pubDate>Mon, 09 Nov 2026 07:40:30 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】pattythreeよりMuseum Card [Exhibition 学園アイドルマスター] が登場！＆「一緒に暮らすぬい」再販決定✨]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_20260.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20260.html</guid>
+            <pubDate>Mon, 09 Nov 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/10/TAs8sHLlJPLPNO2l3WW86MlmCVH6CVgq.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】11/15(日) 19:00～ 学園アイドルマスター 「初星学園HR ～2.5thアニバーサリーSP～」生配信実施予定！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター #氷渡香名江実装決定]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19877.html</guid>
             <pubDate>Wed, 23 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/SqnTnCGTfU8i7sEHpdhYXltsHRA59vLu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- 岩手公演 DAY1 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#学マス #学マス標ツアー_岩手公演　#学マス標ツアー_岩手公演_DAY1]]></description>
-            <link>https://idolmaster-official.jp/news/01_19875.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19875.html</guid>
-            <pubDate>Tue, 22 Sep 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/sSDADfFPsqblEHACaHPY3X0D3fpxvMwC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
