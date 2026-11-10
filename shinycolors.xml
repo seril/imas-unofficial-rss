@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 08:00:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 18:28:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 08:00:33 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 18:28:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は11月24日(火)20時～ ゲスト三瓶 由布子さん！]]></title>
+            <description><![CDATA[#アイマスch #ラジマス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20291.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20291.html</guid>
+            <pubDate>Tue, 10 Nov 2026 11:50:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/xWzXzMOjVToOY0w2ySVWbRYuLQUPMFT8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シャニマスオケ2027】「THE IDOLM@STER SHINY COLORS ORCHESTRA CONCERT -Radiant Chord-」ゲーム先行の受付が本日11月10日(火)よりスタート！公式グッズ事前販売も実施中♪]]></title>
             <description><![CDATA[#シャニマスオケ2027 #シャニマス #シャイニーカラーズ]]></description>
@@ -265,14 +273,6 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/10/JbGcmlT8Rrf9wiZ01YOEQLSJsOJmGB1I.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
-            <description><![CDATA[#スタマス5周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_20009.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【スタマス】スタマス5周年記念！特別施策が本日より順次スタート！]]></title>
             <description><![CDATA[#スタマス5周年]]></description>
             <link>https://idolmaster-official.jp/news/01_20036.html</link>
@@ -287,6 +287,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20054.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:05:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/mUDtfdSuiMgPCczfasfzFGkGC3ciueaZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
+            <description><![CDATA[#スタマス5周年]]></description>
+            <link>https://idolmaster-official.jp/news/01_20009.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
+            <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【シャニマス】FAMくじにて「アイドルマスター シャイニーカラーズ」vol.2 が登場！]]></title>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19955.html</guid>
             <pubDate>Fri, 25 Sep 2026 08:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/09/m18LGjVuTIZexxUqGVmMWXQovuWjf36J.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】dual twin live tour 「ふたごぼしのつばさ」＜東京公演＞ キャスト生オーディオコメンタリー配信情報はこちら！亜美・真美 千秋楽のオーコメは9/23(水) 19時配信スタート！！]]></title>
-            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #ふたごぼし_オーコメ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19954.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19954.html</guid>
-            <pubDate>Fri, 18 Sep 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/09/RkZbnmkouLGddFK3zg0molhXtLL4Zybw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
