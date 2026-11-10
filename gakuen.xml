@@ -4,9 +4,9 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 21:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Nov 2026 08:00:33 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Nov 2026 21:17:36 GMT</pubDate>
+        <pubDate>Tue, 10 Nov 2026 08:00:33 GMT</pubDate>
         <language><![CDATA[ja]]></language>
         <item>
             <title><![CDATA[【学マス】学園アイドルマスター LIVE TOUR -標- ファイナル公演 視聴コメント付きアーカイブ配信開始！アンケートも実施中！]]></title>
@@ -30,7 +30,7 @@
             <link>https://idolmaster-official.jp/news/01_20327.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20327.html</guid>
             <pubDate>Mon, 09 Nov 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/11/cjZ6sTtTDuDkrIxMfxWW954xs8U87MKU.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/11/BQD8K96ORUoyhqHw33wR0AXDdwZlx7kQ.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】11/15(日) 19:00～ 学園アイドルマスター 「初星学園HR ～2.5thアニバーサリーSP～」生配信実施予定！]]></title>
@@ -54,7 +54,7 @@
             <link>https://idolmaster-official.jp/news/01_20321.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20321.html</guid>
             <pubDate>Sat, 07 Nov 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/11/V3wesxWUM0TuJhvsXKbjLF8Exch7Zfpj.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/11/lShYOPTw9DyD0m98uQGJ0hqQ0zIozd59.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】スチームパンクテーマの新作グッズ ～Gearbeat Concerto～ 発売決定！日本・中国にて本グッズのポップアップストアを同時開催♪]]></title>
@@ -81,20 +81,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/lnvvfOxsB7J2vvY7exOHaVXRPSt7QD45.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【学マス】学園アイドルマスター LIVE TOUR -標- ファイナル公演はいよいよ明日から！ Kアリーナ横浜にて開催！]]></title>
-            <description><![CDATA[#学マス　#学マス標ツアー　#学マス標ツアー_ファイナル公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_20274.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20274.html</guid>
-            <pubDate>Fri, 06 Nov 2026 10:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/anCBiVTjg9MmmN8i3eTainxayaxOxlKt.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[12月24日(木) 19:00～(JST) アイマス年末感謝祭🌎みんなで振り返りM@S 配信決定！WW特別アンケート企画も開始！]]></title>
             <description><![CDATA[#アイマス年末感謝祭2026]]></description>
             <link>https://idolmaster-official.jp/news/01_20112.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20112.html</guid>
             <pubDate>Fri, 06 Nov 2026 10:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/iPd73aNVwm35k9x3YEqbBOzWMAfsKav7.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】学園アイドルマスター LIVE TOUR -標- ファイナル公演はいよいよ明日から！ Kアリーナ横浜にて開催！]]></title>
+            <description><![CDATA[#学マス　#学マス標ツアー　#学マス標ツアー_ファイナル公演]]></description>
+            <link>https://idolmaster-official.jp/news/01_20274.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20274.html</guid>
+            <pubDate>Fri, 06 Nov 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/anCBiVTjg9MmmN8i3eTainxayaxOxlKt.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[ 【学マス】#初星えらべるログボ比率予想 キャンペーン開催中！]]></title>
