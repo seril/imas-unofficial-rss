@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 07:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 16:51:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Nov 2026 07:22:39 GMT</pubDate>
+        <pubDate>Sat, 14 Nov 2026 16:51:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】【SideM】バースデー記念グッズ「THE IDOLM@STER SideM 315 Celebration Bouquet」2月にお誕生日を迎えるアイドルたちのバースデー記念グッズの受注は明日11月15日(日)まで！グッズのサンプルをご紹介♪]]></title>
+            <description><![CDATA[#SideM #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_20339.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20339.html</guid>
+            <pubDate>Sat, 14 Nov 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/11/KCV5vhwTbn0BASC0TS2WzG0fl4d1sMrL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニソン】3周年記念！「心に残るセリフ」X投稿キャンペーン開催！]]></title>
+            <description><![CDATA[#シャニソン]]></description>
+            <link>https://idolmaster-official.jp/news/01_20375.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20375.html</guid>
+            <pubDate>Sat, 14 Nov 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/006/2026/11/24rqVEvFr2YfVC74NQXYI8AeSCj1kiVh.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[※明日まで！【シンデレラ】グッズシリーズ「Memory Pict.」第8弾:｡･:*  8th Pict.（神崎蘭子・的場梨沙）の受注は11/15(日)まで！]]></title>
             <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
@@ -47,6 +63,14 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20376.html</guid>
             <pubDate>Sat, 14 Nov 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/10/AmkcEHB1BBhusARmTG3p5Md8BTUSvAcv.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】抽選でその場で当たる！「氷渡香名江 特別CM」放映記念！#学マス新CM キャンペーン開催中！]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20345.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20345.html</guid>
+            <pubDate>Fri, 13 Nov 2026 15:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/11/l48gBJa71A8tRtbI8SQcxW6IrcKHSlIo.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年11月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
@@ -305,20 +329,20 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/10/e8Alt31Bkufl49FQ5iVdjLA6VCOIT44M.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【SideMF@NFES】 ～Wanna step in～イベント公式グッズ 本日より追加直前販売スタート！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
-            <link>https://idolmaster-official.jp/news/01_20301.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20301.html</guid>
-            <pubDate>Mon, 09 Nov 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/11/xY2dm78J7iWCv0yTy4xcbDmEuY9b11no.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[【学マス】学園アイドルマスター LIVE TOUR -標- ファイナル公演 視聴コメント付きアーカイブ配信開始！アンケートも実施中！]]></title>
             <description><![CDATA[#学マス標ツアー #学マス標ツアー_ファイナル公演_DAY1 #学マス標ファイナル_DAY2]]></description>
             <link>https://idolmaster-official.jp/news/01_20275.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20275.html</guid>
             <pubDate>Mon, 09 Nov 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/6xK7yA4mykes8T2JxNFYUl5tpbVvk3wX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】 ～Wanna step in～イベント公式グッズ 本日より追加直前販売スタート！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
+            <link>https://idolmaster-official.jp/news/01_20301.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20301.html</guid>
+            <pubDate>Mon, 09 Nov 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/11/xY2dm78J7iWCv0yTy4xcbDmEuY9b11no.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[【学マス】pattythreeよりMuseum Card [Exhibition 学園アイドルマスター] が登場！＆「一緒に暮らすぬい」再販決定✨]]></title>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20300.html</guid>
             <pubDate>Sun, 08 Nov 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/By59yfLXivLMvqjog2AgfAdfvixyycxp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】抽選でAmazonギフトカードがその場で当たる！#氷渡香名江実装決定 プレゼントキャンペーン開催中！]]></title>
-            <description><![CDATA[#学マス]]></description>
-            <link>https://idolmaster-official.jp/news/01_20321.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20321.html</guid>
-            <pubDate>Sat, 07 Nov 2026 15:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/11/lShYOPTw9DyD0m98uQGJ0hqQ0zIozd59.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】スチームパンクテーマの新作グッズ ～Gearbeat Concerto～ 発売決定！日本・中国にて本グッズのポップアップストアを同時開催♪]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター #学マスGearbeatConcerto]]></description>
-            <link>https://idolmaster-official.jp/news/01_20322.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20322.html</guid>
-            <pubDate>Sat, 07 Nov 2026 11:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/11/JVslxP9FPYoDqzU03tPvQ8o5cr0bfDr6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス標ツアー】学園アイドルマスター LIVE TOUR -標- ファイナル公演  DAY1 のご鑑賞ありがとうございました！本日の告知内容まとめはこちら！]]></title>
-            <description><![CDATA[#学マス   #学マス標ツアー_ファイナル公演  #学マス標ツアー_ファイナル公演_DAY1]]></description>
-            <link>https://idolmaster-official.jp/news/01_20235.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20235.html</guid>
-            <pubDate>Sat, 07 Nov 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/eb2XTOgvBJ3gqQWCw3PXFo2DKvgpkFYk.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
