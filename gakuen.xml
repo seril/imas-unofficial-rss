@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 07:34:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Nov 2026 17:33:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 07:34:45 GMT</pubDate>
+        <pubDate>Sun, 15 Nov 2026 17:33:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】11/15 (日) 学マス生配信「初星学園HR ～2.5thアニバーサリーSP～」お知らせまとめ]]></title>
+            <description><![CDATA[ #学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_20326.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20326.html</guid>
+            <pubDate>Sun, 15 Nov 2026 13:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/SKEVQ2Sb4CVOXUlA2mnc323frEbzUSZD.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「初星学園HR ～2.5thアニバーサリーSP～」配信記念！出演キャストのサイン色紙プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#学園アイドルマスター #学マス2_5thアニバーサリー]]></description>
+            <link>https://idolmaster-official.jp/news/01_20332.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20332.html</guid>
+            <pubDate>Sun, 15 Nov 2026 10:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/3XETLZCf417Dc6Du2ndvC8KYKug3TjR6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】抽選でその場で当たる！「#香名江にインタビュー」公開記念キャンペーン開催中！]]></title>
             <description><![CDATA[#学マス]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20006.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/0jSV9TOQb1pBU7llNdJ6b7t3n0IGI5Nb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】MiraiMiraよりフィギュア「藤田ことね 雨上がりのアイリス 特訓前Ver.」予約受付開始！12月1日(火)まで！]]></title>
-            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_19984.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19984.html</guid>
-            <pubDate>Thu, 01 Oct 2026 08:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/0CPbUAMrf7UPaZoSKZ59O57Rxu1ZeCcz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】「倉本千奈 日々、発見的ステップ！」がスケールフィギュア化決定！]]></title>
-            <description><![CDATA[#学マス ＃学園アイドルマスター]]></description>
-            <link>https://idolmaster-official.jp/news/01_20026.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20026.html</guid>
-            <pubDate>Thu, 01 Oct 2026 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/EfiSYPjNXlEYl44Lq5qq1bqoqvFetK9D.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
