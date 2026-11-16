@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 07:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 20:48:37 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 07:40:21 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 20:48:37 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】ブシロードクリエイティブよりカプセルトイ＆BUSHIROAD THE BOXで「学園アイドルマスター　むぎゅみにコレクションフィギュア vol.3」が登場！]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20363.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20363.html</guid>
+            <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/11/6cfJCIZQCsztq4O2IdBxNtkJOGLoxESL.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】抽選でAmazonギフトカードがその場で当たる！#氷渡香名江ついに実装 プレゼントキャンペーン開催中！]]></title>
             <description><![CDATA[#学マス]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20068.html</guid>
             <pubDate>Sun, 04 Oct 2026 03:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/10/mZr9FP9TTNmu4PtqM1CyNJsD4TpcczM4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[學園偶像大師 LIVE TOUR -標- Final公演 LIVE VIEWING  決定舉辦！]]></title>
-            <description><![CDATA[#学マス #学マス標ツアー_ファイナル公演]]></description>
-            <link>https://idolmaster-official.jp/news/01_20064.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20064.html</guid>
-            <pubDate>Fri, 02 Oct 2026 10:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/XAcyY5fbk4xtcaA7QZhTCJHr34RX6zVw.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
