@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 17:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 07:40:25 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/other.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 17:33:57 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 07:40:25 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【 #ヴイアラ 】【第14回オンライン1on1】限定オンライン1on1のチケット抽選受付開始！ライバーアイドルと2人きりでのオンラインミーティングにぜひご参加ください！]]></title>
+            <description><![CDATA[#ヴイアラ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20383.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20383.html</guid>
+            <pubDate>Mon, 16 Nov 2026 04:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/11/5zSlvJ0m1ZXwTGHPMU7OnVvyZKPhLYSR.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年11月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
             <description><![CDATA[#アイマスch]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19815.html</guid>
             <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/08/CyW2gZOn9PEANpM7DpA6SvZav3nbDPCa.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【 #ヴイアラ 】「バースデー記念ボイス2026 上水流宇宙」BOOTHにて期間限定販売開始！！販売は9/27(日)まで！]]></title>
-            <description><![CDATA[#ヴイアラ]]></description>
-            <link>https://idolmaster-official.jp/news/01_19785.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19785.html</guid>
-            <pubDate>Fri, 04 Sep 2026 11:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/011/2026/09/18Pxu4fYFo1zuk0ghgVNxSVy6svZPaK5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

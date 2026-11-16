@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 17:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 07:40:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 17:33:58 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 07:40:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】Cyber Planet POP UP SHOPの事後通販がスタート！]]></title>
+            <description><![CDATA[#ミリオンライブ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20373.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20373.html</guid>
+            <pubDate>Mon, 16 Nov 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/11/Ym3OY5V6d8hzhBOKvR3smiAXNLMvt1Zm.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【あと4時間！！】CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!!公式グッズ事前販売は本日11/15まで！！]]></title>
             <description><![CDATA[#デレミリ合同ライブ]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20072.html</guid>
             <pubDate>Wed, 07 Oct 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/qFqbO5UYcuPppkhIfMKpnHNXgWQqj8sI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ミリオン】「京都国際マンガ・アニメフェア2026（京まふ）」事後物販POP UP SHOP 詳細情報を公開！]]></title>
-            <description><![CDATA[#ミリオンライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20059.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20059.html</guid>
-            <pubDate>Tue, 06 Oct 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/10/AjdOpLJLGwxoq1Y8rV56o6iuI1lkPyaC.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

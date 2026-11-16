@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Nov 2026 17:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2026 07:40:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 15 Nov 2026 17:33:57 GMT</pubDate>
+        <pubDate>Mon, 16 Nov 2026 07:40:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【学マス】抽選でAmazonギフトカードがその場で当たる！#氷渡香名江ついに実装 プレゼントキャンペーン開催中！]]></title>
+            <description><![CDATA[#学マス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20347.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20347.html</guid>
+            <pubDate>Mon, 16 Nov 2026 05:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1008/2026/11/cLTGqNpiSLCI3WSF22gHxfD7jd29rn0T.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】11/15 (日) 学マス生配信「初星学園HR ～2.5thアニバーサリーSP～」お知らせまとめ]]></title>
             <description><![CDATA[ #学マス #学園アイドルマスター]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20064.html</guid>
             <pubDate>Fri, 02 Oct 2026 10:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/XAcyY5fbk4xtcaA7QZhTCJHr34RX6zVw.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】ゆめぱしー・REVERSI・RippleSignのユニット衣装を着たアイドルたちの"ちびぐるみ"が10月6日と8日より全国のクレーンゲームに順次登場！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20006.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20006.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/0jSV9TOQb1pBU7llNdJ6b7t3n0IGI5Nb.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
