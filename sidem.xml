@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 08:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 19:37:57 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 08:49:54 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 19:37:57 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】12月10日(木)「劇場版 アイドルマスター SideM × 劇場版 アイドリッシュセブン 一夜限りのコラボ上映会！」実施決定！！]]></title>
+            <description><![CDATA[#SideM #劇場版SideMFANFES_WGF #idolmaster #ムビナナ #アイナナ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20385.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20385.html</guid>
+            <pubDate>Tue, 17 Nov 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/11/p6eXeIPIYt6xaVKrHAHVq6VhhwHQQYB6.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【明日まで！】【SideM】バースデー記念グッズ「THE IDOLM@STER SideM 315 Celebration Bouquet」2月にお誕生日を迎えるアイドルたちのバースデー記念グッズの受注は明日11月15日(日)まで！グッズのサンプルをご紹介♪]]></title>
             <description><![CDATA[#SideM #アソビストア]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19873.html</guid>
             <pubDate>Sun, 13 Sep 2026 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/09/OHmBz77jNX9jjyfxfZooqS0JX2FJjCJD.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideMF@NFES】「劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～」！11月20日(金)公開決定！！さらに週替わり映像の上映が決定！(10月13日更新)]]></title>
-            <description><![CDATA[#SideM #劇場版SideMFANFES_WGF]]></description>
-            <link>https://idolmaster-official.jp/news/01_19798.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19798.html</guid>
-            <pubDate>Sun, 13 Sep 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/Jrh8maL3P4xkHks8rYPQAzFWa9sDWA5o.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
