@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 08:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 19:14:36 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 08:13:42 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 19:14:36 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMプロミ2027】プロデューサー参加型企画！プロデューサー業務報告書2027 募集開始！]]></title>
+            <description><![CDATA[#SideM #SideMプロミ2027]]></description>
+            <link>https://idolmaster-official.jp/news/01_20288.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20288.html</guid>
+            <pubDate>Wed, 18 Nov 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/11/natzs6lR6K6HMrRouI1Vu7rDY6MPOtkK.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】2026年11月25日 (水) 19:00～「アイドルマスター SideM　寒さに負けるな！闘志を燃やせ！全力ヒートアップ!!! 生配信」配信予定！]]></title>
             <description><![CDATA[#SideM #SideM生配信]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19801.html</guid>
             <pubDate>Mon, 14 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/hYiWLKQl2NV6TNL5LvhVAOWoU9uK7fXd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM11th】THE IDOLM@STER SideM 11th STAGE ～EVER EVER＠FTER～ DAY2 ご来場&ご視聴いただきありがとうございました！！本日の告知情報とセットリストはこちら！]]></title>
-            <description><![CDATA[#SideM #SideM11th_day2]]></description>
-            <link>https://idolmaster-official.jp/news/01_19806.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19806.html</guid>
-            <pubDate>Sun, 13 Sep 2026 13:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/fONj7bkr9nANslGFM2tEP830judDAgHF.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
