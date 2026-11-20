@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 19:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 08:05:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2026 19:21:13 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 08:05:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】本日11月20日(金)よりアイドルマスター SideM POP UP SHOP『～Who howls at night?～ marche』事後通販開始！🐺🌙]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_20402.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20402.html</guid>
+            <pubDate>Fri, 20 Nov 2026 08:05:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/xKOxMqnhm1C305mKDt6SYGmghUNsHzYo.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】「劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～」公開記念グッズの販売が決定！11月20日(金)10時より受注開始！]]></title>
+            <description><![CDATA[#SideM #劇場版SideMFANFES_WGF #idolmaster]]></description>
+            <link>https://idolmaster-official.jp/news/01_20348.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20348.html</guid>
+            <pubDate>Fri, 20 Nov 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/11/b1WiQCJaRRuzZEIB7gCLvO9BB1rNGqR7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMプロミ2027】プロデューサー参加型企画！プロデューサー業務報告書2027 募集開始！]]></title>
             <description><![CDATA[#SideM #SideMプロミ2027]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19872.html</guid>
             <pubDate>Wed, 16 Sep 2026 03:20:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/09/aa48u6E56tVDYxJUDpbS8pHm2nJMRJqG.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は9月29日(火)20時～ゲスト神原 大地さん！]]></title>
-            <description><![CDATA[#アイマスch #ラジマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19845.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19845.html</guid>
-            <pubDate>Tue, 15 Sep 2026 13:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/CntQHiSL03NihxEzqGdhku36IqsDMLn8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM11th】視聴コメント付きアーカイブ公開！公演アンケートも実施中！]]></title>
-            <description><![CDATA[#SideM #SideM11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19801.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19801.html</guid>
-            <pubDate>Mon, 14 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/hYiWLKQl2NV6TNL5LvhVAOWoU9uK7fXd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

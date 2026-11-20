@@ -4,10 +4,42 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 19:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 08:05:43 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/all.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2026 19:21:13 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 08:05:43 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【シンデレラ】11月27日より「アイドルマスター シンデレラガールズ」とKアリーナとのコラボ企画が実施決定！]]></title>
+            <description><![CDATA[#デレマス #シンデレラ15thPARTY]]></description>
+            <link>https://idolmaster-official.jp/news/01_20404.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20404.html</guid>
+            <pubDate>Fri, 20 Nov 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/11/OYLbJDTyK7p6BZtKe7LK1BkHZCRI1u2c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニマス】『283PRODUCTION POP UP SHOP ～笑顔、その永劫の光～』間もなく開催！]]></title>
+            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20365.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20365.html</guid>
+            <pubDate>Fri, 20 Nov 2026 03:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/11/41KlkRGVvPwxXKp3jISA4wob1LwDIUjJ.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】本日11月20日より「-The Last Order-THE IDOLM@STER CINDERELLA GIRLS ×HUB」が開催！  フォロー＆リポストキャンペーンも実施中！]]></title>
+            <description><![CDATA[#デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20401.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20401.html</guid>
+            <pubDate>Fri, 20 Nov 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/11/Y14rChNXKjTwXZ9nRU7Q91M5zbgyZ74T.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】「劇場版 アイドルマスター SideM F＠NTASTIC BATTLE FES ～Who goes first～」公開記念グッズの販売が決定！11月20日(金)10時より受注開始！]]></title>
+            <description><![CDATA[#SideM #劇場版SideMFANFES_WGF #idolmaster]]></description>
+            <link>https://idolmaster-official.jp/news/01_20348.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20348.html</guid>
+            <pubDate>Fri, 20 Nov 2026 01:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/11/b1WiQCJaRRuzZEIB7gCLvO9BB1rNGqR7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【 #ヴイアラ 】3rdLIVE&MEETINGの公式グッズ事前販売が開始！受注は11/29(日)まで！]]></title>
             <description><![CDATA[【 #ヴイアラ 】3rdLIVE&MEETINGの公式グッズ事前販売が開始！受注は11/29(日)まで！]]></description>
@@ -375,38 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20354.html</guid>
             <pubDate>Fri, 13 Nov 2026 06:15:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/34f3kH4VAof9RbmzbugMdh0jGRtcdTDc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】「SHINY Style COLLECTION」グッズ第3弾の受注がスタート！第3弾は「Fumage」＆「彼岸流」が登場！]]></title>
-            <description><![CDATA[#シャイニーカラーズ #シャニマス #SHINY_Style_COLLECTION]]></description>
-            <link>https://idolmaster-official.jp/news/01_20340.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20340.html</guid>
-            <pubDate>Thu, 12 Nov 2026 06:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/HNXNM6eMjQdFXb56QPaBW4kMZpHUZi3c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」会場物販の実施が決定！！カードフォリオvol.4~6も販売！]]></title>
-            <description><![CDATA[#シンデレラガールズ #デレマス  #シンデレラ15thPARTY]]></description>
-            <link>https://idolmaster-official.jp/news/01_20364.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20364.html</guid>
-            <pubDate>Thu, 12 Nov 2026 03:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/11/vg90VT3b2wYdkiC72rtko789QHIZNYok.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」配信チケットの販売がスタート！現地物販情報も公開♪]]></title>
-            <description><![CDATA[#シンデレラ15thPARTY]]></description>
-            <link>https://idolmaster-official.jp/news/01_20334.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20334.html</guid>
-            <pubDate>Thu, 12 Nov 2026 03:03:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/sE1tBHbnVHo83MExmxMLMBS63FL5MxDu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【REFRAC7IONS】「shiny, the first REFRAC7IONS " Still blue "」会場にてクレーンゲームが楽しめるBANPRESTO TRUCKが登場！]]></title>
-            <description><![CDATA[#シャニマス #シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20338.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20338.html</guid>
-            <pubDate>Thu, 12 Nov 2026 03:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/11/q1bKXmbXXtl6HLnsKG0S8w1oNPo5U6yu.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
