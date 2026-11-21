@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 18:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 08:00:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 18:57:52 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 08:00:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【明日まで！】《SEASONAL SNAPSHOT》星井美希、島原エレナが登場！「バレンタイン」をイメージしたグッズの受注は11/22(日)まで！！]]></title>
+            <description><![CDATA[#ミリオンシーズナル2月]]></description>
+            <link>https://idolmaster-official.jp/news/01_20405.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20405.html</guid>
+            <pubDate>Sat, 21 Nov 2026 03:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/11/kC3x5eRxrUdfeJinx1AZkhq2H3FfeN52.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ミリオン】「THE IDOLM@STER MILLION X-STREAM THEATER」シリーズCD  ドラマパート企画「ラジオ#プレイリスト」のお便り募集！【～11/24まで】]]></title>
             <description><![CDATA[#ミリオンライブ]]></description>
@@ -398,14 +406,6 @@
             <link>https://idolmaster-official.jp/news/01_20130.html</link>
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20130.html</guid>
             <pubDate>Sun, 11 Oct 2026 03:30:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/10/N4nHlWNHVVkhsqFKeqdpoO2HOtVOCdbz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと1日！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」開催記念グッズの受注は10/11(日)まで！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_20129.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20129.html</guid>
-            <pubDate>Sat, 10 Oct 2026 03:35:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/10/N4nHlWNHVVkhsqFKeqdpoO2HOtVOCdbz.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
