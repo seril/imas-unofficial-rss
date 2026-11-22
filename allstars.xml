@@ -4,10 +4,18 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 07:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 18:14:26 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 07:47:24 GMT</pubDate>
+        <pubDate>Sun, 22 Nov 2026 18:14:26 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【765】【シンデレラ】12月12・13日大阪・オリックス劇場にて開催される「xR LIVE REVIVAL」　現地チケット一般先着販売 & リセール受付が本日よりスタート！！]]></title>
+            <description><![CDATA[#アイマスxR_REVIVAL #はんげつ_REVIVAL #トイボ公演_もういっかい]]></description>
+            <link>https://idolmaster-official.jp/news/01_20420.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20420.html</guid>
+            <pubDate>Sun, 22 Nov 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/11/CjNgwq0C3sVsPOFpIL6mbgWwmoVKwBI3.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】【シンデレラ】12月12・13日大阪・オリックス劇場にて開催される「xR LIVE REVIVAL」　現地チケット一般先着販売 & リセール受付のお知らせ]]></title>
             <description><![CDATA[#アイマスxR_REVIVAL #はんげつ_REVIVAL #トイボ公演_もういっかい]]></description>
@@ -399,14 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19698.html</guid>
             <pubDate>Fri, 28 Aug 2026 12:45:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/DbGbNP5XkaLCZqAXHBa1vffQ34YHNkW1.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】dual twin live tour  双海 亜美･双海 真美 twin live “ふたごぼしのつばさ” / 三浦 あずさ･秋月 律子 twin live “つみまつよるまち” 開催記念グッズ販売]]></title>
-            <description><![CDATA[#dualtwinlive_765 #双海亜美_双海真美_twinlive #三浦あずさ_秋月律子_twinlive]]></description>
-            <link>https://idolmaster-official.jp/news/01_19722.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19722.html</guid>
-            <pubDate>Fri, 28 Aug 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/08/KPIktmlTMO69jykivv7pCBJ3oFjW4HkU.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
