@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 22:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 10:41:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 22:27:25 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 10:41:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【偶像大師系列】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』確定舉辦！]]></title>
+            <description><![CDATA[【偶像大師系列】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』確定舉辦！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20411.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20411.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/At5qZfkUtu6lFgAmAQ5PszsotVCuSPjI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』開催決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』開催決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20408.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20408.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/At5qZfkUtu6lFgAmAQ5PszsotVCuSPjI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【本日まで!!】《SEASONAL SNAPSHOT》星井美希、島原エレナが登場！「バレンタイン」をイメージしたグッズの受注は本日11/22(日)まで！！]]></title>
             <description><![CDATA[#ミリオンシーズナル2月]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20142.html</guid>
             <pubDate>Tue, 13 Oct 2026 12:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/vv4gc1FxgUlK4xaJAfEtdzvFIbVzuf82.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【あと6時間！】「THE IDOLM@STER MILLION LIVE! 14thLIVE」開催記念グッズの受注は本日10/11(日)まで！]]></title>
-            <description><![CDATA[#ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_20131.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20131.html</guid>
-            <pubDate>Sun, 11 Oct 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/10/N4nHlWNHVVkhsqFKeqdpoO2HOtVOCdbz.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【明日まで！】【ミリオン】🦋ミリシタ9周年の描き下ろしビジュアルがONLY MAKER by ASOBI STOREに登場中♡あなただけのオリジナルグッズをプロデュースしよう！受注は10月12日(月・祝)まで！]]></title>
-            <description><![CDATA[#ミリオンライブ #ミリオン14th]]></description>
-            <link>https://idolmaster-official.jp/news/01_20113.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20113.html</guid>
-            <pubDate>Sun, 11 Oct 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/09/UsNsbqf885cTaYA4sMVxm5Xk31Q2ToPZ.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

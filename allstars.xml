@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 22:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 10:41:21 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/allstars.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 22:27:25 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 10:41:21 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【偶像大師系列】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』確定舉辦！]]></title>
+            <description><![CDATA[【偶像大師系列】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』確定舉辦！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20411.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20411.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/At5qZfkUtu6lFgAmAQ5PszsotVCuSPjI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』開催決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』開催決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20408.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20408.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/At5qZfkUtu6lFgAmAQ5PszsotVCuSPjI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【765】【シンデレラ】12月12・13日大阪・オリックス劇場にて開催される「xR LIVE REVIVAL」　現地チケット一般先着販売 & リセール受付が本日よりスタート！！]]></title>
             <description><![CDATA[#アイマスxR_REVIVAL #はんげつ_REVIVAL #トイボ公演_もういっかい]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19742.html</guid>
             <pubDate>Sat, 29 Aug 2026 01:30:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/08/haN6YLASHhiKEAF4jOhzBmBEfYzMaRsd.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】ラジオ新番組「IM＠S RADIO」放送開始決定！【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #ラジマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19721.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19721.html</guid>
-            <pubDate>Fri, 28 Aug 2026 13:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/018/2026/08/WpmGEIdAAV0oE29uoMoE9BzKNoMf6TDV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【765】dual twin live tour 『三浦 あずさ・秋月 律子 twin live “ つみまつよるまち ”』＜東京公演＞ のご来場・ご視聴ありがとうございました！本日のセットリスト＆告知情報まとめはこちら！ ]]></title>
-            <description><![CDATA[#三浦あずさ_秋月律子_twinlive #つみまつ_東京]]></description>
-            <link>https://idolmaster-official.jp/news/01_19698.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19698.html</guid>
-            <pubDate>Fri, 28 Aug 2026 12:45:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/010/2026/08/DbGbNP5XkaLCZqAXHBa1vffQ34YHNkW1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

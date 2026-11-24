@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 22:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 10:41:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 22:27:25 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 10:41:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【偶像大師系列】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』確定舉辦！]]></title>
+            <description><![CDATA[【偶像大師系列】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』確定舉辦！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20411.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20411.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/At5qZfkUtu6lFgAmAQ5PszsotVCuSPjI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』開催決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』開催決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20408.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20408.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/At5qZfkUtu6lFgAmAQ5PszsotVCuSPjI.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】「315 MODE」vol.2 SPRINGのグッズが登場！11/24(火)より受注受付スタート！]]></title>
             <description><![CDATA[#SideM #アソビストア]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19690.html</guid>
             <pubDate>Fri, 18 Sep 2026 09:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/Yx0QvJ297PSrZkIaBbqESdf0TUnKHnfS.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【YouTube】【SideM】【TOYOTA ARENA TOKYO】11th STAGEのライブ会場ができるまで 【タイムラプス】 公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch #SideM11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19825.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19825.html</guid>
-            <pubDate>Thu, 17 Sep 2026 10:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/77HTL0B6kvh4Tp2v51jXphxzh4zL0xJv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM11th】配信視聴チケットご購入者限定！キャスト生出演オーディオコメンタリー付き同時視聴上映会は今週9/19(土)、20(日)開催！]]></title>
-            <description><![CDATA[#SideM #SideM11th]]></description>
-            <link>https://idolmaster-official.jp/news/01_19904.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19904.html</guid>
-            <pubDate>Thu, 17 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/7f9euJdyMOYPhbHSzqSSSIji6ltJHRbd.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

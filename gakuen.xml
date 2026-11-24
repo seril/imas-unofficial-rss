@@ -4,10 +4,34 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 23 Nov 2026 22:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2026 10:41:20 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/gakuen.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 23 Nov 2026 22:27:25 GMT</pubDate>
+        <pubDate>Tue, 24 Nov 2026 10:41:20 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【偶像大師系列】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』確定舉辦！]]></title>
+            <description><![CDATA[【偶像大師系列】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』確定舉辦！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20411.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20411.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:02:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/At5qZfkUtu6lFgAmAQ5PszsotVCuSPjI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【アイドルマスターシリーズ】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』開催決定！]]></title>
+            <description><![CDATA[【アイドルマスターシリーズ】『THE IDOLM@STER Series POP-UP STORE in TAIPEI 2027 寶島紀行』開催決定！]]></description>
+            <link>https://idolmaster-official.jp/news/01_20408.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20408.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:01:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/At5qZfkUtu6lFgAmAQ5PszsotVCuSPjI.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【学マス】「学園アイドルマスター×ROUND1 vol.2」 詳細公開！コラボグッズやメニュー、各種キャンペーンなど盛りだくさん✨【12/1(火) スタート！】]]></title>
+            <description><![CDATA[#学マス #学園アイドルマスター]]></description>
+            <link>https://idolmaster-official.jp/news/01_20403.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20403.html</guid>
+            <pubDate>Tue, 24 Nov 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/UfSMZWuNqjWgoXSt7z46bNPfo14yZmYi.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【学マス】ブシロードクリエイティブよりカプセルトイ＆BUSHIROAD THE BOXで「学園アイドルマスター　むぎゅみにコレクションフィギュア vol.3」が登場！]]></title>
             <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
@@ -383,30 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20007.html</guid>
             <pubDate>Mon, 05 Oct 2026 02:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/uBk2pwY4bAHOPDBvVl7EAa2hRBgrtoEZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】東京都町田市のロコ「ふたマス!!!!!!」グッズセット　ふるさと納税返礼品＜2026年分＞がスタート🕊💛]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_20051.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20051.html</guid>
-            <pubDate>Mon, 05 Oct 2026 01:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/10/hLqkgNqr6LKAvZ9LLCwtHyj7baMAcCJ5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【学マス】HobbyChatonより「篠澤 広 仮装狂騒曲ver.」「藤田ことね 枝毛をくるりver.」のフィギュア商品化が決定！原型も公開！]]></title>
-            <description><![CDATA[#学マス #学園アイドルマスター ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20025.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20025.html</guid>
-            <pubDate>Mon, 05 Oct 2026 01:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/09/2AFH0AqHKxeXBaWuBdaI5qUglkqsjrMV.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【本日まで】‎ 雨夜 燕2nd Single ＆ 3rd Single ASOBI STOREでのご予約は本日まで！]]></title>
-            <description><![CDATA[#学マス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20068.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20068.html</guid>
-            <pubDate>Sun, 04 Oct 2026 03:15:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/012/2026/10/mZr9FP9TTNmu4PtqM1CyNJsD4TpcczM4.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
