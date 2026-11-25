@@ -4,10 +4,50 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 09:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Nov 2026 20:22:29 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 09:34:56 GMT</pubDate>
+        <pubDate>Wed, 25 Nov 2026 20:22:29 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM　寒さに負けるな！闘志を燃やせ！全力ヒートアップ!!! 生配信」告知まとめ]]></title>
+            <description><![CDATA[#SideM #SideM生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_20239.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20239.html</guid>
+            <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/008/2026/11/oVcLJtI4qczGwRSnpEuIcalzBT3s7zqV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM衣装展】「歴代ナンバリングライブ衣装 アナザーバージョン」を身にまとったアイドルたちの等身大パネルの発売が決定！本日より受注スタート！]]></title>
+            <description><![CDATA[#SideM #SideM衣装展 #アソビストア]]></description>
+            <link>https://idolmaster-official.jp/news/01_19802.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19802.html</guid>
+            <pubDate>Wed, 25 Nov 2026 11:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/11/UM8cgZ3bVOVUdiKXmF83dBnUnJluugaB.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMプロミ2027】追加出演者発表！！＜プロデューサー参加型企画＞「パッション爆裂！楽曲シャッフル大作戦！プロミ2027版」実施決定&イベント公式グッズ事前販売受注スタート！]]></title>
+            <description><![CDATA[#SideM #SideMプロミ2027]]></description>
+            <link>https://idolmaster-official.jp/news/01_20428.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20428.html</guid>
+            <pubDate>Wed, 25 Nov 2026 11:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1006/2026/11/ACVCzsOZSwGOsgSe7uaRR051n9zWBcvV.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideMF@NFES】 ～Wanna step in～  長野公演に「冬馬のバターチキンカレーパン出張販売所」出店決定！！]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
+            <link>https://idolmaster-official.jp/news/01_20438.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20438.html</guid>
+            <pubDate>Wed, 25 Nov 2026 10:40:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/11/hfh9Y94XCfd1KiBd8cEn64juKBxfGKJA.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】「アイドルマスター SideM　寒さに負けるな！闘志を燃やせ！全力ヒートアップ!!! 生配信」開催記念！出演キャストのサイン入り色紙プレゼント！ #SideM生配信 でポスト！]]></title>
+            <description><![CDATA[#SideM #SideM生配信]]></description>
+            <link>https://idolmaster-official.jp/news/01_20253.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20253.html</guid>
+            <pubDate>Wed, 25 Nov 2026 10:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/11/cCDOMpvhc3aVwWLStdRivHCJR5wi1r6i.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideMF@NFES】～Wanna step in～ 長野公演 本日より配信チケット販売開始！！ストーリーとのお得なセットや定点カメラ映像も登場！]]></title>
             <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
@@ -367,46 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20039.html</guid>
             <pubDate>Fri, 02 Oct 2026 03:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/09/Q4JbAMZtxSDfSi61sNcSnX6Tyj9hbquA.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】群馬県吾妻地域とのコラボイベント「あがつまニンニン！忍びの里めぐり ～315に彩なす吾妻紀行～」詳細解禁！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_20047.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20047.html</guid>
-            <pubDate>Thu, 01 Oct 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/10/r2NIziys2gfkXmPhp6vtJz1m5nY4udi6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【生配信】「IM＠S RADIO」次回放送は10月13日(火)20時～ スタマス5周年特番 ゲスト山崎 はるかさん、田中 あいみさん！]]></title>
-            <description><![CDATA[#アイマスch #ラジマス #スタマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_19986.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19986.html</guid>
-            <pubDate>Tue, 29 Sep 2026 12:25:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/09/6jDalwr8rFASCzoVb1lO9hXHMTDXZZpY.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】明日締切！「315 MODE」vol.1 SPRING 公式グッズの受注は9/30(水)まで！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_20008.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20008.html</guid>
-            <pubDate>Tue, 29 Sep 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/QMtlOaR43QIxQmWi5kqwQ1HaudiHjsvl.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[※本日締め切り！※【SideMF@NFES】 ～Wanna step in～イベント公式グッズ 事前販売は本日締め切り！一部アイテムのサンプル画像も公開中！]]></title>
-            <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
-            <link>https://idolmaster-official.jp/news/01_20017.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20017.html</guid>
-            <pubDate>Sun, 27 Sep 2026 04:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1004/2026/09/JLJpBGK6DfHSMFlVfUxWz2FuCJXfRaDZ.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[明日締め切り！ 【SideM】CONNECT WITH MUSIC！ TRANSCENDENT T@LES 公式グッズ 第4弾の受注は9/27(日)まで！！]]></title>
-            <description><![CDATA[#SideM #アソビストア]]></description>
-            <link>https://idolmaster-official.jp/news/01_19851.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_19851.html</guid>
-            <pubDate>Sat, 26 Sep 2026 08:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/RWfQB4n258gcjXxrP9U9mQ16wQ17hjEg.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
