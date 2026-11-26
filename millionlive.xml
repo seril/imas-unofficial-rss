@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 20:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 09:11:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/millionlive.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 20:22:23 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 09:11:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【ミリオン】コトブキヤ秋葉原館にて「MILLIONSTARS 2026⇒2027 大忘年会×新年会 in KOTOBUKIY@」開催決定‼✨]]></title>
+            <description><![CDATA[【ミリオン】コトブキヤ秋葉原館にて「MILLIONSTARS 2026⇒2027 大忘年会×新年会 in KOTOBUKIY@」開催決定‼✨]]></description>
+            <link>https://idolmaster-official.jp/news/01_20447.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20447.html</guid>
+            <pubDate>Thu, 26 Nov 2026 08:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/023/2026/11/GE8XODyrcDm85Ug0uLieIc2WGtEW1LOk.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【デレミリ合同】CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!! 公式グッズ事前二次販売＆オリジナルのぼりプロデュース権の購入エントリーがスタート！カードフォリオ「CLASH M@TCH!! プレミアムパック」も発売決定！]]></title>
+            <description><![CDATA[#デレミリ合同ライブ #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20442.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20442.html</guid>
+            <pubDate>Thu, 26 Nov 2026 06:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/F6lzMmfONGT2KEBV6RRMEWUnB5KuB0MX.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は12月8日(火)20時～ ゲストは11月29日発表予定！]]></title>
             <description><![CDATA[#アイマスch #ラジマス ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20145.html</guid>
             <pubDate>Fri, 16 Oct 2026 08:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/10/6HDIv5ncd12cMlbvY4V74xxBsqUWuevM.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【YouTube】「【ラジオ】冒頭15分は誰でも聞ける！2026年10月メンバー限定配信」配信ページ公開のお知らせ【アイドルマスターチャンネル】]]></title>
-            <description><![CDATA[#アイマスch]]></description>
-            <link>https://idolmaster-official.jp/news/01_20103.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20103.html</guid>
-            <pubDate>Thu, 15 Oct 2026 09:10:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/wMEKP2rbGbCKA3Hqy8NGQlRElp6Gt0hC.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【生配信】「IM＠S RADIO」次回放送は10月27日(火)20時～ ゲスト長谷川 明子さん！]]></title>
-            <description><![CDATA[#アイマスch #ラジマス ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20101.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20101.html</guid>
-            <pubDate>Wed, 14 Oct 2026 02:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/8GC9vV4y71PPsYSA1PSy127DE5HeF6YB.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 20:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 09:11:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/shinycolors.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 20:22:23 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 09:11:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【283_noctchill】「283 Production LIVE Performance noctchill」公式グッズ事前販売が本日よりスタート！アンケート企画 「4人の”いちばん”大調査！~ノクチルなんでもランキング~」の回答も受付中！！]]></title>
+            <description><![CDATA[#ノクチル_さよなら透明]]></description>
+            <link>https://idolmaster-official.jp/news/01_20450.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20450.html</guid>
+            <pubDate>Thu, 26 Nov 2026 09:10:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/11/iETj0D7Dbc9eqQ1ujElf5hNrSlciSNIL.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シャニラジHBTK】【初星学園放送部】「ASOBI CHANNEL」サービス終了に伴う番組アーカイブの取り扱いについて]]></title>
+            <description><![CDATA[【シャニラジHBTK】【初星学園放送部】「ASOBI CHANNEL」サービス終了に伴う番組アーカイブの取り扱いについて]]></description>
+            <link>https://idolmaster-official.jp/news/01_20431.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20431.html</guid>
+            <pubDate>Thu, 26 Nov 2026 07:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/system/news_img.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【ラジオ】「IM＠S RADIO」次回放送は12月8日(火)20時～ ゲストは11月29日発表予定！]]></title>
             <description><![CDATA[#アイマスch #ラジマス ]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20036.html</guid>
             <pubDate>Fri, 02 Oct 2026 02:01:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/10/xIQru9wUKpwZme6paZHETkJvLdb6W7aI.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【スタマス】スタマス5周年記念！心白・亜夜へのメッセージ大募集！]]></title>
-            <description><![CDATA[#スタマス5周年]]></description>
-            <link>https://idolmaster-official.jp/news/01_20009.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20009.html</guid>
-            <pubDate>Fri, 02 Oct 2026 02:02:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/013/2026/09/SsXrs0VKZIC60lbLogYzwE2s8G6Nw06I.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シャニマス】FAMくじにて「アイドルマスター シャイニーカラーズ」vol.2 が登場！]]></title>
-            <description><![CDATA[＃シャニマス　＃シャイニーカラーズ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20040.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20040.html</guid>
-            <pubDate>Thu, 01 Oct 2026 06:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/10/RMJZ364ukIrbB6pWSj2iCBRnDBB8LvhW.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

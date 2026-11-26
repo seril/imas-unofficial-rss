@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 25 Nov 2026 20:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Nov 2026 09:11:11 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 25 Nov 2026 20:22:29 GMT</pubDate>
+        <pubDate>Thu, 26 Nov 2026 09:11:11 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレミリ合同】CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!! 公式グッズ事前二次販売＆オリジナルのぼりプロデュース権の購入エントリーがスタート！カードフォリオ「CLASH M@TCH!! プレミアムパック」も発売決定！]]></title>
+            <description><![CDATA[#デレミリ合同ライブ #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20442.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20442.html</guid>
+            <pubDate>Thu, 26 Nov 2026 06:30:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/F6lzMmfONGT2KEBV6RRMEWUnB5KuB0MX.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】＼11月27日(金)15:00から受付開始／『アイドルマスター シンデレラガールズ』新規録り下ろしボイス搭載ワイヤレスイヤホン再受注決定！！]]></title>
+            <description><![CDATA[#imas_cg #デレマス]]></description>
+            <link>https://idolmaster-official.jp/news/01_20449.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20449.html</guid>
+            <pubDate>Thu, 26 Nov 2026 03:03:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/11/nSoB2YKRKu8nMPmHT1UwOm6grSAzhELG.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ～ for your ONE ～」を記念したオリジナルラベル缶の全国販売が決定！]]></title>
             <description><![CDATA[#デレマス #シンデレラ15thPARTY]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20171.html</guid>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/By59yfLXivLMvqjog2AgfAdfvixyycxp.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレミリ合同ライブ】「THE IDOLM@STER CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!!」第2回は「よしちづラジオ」♪アイドルへのおたよりを募集中！第1回「フレあかラジオ」の配信日情報も公開！]]></title>
-            <description><![CDATA[#デレミリ合同ライブ #フレあかラジオ #よしちづラジオ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20223.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20223.html</guid>
-            <pubDate>Fri, 30 Oct 2026 11:20:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/IemT25uDUmFGGWJDOKpQgfqfyWckg6AU.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【シンデレラ】世界遺産「飛鳥・藤原の宮都」×「アイドルマスター シンデレラガールズ」開催決定！]]></title>
-            <description><![CDATA[#デレマス #飛鳥藤原の宮都 #世界遺産]]></description>
-            <link>https://idolmaster-official.jp/news/01_20226.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20226.html</guid>
-            <pubDate>Fri, 30 Oct 2026 09:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/10/lModMSTXQkbKmdXqc7z3W4AheLHG0gQ1.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
