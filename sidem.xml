@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 19:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 09:26:51 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/sidem.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Nov 2026 19:59:22 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 09:26:51 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【SideMF@NFES】～Wanna step in～ 会場物販情報公開＆開催記念グッズ販売決定!!さらに長野県のご当地食品コラボ情報も解禁‼]]></title>
+            <description><![CDATA[#SideM #SideMFANFES_WSI]]></description>
+            <link>https://idolmaster-official.jp/news/01_20346.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20346.html</guid>
+            <pubDate>Fri, 27 Nov 2026 09:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/009/2026/11/uu4NLkjKoLz1qv0ZAeqyPQhFFLZmzF78.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【SideM】pattythreeより「アイドルマスター SideM」の一緒に暮らすぬいが登場！]]></title>
+            <description><![CDATA[#SideM]]></description>
+            <link>https://idolmaster-official.jp/news/01_20424.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20424.html</guid>
+            <pubDate>Fri, 27 Nov 2026 06:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/11/WYteLnQojCX1nNTqMKrGD1qrCcYN0waE.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【SideM】全アイドルがほわぬいになって2026年11月28日(土)よりクレーンゲームに登場予定！]]></title>
             <description><![CDATA[#SideM]]></description>
@@ -391,22 +407,6 @@
             <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20092.html</guid>
             <pubDate>Thu, 08 Oct 2026 05:00:00 GMT</pubDate>
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/10/xsPsI4xSVF9D72DqW82MOk0QaZlUCqej.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【SideM】「THE IDOLM@STER SideM × DAIMARU MATSUZAKAYA」ポップアップショップが大丸東京店・大丸梅田店にて開催！]]></title>
-            <description><![CDATA[#SideM]]></description>
-            <link>https://idolmaster-official.jp/news/01_20080.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20080.html</guid>
-            <pubDate>Wed, 07 Oct 2026 08:01:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/1002/2026/10/AGBGq0bxI0001wYCKVjm7j87aFfAVrVi.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【アイマス20周年イヤー】東京都町田市のロコ「ふたマス!!!!!!」グッズセット　ふるさと納税返礼品＜2026年分＞がスタート🕊💛]]></title>
-            <description><![CDATA[#アイマス20周年イヤー #ふたマス]]></description>
-            <link>https://idolmaster-official.jp/news/01_20051.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20051.html</guid>
-            <pubDate>Mon, 05 Oct 2026 01:05:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/017/2026/10/hLqkgNqr6LKAvZ9LLCwtHyj7baMAcCJ5.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,10 +4,26 @@
         <description><![CDATA[アイマスポータルのニュースをRSSで提供している非公式サイトです。]]></description>
         <link>https://idolmaster-official.jp/news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 26 Nov 2026 19:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Nov 2026 09:26:52 GMT</lastBuildDate>
         <atom:link href="https://raw.githubusercontent.com/ogatomo21/idolmaster-unofficial-rss/refs/heads/rss/cinderellagirls.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 Nov 2026 19:59:22 GMT</pubDate>
+        <pubDate>Fri, 27 Nov 2026 09:26:52 GMT</pubDate>
         <language><![CDATA[ja]]></language>
+        <item>
+            <title><![CDATA[【デレミリ合同】CLASH M@TCH!! 現地チケットのアソビストア一般会員2次先行が本日よりスタート！公式グッズの受注やオリジナルのぼりプロデュース権もエントリー受付中♪]]></title>
+            <description><![CDATA[#デレミリ合同ライブ #カードフォリオ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20448.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20448.html</guid>
+            <pubDate>Fri, 27 Nov 2026 03:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/11/9LzTjak1gcEyPfuSSwwukZeofV9W2B0r.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[【シンデレラ】セガ ラッキーくじ「アイドルマスター シンデレラガールズ Vol.2クール」オンライン販売開始！]]></title>
+            <description><![CDATA[#デレマス ]]></description>
+            <link>https://idolmaster-official.jp/news/01_20457.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20457.html</guid>
+            <pubDate>Fri, 27 Nov 2026 02:00:00 GMT</pubDate>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/019/2026/11/yB7uSUT7OmM2vObSgqrTD7KcmhUaSWMZ.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[【シンデレラ】いよいよ今週末！「THE IDOLM@STER CINDERELLA GIRLS 15th ANNIVERSARY PARTY!!!! ~ for your ONE ~」開催！イベントに向けて最終チェック♪当日ハッシュタグもご案内！！]]></title>
             <description><![CDATA[#シンデレラ15thPARTY]]></description>
@@ -385,28 +401,12 @@
             <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/002/2026/10/mRd1IaDUFeLIhsKkFiv0bqfaGY0enPvo.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[【デレミリ合同】CINDERELLA GIRLS × MILLION LIVE! CLASH M@TCH!!公式グッズ事前販売が開始！2ブランドのアイドル応援必須アイテム♪]]></title>
-            <description><![CDATA[#デレミリ合同ライブ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20227.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20227.html</guid>
+            <title><![CDATA[【シンデレラ】グッズシリーズ「Memory Pict.」第8弾:｡･:*  本日より8th Pict.（神崎蘭子・的場梨沙）が受注開始です！]]></title>
+            <description><![CDATA[#メモピク #デレマス #imas_cg]]></description>
+            <link>https://idolmaster-official.jp/news/01_20171.html</link>
+            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20171.html</guid>
             <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/007/2026/10/AmkcEHB1BBhusARmTG3p5Md8BTUSvAcv.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ 【シンデレラ】『THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE』Blu-rayの受注がスタート！！アソビストア版のご予約は12月20日(日)まで！]]></title>
-            <description><![CDATA[#デレステ10thツアー #デレマス #デレステ]]></description>
-            <link>https://idolmaster-official.jp/news/01_20245.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20245.html</guid>
-            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/okvhG5my3uaFqMYnROdTXB7DHoYqK1Qu.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[【デレミリ合同ライブ】生配信『デレミリ合同ライブ「CLASH M@TCH!!」開催記念！ウォームアップ生配信』お知らせまとめ]]></title>
-            <description><![CDATA[#デレミリ合同ライブ #デレミリ合同ライブ生配信]]></description>
-            <link>https://idolmaster-official.jp/news/01_20183.html</link>
-            <guid isPermaLink="true">https://idolmaster-official.jp/news/01_20183.html</guid>
-            <pubDate>Fri, 30 Oct 2026 12:00:00 GMT</pubDate>
-            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/015/2026/10/AoV6aakrGmIDUpGv8LtROqSWvme6FQEC.jpeg" length="0" type="image/jpeg"/>
+            <enclosure url="https://cmsapi-frontend.idolmaster-official.jp/sitern/api/idolmaster/Image/get?path=/idolmaster/jp/article/021/2026/10/By59yfLXivLMvqjog2AgfAdfvixyycxp.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
